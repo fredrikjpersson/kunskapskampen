@@ -15,6 +15,8 @@ COPY --from=build /app/node_modules ./node_modules
 COPY package.json ./
 COPY server ./server
 COPY public ./public
+RUN mkdir -p /data && chown node:node /data
+VOLUME /data
 EXPOSE 8080
 USER node
 CMD ["node", "server/index.js"]
