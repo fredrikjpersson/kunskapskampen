@@ -12,21 +12,26 @@
     <!-- SETUP-SKÄRM -->
     <section id="setup">
       <h1 class="logo">Kunskaps<span>kampen</span></h1>
-      <p class="tagline">Frågesport för 2–5 spelare – först till 20 poäng vinner!</p>
+      <p class="tagline" id="tagline">Frågesport för 2–4 spelare – först till 20 poäng vinner!</p>
 
       <div class="setup-block">
         <h2>Antal spelare</h2>
         <div id="playerCountBtns" class="count-btns"></div>
       </div>
 
-      <div class="setup-block">
+      <div class="setup-block" id="nameBlock">
         <h2>Spelarnamn</h2>
         <div id="nameInputs"></div>
       </div>
 
-      <div class="setup-block">
+      <div class="setup-block" id="diffBlock">
         <h2>Svårighetsgrad</h2>
         <div id="diffBtns" class="diff-btns"></div>
+      </div>
+
+      <div class="setup-block" id="targetBlock">
+        <h2>Spela till (poäng)</h2>
+        <div id="targetBtns" class="count-btns"></div>
       </div>
 
       <button id="startBtn" class="btn-primary" disabled>Starta Kunskapskampen</button>
@@ -37,6 +42,7 @@
       <div id="hud">
         <div id="roundInfo">Omgång 1</div>
         <div id="gameDiff"></div>
+        <button id="pauseBtn" class="hidden">Paus</button>
       </div>
 
       <!-- Spelarpaneler genereras dynamiskt -->
@@ -49,15 +55,39 @@
         <div id="bannerSub"></div>
       </div>
 
+      <!-- Kategorihjul -->
+      <div id="wheelOverlay" class="hidden">
+        <div id="wheelKicker"></div>
+        <div id="wheelWrap">
+          <div id="wheelPointer"></div>
+          <canvas id="wheelCanvas" width="700" height="700"></canvas>
+        </div>
+        <div id="wheelLand" class="hidden"></div>
+        <div id="wheelSub"></div>
+      </div>
+
       <!-- Frågeområdet -->
       <div id="qarea" class="hidden">
+        <div id="timer" class="hidden">
+          <div id="timerPendulum">
+            <div id="timerArm"><div id="timerBob"></div></div>
+            <div id="timerTop"></div>
+          </div>
+          <div id="timerDial">
+            <svg viewBox="0 0 120 120">
+              <circle class="t-bg" cx="60" cy="60" r="52"></circle>
+              <circle id="tRing" cx="60" cy="60" r="52"></circle>
+            </svg>
+            <div id="timerSecs"></div>
+          </div>
+        </div>
         <div id="qTurn"></div>
         <div id="qBox">
           <div id="qCat"></div>
           <div id="qText"></div>
         </div>
         <div id="options"></div>
-        <div id="hint">Välj svar med mus eller tangent 1 / 2 / 3</div>
+        <div id="hint">Välj svar med mus eller tangent 1 / 2 / 3 – pausa eller avbryt med P</div>
       </div>
 
       <!-- Vinnarskärm -->
@@ -66,7 +96,28 @@
           <div id="overlayKicker"></div>
           <h1 id="overlayTitle"></h1>
           <div id="finalScores"></div>
-          <button id="againBtn" class="btn-primary">Spela igen</button>
+          <div id="overlayBtns">
+            <button id="againBtn" class="btn-primary">Spela igen</button>
+            <button id="menuBtn" class="btn-secondary">Till menyn</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Paus-overlay -->
+      <div id="pauseOverlay" class="hidden">
+        <div id="pauseCard">
+          <h1 id="pauseTitle">PAUS</h1>
+          <div id="pauseBtns">
+            <button id="resumeBtn" class="btn-primary">Fortsätt</button>
+            <button id="quitBtn" class="btn-danger">Avbryt &amp; till menyn</button>
+          </div>
+          <div id="quitConfirm" class="hidden">
+            <p>Är du säker? Spelet avbryts och poängen försvinner.</p>
+            <div id="quitBtns">
+              <button id="quitYesBtn" class="btn-danger">Ja, avbryt spelet</button>
+              <button id="quitNoBtn" class="btn-secondary">Nej, fortsätt spela</button>
+            </div>
+          </div>
         </div>
       </div>
     </section>

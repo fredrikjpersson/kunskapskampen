@@ -53,5 +53,16 @@ const KKAudio = (() => {
     tone({ freq: 880, type: 'sine', dur: 0.08, vol: 0.12 });
   }
 
-  return { correct, wrong, fanfare, tick, unlock: ac };
+  /* Pendelklocks-tick/tock – omväxlande träaktiga klick */
+  function pendulumTick(hi) {
+    tone({ freq: hi ? 1150 : 830, type: 'square', dur: 0.028, vol: 0.085 });
+    tone({ freq: hi ? 1750 : 1270, type: 'sine', dur: 0.045, vol: 0.05 });
+  }
+
+  /* Oroligt tick för de sista sekunderna */
+  function urgentTick(hi) {
+    tone({ freq: hi ? 1560 : 1180, type: 'square', dur: 0.04, vol: 0.13 });
+  }
+
+  return { correct, wrong, fanfare, tick, pendulumTick, urgentTick, unlock: ac };
 })();
