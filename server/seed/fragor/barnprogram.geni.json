@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Vilket år hade 'Fem myror är fler än fyra elefanter' TV-premiär?",
+    "a": "1973",
+    "w1": "1969",
+    "w2": "1971",
+    "w3": "1975",
+    "w4": "1977",
+    "w5": "1979"
+  },
+  {
+    "q": "I 'Ronja Rövardotter' – vad heter rövarbandet som är Mattiss rival?",
+    "a": "Borkarövarna",
+    "w1": "Vargrövarna",
+    "w2": "Stenrövarna",
+    "w3": "Kråkrövarna",
+    "w4": "Grårövarna",
+    "w5": "Bergarövarna"
+  },
+  {
+    "q": "I 'Emil i Lönneberga' – vad heter Emils pappa?",
+    "a": "Anton",
+    "w1": "Alfred",
+    "w2": "Axel",
+    "w3": "Noel",
+    "w4": "Petter",
+    "w5": "Jonas"
+  },
+  {
+    "q": "Vilket år debuterade Bamse som seriefigur, tecknad av Rune Andréasson?",
+    "a": "1966",
+    "w1": "1959",
+    "w2": "1961",
+    "w3": "1963",
+    "w4": "1969",
+    "w5": "1972"
+  },
+  {
+    "q": "I 'Vi på Saltkråkan' – vad heter familjen som flyttar ut till ön?",
+    "a": "Melkersson",
+    "w1": "Skoglund",
+    "w2": "Lindberg",
+    "w3": "Grankvist",
+    "w4": "Sjöberg",
+    "w5": "Kruke"
+  },
+  {
+    "q": "Från vilket land kommer Mumin-trollen?",
+    "a": "Finland",
+    "w1": "Sverige",
+    "w2": "Norge",
+    "w3": "Danmark",
+    "w4": "Island",
+    "w5": "Estland"
+  },
+  {
+    "q": "I 'Bröderna Lejonhjärta' – vad heter ledaren för motståndsrörelsen i Törnrosdalen?",
+    "a": "Orvar",
+    "w1": "Hubert",
+    "w2": "Sofia",
+    "w3": "Mattias",
+    "w4": "Jossi",
+    "w5": "Veder-Tag"
+  },
+  {
+    "q": "I 'Pippi Långstrump' – vad heter Pippis pappa?",
+    "a": "Kapten Efraim Långstrump",
+    "w1": "Kapten Viktor Långstrump",
+    "w2": "Kapten Korv Långstrump",
+    "w3": "Kapten Kling Långstrump",
+    "w4": "Kapten Erik Långstrump",
+    "w5": "Kapten Klosure Långstrump"
+  },
+  {
+    "q": "Vilken svensk barnboksförfattare skapade både 'Madicken' och 'Emil'?",
+    "a": "Astrid Lindgren",
+    "w1": "Tove Jansson",
+    "w2": "Maria Gripe",
+    "w3": "Sven Nordqvist",
+    "w4": "Gunilla Bergström",
+    "w5": "Elsa Beskow"
+  },
+  {
+    "q": "Vem skrev böckerna om katten Pelle Svanslös?",
+    "a": "Gösta Knutsson",
+    "w1": "Astrid Lindgren",
+    "w2": "Rune Andréasson",
+    "w3": "Sven Nordqvist",
+    "w4": "Elsa Beskow",
+    "w5": "Tove Jansson"
+  },
+  {
+    "q": "I 'Vi på Saltkråkan' – vad heter Tjorvens hund?",
+    "a": "Båtsman",
+    "w1": "Buster",
+    "w2": "Rufus",
+    "w3": "Jeppe",
+    "w4": "Fido",
+    "w5": "Karo"
+  },
+  {
+    "q": "Hur många barn bor i Bullerbyn i Astrid Lindgrens böcker?",
+    "a": "6",
+    "w1": "5",
+    "w2": "7",
+    "w3": "3",
+    "w4": "4",
+    "w5": "8"
+  },
+  {
+    "q": "Vilket år sändes den allra första julkalendern 'Titteliture'?",
+    "a": "1960",
+    "w1": "1957",
+    "w2": "1962",
+    "w3": "1955",
+    "w4": "1963",
+    "w5": "1959"
+  },
+  {
+    "q": "Vilket år publicerades 'Harry Potter och De vises sten' i Storbritannien?",
+    "a": "1997",
+    "w1": "1995",
+    "w2": "1999",
+    "w3": "1996",
+    "w4": "2000",
+    "w5": "1998"
+  },
+  {
+    "q": "Vilket år kom boken 'Fången från Azkaban'?",
+    "a": "1999",
+    "w1": "1998",
+    "w2": "2000",
+    "w3": "1997",
+    "w4": "2001",
+    "w5": "2002"
+  },
+  {
+    "q": "Vilket hus i Hogwarts tillhör Luna Lovegood?",
+    "a": "Ravenclaw",
+    "w1": "Gryffindor",
+    "w2": "Slytherin",
+    "w3": "Hufflepuff",
+    "w4": "Ravenpuff",
+    "w5": "Slytherclaw"
+  },
+  {
+    "q": "Vad heter Rons lilla uggla?",
+    "a": "Piggywidgeon (Pig)",
+    "w1": "Errol",
+    "w2": "Hedwig",
+    "w3": "Hermes",
+    "w4": "Scabbers",
+    "w5": "Trevor"
+  },
+  {
+    "q": "Vad heter Hermiones katt?",
+    "a": "Krumben (Crookshanks)",
+    "w1": "Mrs Norris",
+    "w2": "Mr Paws",
+    "w3": "Trevor",
+    "w4": "Skälmen",
+    "w5": "Kossan"
+  },
+  {
+    "q": "Vad heter kvasten Harry får i present av Sirius?",
+    "a": "Firebolt",
+    "w1": "Nimbus 2000",
+    "w2": "Nimbus 2001",
+    "w3": "Cleansweep Seven",
+    "w4": "Comet 260",
+    "w5": " Shooting Star"
+  },
+  {
+    "q": "Vad heter trollkarlsbanken i Diagongränden?",
+    "a": "Gringotts",
+    "w1": "Flourish & Blotts",
+    "w2": "Zonkos",
+    "w3": "Ollivanders",
+    "w4": "Borgin & Burkes",
+    "w5": "Weasleys Wizard Wheezes"
+  },
+  {
+    "q": "Vad heter godisbutiken i Hogsmeade?",
+    "a": "Honeydukes",
+    "w1": "Zonkos",
+    "w2": "The Three Broomsticks",
+    "w3": "Sugarplums",
+    "w4": "Berti Botts",
+    "w5": "Hogs Head"
+  },
+  {
+    "q": "Vilket nummer på Privet Drive bor Harry hos Dursleys?",
+    "a": "4",
+    "w1": "12",
+    "w2": "7",
+    "w3": "9",
+    "w4": "13",
+    "w5": "2"
+  },
+  {
+    "q": "Vad heter Harrys mamma?",
+    "a": "Lily Potter",
+    "w1": "Jane Potter",
+    "w2": "Molly Potter",
+    "w3": "Rose Potter",
+    "w4": "Alice Potter",
+    "w5": "Maria Potter"
+  },
+  {
+    "q": "Vad heter Harrys pappa?",
+    "a": "James Potter",
+    "w1": "John Potter",
+    "w2": "Arthur Potter",
+    "w3": "Sirius Potter",
+    "w4": "Remus Potter",
+    "w5": "Frank Potter"
+  },
+  {
+    "q": "Vad heter Voldemorts orm?",
+    "a": "Nagini",
+    "w1": "Basilisk",
+    "w2": "Näbba",
+    "w3": "Skälmen",
+    "w4": "Aragog",
+    "w5": "Norbert"
+  },
+  {
+    "q": "Hur många horrokruxer skapade Voldemort medvetet?",
+    "a": "6",
+    "w1": "5",
+    "w2": "7",
+    "w3": "8",
+    "w4": "4",
+    "w5": "3"
+  },
+  {
+    "q": "Vem dödade Dumbledore?",
+    "a": "Severus Snape",
+    "w1": "Draco Malfoy",
+    "w2": "Bellatrix Lestrange",
+    "w3": "Lord Voldemort",
+    "w4": "Peter Pettigrew",
+    "w5": "Lucius Malfoy"
+  },
+  {
+    "q": "Vem spelade Snape i filmerna?",
+    "a": "Alan Rickman",
+    "w1": "Gary Oldman",
+    "w2": "Tim Roth",
+    "w3": "Kenneth Branagh",
+    "w4": "Jason Isaacs",
+    "w5": "Ralph Fiennes"
+  },
+  {
+    "q": "Vem tog över rollen som Dumbledore efter Richard Harris?",
+    "a": "Michael Gambon",
+    "w1": "Ian McKellen",
+    "w2": "Jim Broadbent",
+    "w3": "John Hurt",
+    "w4": "Peter O'Toole",
+    "w5": "Christopher Lee"
+  },
+  {
+    "q": "Hur många Harry Potter-filmer gjordes totalt?",
+    "a": "8",
+    "w1": "7",
+    "w2": "9",
+    "w3": "6",
+    "w4": "10",
+    "w5": "11"
+  },
+  {
+    "q": "Vilket år kom den sista Harry Potter-filmen?",
+    "a": "2011",
+    "w1": "2010",
+    "w2": "2012",
+    "w3": "2009",
+    "w4": "2013",
+    "w5": "2008"
+  },
+  {
+    "q": "Vilket år kom 'Rymdimperiet slår tillbaka'?",
+    "a": "1980",
+    "w1": "1979",
+    "w2": "1982",
+    "w3": "1983",
+    "w4": "1978",
+    "w5": "1981"
+  },
+  {
+    "q": "Vilket år kom 'Jedins återkomst'?",
+    "a": "1983",
+    "w1": "1982",
+    "w2": "1985",
+    "w3": "1984",
+    "w4": "1981",
+    "w5": "1986"
+  },
+  {
+    "q": "Vem spelade Chewbacca?",
+    "a": "Peter Mayhew",
+    "w1": "Kenny Baker",
+    "w2": "Anthony Daniels",
+    "w3": "Warwick Davis",
+    "w4": "David Prowse",
+    "w5": "Dave Chapman"
+  },
+  {
+    "q": "Vem spelade R2-D2?",
+    "a": "Kenny Baker",
+    "w1": "Peter Mayhew",
+    "w2": "Anthony Daniels",
+    "w3": "Warwick Davis",
+    "w4": "Jack Purvis",
+    "w5": "Mike Edmonds"
+  },
+  {
+    "q": "Vad heter Han Solos skepp?",
+    "a": "Millennium Falcon",
+    "w1": "Star Destroyer",
+    "w2": "X-wing",
+    "w3": "Slave I",
+    "w4": "Ghost",
+    "w5": "Razor Crest"
+  },
+  {
+    "q": "Vilken planet är Leia prinsessa av?",
+    "a": "Alderaan",
+    "w1": "Naboo",
+    "w2": "Coruscant",
+    "w3": "Tatooine",
+    "w4": "Hoth",
+    "w5": "Endor"
+  },
+  {
+    "q": "Vilken färg har Mace Windus ljussabel?",
+    "w1": "Grön",
+    "w2": "Röd",
+    "w3": "Blå",
+    "a": "Lila",
+    "w4": "Gul",
+    "w5": "Vit"
+  },
+  {
+    "q": "Vad kallas de onda motsvarigheterna till jediriddare?",
+    "a": "Sith",
+    "w1": "Ren",
+    "w2": "Moff",
+    "w3": "Inquisitorer enbart",
+    "w4": "Dark Jedi",
+    "w5": "Sithlorder av andra orden"
+  },
+  {
+    "q": "Vilket år kom 'Snövit och de sju dvärgarna'?",
+    "a": "1937",
+    "w1": "1935",
+    "w2": "1939",
+    "w3": "1940",
+    "w4": "1936",
+    "w5": "1941"
+  },
+  {
+    "q": "Vilket år kom 'Pinocchio'?",
+    "a": "1940",
+    "w1": "1938",
+    "w2": "1942",
+    "w3": "1944",
+    "w4": "1939",
+    "w5": "1941"
+  },
+  {
+    "q": "Vilket år kom 'Bambi'?",
+    "a": "1942",
+    "w1": "1940",
+    "w2": "1944",
+    "w3": "1946",
+    "w4": "1939",
+    "w5": "1948"
+  },
+  {
+    "q": "Vilket år kom 'Askungen'?",
+    "a": "1950",
+    "w1": "1948",
+    "w2": "1952",
+    "w3": "1955",
+    "w4": "1947",
+    "w5": "1953"
+  },
+  {
+    "q": "Vilket år kom 'Peter Pan'?",
+    "a": "1953",
+    "w1": "1950",
+    "w2": "1955",
+    "w3": "1951",
+    "w4": "1956",
+    "w5": "1959"
+  },
+  {
+    "q": "Vilket år kom 'Törnrosa'?",
+    "a": "1959",
+    "w1": "1957",
+    "w2": "1961",
+    "w3": "1955",
+    "w4": "1962",
+    "w5": "1953"
+  },
+  {
+    "q": "Vilket år kom 'Djungelboken'?",
+    "a": "1967",
+    "w1": "1965",
+    "w2": "1969",
+    "w3": "1963",
+    "w4": "1970",
+    "w5": "1971"
+  },
+  {
+    "q": "Vilket år kom 'Lilla sjöjungfrun'?",
+    "a": "1989",
+    "w1": "1987",
+    "w2": "1991",
+    "w3": "1986",
+    "w4": "1992",
+    "w5": "1988"
+  },
+  {
+    "q": "Vilket år kom 'Skönheten och odjuret'?",
+    "a": "1991",
+    "w1": "1989",
+    "w2": "1993",
+    "w3": "1990",
+    "w4": "1994",
+    "w5": "1992"
+  },
+  {
+    "q": "Vilket år kom 'Aladdin'?",
+    "a": "1992",
+    "w1": "1990",
+    "w2": "1994",
+    "w3": "1991",
+    "w4": "1995",
+    "w5": "1993"
+  },
+  {
+    "q": "Vem komponerade sångerna i 'Lejonkungen'?",
+    "a": "Elton John",
+    "w1": "Alan Menken",
+    "w2": "Hans Zimmer",
+    "w3": "Phil Collins",
+    "w4": "Randy Newman",
+    "w5": "Tim Rice"
+  },
+  {
+    "q": "Vem gjorde originalrösten till Genie i 'Aladdin'?",
+    "a": "Robin Williams",
+    "w1": "Eddie Murphy",
+    "w2": "Jim Carrey",
+    "w3": "Dan Castellaneta",
+    "w4": "Will Smith",
+    "w5": "Gilbert Gottfried"
+  },
+  {
+    "q": "Vilket år vann 'Shrek' den första Oscarstatyettern för animerad film?",
+    "a": "2002",
+    "w1": "2001",
+    "w2": "2003",
+    "w3": "2000",
+    "w4": "2004",
+    "w5": "1999"
+  },
+  {
+    "q": "Vad hette Walts bror och affärspartner?",
+    "a": "Roy Disney",
+    "w1": "Ray Disney",
+    "w2": "Ron Disney",
+    "w3": "Robert Disney",
+    "w4": "Rudy Disney",
+    "w5": "Roland Disney"
+  },
+  {
+    "q": "Vilken karaktär skapade Walt Disney före Musse Pigg?",
+    "a": "Kaninen Oswald",
+    "w1": "Katten Julius",
+    "w2": "Ko-Ko the Clown",
+    "w3": "Katten Felix",
+    "w4": "Pluto",
+    "w5": "Långben"
+  },
+  {
+    "q": "Vad hette Disneys studio allra först?",
+    "a": "Disney Brothers Studio",
+    "w1": "Walt Disney Productions",
+    "w2": "Laugh-O-Gram",
+    "w3": "Disney Studios",
+    "w4": "Mickey Mouse Ltd",
+    "w5": "Buena Vista"
+  },
+  {
+    "q": "Vem ägde Pixar under större delen av 1990/2000-talet?",
+    "a": "Steve Jobs",
+    "w1": "Bill Gates",
+    "w2": "George Lucas",
+    "w3": "Michael Eisner",
+    "w4": "Jeff Bezos",
+    "w5": "Ed Catmull"
+  },
+  {
+    "q": "Vilket år köpte Disney Pixar?",
+    "a": "2006",
+    "w1": "2004",
+    "w2": "2008",
+    "w3": "2005",
+    "w4": "2009",
+    "w5": "2010"
+  },
+  {
+    "q": "Vad var Pixars genombrottande kortfilm från 1986?",
+    "a": "Luxo Jr.",
+    "w1": "The Adventures of André and Wally B.",
+    "w2": "Red's Dream",
+    "w3": "Tin Toy",
+    "w4": "Knick Knack",
+    "w5": "Geri's Game"
+  },
+  {
+    "q": "Vilken föremål ingår i Pixars logotyp?",
+    "a": "En skrivbordslampa",
+    "w1": "En boll",
+    "w2": "En leksakslåda",
+    "w3": "En fågel",
+    "w4": "EnUU-lampa",
+    "w5": "En slumpmaskin"
+  },
+  {
+    "q": "Vilket år kom Pixars 'Upp'?",
+    "a": "2009",
+    "w1": "2007",
+    "w2": "2011",
+    "w3": "2008",
+    "w4": "2010",
+    "w5": "2006"
+  }
+]

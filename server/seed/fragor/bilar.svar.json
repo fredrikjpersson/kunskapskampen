@@ -238,5 +238,125 @@
     "a": "Motverkar sladd",
     "w1": "Låser hjulen",
     "w2": "Kylr motor"
+  },
+  {
+    "q": "Vilken motortyp sitter i dagens Porsche 911 (992)?",
+    "a": "Boxersexa",
+    "w1": "Rak sexa",
+    "w2": "V6:a"
+  },
+  {
+    "q": "Vad heter Mercedes fyrhjulsdriftssystem?",
+    "a": "4MATIC",
+    "w1": "xDrive",
+    "w2": "quattro"
+  },
+  {
+    "q": "Vad står TDI för?",
+    "a": "Turbocharged Direct Injection",
+    "w1": "Turbo Diesel Intercooled",
+    "w2": "Traction Drive Injection"
+  },
+  {
+    "q": "Vad står dCi för hos Renault?",
+    "a": "Direct Common-rail Injection",
+    "w1": "Diesel Circuit Injection",
+    "w2": "Dual Cam Integrated"
+  },
+  {
+    "q": "Vad gör Hondas VTEC-system?",
+    "a": "Byter kamprofil vid högt varvtal",
+    "w1": "Stänger av cylindrar",
+    "w2": "Varierar turbo­trycket"
+  },
+  {
+    "q": "Vad är drifting?",
+    "a": "Att avsiktligt släppa bakänden i kontrollerad överstyrning",
+    "w1": "Att köra på två hjul",
+    "w2": "Att sladda okontrollerat"
+  },
+  {
+    "q": "Vad kallas den optimala punkten i kurvans insida?",
+    "a": "Apex",
+    "w1": "Clip",
+    "w2": "Pivot"
+  },
+  {
+    "q": "Vad innebär heel-and-toe-tekniken?",
+    "a": "Att bromsa med tån och blippa gasen med hälen vid växling",
+    "w1": "Att köra med vänster fot på bromsen",
+    "w2": "Att stötta armen mot dörren"
+  },
+  {
+    "q": "Vad betyder parc fermé i racing?",
+    "a": "Inhägnad parkering där teamen inte får justera bilarna",
+    "w1": "Depåområde för publiken",
+    "w2": "Slutlig startoplacering"
+  },
+  {
+    "q": "Vad betyder blå flagga i Formel 1?",
+    "a": "Släpp förbi snabbare bil som varvar dig",
+    "w1": "Farligt väglag",
+    "w2": "Depåstopp inom tre varv"
+  },
+  {
+    "q": "Vad är en pit window?",
+    "a": "Tidsperioden då depåstoppet passar bäst",
+    "w1": "Fönstret i depåbyggnaden",
+    "w2": "Öppningen i pit lanen"
+  },
+  {
+    "q": "Vad är understeer?",
+    "a": "När bilens front glider ut i kurvan",
+    "w1": "När bakänden glider ut",
+    "w2": "När bilen studsar på ojämnheter"
+  },
+  {
+    "q": "Vad beskriver traction circle?",
+    "a": "Däckets totala grepp som budget för broms, styrning och gas",
+    "w1": "Däckets kontaktyta vid halt väglag",
+    "w2": "Bilens viktöverföring i cirkel"
+  },
+  {
+    "q": "Vad är downforce?",
+    "a": "Nedåtriktad kraft från luftmotståndet som trycker ner bilen",
+    "w1": "Kraften som lyfter bilen",
+    "w2": "Viktfördelning fram och bak"
+  },
+  {
+    "q": "Vad är ground effect?",
+    "a": "Undertryck under bilen som suger ner den",
+    "w1": "Vindpåverkan ovanifrån",
+    "w2": "Marktryck i däcken"
+  },
+  {
+    "q": "Vad står DRS för i Formel 1?",
+    "a": "Drag Reduction System",
+    "w1": "Dynamic Racing Suspension",
+    "w2": "Downforce Reduction Standard"
+  },
+  {
+    "q": "Vad kallas varvet innan start då bilarna radas upp?",
+    "a": "Formationsvarv",
+    "w1": "Uppvarmningsvarv",
+    "w2": "Kvalvarv"
+  },
+  {
+    "q": "Vad gör en wastegate?",
+    "a": "Leder förbi avgaser för att begränsaturbotryck",
+    "w1": "Släpper ut oljetryck",
+    "w2": "Ventilerar insuget"
+  },
+  {
+    "q": "Vad är en flat-shift?",
+    "a": "Att växla utan släppa gasen",
+    "w1": "Att växla utan koppling",
+    "w2": "Att ligga i neutralt i backe"
+  },
+  {
+    "q": "Vad kallas kraften som motorn lämnar till hjulen?",
+    "a": "Vridmoment",
+    "w1": "Hästkrafter",
+    "w2": "Varvmoment"
   }
 ]

@@ -238,5 +238,125 @@
     "a": "Reykjavik",
     "w1": "Helsingfors",
     "w2": "Oslo"
+  },
+  {
+    "q": "Vilket är världens folkrikaste stadsområde?",
+    "a": "Tokyo",
+    "w1": "Delhi",
+    "w2": "Shanghai"
+  },
+  {
+    "q": "Vad heter Afrikas näst längsta flod?",
+    "a": "Kongo",
+    "w1": "Niger",
+    "w2": "Zambesi"
+  },
+  {
+    "q": "Vilket är Afrikas djupaste sjö?",
+    "a": "Tanganyika",
+    "w1": "Malawisjön",
+    "w2": "Victoriasjön"
+  },
+  {
+    "q": "Vad är Mexikos högsta berg?",
+    "a": "Pico de Orizaba",
+    "w1": "Popocatépetl",
+    "w2": "Iztaccíhuatl"
+  },
+  {
+    "q": "Vilket land har huvudstaden Tasjkent?",
+    "a": "Uzbekistan",
+    "w1": "Kazakstan",
+    "w2": "Kirgizistan"
+  },
+  {
+    "q": "Vad heter Mongoliets huvudstad?",
+    "a": "Ulaanbaatar",
+    "w1": "Astana",
+    "w2": "Lhasa"
+  },
+  {
+    "q": "Vilket land har huvudstaden Phnom Penh?",
+    "a": "Kambodja",
+    "w1": "Laos",
+    "w2": "Vietnam"
+  },
+  {
+    "q": "Vilket är världens folkrikaste ö-nation?",
+    "a": "Indonesien",
+    "w1": "Filippinerna",
+    "w2": "Japan"
+  },
+  {
+    "q": "Vilken är världens näst största ö till ytan?",
+    "a": "Nya Guinea",
+    "w1": "Borneo",
+    "w2": "Madagaskar"
+  },
+  {
+    "q": "Vilken är Kanadas största ö?",
+    "a": "Baffinön",
+    "w1": "Victoriaön",
+    "w2": "Ellesmereön"
+  },
+  {
+    "q": "Vilket sund skiljer Australien och Nya Guinea?",
+    "a": "Torres sund",
+    "w1": "Bass sund",
+    "w2": "Makassarsundet"
+  },
+  {
+    "q": "Vad heter sundet mellan Australien och Tasmanien?",
+    "a": "Bass sund",
+    "w1": "Torres sund",
+    "w2": "Cook sund"
+  },
+  {
+    "q": "Vilken är Afrikas sydligaste punkt?",
+    "a": "Kap Agulhas",
+    "w1": "Godahoppsudden",
+    "w2": "Kap Verde"
+  },
+  {
+    "q": "Vilket land kontrollerar Gibraltar?",
+    "a": "Storbritannien",
+    "w1": "Spanien",
+    "w2": "Marocko"
+  },
+  {
+    "q": "Vilket land har huvudstaden Lomé?",
+    "a": "Togo",
+    "w1": "Benin",
+    "w2": "Ghana"
+  },
+  {
+    "q": "Vilket land har huvudstaden Bamako?",
+    "a": "Mali",
+    "w1": "Niger",
+    "w2": "Burkina Faso"
+  },
+  {
+    "q": "Vilket är världens största landlåsta land till ytan?",
+    "a": "Kazakstan",
+    "w1": "Mongoliet",
+    "w2": "Tchad"
+  },
+  {
+    "q": "Vilka två länder har flest grannländer (14 stycken)?",
+    "a": "Kina och Ryssland",
+    "w1": "Ryssland och Kanada",
+    "w2": "Brasilien och Kina"
+  },
+  {
+    "q": "Vad heter Indiens heligaste flod?",
+    "a": "Ganges",
+    "w1": "Indus",
+    "w2": "Brahmaputra"
+  },
+  {
+    "q": "Vilken karibisk ö delas av två länder?",
+    "a": "Hispaniola",
+    "w1": "Kuba",
+    "w2": "Jamaica"
   }
 ]

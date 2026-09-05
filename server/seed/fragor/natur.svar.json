@@ -238,5 +238,125 @@
     "a": "Transporterar syre",
     "w1": "Bekämpar bakterier",
     "w2": "Bildar blodproppar"
+  },
+  {
+    "q": "Vilket grundämne har kemisk beteckning Au?",
+    "a": "Guld",
+    "w1": "Silver",
+    "w2": "Aluminium"
+  },
+  {
+    "q": "Vad bildas vid alkoholjäsning utöver koldioxid?",
+    "a": "Etanol",
+    "w1": "Metan",
+    "w2": "ättiksyra"
+  },
+  {
+    "q": "Vilken fisk är världens snabbaste?",
+    "a": "Segelfisken",
+    "w1": "Svärdfisken",
+    "w2": "Tonfisken"
+  },
+  {
+    "q": "Vad kallas den djurgrupp som valar och delfiner tillhör?",
+    "a": "Valdjur (cetacier)",
+    "w1": "Ro djur",
+    "w2": "Säldjur"
+  },
+  {
+    "q": "Vad väger en liter vatten?",
+    "a": "Ett kilo",
+    "w1": "Ett hekto",
+    "w2": "Tio kilo"
+  },
+  {
+    "q": "Vem myntade begreppet ekologi?",
+    "a": "Ernst Haeckel",
+    "w1": "Carl von Linné",
+    "w2": "Charles Darwin"
+  },
+  {
+    "q": "Vad gör att löv blir gula på hösten?",
+    "a": "Klorofyllet bryts ner",
+    "w1": "Löven torkar ut",
+    "w2": "Rötterna slutar fungera"
+  },
+  {
+    "q": "Vilken är kroppens normala temperatur?",
+    "a": "Cirka 37 °C",
+    "w1": "Cirka 35 °C",
+    "w2": "Cirka 39 °C"
+  },
+  {
+    "q": "Vad äter fladdermöss i Sverige?",
+    "a": "Insekter",
+    "w1": "Frukt",
+    "w2": "Fisk"
+  },
+  {
+    "q": "Vilket grundämne gör blodet rött?",
+    "a": "Järn",
+    "w1": "Koppar",
+    "w2": "Magnesium"
+  },
+  {
+    "q": "Vilken del av hjärnan styr andningen?",
+    "a": "Förlängda märgen",
+    "w1": "Lillhjärnan",
+    "w2": "Storhjärnan"
+  },
+  {
+    "q": "Vilken val har världens största hjärna?",
+    "a": "Kaskelottern",
+    "w1": "Blåvalen",
+    "w2": "Knölvalen"
+  },
+  {
+    "q": "Vad kallas förhållandet då en art gynnas utan att den andra påverkas?",
+    "a": "Kommensalism",
+    "w1": "Mutualism",
+    "w2": "Parasitism"
+  },
+  {
+    "q": "Vad kallas djur som äter kadaver?",
+    "a": "Asätare",
+    "w1": "Allätare",
+    "w2": "Predatorer"
+  },
+  {
+    "q": "Vilket land har flest vilda tigrar?",
+    "a": "Indien",
+    "w1": "Kina",
+    "w2": "Ryssland"
+  },
+  {
+    "q": "Hur stor andel av jordens yta är land?",
+    "a": "Cirka 29 %",
+    "w1": "Cirka 50 %",
+    "w2": "Cirka 15 %"
+  },
+  {
+    "q": "Vad heter studiet av sjöar?",
+    "a": "Limnologi",
+    "w1": "Hydrologi",
+    "w2": "Oceanografi"
+  },
+  {
+    "q": "Vilken är Sveriges enda giftiga orm?",
+    "a": "Huggormen",
+    "w1": "Snoken",
+    "w2": "Kopparormen"
+  },
+  {
+    "q": "Vilken del av kroppen saknar blodkärl?",
+    "a": "Hornhinnan",
+    "w1": "Tänderna",
+    "w2": "Hårbotten"
+  },
+  {
+    "q": "Vilken vätska smörjer lederna?",
+    "a": "Ledvätska",
+    "w1": "Lymfa",
+    "w2": "Plasma"
   }
 ]

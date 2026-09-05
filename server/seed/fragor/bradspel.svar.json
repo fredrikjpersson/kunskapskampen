@@ -238,5 +238,125 @@
     "a": "Reykjavik",
     "w1": "Moskva",
     "w2": "New York"
+  },
+  {
+    "q": "Vem är Najdorf-varianten uppkallad efter?",
+    "a": "Miguel Najdorf",
+    "w1": "Mark Najdorf",
+    "w2": "Arthur Najdorf"
+  },
+  {
+    "q": "Vem är Sveshnikov-varianten uppkallad efter?",
+    "a": "Jevgenij Sveshnikov",
+    "w1": "Viktor Sveshnikov",
+    "w2": "Gennadi Sveshnikov"
+  },
+  {
+    "q": "Hur definieras Nimzoindiskt?",
+    "a": "1.d4 Sf6 2.c4 e6 3.Sc3 Lb4",
+    "w1": "1.d4 d5 2.c4 e6",
+    "w2": "1.e4 c5 2.Sf3 e6"
+  },
+  {
+    "q": "Vilket drag kärlek defines Kungligt indiskt?",
+    "a": "...g6 följt av ...Lg7",
+    "w1": "...c5 direkt",
+    "w2": "...e5 direkt"
+  },
+  {
+    "q": "Vad kännetecknar Benoni?",
+    "a": "Svart svarar ...c5 mot d4-d5",
+    "w1": "Vit spelar f4 tidigt",
+    "w2": "Svart rockader långt"
+  },
+  {
+    "q": "Vad är Marshall-offret i spanskt parti?",
+    "a": "Ett bondeoffret med ...d5",
+    "w1": "Ett lopparbyte på f6",
+    "w2": "En tidig damflykt"
+  },
+  {
+    "q": "Vem är Marshall-offret uppkallat efter?",
+    "a": "Frank Marshall",
+    "w1": "Harry Nelson Pillsbury",
+    "w2": "José Raúl Capablanca"
+  },
+  {
+    "q": "Vad är Sämisch-varianten?",
+    "a": "Vit spelar f3 mot kungligt indiskt",
+    "w1": "Vit spelar g3 mot nimzoindiskt",
+    "w2": "Vit spelar h3 mot spanskt"
+  },
+  {
+    "q": "Vem var förste sovjetiske världsmästaren i schack?",
+    "a": "Michail Botvinnik",
+    "w1": "Aleksandr Aljechin",
+    "w2": "Vasilij Smyslov"
+  },
+  {
+    "q": "Vilket år blev Botvinnik mästare först?",
+    "a": "1948",
+    "w1": "1935",
+    "w2": "1951"
+  },
+  {
+    "q": "Vem besegrade Botvinnik i VM 1957?",
+    "a": "Vasilij Smyslov",
+    "w1": "Michail Tal",
+    "w2": "Tigran Petrosian"
+  },
+  {
+    "q": "Vem besegrade Botvinnik i VM 1960?",
+    "a": "Michail Tal",
+    "w1": "Vasilij Smyslov",
+    "w2": "Boris Spasskij"
+  },
+  {
+    "q": "Vilken VM-vinnare kallades 'Magikern från Riga'?",
+    "a": "Michail Tal",
+    "w1": "Aleksandr Aljechin",
+    "w2": "Paul Keres"
+  },
+  {
+    "q": "Vilket år vann Tal VM-titeln?",
+    "a": "1960",
+    "w1": "1958",
+    "w2": "1962"
+  },
+  {
+    "q": "Vad var Tigran Petrosians signatur?",
+    "a": "Profylax – förebyggande spel",
+    "w1": "Vilda bondeoffer",
+    "w2": "Snabba kungsangrepp"
+  },
+  {
+    "q": "Vilket år dog Tigran Petrosian?",
+    "a": "1984",
+    "w1": "1980",
+    "w2": "1988"
+  },
+  {
+    "q": "Vilket år vann Boris Spasskij VM först?",
+    "a": "1969",
+    "w1": "1966",
+    "w2": "1972"
+  },
+  {
+    "q": "Vem vann schack-VM 2007?",
+    "a": "Viswanathan Anand",
+    "w1": "Vladimir Kramnik",
+    "w2": "Veselin Topalov"
+  },
+  {
+    "q": "Vem förlorade VM-matchen mot Carlsen 2018?",
+    "a": "Fabiano Caruana",
+    "w1": "Sergej Karjakin",
+    "w2": "Ian Nepomniachtchi"
+  },
+  {
+    "q": "Vem förlorade mot Carlsen i VM 2021?",
+    "a": "Ian Nepomniachtchi",
+    "w1": "Fabiano Caruana",
+    "w2": "Sergej Karjakin"
   }
 ]

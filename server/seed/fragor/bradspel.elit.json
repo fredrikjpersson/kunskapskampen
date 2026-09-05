@@ -238,5 +238,125 @@
     "a": "Att placera arbetare för att utföra handlingar",
     "w1": "Att flytta pjäser i lager",
     "w2": "Att anställa spelledare"
+  },
+  {
+    "q": "Vad är en tablebase inom schack?",
+    "a": "Databas med perfekt spelade slutspel",
+    "w1": "Rankinglista för motorer",
+    "w2": "Öppningsbibliotek"
+  },
+  {
+    "q": "Hur många pjäser hanterar Lomonosov-tablebaserna?",
+    "a": "7",
+    "w1": "5",
+    "w2": "6"
+  },
+  {
+    "q": "Vad är Syzygy-tablebases?",
+    "a": "Komprimerade 6-manna slutspelsdatabaser",
+    "w1": "Öppningsböcker",
+    "w2": "Motsatsen till Nalimov"
+  },
+  {
+    "q": "Vad är Stockfish?",
+    "a": "En schackmotor med öppen källkod",
+    "w1": "En schackserver",
+    "w2": "Ett öppningsbibliotek"
+  },
+  {
+    "q": "Vad heter Googles schack-AI?",
+    "a": "AlphaZero",
+    "w1": "Deep Blue",
+    "w2": "Komodo"
+  },
+  {
+    "q": "Vilket år besegrade AlphaZero Stockfish?",
+    "a": "2017",
+    "w1": "2015",
+    "w2": "2019"
+  },
+  {
+    "q": "Vad är Leela (Lc0)?",
+    "a": "En neural nätverksbaserad schackmotor",
+    "w1": "En Go-server",
+    "w2": "Ett analysverktyg för öppningar"
+  },
+  {
+    "q": "Vad heter den starkaste Go-AI:n?",
+    "a": "AlphaGo",
+    "w1": "AlphaZero",
+    "w2": "Deep Zen"
+  },
+  {
+    "q": "Vem vann ett parti mot AlphaGo 2016?",
+    "a": "Lee Sedol",
+    "w1": "Ke Jie",
+    "w2": "Fan Hui"
+  },
+  {
+    "q": "Vilket år spelade AlphaGo mot Lee Sedol?",
+    "a": "2016",
+    "w1": "2014",
+    "w2": "2018"
+  },
+  {
+    "q": "Hur många partier vann AlphaGo i matchen mot Lee Sedol?",
+    "a": "4",
+    "w1": "3",
+    "w2": "5"
+  },
+  {
+    "q": "Vad är 'Move 37' känt för?",
+    "a": "AlphaGos innovativa, mänskligt oväntade drag",
+    "w1": "Det längsta partiet i historien",
+    "w2": "En klassisk Go-öppning"
+  },
+  {
+    "q": "Vilket år pensionerades AlphaGo?",
+    "a": "2017",
+    "w1": "2019",
+    "w2": "2015"
+  },
+  {
+    "q": "Vad står MCTS för?",
+    "a": "Monte Carlo Tree Search",
+    "w1": "Multi Context Tree Search",
+    "w2": "Machine Chess Training System"
+  },
+  {
+    "q": "Hur lärde sig AlphaZero schack?",
+    "a": "Genom självspel från grundreglerna",
+    "w1": "Genom att läsa miljardon partier",
+    "w2": "Genom mänsklig träning"
+  },
+  {
+    "q": "Vilket spel vann Kennerspiel des Jahres 2019?",
+    "a": "Wingspan",
+    "w1": "Just One",
+    "w2": "Azul"
+  },
+  {
+    "q": "Vilket spel vann Spiel des Jahres 2019?",
+    "a": "Just One",
+    "w1": "Wingspan",
+    "w2": "Cartographers"
+  },
+  {
+    "q": "Vilket spel vann Spiel des Jahres 2020?",
+    "a": "Pictures",
+    "w1": "My City",
+    "w2": "The Crew"
+  },
+  {
+    "q": "Vem skapade Magic: The Gathering?",
+    "a": "Richard Garfield",
+    "w1": "Peter Adkison",
+    "w2": "Mark Rosewater"
+  },
+  {
+    "q": "Vad hette Magic:s allra första set?",
+    "a": "Limited Edition Alpha",
+    "w1": "Beta",
+    "w2": "Unlimited"
   }
 ]

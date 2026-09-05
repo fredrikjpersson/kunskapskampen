@@ -238,5 +238,125 @@
     "a": "Spice Girls",
     "w1": "TLC",
     "w2": "Destiny's Child"
+  },
+  {
+    "q": "Vilken tonart har tre b-förtecken?",
+    "a": "Ess-dur",
+    "w1": "A-dur",
+    "w2": "F-dur"
+  },
+  {
+    "q": "Vad betyder dynamikbeteckningen 'forte'?",
+    "a": "Starkt",
+    "w1": "Svagt",
+    "w2": "Långsamt"
+  },
+  {
+    "q": "Vad betyder 'pianissimo'?",
+    "a": "Mycket svagt",
+    "w1": "Mycket starkt",
+    "w2": "Något snabbare"
+  },
+  {
+    "q": "Vad kallas intervallet på åtta halvtoner?",
+    "a": "Liten sext",
+    "w1": "Stor sext",
+    "w2": "Ren kvint"
+  },
+  {
+    "q": "Hur många linjer har ett notsystem?",
+    "a": "Fem",
+    "w1": "Fyra",
+    "w2": "Sex"
+  },
+  {
+    "q": "Vad heter förhöjningstecknet i notskrift?",
+    "a": "Kryss",
+    "w1": "B-förtecken",
+    "w2": "Återställningstecken"
+  },
+  {
+    "q": "Vad heter nedsättningsstecknet i notskrift?",
+    "a": "B-förtecken",
+    "w1": "Kryss",
+    "w2": "Fermat"
+  },
+  {
+    "q": "Vad kallas omfånget av toner en röst klarar?",
+    "a": "Tonomfång",
+    "w1": "Tonvikt",
+    "w2": "Tonart"
+  },
+  {
+    "q": "Vad kallas ackordet på första skalsteget?",
+    "a": "Tonika",
+    "w1": "Dominant",
+    "w2": "Subdominant"
+  },
+  {
+    "q": "Vad kallas ackordet på femte skalsteget?",
+    "a": "Dominant",
+    "w1": "Tonika",
+    "w2": "Subdominant"
+  },
+  {
+    "q": "Vad kallas den klassiska kadensen V–I?",
+    "a": "Autentisk kadens",
+    "w1": "Plagal kadens",
+    "w2": "Frygisk kadens"
+  },
+  {
+    "q": "Vad betyder 'dal segno'?",
+    "a": "Spela från tecknet",
+    "w1": "Spela från början",
+    "w2": "Spela tyst"
+  },
+  {
+    "q": "Hur många strängar har en standard-elbas?",
+    "a": "Fyra",
+    "w1": "Sex",
+    "w2": "Fem"
+  },
+  {
+    "q": "Vad kännetecknar 'blue notes'?",
+    "a": "Sänkta toner som ger blues dess klang",
+    "w1": "Förhöjda oktaver",
+    "w2": "Snabba löp"
+  },
+  {
+    "q": "Hur många toner har en pentaton skala?",
+    "a": "Fem",
+    "w1": "Sex",
+    "w2": "Sju"
+  },
+  {
+    "q": "Vad heter det rytmiska paret träpinnar i latinmusik?",
+    "a": "Claves",
+    "w1": "Bongos",
+    "w2": "Maracas"
+  },
+  {
+    "q": "Vad kallas studiotekniken som korrigerar falska toner?",
+    "a": "Autotune",
+    "w1": "Efterklang",
+    "w2": "Mastering"
+  },
+  {
+    "q": "Vilket format var standard för singlar innan CD?",
+    "a": "Sju tums vinyl",
+    "w1": "Kassett",
+    "w2": "Åmmaspel"
+  },
+  {
+    "q": "Vad kallas en mjuk övergång utan paus mellan två låtar?",
+    "a": "Korsfad",
+    "w1": "Klipp",
+    "w2": "Drop"
+  },
+  {
+    "q": "Vad kallas en enkel hemainspelning av en låt?",
+    "a": "Demo",
+    "w1": "Live",
+    "w2": "Remix"
   }
 ]

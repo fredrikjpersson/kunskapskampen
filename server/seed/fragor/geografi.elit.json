@@ -238,5 +238,125 @@
     "a": "Niamey",
     "w1": "Bamako",
     "w2": "Ouagadougou"
+  },
+  {
+    "q": "Vad heter Rysslands exklav vid Östersjön?",
+    "a": "Kaliningrad",
+    "w1": "Vladivostok",
+    "w2": "Murmask"
+  },
+  {
+    "q": "Vilket större land har högst befolkningstäthet?",
+    "a": "Bangladesh",
+    "w1": "Indien",
+    "w2": "Japan"
+  },
+  {
+    "q": "Vilken är världens största kalla öken?",
+    "a": "Antarktis",
+    "w1": "Gobi",
+    "w2": "Patagonien"
+  },
+  {
+    "q": "Vilket är det folkrikaste landet som ligger helt i Europa?",
+    "a": "Tyskland",
+    "w1": "Frankrike",
+    "w2": "Italien"
+  },
+  {
+    "q": "Vilken mikrostát har världens högsta befolkningstäthet?",
+    "a": "Monaco",
+    "w1": "Singapore",
+    "w2": "Vatikanstaten"
+  },
+  {
+    "q": "Vilken flod har störst avrinningsområde?",
+    "a": "Amazonas",
+    "w1": "Nilen",
+    "w2": "Kongo"
+  },
+  {
+    "q": "Vilken är världens största delta?",
+    "a": "Ganges–Brahmaputra",
+    "w1": "Nilen",
+    "w2": "Mississippi"
+  },
+  {
+    "q": "Vilket hav har högst salthalt förutom Döda havet?",
+    "a": "Röda havet",
+    "w1": "Medelhavet",
+    "w2": "Persiska viken"
+  },
+  {
+    "q": "Vilket län i Sverige är störst till ytan?",
+    "a": "Norrbotten",
+    "w1": "Västerbotten",
+    "w2": "Jämtland"
+  },
+  {
+    "q": "Vilket är Sveriges minsta landskap till ytan?",
+    "a": "Öland",
+    "w1": "Gotland",
+    "w2": "Bohuslän"
+  },
+  {
+    "q": "Vilket är Sveriges största landskap till ytan?",
+    "a": "Lappland",
+    "w1": "Norrbotten",
+    "w2": "Jämtland"
+  },
+  {
+    "q": "Hur många landskap har Sverige?",
+    "a": "25",
+    "w1": "21",
+    "w2": "24"
+  },
+  {
+    "q": "Vilken är Norges största ö?",
+    "a": "Hinnøya",
+    "w1": "Senja",
+    "w2": "Lofoten"
+  },
+  {
+    "q": "Vilken är Danmarks största ö (utom Grönland och Färöarna)?",
+    "a": "Själland",
+    "w1": "Jylland",
+    "w2": "Fyn"
+  },
+  {
+    "q": "Vad heter världens största sammanhängande sandöken (erg)?",
+    "a": "Rub al Khali",
+    "w1": "Sahara",
+    "w2": "Namib"
+  },
+  {
+    "q": "Vilket land har flest pyramider i världen?",
+    "a": "Sudan",
+    "w1": "Egypten",
+    "w2": "Mexiko"
+  },
+  {
+    "q": "Vad är jordens lägsta landpunkt?",
+    "a": "Döda havets strand",
+    "w1": "Dalgången vid Turfan",
+    "w2": "Death Valley"
+  },
+  {
+    "q": "Vad heter den näst djupaste havsgraven?",
+    "a": "Tongagraven",
+    "w1": "Marianergraven",
+    "w2": "Filippinergraven"
+  },
+  {
+    "q": "Vilken är Tysklands längsta flod?",
+    "a": "Rhen",
+    "w1": "Elbe",
+    "w2": "Donau"
+  },
+  {
+    "q": "Vilket land har flest sjöar i världen?",
+    "a": "Kanada",
+    "w1": "Finland",
+    "w2": "Ryssland"
   }
 ]

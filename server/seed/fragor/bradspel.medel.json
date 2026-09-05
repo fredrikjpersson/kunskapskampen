@@ -238,5 +238,125 @@
     "a": "Queen",
     "w1": "King",
     "w2": "Joker"
+  },
+  {
+    "q": "Vad heter Yatzy på engelska?",
+    "a": "Yahtzee",
+    "w1": "Yacht",
+    "w2": "Dice Poker"
+  },
+  {
+    "q": "Vilket spel är Fia med knuff baserat på?",
+    "a": "Pachisi",
+    "w1": "Senet",
+    "w2": "Backgammon"
+  },
+  {
+    "q": "Från vilket land kommer Pachisi?",
+    "a": "Indien",
+    "w1": "Kina",
+    "w2": "Egypten"
+  },
+  {
+    "q": "Vilket land kommer 'Ormar och stegar' från?",
+    "a": "Indien",
+    "w1": "England",
+    "w2": "USA"
+  },
+  {
+    "q": "Från vilket land kommer domino?",
+    "a": "Kina",
+    "w1": "Italien",
+    "w2": "Egypten"
+  },
+  {
+    "q": "Hur många brickor finns i Mahjong?",
+    "a": "144",
+    "w1": "108",
+    "w2": "160"
+  },
+  {
+    "q": "Hur många brickor har en dubbel-sex domino-uppsättning?",
+    "a": "28",
+    "w1": "24",
+    "w2": "32"
+  },
+  {
+    "q": "Från vilket land kommer Senet?",
+    "a": "Egypten",
+    "w1": "Grekland",
+    "w2": "Mesopotamien"
+  },
+  {
+    "q": "Vad betyder 'atari' i Go?",
+    "a": "Att en grupp är ett steg från att fångas",
+    "w1": "Att partiet är slut",
+    "w2": "Omgående vinst"
+  },
+  {
+    "q": "Vad heter Go-brädet?",
+    "a": "Goban",
+    "w1": "Gojo",
+    "w2": "Banjo"
+  },
+  {
+    "q": "Hur många svarta stenar finns i Go?",
+    "a": "181",
+    "w1": "180",
+    "w2": "190"
+  },
+  {
+    "q": "Vem förlorade VM-titeln 1975 utan att spela en match?",
+    "a": "Bobby Fischer",
+    "w1": "Boris Spasskij",
+    "w2": "Anatolij Karpov"
+  },
+  {
+    "q": "Vem vann schack-VM 1975?",
+    "a": "Anatolij Karpov",
+    "w1": "Viktor Kortjnoj",
+    "w2": "Garry Kasparov"
+  },
+  {
+    "q": "Hur många VM-matcher spelade Karpov och Kasparov på 80-talet?",
+    "a": "5",
+    "w1": "3",
+    "w2": "4"
+  },
+  {
+    "q": "Vilket år blev Kasparov världsmästare?",
+    "a": "1985",
+    "w1": "1984",
+    "w2": "1986"
+  },
+  {
+    "q": "Hur gammal var Kasparov när han blev världsmästare?",
+    "a": "22 år",
+    "w1": "25 år",
+    "w2": "19 år"
+  },
+  {
+    "q": "Vad kallas schacköppningen som inleds med c4?",
+    "a": "Engelskt parti",
+    "w1": "Sicilianskt",
+    "w2": "Katalansk"
+  },
+  {
+    "q": "Vad kallas öppningen som inleds med Sf3?",
+    "a": "Réti-öppningen",
+    "w1": "Nimzowitsch",
+    "w2": "Kungsindiskt"
+  },
+  {
+    "q": "Vad kallas öppningen som inleds med f4?",
+    "a": "Birds öppning",
+    "w1": "Kungsgambit",
+    "w2": "Holländskt"
+  },
+  {
+    "q": "Vilken position definierar Najdorf-varianten?",
+    "a": "5...a6 i sicilianskan",
+    "w1": "5...e5 i sicilianskan",
+    "w2": "4...a6 i spanskan"
   }
 ]

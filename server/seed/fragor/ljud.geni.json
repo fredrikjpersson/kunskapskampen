@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Vilken frekvens används som referenston för kalibrering av ljudutrustning (inte stämtonen för musik)?",
+    "a": "1 000 Hz",
+    "w1": "440 Hz",
+    "w2": "432 Hz",
+    "w3": "100 Hz",
+    "w4": "2 000 Hz",
+    "w5": "10 000 Hz"
+  },
+  {
+    "q": "Vad är ljudets hastighet i torr luft vid 20 °C?",
+    "a": "Cirka 343 m/s",
+    "w1": "Cirka 331 m/s",
+    "w2": "Cirka 320 m/s",
+    "w3": "Cirka 360 m/s",
+    "w4": "Cirka 299 m/s",
+    "w5": "Cirka 1 480 m/s"
+  },
+  {
+    "q": "Ungefär vilket dynamikomfång i dB har 24-bitars digitalt ljud (teoretiskt)?",
+    "a": "144 dB",
+    "w1": "96 dB",
+    "w2": "120 dB",
+    "w3": "72 dB",
+    "w4": "48 dB",
+    "w5": "192 dB"
+  },
+  {
+    "q": "Samplingsfrekvensen 44,1 kHz valdes ursprungligen för att passa inspelning via...",
+    "a": "Videobandspelare (PCM-adapter)",
+    "w1": "Telefonnätet",
+    "w2": "Radiosändare",
+    "w3": "Satellitlänkar",
+    "w4": "Kassettband",
+    "w5": "Filmspår"
+  },
+  {
+    "q": "Vad går Haas-effekten (prioritetseffekten) ut på?",
+    "a": "Ljud som anländer först avgör var vi uppfattar att ljudet kommer ifrån",
+    "w1": "Efterklang under 30 ms gör ljudet tydligare",
+    "w2": "Starka frekvenser maskerar svagare grannfrekvenser",
+    "w3": "Frekvensen sjunker när ljudkällan närmar sig",
+    "w4": "Två närliggande frekvenser skapar svävningar",
+    "w5": "Fasen inverteras vid reflektion"
+  },
+  {
+    "q": "Vad motsvarar 0 dB SPL (hörseltröskeln) i tryck?",
+    "a": "20 µPa",
+    "w1": "1 Pa",
+    "w2": "20 mPa",
+    "w3": "100 µPa",
+    "w4": "2 µPa",
+    "w5": "0 Pa"
+  },
+  {
+    "q": "Vid vilka frekvenser är människans hörsel som känsligast?",
+    "a": "2–5 kHz",
+    "w1": "20–100 Hz",
+    "w2": "200–500 Hz",
+    "w3": "Cirka 1 kHz",
+    "w4": "6–8 kHz",
+    "w5": "10–16 kHz"
+  },
+  {
+    "q": "En ton på 440 Hz avges från en källa som närmar sig med 10 % av ljudhastigheten. Vilken frekvens uppfattar en stillastående lyssnare?",
+    "a": "484 Hz",
+    "w1": "400 Hz",
+    "w2": "440 Hz",
+    "w3": "460 Hz",
+    "w4": "470 Hz",
+    "w5": "496 Hz"
+  },
+  {
+    "q": "Hur många cent motsvarar en oktav i musikalisk tonhöjdmätning?",
+    "a": "1 200",
+    "w1": "100",
+    "w2": "600",
+    "w3": "1 000",
+    "w4": "2 400",
+    "w5": "1 225"
+  },
+  {
+    "q": "Vad kallas det psykoakustiska fenomenet där en svag ton blir ohörbar bredvid en starkare, närliggande frekvens?",
+    "a": "Samtidig maskering",
+    "w1": "Svävning",
+    "w2": "Aliasing",
+    "w3": "Kamfiltereffekt",
+    "w4": "Haas-effekten",
+    "w5": "Dopplereffekten"
+  },
+  {
+    "q": "Vilken vågform innehåller såväl jämna som udda övertonar som avtar med 1/n?",
+    "a": "Sågtandsvåg",
+    "w1": "Fyrkantsvåg",
+    "w2": "Triangelvåg",
+    "w3": "Sinusvåg",
+    "w4": "Pulsvåg",
+    "w5": "Vit brus"
+  },
+  {
+    "q": "Vad uttrycker enheten phon?",
+    "a": "Ljudnivå som vid 1 kHz motsvarar dB SPL (upplevd hörlhet)",
+    "w1": "Ljudtryck mätt i pascal",
+    "w2": "Ljudkällans effekt i watt",
+    "w3": "Frekvens i kilohertz",
+    "w4": "Förstärkning i dBu",
+    "w5": "Efterklangstid i sekunder"
+  },
+  {
+    "q": "Vid vilken temperatur har ljudet i luft exakt hastigheten 331,3 m/s?",
+    "a": "0 °C",
+    "w1": "20 °C",
+    "w2": "10 °C",
+    "w3": "−10 °C",
+    "w4": "15 °C",
+    "w5": "−20 °C"
+  },
+  {
+    "q": "Ungefär vilken frekvens ligger en halvton under 880 Hz?",
+    "a": "Cirka 830,6 Hz",
+    "w1": "Cirka 858,3 Hz",
+    "w2": "Cirka 800 Hz",
+    "w3": "Cirka 870 Hz",
+    "w4": "Cirka 815 Hz",
+    "w5": "Cirka 840,5 Hz"
+  },
+  {
+    "q": "Vilken formel ger ljudhastigheten i en ideal gas?",
+    "a": "Kvadratroten ur γRT/M",
+    "w1": "Kvadratroten ur pV/nRT",
+    "w2": "γRT utan roten",
+    "w3": "p/ρ",
+    "w4": "Kvadratroten ur RT",
+    "w5": "2πf"
+  },
+  {
+    "q": "Vad är referensintensiteten för 0 dB i W/m²?",
+    "a": "10⁻¹²",
+    "w1": "10⁻⁶",
+    "w2": "10⁻³",
+    "w3": "1",
+    "w4": "10⁻⁹",
+    "w5": "10⁻¹⁵"
+  },
+  {
+    "q": "Ungefär vilken ljudintensitet motsvarar smärttröskeln (W/m²)?",
+    "a": "Cirka 1",
+    "w1": "Cirka 0,01",
+    "w2": "Cirka 100",
+    "w3": "Cirka 10",
+    "w4": "Cirka 0,1",
+    "w5": "Cirka 1 000"
+  },
+  {
+    "q": "Vilken faktor i ljudtryck motsvarar 6 dB?",
+    "a": "2",
+    "w1": "4",
+    "w2": "10",
+    "w3": "1,5",
+    "w4": "3",
+    "w5": "8"
+  },
+  {
+    "q": "Vilket referenstryck används för dB i vatten?",
+    "a": "1 µPa",
+    "w1": "20 µPa",
+    "w2": "1 Pa",
+    "w3": "20 Pa",
+    "w4": "100 µPa",
+    "w5": "0,1 µPa"
+  },
+  {
+    "q": "Ungefär hur många oktaver omfattar människans hörsel?",
+    "a": "Cirka 10",
+    "w1": "Cirka 7",
+    "w2": "Cirka 12",
+    "w3": "Cirka 5",
+    "w4": "Cirka 20",
+    "w5": "Cirka 8"
+  },
+  {
+    "q": "Vilken alternativ stämfrekvens populariserats som 'verdi-stämning'?",
+    "a": "432 Hz",
+    "w1": "415 Hz",
+    "w2": "442 Hz",
+    "w3": "396 Hz",
+    "w4": "448 Hz",
+    "w5": "420 Hz"
+  },
+  {
+    "q": "Ungefär hur många cent skiljer 440 Hz och 441 Hz?",
+    "a": "Cirka 4",
+    "w1": "Cirka 1",
+    "w2": "Cirka 2",
+    "w3": "Cirka 10",
+    "w4": "Cirka 20",
+    "w5": "Cirka 0,5"
+  },
+  {
+    "q": "Hur stor är den pythagoreiska komman (i cent)?",
+    "a": "Cirka 23,5",
+    "w1": "Cirka 21,5",
+    "w2": "Cirka 11,7",
+    "w3": "Cirka 41,1",
+    "w4": "Cirka 13,7",
+    "w5": "Cirka 90,2"
+  },
+  {
+    "q": "Hur stor är den syntoniska (didymiska) komman (i cent)?",
+    "a": "Cirka 21,5",
+    "w1": "Cirka 23,5",
+    "w2": "Cirka 11,7",
+    "w3": "Cirka 41,1",
+    "w4": "Cirka 13,7",
+    "w5": "Cirka 90,2"
+  },
+  {
+    "q": "Vilket frekvensförhållande har en ren stor ters?",
+    "a": "5:4",
+    "w1": "6:5",
+    "w2": "4:3",
+    "w3": "5:3",
+    "w4": "9:8",
+    "w5": "81:64"
+  },
+  {
+    "q": "Vilket frekvensförhållande har en ren liten septim?",
+    "a": "7:4",
+    "w1": "9:5",
+    "w2": "16:9",
+    "w3": "15:8",
+    "w4": "5:4",
+    "w5": "11:8"
+  },
+  {
+    "q": "Vad kallas det falska intervall som uppstår i icke-jämn stämning?",
+    "a": "Urton (wolf interval)",
+    "w1": "Spökvåg",
+    "w2": "Djevelsintervall",
+    "w3": "Tritonuskomma",
+    "w4": "Kamton",
+    "w5": "Skevton"
+  },
+  {
+    "q": "Vad kallas stämningen där komman fördelas så att fyra kvinter ger ren stor ters?",
+    "a": "Medeltonsstämning (meantone)",
+    "w1": "Växlande stämning",
+    "w2": "Pythagoreisk stämning",
+    "w3": "Ren stämning",
+    "w4": "Valfri temperatur",
+    "w5": "Oktavstämning"
+  },
+  {
+    "q": "Hur många steg per oktav har arabisk musik i 24-EDO?",
+    "a": "24",
+    "w1": "17",
+    "w2": "19",
+    "w3": "31",
+    "w4": "12",
+    "w5": "53"
+  },
+  {
+    "q": "Vilket EDO-system ger en nästan ren stor ters?",
+    "a": "31-EDO",
+    "w1": "19-EDO",
+    "w2": "12-EDO",
+    "w3": "22-EDO",
+    "w4": "53-EDO",
+    "w5": "24-EDO"
+  },
+  {
+    "q": "Ungefär hur lång våglängd har 1 kHz i luft?",
+    "a": "Cirka 34 cm",
+    "w1": "Cirka 3,4 cm",
+    "w2": "Cirka 1 m",
+    "w3": "Cirka 17 cm",
+    "w4": "Cirka 68 cm",
+    "w5": "Cirka 3,4 m"
+  },
+  {
+    "q": "Ungefär hur lång våglängd har 20 kHz i luft?",
+    "a": "Cirka 1,7 cm",
+    "w1": "Cirka 17 cm",
+    "w2": "Cirka 5 mm",
+    "w3": "Cirka 34 cm",
+    "w4": "Cirka 1 m",
+    "w5": "Cirka 10 cm"
+  },
+  {
+    "q": "Hur många centimeter är ett 15-tums baselement?",
+    "a": "Cirka 38 cm",
+    "w1": "Cirka 25 cm",
+    "w2": "Cirka 30 cm",
+    "w3": "Cirka 45 cm",
+    "w4": "Cirka 50 cm",
+    "w5": "Cirka 35 cm"
+  },
+  {
+    "q": "Vad beskriver Thiele-Small-parametrarna?",
+    "a": "Högtalelementens elektroakustiska småsignal-egenskaper",
+    "w1": "Förstärkarens distorsion",
+    "w2": "Rummets efterklangstid",
+    "w3": "Kablars kapacitans",
+    "w4": "Filens samplingsfrekvens",
+    "w5": "Diskantens spridning"
+  },
+  {
+    "q": "Vad står Qts för hos ett högtalarelement?",
+    "a": "Total Q-faktor (dämpning)",
+    "w1": "Kvalitetsklass",
+    "w2": "Toppspänning",
+    "w3": "Termisk gräns",
+    "w4": "Tidskonstant",
+    "w5": "Impedanskurva"
+  },
+  {
+    "q": "Vad anger Xmax för ett högtalarelement?",
+    "a": "Maximalt linjärt utslag",
+    "w1": "Maximal effekt",
+    "w2": "Maximal frekvens",
+    "w3": "Känslighet i dB",
+    "w4": "Kabellängd",
+    "w5": "Membranarea"
+  },
+  {
+    "q": "Vad betyder känsligheten '1W/1m'?",
+    "a": "Decibel vid 1 watt på 1 meters avstånd",
+    "w1": "Effekt vid 1 volt",
+    "w2": "Frekvens vid 1 kHz",
+    "w3": "Max tryck vid 1 ampere",
+    "w4": "Ljudtryck vid 1 milliwatt",
+    "w5": "Våglängd vid 1 meter"
+  },
+  {
+    "q": "Vad innebär en 'sealed' högtalarlåda?",
+    "a": "En sluten låda utan port",
+    "w1": "En låda med basreflex",
+    "w2": "En aktiv låda",
+    "w3": "En hornlåda",
+    "w4": "En låda med passiv radiator",
+    "w5": "En öppen baffle"
+  },
+  {
+    "q": "Vad åstadkommer hornladdning av ett element?",
+    "a": "Akustisk transformator som höjer verkningsgraden",
+    "w1": "Dämpar diskanten",
+    "w2": "Sänker impedansen",
+    "w3": "Tar bort distorsion",
+    "w4": "Breder basen",
+    "w5": "Kylar spolen"
+  },
+  {
+    "q": "Vad innebär bi-wiring?",
+    "a": "Separata kablar till bas- och diskantterminaler",
+    "w1": "Dubbla förstärkare",
+    "w2": "Två högtalare i parallell",
+    "w3": "Balanserad signal",
+    "w4": "Jordad kabel",
+    "w5": "Motsatt fas"
+  },
+  {
+    "q": "Vilket frekvensband kallas sub-bas?",
+    "a": "20–60 Hz",
+    "w1": "60–120 Hz",
+    "w2": "120–250 Hz",
+    "w3": "250–500 Hz",
+    "w4": "10–20 Hz",
+    "w5": "60–250 Hz"
+  },
+  {
+    "q": "Vad är time alignment i högtalarlista?",
+    "a": "Fördröjning av element så att vågfronterna sammanfaller",
+    "w1": "Synkronisering av bluetooth",
+    "w2": "Justering av impedans",
+    "w3": "Stämning av klockfrekvens",
+    "w4": "Justering av rumsmodem",
+    "w5": "Kalibrering av nivåer"
+  },
+  {
+    "q": "Vad innebär open-back-hörlurar?",
+    "a": "Öppna skalor som släpper in och ut ljud",
+    "w1": "Slutna koppar med aktiv dämpning",
+    "w2": "Trådlösa hörlurar",
+    "w3": "Benledninghörlurar",
+    "w4": "Vatten täta hörlurar",
+    "w5": "Hörlurar med dubbla drivare"
+  },
+  {
+    "q": "Vad är planar magnetic-teknik?",
+    "a": "Ett membran i ett magnetfält rör sig helt jämnt",
+    "w1": "Elektrostatisk membranvakuum",
+    "w2": "Balanserad armatur",
+    "w3": "Piezokristall",
+    "w4": "Rördrivna kupor",
+    "w5": "Servostyrd kon"
+  },
+  {
+    "q": "Hur fungerar en elektrostat högtalare?",
+    "a": "Ett tunnt membran dras mellan laddade plattor",
+    "w1": "Rörelse via piezoelektricitet",
+    "w2": "Rörelse via en röstspole i magnetgap",
+    "w3": "Luft trycks genom portar",
+    "w4": "Magnetostatisk rem sa",
+    "w5": "Kondensatormikrofon omvänd"
+  },
+  {
+    "q": "Vilken impedans är vanligast för hi-fi-hörlurar (ohm)?",
+    "a": "32",
+    "w1": "8",
+    "w2": "250",
+    "w3": "600",
+    "w4": "4",
+    "w5": "16"
+  },
+  {
+    "q": "Vad betyder IEM?",
+    "a": "In-ear monitor",
+    "w1": "Integrated Equalizer Module",
+    "w2": "Impedance Enhanced Microphone",
+    "w3": "Internal Echo Manager",
+    "w4": "Input Effect Mixer",
+    "w5": "Isolated Ear Module"
+  },
+  {
+    "q": "Vad är binaural beats?",
+    "a": "Två något olika toner som skapar upplevd pulsering i hjärnan",
+    "w1": "Slag i båda öronen samtidigt",
+    "w2": "Ekon i hörlurar",
+    "w3": "Svävning mellan högtalare",
+    "w4": "Dubbla bastoner",
+    "w5": "Stereobredd med delay"
+  },
+  {
+    "q": "Ungefär vilken frekvensskillnad ger binaural beats i alfa-området?",
+    "a": "Cirka 10 Hz",
+    "w1": "Cirka 2 Hz",
+    "w2": "Cirka 30 Hz",
+    "w3": "Cirka 100 Hz",
+    "w4": "Cirka 4 Hz",
+    "w5": "Cirka 40 Hz"
+  },
+  {
+    "q": "Vad är en shepherd-ton?",
+    "a": "En tonskala som verkar stiga oändligt",
+    "w1": "En ren sinusvåg",
+    "w2": "En ton som bara hörs i vänster öra",
+    "w3": "En ultraljudston",
+    "w4": "En ton med konstant volym",
+    "w5": "En stigande serie av bastoner"
+  },
+  {
+    "q": "Vad kallas analys av buller i tredjedelsoktavband?",
+    "a": "1/3-oktavbandsanalys",
+    "w1": "FFT-analys",
+    "w2": "Waveletanalys",
+    "w3": "Cepstrumanalys",
+    "w4": "Vit brus-analys",
+    "w5": "Filterbanksmodulering"
+  },
+  {
+    "q": "Vad betyder det att ett läkemedel är ototoxiskt?",
+    "a": "Det kan skada hörseln",
+    "w1": "Det påverkar balansorganet positivt",
+    "w2": "Det ökar hörseln",
+    "w3": "Det dövar smärta",
+    "w4": "Det orsakar öronvax",
+    "w5": "Det botar tinnitus"
+  },
+  {
+    "q": "Ungefär hur många hårceller finns i cochlea?",
+    "a": "Cirka 16 000",
+    "w1": "Cirka 1 600",
+    "w2": "Cirka 160 000",
+    "w3": "Cirka 1 600 000",
+    "w4": "Cirka 500",
+    "w5": "Cirka 3 000"
+  },
+  {
+    "q": "Vad heter innerörats snäcka?",
+    "a": "Cochlea",
+    "w1": "Tympani",
+    "w2": "Vestibularis",
+    "w3": "Corti",
+    "w4": "Eustaki",
+    "w5": "Ovalis"
+  },
+  {
+    "q": "Vad kallas åldersrelaterad hörselnedsättning?",
+    "a": "Presbyacusis",
+    "w1": "Tinnitus",
+    "w2": "Meniéres sjukdom",
+    "w3": "Otosalpingit",
+    "w4": "Hyperakusis",
+    "w5": "Prosopagnosi"
+  },
+  {
+    "q": "Vilka frekvenser försvinner oftast först vid hörselnedsättning?",
+    "a": "4–8 kHz",
+    "w1": "20–100 Hz",
+    "w2": "100–500 Hz",
+    "w3": "500–1 000 Hz",
+    "w4": "1–2 kHz",
+    "w5": "10–16 kHz"
+  },
+  {
+    "q": "Vad mäter ett audiogram?",
+    "a": "Hörseltröskeln vid olika frekvenser",
+    "w1": "Trumhinnans rörlighet",
+    "w2": "Ljudnivå i rum",
+    "w3": "Taluppfattning i brus",
+    "w4": "Antal hårceller",
+    "w5": "Örontryck i flyg"
+  },
+  {
+    "q": "Vad är recruitment vid hörselnedsättning?",
+    "a": "Onormalt snabb volymökning vid höjda nivåer",
+    "w1": "Att örat återhämtar sig",
+    "w2": "Att man hör bättre i brus",
+    "w3": "Vikselse mellan öron",
+    "w4": "Ryckningar i trumhinnan",
+    "w5": "Efterklang i cochlea"
+  },
+  {
+    "q": "Vad kallas hårcellernas sinneshår?",
+    "a": "Stereocilier",
+    "w1": "Kinne-cilier",
+    "w2": "Mikrovilli",
+    "w3": "Axon",
+    "w4": "Dendriter",
+    "w5": "Flageller"
+  },
+  {
+    "q": "Ungefär vilket dynamikomfång har 16-bitars ljud (dB)?",
+    "a": "Cirka 96 dB",
+    "w1": "Cirka 48 dB",
+    "w2": "Cirka 120 dB",
+    "w3": "Cirka 144 dB",
+    "w4": "Cirka 72 dB",
+    "w5": "Cirka 192 dB"
+  }
+]

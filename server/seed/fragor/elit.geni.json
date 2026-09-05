@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Vilket tal följer i sekvensen: 2, 6, 12, 20, 30, ...?",
+    "a": "42",
+    "w1": "40",
+    "w2": "44",
+    "w3": "36",
+    "w4": "48",
+    "w5": "56"
+  },
+  {
+    "q": "Du kastar två tärningar. Vad är sannolikheten att summan blir exakt 8?",
+    "a": "5/36",
+    "w1": "1/6",
+    "w2": "1/9",
+    "w3": "1/12",
+    "w4": "7/36",
+    "w5": "1/8"
+  },
+  {
+    "q": "Vilket tal följer: 1, 4, 27, 256, ...?",
+    "a": "3 125",
+    "w1": "625",
+    "w2": "1 024",
+    "w3": "2 401",
+    "w4": "4 096",
+    "w5": "1 296"
+  },
+  {
+    "q": "Ett pris höjs först 25 % och sänks därefter 20 %. Hur har priset förändrats totalt?",
+    "a": "Det är oförändrat",
+    "w1": "+5 %",
+    "w2": "−5 %",
+    "w3": "+2 %",
+    "w4": "−2 %",
+    "w5": "+1 %"
+  },
+  {
+    "q": "Vilket årstal representerar romerska siffror MCMXCIX?",
+    "a": "1999",
+    "w1": "1899",
+    "w2": "2009",
+    "w3": "1989",
+    "w4": "2001",
+    "w5": "1991"
+  },
+  {
+    "q": "Vad är talet 113 (skrivet i bas 8) uttryckt i decimalsystemet?",
+    "a": "75",
+    "w1": "83",
+    "w2": "79",
+    "w3": "91",
+    "w4": "113",
+    "w5": "69"
+  },
+  {
+    "q": "Vilken vinkel bildar tim- och minutvisarnarna på en klocka vid exakt 15:15?",
+    "a": "7,5°",
+    "w1": "0°",
+    "w2": "15°",
+    "w3": "30°",
+    "w4": "22,5°",
+    "w5": "12°"
+  },
+  {
+    "q": "En bassäng fylls via en slang på 4 timmar och töms via avloppet på 6 timmar. Om båda är öppna samtidigt – hur lång tid tar det att fylla bassängen?",
+    "a": "12 timmar",
+    "w1": "5 timmar",
+    "w2": "10 timmar",
+    "w3": "2,4 timmar",
+    "w4": "4,8 timmar",
+    "w5": "8 timmar"
+  },
+  {
+    "q": "Vad är det största tvåsiffriga primtalet?",
+    "a": "97",
+    "w1": "91",
+    "w2": "93",
+    "w3": "95",
+    "w4": "99",
+    "w5": "89"
+  },
+  {
+    "q": "Vilken bokstav följer: O, T, T, F, F, S, S, ...?",
+    "a": "E",
+    "w1": "N",
+    "w2": "T",
+    "w3": "H",
+    "w4": "X",
+    "w5": "D"
+  },
+  {
+    "q": "Vad blir summan av alla heltal från 1 till 100?",
+    "a": "5 050",
+    "w1": "4 950",
+    "w2": "5 000",
+    "w3": "5 100",
+    "w4": "5 500",
+    "w5": "10 100"
+  },
+  {
+    "q": "En cirkel har omkretsen 31,4 cm. Vilken är dess area (använd π ≈ 3,14)?",
+    "a": "78,5 cm²",
+    "w1": "62,8 cm²",
+    "w2": "157 cm²",
+    "w3": "31,4 cm²",
+    "w4": "50,24 cm²",
+    "w5": "100 cm²"
+  },
+  {
+    "q": "Ungefär hur många människor dog när Vasa sjönk 1628?",
+    "a": "Cirka 30",
+    "w1": "Cirka 150",
+    "w2": "Cirka 5",
+    "w3": "Cirka 400",
+    "w4": "Alla ombord",
+    "w5": "Cirka 60"
+  },
+  {
+    "q": "Vilken svensk regent regerade längst?",
+    "a": "Magnus Eriksson",
+    "w1": "Karl XIV Johan",
+    "w2": "Gustav V",
+    "w3": "Gustav III",
+    "w4": "Karl XI",
+    "w5": "Margareta"
+  },
+  {
+    "q": "Vem ledde Stockholms blodbad?",
+    "a": "Kristian II",
+    "w1": "Kristian I",
+    "w2": "Gustav Trolle",
+    "w3": "Svante Nilsson",
+    "w4": "Sten Sture d.ä.",
+    "w5": "Johan III"
+  },
+  {
+    "q": "Vilket år hölls den första riksdagen i Arboga?",
+    "a": "1435",
+    "w1": "1523",
+    "w2": "1359",
+    "w3": "1434",
+    "w4": "1517",
+    "w5": "1448"
+  },
+  {
+    "q": "Vilket år bildades Kalmarunionen?",
+    "a": "1397",
+    "w1": "1389",
+    "w2": "1412",
+    "w3": "1375",
+    "w4": "1435",
+    "w5": "1408"
+  },
+  {
+    "q": "Vilket år mördades Engelbrekt Engelbrektsson?",
+    "a": "1434",
+    "w1": "1432",
+    "w2": "1436",
+    "w3": "1440",
+    "w4": "1429",
+    "w5": "1438"
+  },
+  {
+    "q": "Vilket år dog Sten Sture d.y. efter slaget på Åsunden?",
+    "a": "1520",
+    "w1": "1517",
+    "w2": "1523",
+    "w3": "1512",
+    "w4": "1527",
+    "w5": "1515"
+  },
+  {
+    "q": "Vilket år var freden i Roskilde?",
+    "a": "1658",
+    "w1": "1645",
+    "w2": "1660",
+    "w3": "1679",
+    "w4": "1648",
+    "w5": "1661"
+  },
+  {
+    "q": "Vilket år var freden i Brömsebro?",
+    "a": "1645",
+    "w1": "1658",
+    "w2": "1635",
+    "w3": "1648",
+    "w4": "1660",
+    "w5": "1642"
+  },
+  {
+    "q": "Vilket år stod slaget vid Lützen?",
+    "a": "1632",
+    "w1": "1631",
+    "w2": "1634",
+    "w3": "1626",
+    "w4": "1642",
+    "w5": "1621"
+  },
+  {
+    "q": "Vilken svensk kung dog vid Lützen?",
+    "a": "Gustav II Adolf",
+    "w1": "Gustav Vasa",
+    "w2": "Karl X Gustav",
+    "w3": "Erik XIV",
+    "w4": "Karl XII",
+    "w5": "Johan III"
+  },
+  {
+    "q": "Vilket år grundades Svenska Ostindiska kompaniet?",
+    "a": "1731",
+    "w1": "1718",
+    "w2": "1747",
+    "w3": "1720",
+    "w4": "1756",
+    "w5": "1739"
+  },
+  {
+    "q": "Vilket år mördades Gustav III?",
+    "a": "1792",
+    "w1": "1789",
+    "w2": "1795",
+    "w3": "1772",
+    "w4": "1809",
+    "w5": "1786"
+  },
+  {
+    "q": "På vilken plats sköts Gustav III?",
+    "a": "På en maskeradbal på Operan",
+    "w1": "På slottet Tre Kronor",
+    "w2": "I rikssalen i Uppsala",
+    "w3": "Vid teatern i Gripsholm",
+    "w4": "På Drottningholm slott",
+    "w5": "I Haga park"
+  },
+  {
+    "q": "Vilket år genomfördes 1809 års regeringsform?",
+    "a": "1809",
+    "w1": "1810",
+    "w2": "1812",
+    "w3": "1808",
+    "w4": "1815",
+    "w5": "1820"
+  },
+  {
+    "q": "Vilken kung avsattes 1809?",
+    "a": "Gustav IV Adolf",
+    "w1": "Gustav III",
+    "w2": "Karl XIII",
+    "w3": "Karl XIV Johan",
+    "w4": "Gustav V",
+    "w5": "Erik XIV"
+  },
+  {
+    "q": "Vid vilken fästning dog Karl XII?",
+    "a": "Fredriksten",
+    "w1": "Älvsborg",
+    "w2": "Bohus",
+    "w3": "Carlsten",
+    "w4": "Wismar",
+    "w5": "Gähna"
+  },
+  {
+    "q": "Vilket år grundades Karlskrona?",
+    "a": "1680",
+    "w1": "1660",
+    "w2": "1700",
+    "w3": "1675",
+    "w4": "1692",
+    "w5": "1658"
+  },
+  {
+    "q": "Vilket år stod slaget vid Breitenfeld?",
+    "a": "1631",
+    "w1": "1632",
+    "w2": "1630",
+    "w3": "1634",
+    "w4": "1627",
+    "w5": "1636"
+  },
+  {
+    "q": "Vem ritade Drottningholms slott?",
+    "a": "Nicodemus Tessin d.ä.",
+    "w1": "Carl Hårleman",
+    "w2": "Jean de la Vallée",
+    "w3": "Tessin d.y.",
+    "w4": "Giovanni Bermudez",
+    "w5": "Simon de la Vallée"
+  },
+  {
+    "q": "Vem skrev 'Aniara'?",
+    "a": "Harry Martinson",
+    "w1": "Artur Lundkvist",
+    "w2": "Karolina Ramqvist",
+    "w3": "Pär Lagerkvist",
+    "w4": "Erik Lindegren",
+    "w5": "Gunnar Ekelöf"
+  },
+  {
+    "q": "Vilken kommissarie skapades av Sjöwall och Wahlöö?",
+    "a": "Martin Beck",
+    "w1": "Kurt Wallander",
+    "w2": "Harry Hole",
+    "w3": "Martin Vanger",
+    "w4": "Erik Winter",
+    "w5": "Van Veeteren"
+  },
+  {
+    "q": "Vilket år fick Winston Churchill Nobelpriset i litteratur?",
+    "a": "1953",
+    "w1": "1945",
+    "w2": "1960",
+    "w3": "1949",
+    "w4": "1957",
+    "w5": "1962"
+  },
+  {
+    "q": "Vem har fått Nobelpris i två olika kategorier?",
+    "a": "Marie Curie och Linus Pauling",
+    "w1": "Endast John Bardeen",
+    "w2": "Endast Fred Sanger",
+    "w3": "Bardeen och Curie enbart",
+    "w4": "Ingen",
+    "w5": "Pauling och Sanger"
+  },
+  {
+    "q": "Vilket år delades de första Nobelprisen ut?",
+    "a": "1901",
+    "w1": "1896",
+    "w2": "1905",
+    "w3": "1898",
+    "w4": "1910",
+    "w5": "1899"
+  },
+  {
+    "q": "Vilket år dog Alfred Nobel?",
+    "a": "1896",
+    "w1": "1901",
+    "w2": "1892",
+    "w3": "1889",
+    "w4": "1900",
+    "w5": "1894"
+  },
+  {
+    "q": "Vilken dag delas Nobelprisen ut?",
+    "a": "10 december",
+    "w1": "1 december",
+    "w2": "21 december",
+    "w3": "Nobels födelsedag i oktober",
+    "w4": "24 december",
+    "w5": "10 november"
+  },
+  {
+    "q": "Vilket år grundades Svenska Akademien?",
+    "a": "1786",
+    "w1": "1739",
+    "w2": "1782",
+    "w3": "1753",
+    "w4": "1791",
+    "w5": "1772"
+  },
+  {
+    "q": "Vem grundade Svenska Akademien?",
+    "a": "Gustav III",
+    "w1": "Gustav II Adolf",
+    "w2": "Karl XII",
+    "w3": "Axel von Fersen",
+    "w4": "Johan Christopher Tolff",
+    "w5": "Elis Schröderheim"
+  },
+  {
+    "q": "Hur många ledamöter har Svenska Akademien?",
+    "a": "18",
+    "w1": "12",
+    "w2": "24",
+    "w3": "9",
+    "w4": "20",
+    "w5": "16"
+  },
+  {
+    "q": "Vilket år hölls det första valet med allmän rösträtt i Sverige?",
+    "a": "1921",
+    "w1": "1919",
+    "w2": "1917",
+    "w3": "1925",
+    "w4": "1909",
+    "w5": "1923"
+  },
+  {
+    "q": "Vilket år hölls folkomröstningen om rusdrycksförbud?",
+    "a": "1922",
+    "w1": "1920",
+    "w2": "1925",
+    "w3": "1919",
+    "w4": "1928",
+    "w5": "1930"
+  },
+  {
+    "q": "Vilket år hölls folkomröstningen om kärnkraft i Sverige?",
+    "a": "1980",
+    "w1": "1976",
+    "w2": "1984",
+    "w3": "1972",
+    "w4": "1990",
+    "w5": "1968"
+  },
+  {
+    "q": "Vilket år hölls Wienkongressen?",
+    "a": "1815",
+    "w1": "1805",
+    "w2": "1830",
+    "w3": "1848",
+    "w4": "1799",
+    "w5": "1825"
+  },
+  {
+    "q": "Vilket år stod slaget vid Waterloo?",
+    "a": "1815",
+    "w1": "1805",
+    "w2": "1820",
+    "w3": "1812",
+    "w4": "1817",
+    "w5": "1825"
+  },
+  {
+    "q": "Vilket år stormades Bastiljen?",
+    "a": "1789",
+    "w1": "1776",
+    "w2": "1793",
+    "w3": "1791",
+    "w4": "1786",
+    "w5": "1799"
+  },
+  {
+    "q": "Vilken kung avrättades 1793?",
+    "a": "Ludvig XVI",
+    "w1": "Ludvig XIV",
+    "w2": "Karl X",
+    "w3": "Ludvig XV",
+    "w4": "Henrik IV",
+    "w5": "Filip II"
+  },
+  {
+    "q": "Vem ledde skräckväldet under franska revolutionen?",
+    "a": "Robespierre",
+    "w1": "Danton",
+    "w2": "Marat",
+    "w3": "Napoleon",
+    "w4": "Mirabeau",
+    "w5": "Saint-Just"
+  },
+  {
+    "q": "Vilket år slutade Krimkriget?",
+    "a": "1856",
+    "w1": "1853",
+    "w2": "1860",
+    "w3": "1848",
+    "w4": "1864",
+    "w5": "1871"
+  },
+  {
+    "q": "Vilket år stod slaget vid Trafalgar?",
+    "a": "1805",
+    "w1": "1815",
+    "w2": "1798",
+    "w3": "1812",
+    "w4": "1802",
+    "w5": "1808"
+  },
+  {
+    "q": "Vem ledde den brittiska flottan vid Trafalgar?",
+    "a": "Horatio Nelson",
+    "w1": "Wellington",
+    "w2": "Collingwood",
+    "w3": "Jervis",
+    "w4": "Duncan",
+    "w5": "Rodney"
+  },
+  {
+    "q": "Vilket år dog Napoleon?",
+    "a": "1821",
+    "w1": "1815",
+    "w2": "1826",
+    "w3": "1832",
+    "w4": "1812",
+    "w5": "1809"
+  },
+  {
+    "q": "På vilken ö dog Napoleon i exil?",
+    "a": "Sankt Helena",
+    "w1": "Elba",
+    "w2": "Korsika",
+    "w3": "Malta",
+    "w4": "Madeira",
+    "w5": "Jersey"
+  },
+  {
+    "q": "Vilket år slutade amerikanska inbördeskriget?",
+    "a": "1865",
+    "w1": "1861",
+    "w2": "1868",
+    "w3": "1859",
+    "w4": "1871",
+    "w5": "1863"
+  },
+  {
+    "q": "Vem ledde sydstaternas trupper i inbördeskriget?",
+    "a": "Robert E. Lee",
+    "w1": "Ulysses S. Grant",
+    "w2": "Stonewall Jackson",
+    "w3": "Jefferson Davis",
+    "w4": "William Sherman",
+    "w5": "George McClellan"
+  },
+  {
+    "q": "Vem mördade Abraham Lincoln?",
+    "a": "John Wilkes Booth",
+    "w1": "Lee Harvey Oswald",
+    "w2": "Charles Guiteau",
+    "w3": "Leon Czolgosz",
+    "w4": "John Hinckley",
+    "w5": "Gavrilo Princip"
+  },
+  {
+    "q": "Vilket år mördades Abraham Lincoln?",
+    "a": "1865",
+    "w1": "1861",
+    "w2": "1868",
+    "w3": "1870",
+    "w4": "1863",
+    "w5": "1876"
+  },
+  {
+    "q": "Vilket år bildades Sveriges riksbank (världens äldsta centralbank)?",
+    "a": "1668",
+    "w1": "1650",
+    "w2": "1690",
+    "w3": "1734",
+    "w4": "1620",
+    "w5": "1705"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Vilken tonart har fyra kryss i armas tecken?",
+    "a": "E-dur",
+    "w1": "A-dur",
+    "w2": "H-dur",
+    "w3": "F-dur",
+    "w4": "C-dur",
+    "w5": "D-dur"
+  },
+  {
+    "q": "Vad kallas en tolvtonsrad som spelas baklänges OCH inverterad samtidigt?",
+    "a": "Krebs",
+    "w1": "Retrograd",
+    "w2": "Inversion",
+    "w3": "Transponering",
+    "w4": "Augmentation",
+    "w5": "Diminution"
+  },
+  {
+    "q": "Vad kännetecknar en neapolitansk sext?",
+    "a": "Sänkt andra stegs ackord i första omvändningen",
+    "w1": "Förhöjd fjärde i grundställning",
+    "w2": "Sänkt sjunde med adderad sext",
+    "w3": "Dubbelgreppad ters i oktavläge",
+    "w4": "Kvart i basen istället för ters",
+    "w5": "Förstorad tresklang med sext"
+  },
+  {
+    "q": "Vad betyder hemiola rytmiskt?",
+    "a": "Förhållandet 3 mot 2 – tretakt känns som tvåtakt",
+    "w1": "Att tempot halveras gradvis",
+    "w2": "Att två stämmor spelar i olika tempo",
+    "w3": "En synkopering på fjärdedelen",
+    "w4": "Att takten växlar mellan 4/4 och 3/4 varannan takt",
+    "w5": "En triol på varje åttondel"
+  },
+  {
+    "q": "A0 – det djupaste A:t på ett piano – har vilken frekvens?",
+    "a": "27,5 Hz",
+    "w1": "55 Hz",
+    "w2": "110 Hz",
+    "w3": "26,16 Hz",
+    "w4": "31 Hz",
+    "w5": "16,35 Hz"
+  },
+  {
+    "q": "Vilken kyrkotonart motsvaras av de vita tangenterna från D till D?",
+    "a": "Dorisk",
+    "w1": "Frygisk",
+    "w2": "Lydisk",
+    "w3": "Mixolydisk",
+    "w4": "Jonisk",
+    "w5": "Eolisk"
+  },
+  {
+    "q": "Vem komponerade operan 'Wozzeck'?",
+    "a": "Alban Berg",
+    "w1": "Arnold Schönberg",
+    "w2": "Anton Webern",
+    "w3": "Richard Strauss",
+    "w4": "Gustav Mahler",
+    "w5": "Paul Hindemith"
+  },
+  {
+    "q": "Vad innebär 'Coltrane changes' i jazz?",
+    "a": "Tonala centrum som rör sig i stora terser",
+    "w1": "Ackordföljder enligt kvintcirkeln",
+    "w2": "Heltonsskale-substitutioner",
+    "w3": "Kromatiska genomgångsackord i basen",
+    "w4": "Bitonala klanger i pianot",
+    "w5": "Ostinat i basen med tritone-substitutioner"
+  },
+  {
+    "q": "Hur många strängar har en modern pedalarpa?",
+    "a": "47",
+    "w1": "36",
+    "w2": "40",
+    "w3": "44",
+    "w4": "46",
+    "w5": "48"
+  },
+  {
+    "q": "Vad är pythagoreisk stämning baserad på?",
+    "a": "Rena kvinter med frekvensförhållandet 3:2",
+    "w1": "Rena stora terser (5:4)",
+    "w2": "Elvte deltonen (11:8)",
+    "w3": "Tolv exakt lika stora halvtoner",
+    "w4": "Rena små septimer (7:4)",
+    "w5": "Kvartcirkeln med 4:3 uppåt"
+  },
+  {
+    "q": "Vem komponerade 'Music for 18 Musicians'?",
+    "a": "Steve Reich",
+    "w1": "Philip Glass",
+    "w2": "Terry Riley",
+    "w3": "La Monte Young",
+    "w4": "John Adams",
+    "w5": "Brian Eno"
+  },
+  {
+    "q": "Vilken Bach-samling inleds med ett preludium i C-dur som mest består av arpeggerade brustna ackord?",
+    "a": "Det vältempererade klaveret, del 1",
+    "w1": "Goldbergvariationerna",
+    "w2": "Engelska sviterna",
+    "w3": "Partitor för klaver",
+    "w4": "Inventioner och sinfonior",
+    "w5": "Kunst der Fuge"
+  },
+  {
+    "q": "Hur många preludier och fugor ingår i varje del av Det vältempererade klaveret?",
+    "a": "24",
+    "w1": "12",
+    "w2": "36",
+    "w3": "48",
+    "w4": "18",
+    "w5": "30"
+  },
+  {
+    "q": "Vilken tonart är Beethovens 'Hammerklavier'-sonat op. 106?",
+    "a": "B-dur",
+    "w1": "C-moll",
+    "w2": "Ess-dur",
+    "w3": "F-moll",
+    "w4": "A-dur",
+    "w5": "D-dur"
+  },
+  {
+    "q": "Hur många stråkkvartetter skrev Beethoven?",
+    "a": "16",
+    "w1": "12",
+    "w2": "14",
+    "w3": "18",
+    "w4": "10",
+    "w5": "20"
+  },
+  {
+    "q": "Vilket opusnummer har 'Kreutzer-sonaten'?",
+    "a": "Op. 47",
+    "w1": "Op. 27",
+    "w2": "Op. 53",
+    "w3": "Op. 57",
+    "w4": "Op. 73",
+    "w5": "Op. 90"
+  },
+  {
+    "q": "Hur många sånger ingår i Schuberts 'Die schöne Müllerin'?",
+    "a": "20",
+    "w1": "16",
+    "w2": "24",
+    "w3": "12",
+    "w4": "18",
+    "w5": "14"
+  },
+  {
+    "q": "Hur många sånger ingår i 'Winterreise'?",
+    "a": "24",
+    "w1": "20",
+    "w2": "16",
+    "w3": "12",
+    "w4": "18",
+    "w5": "14"
+  },
+  {
+    "q": "Vilket år uruppfördes 'Våroffer' (Rite of Spring)?",
+    "a": "1913",
+    "w1": "1911",
+    "w2": "1917",
+    "w3": "1909",
+    "w4": "1915",
+    "w5": "1920"
+  },
+  {
+    "q": "I vilken tonart är Mozarts 40:e symfoni?",
+    "a": "G-moll",
+    "w1": "C-dur",
+    "w2": "D-moll",
+    "w3": "A-dur",
+    "w4": "Ess-dur",
+    "w5": "F-dur"
+  },
+  {
+    "q": "Hur många pianosonater skrev Mozart (ungefär)?",
+    "a": "18",
+    "w1": "32",
+    "w2": "10",
+    "w3": "27",
+    "w4": "14",
+    "w5": "21"
+  },
+  {
+    "q": "Vilket Köchelnummer har 'Eine kleine Nachtmusik'?",
+    "a": "K. 525",
+    "w1": "K. 550",
+    "w2": "K. 331",
+    "w3": "K. 626",
+    "w4": "K. 466",
+    "w5": "K. 551"
+  },
+  {
+    "q": "Hur många variationer finns i Goldbergvariationerna (utöver arian och dess repris)?",
+    "a": "30",
+    "w1": "24",
+    "w2": "32",
+    "w3": "18",
+    "w4": "36",
+    "w5": "12"
+  },
+  {
+    "q": "Ungefär hur lång är Wagners hela Ring-cykel?",
+    "a": "Cirka 15 timmar",
+    "w1": "Cirka 8 timmar",
+    "w2": "Cirka 20 timmar",
+    "w3": "Cirka 5 timmar",
+    "w4": "Cirka 12 timmar",
+    "w5": "Cirka 25 timmar"
+  },
+  {
+    "q": "Vad innebär verismo inom operan?",
+    "a": "Verklighetsnära och vardagligt innehåll",
+    "w1": "Övernaturliga teman",
+    "w2": "Enbart komiska handlingar",
+    "w3": "Musik utan handling",
+    "w4": "Historiska kungadramer",
+    "w5": "Abstrakt modernism"
+  },
+  {
+    "q": "I vilken stad uruppfördes Aida 1871?",
+    "a": "Kairo",
+    "w1": "Rom",
+    "w2": "Milano",
+    "w3": "Paris",
+    "w4": "Venedig",
+    "w5": "Neapel"
+  },
+  {
+    "q": "Vad är Ondes Martenot för något?",
+    "a": "Ett tidigt elektroniskt instrument",
+    "w1": "En träblåsip",
+    "w2": "En typ av mässingsventil",
+    "w3": "En slagverksstock",
+    "w4": "En körteknik",
+    "w5": "Ett notskriftsystem"
+  },
+  {
+    "q": "Vem komponerade 'Turangalîla-Symphonie'?",
+    "a": "Olivier Messiaen",
+    "w1": "Pierre Boulez",
+    "w2": "Karlheinz Stockhausen",
+    "w3": "Edgard Varèse",
+    "w4": "Béla Bartók",
+    "w5": "Igor Stravinskij"
+  },
+  {
+    "q": "Vad heter Stockhausens cykel om veckans sju dagar?",
+    "a": "LICHT",
+    "w1": "ZEIT",
+    "w2": "KLANG",
+    "w3": "AUS DEN SIEBEN TAGEN",
+    "w4": "MANTRA",
+    "w5": "GESANG DER JÜNGLINGE"
+  },
+  {
+    "q": "Vem komponerade verket 4'33\"?",
+    "a": "John Cage",
+    "w1": "La Monte Young",
+    "w2": "Morton Feldman",
+    "w3": "Earle Brown",
+    "w4": "Christian Wolff",
+    "w5": "Terry Riley"
+  },
+  {
+    "q": "Hur många symfonier skrev Brahms?",
+    "a": "4",
+    "w1": "9",
+    "w2": "7",
+    "w3": "5",
+    "w4": "3",
+    "w5": "6"
+  },
+  {
+    "q": "Hur många symfonier skrev Sibelius?",
+    "a": "7",
+    "w1": "9",
+    "w2": "5",
+    "w3": "6",
+    "w4": "8",
+    "w5": "4"
+  },
+  {
+    "q": "Vilken Mahler-symfoni kallas 'De tusendes symfoni'?",
+    "a": "Den åttonde",
+    "w1": "Den andra",
+    "w2": "Den femte",
+    "w3": "Den nionde",
+    "w4": "Den tredje",
+    "w5": "Den sjätte"
+  },
+  {
+    "q": "Hur många 'modes of limited transposition' definierade Messiaen huvudsakligen?",
+    "a": "7",
+    "w1": "5",
+    "w2": "12",
+    "w3": "3",
+    "w4": "9",
+    "w5": "10"
+  },
+  {
+    "q": "Vilket motiv består av tonerna B-A-C-H?",
+    "a": "BACH-motivet",
+    "w1": "DSCH-motivet",
+    "w2": "Kreuzmotivet",
+    "w3": "Fate-motivet",
+    "w4": "Tristan-ackordet",
+    "w5": "Rosamunde-motivet"
+  },
+  {
+    "q": "Vilken ton kallas 'H' i tysk notskrift?",
+    "a": "B (B-natural)",
+    "w1": "Bess (B-kryss)",
+    "w2": "B-b",
+    "w3": "Hess",
+    "w4": "A-kryss",
+    "w5": "C-b"
+  },
+  {
+    "q": "Vad är DSCH-motivet?",
+    "a": "Sjostakovitjs musikaliska signatur D-Es-C-H",
+    "w1": "Schuberts signatur",
+    "w2": "Bachs sista fuga",
+    "w3": "Wagners ledmotiv",
+    "w4": "Bartóks rytmiska cell",
+    "w5": "Stravinskijs ackord"
+  },
+  {
+    "q": "Vilken taktart är 'Take Five'?",
+    "a": "5/4",
+    "w1": "4/4",
+    "w2": "7/8",
+    "w3": "6/8",
+    "w4": "3/4",
+    "w5": "9/8"
+  },
+  {
+    "q": "Vilken taktart dominerar i Brubecks 'Blue Rondo à la Turk'?",
+    "a": "9/8",
+    "w1": "5/4",
+    "w2": "7/8",
+    "w3": "6/8",
+    "w4": "11/8",
+    "w5": "4/4"
+  },
+  {
+    "q": "Vilken taktart är Pink Floyds 'Money'?",
+    "a": "7/4",
+    "w1": "5/4",
+    "w2": "4/4",
+    "w3": "6/8",
+    "w4": "9/8",
+    "w5": "11/8"
+  },
+  {
+    "q": "Vad betyder stråktekniken 'sul ponticello'?",
+    "a": "Att spela alldeles vid stallet",
+    "w1": "Att spela på greppbrädan",
+    "w2": "Att spela med träskaftet",
+    "w3": "Att spela utan stråke",
+    "w4": "Att spela i extremt högt läge",
+    "w5": "Att spela med dubbelt stråktag"
+  },
+  {
+    "q": "Vad betyder 'col legno'?",
+    "a": "Att slå med stråkens trädel",
+    "w1": "Att spela med bara hårsträng",
+    "w2": "Att spela med handsken på",
+    "w3": "Att spela bakom stall",
+    "w4": "Att spela med tummen",
+    "w5": "Att spela i falsett"
+  },
+  {
+    "q": "Vad betyder 'flautando'?",
+    "a": "En flöjtlik, lätt stråkton",
+    "w1": "Att spela med vibrato",
+    "w2": "Att spela mycket starkt",
+    "w3": "Att spela pizzicato",
+    "w4": "Att spela i oktaver",
+    "w5": "Att spela glissando"
+  },
+  {
+    "q": "Vad är scordatura?",
+    "a": "Att stämma instrumentet i alternativa toner",
+    "w1": "En barock dans",
+    "w2": "En notskriftsförkortning",
+    "w3": "En körstämmas roll",
+    "w4": "Att spela utan notblad",
+    "w5": "Att spela i extrem tempo"
+  },
+  {
+    "q": "Var uruppfördes Messiaens 'Quatuor pour la fin du temps'?",
+    "a": "I ett fångläger i Schlesien (Stalag VIII-A)",
+    "w1": "I Notre-Dame i Paris",
+    "w2": "På Salzburgfestivalen",
+    "w3": "I Wienens Musikverein",
+    "w4": "I Covent Garden",
+    "w5": "På Bayreuth"
+  },
+  {
+    "q": "Vilken stad förknippas med den andra Wienskolan?",
+    "a": "Wien",
+    "w1": "Berlin",
+    "w2": "München",
+    "w3": "Prag",
+    "w4": "Budapest",
+    "w5": "Zürich"
+  },
+  {
+    "q": "Vilka tre komponister utgör den andra Wienskolan?",
+    "a": "Schönberg, Berg och Webern",
+    "w1": "Haydn, Mozart och Beethoven",
+    "w2": "Brahms, Wagner och Liszt",
+    "w3": "Mahler, Wolf och Reger",
+    "w4": "Schoenberg, Bartók och Kodály",
+    "w5": "Webern, Varèse och Cowell"
+  },
+  {
+    "q": "Vilket år öppnades Abbey Road Studios?",
+    "a": "1931",
+    "w1": "1926",
+    "w2": "1936",
+    "w3": "1945",
+    "w4": "1952",
+    "w5": "1921"
+  },
+  {
+    "q": "Vilket år släpptes Miles Davis 'Kind of Blue'?",
+    "a": "1959",
+    "w1": "1957",
+    "w2": "1961",
+    "w3": "1955",
+    "w4": "1963",
+    "w5": "1965"
+  },
+  {
+    "q": "Vilken trumpetare gjorde albumet 'Bitches Brew'?",
+    "a": "Miles Davis",
+    "w1": "Dizzy Gillespie",
+    "w2": "Chet Baker",
+    "w3": "Clifford Brown",
+    "w4": "Freddie Hubbard",
+    "w5": "Wynton Marsalis"
+  },
+  {
+    "q": "Vilken saxofonist gjorde 'A Love Supreme'?",
+    "a": "John Coltrane",
+    "w1": "Sonny Rollins",
+    "w2": "Wayne Shorter",
+    "w3": "Ornette Coleman",
+    "w4": "Dexter Gordon",
+    "w5": "Stan Getz"
+  },
+  {
+    "q": "Vilken Gershwin-låt ligger till grund för jazzens 'rhythm changes'?",
+    "a": "I Got Rhythm",
+    "w1": "Summertime",
+    "w2": "Rhapsody in Blue",
+    "w3": "Someone to Watch Over Me",
+    "w4": "Fascinating Rhythm",
+    "w5": "The Man I Love"
+  },
+  {
+    "q": "Vad kallas den djupaste kvinnliga rösttypen?",
+    "a": "Alt",
+    "w1": "Sopran",
+    "w2": "Mezzosopran",
+    "w3": "Tenor",
+    "w4": "Bas",
+    "w5": "Kontraalt"
+  },
+  {
+    "q": "Vad kallas den manliga alt-rösten som sjunger i falsett?",
+    "a": "Countertenor",
+    "w1": "Baryton",
+    "w2": "Kastrat",
+    "w3": "Basso buffo",
+    "w4": "Heldentenor",
+    "w5": "Kontratenor-bas"
+  },
+  {
+    "q": "Vad kallas barbershop-musikens högsta stämma?",
+    "a": "Tenor",
+    "w1": "Baryton",
+    "w2": "Bas",
+    "w3": "Lead",
+    "w4": "Alt",
+    "w5": "Sopran"
+  },
+  {
+    "q": "Vad står SATB för?",
+    "a": "Sopran, alt, tenor, bas",
+    "w1": "Staccato, accent, tenuto, broad",
+    "w2": "Sonat, aria, toccata, ballad",
+    "w3": "Sinfonia, andante, tempo, bravo",
+    "w4": "Sustain, attack, tone, bend",
+    "w5": "Solo, a tre, bis, tutti"
+  },
+  {
+    "q": "Vad heter omfånget av toner som en röst eller ett instrument klarar?",
+    "a": "Ambitus",
+    "w1": "Amplityd",
+    "w2": "Agora",
+    "w3": "Annulus",
+    "w4": "Arsis",
+    "w5": "Anacrus"
+  },
+  {
+    "q": "Vad kallas toner utanför ackordets skala som binder samman ackord?",
+    "a": "Genomgångstoner",
+    "w1": "Pedalpunkter",
+    "w2": "Skordaturatoner",
+    "w3": "Blue notes",
+    "w4": "Ostinati",
+    "w5": "Fermatoner"
+  },
+  {
+    "q": "Vad skiljer ackordet C9 från C7?",
+    "a": "C9 har en adderad stor non",
+    "w1": "C9 har en adderad stor tert",
+    "w2": "C9 har sänkt septim",
+    "w3": "C9 saknar kvint",
+    "w4": "C9 har förhöjd kvint",
+    "w5": "C9 spelas utan grundton"
+  },
+  {
+    "q": "Vad innebär tritonus-substitution i jazz?",
+    "a": "Att ersätta en dominant med den som ligger en ökad kvint därifrån",
+    "w1": "Att spela toner en tritonus snabbare",
+    "w2": "Att byta taktart mitt i solot",
+    "w3": "Att spela i heltonsskalan",
+    "w4": "Att transponera en oktav upp",
+    "w5": "Att ersätta basen med en trombon"
+  }
+]

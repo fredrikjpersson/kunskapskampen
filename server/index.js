@@ -3,7 +3,7 @@ const path = require('path');
 const { getQuestion, resetPool, stats, CATEGORIES, DIFFICULTIES, seedCount } = require('./db');
 
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8101;
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, '..', 'public')));
@@ -23,7 +23,7 @@ app.get('/api/question', (req, res) => {
   if (!category) return res.status(400).json({ error: 'Parametern category krävs' });
   const row = getQuestion(category, difficulty);
   if (!row) return res.status(404).json({ error: 'Inga frågor finns för kombinationen' });
-  const options = shuffle([row.correct, row.wrong1, row.wrong2]);
+  const options = shuffle([row.correct, row.wrong1, row.wrong2, row.wrong3, row.wrong4, row.wrong5].filter(Boolean));
   res.json({
     id: row.id,
     category: row.category,

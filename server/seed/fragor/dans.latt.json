@@ -238,5 +238,125 @@
     "a": "Biet",
     "w1": "Myran",
     "w2": "Getingen"
+  },
+  {
+    "q": "Vilken dansk lek handlar om att hoppa som grodor?",
+    "a": "Små grodorna",
+    "w1": "Björnen sover",
+    "w2": "Bro bro breja"
+  },
+  {
+    "q": "Vad kallas en snabb österrikisk pardans i tretakt?",
+    "a": "Wienerwalts",
+    "w1": "Tango",
+    "w2": "Samba"
+  },
+  {
+    "q": "Vilken fransk dans är känd för höga benlyft och kjolar?",
+    "a": "Cancan",
+    "w1": "Menuett",
+    "w2": "Gavott"
+  },
+  {
+    "q": "Vilken lek dansar man i ring och ska stå still när musiken slutar?",
+    "a": "Björnen sover",
+    "w1": "Små grodorna",
+    "w2": "Alle mine..."
+  },
+  {
+    "q": "Vad kallas dans med stora hula-ringar?",
+    "a": "Hooping",
+    "w1": "Krump",
+    "w2": "Shuffle"
+  },
+  {
+    "q": "Vad heter den parvisa folkdansen från Sevilla?",
+    "a": "Sevillanas",
+    "w1": "Flamenco",
+    "w2": "Fandango"
+  },
+  {
+    "q": "Hur ser de irländska dansarnas armar ut under dansen?",
+    "a": "Raka och stilla längs sidan",
+    "w1": "De viftar högt",
+    "w2": "De hålls på huvudet"
+  },
+  {
+    "q": "Vad kallas den amerikanska teaterdansen från Broadway?",
+    "a": "Jazzdans",
+    "w1": "Stepp",
+    "w2": "Modern"
+  },
+  {
+    "q": "Vilken dans görs i filmen 'The Rocky Horror Picture Show'?",
+    "a": "Time Warp",
+    "w1": "Monster Mash",
+    "w2": "Hand Jive"
+  },
+  {
+    "q": "Vilken dansstil var typisk på 70-talets discotek?",
+    "a": "Disco",
+    "w1": "Twist",
+    "w2": "Lindy hop"
+  },
+  {
+    "q": "Vilken dans blev känd worldwide av Psy?",
+    "a": "Gangnam Style",
+    "w1": "Harlem Shake",
+    "w2": "Macarena"
+  },
+  {
+    "q": "Vilken handklappsdans från 50-talet heter 'Hand Jive'?",
+    "a": "Hand Jive",
+    "w1": "Jitterbug",
+    "w2": "Boogie woogie"
+  },
+  {
+    "q": "Vem dansade i filmen 'Singin' in the Rain'?",
+    "a": "Gene Kelly",
+    "w1": "Fred Astaire",
+    "w2": "Donald O'Connor"
+  },
+  {
+    "q": "Vem var Fred Astaires danspartner i många filmer?",
+    "a": "Ginger Rogers",
+    "w1": "Cyd Charisse",
+    "w2": "Eleanor Powell"
+  },
+  {
+    "q": "Vilket år kom filmen 'Flashdance'?",
+    "a": "1983",
+    "w1": "1981",
+    "w2": "1985"
+  },
+  {
+    "q": "Vilken dansfilm med Patrick Swayze kom 1987?",
+    "a": "Dirty Dancing",
+    "w1": "Footloose",
+    "w2": "Flashdance"
+  },
+  {
+    "q": "Vem spelade huvudrollen i 'Saturday Night Fever'?",
+    "a": "John Travolta",
+    "w1": "Patrick Swayze",
+    "w2": "Kevin Bacon"
+  },
+  {
+    "q": "Vilket år kom 'Saturday Night Fever'?",
+    "a": "1977",
+    "w1": "1975",
+    "w2": "1979"
+  },
+  {
+    "q": "Vad kallas zombie-dansen i Michael Jacksons 'Thriller'?",
+    "a": "Thriller-dansen",
+    "w1": "Moonwalken",
+    "w2": "Roboten"
+  },
+  {
+    "q": "Vad kallas skolan där blivande balettdansörer utbildas?",
+    "a": "Balettskolan",
+    "w1": "Danshögskolan",
+    "w2": "Koreografiskolan"
   }
 ]

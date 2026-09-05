@@ -238,5 +238,125 @@
     "a": "Afrika",
     "w1": "Asien",
     "w2": "Amerika"
+  },
+  {
+    "q": "Vad heter Sveriges största älv till vattenmängd?",
+    "a": "Göta älv",
+    "w1": "Dalälven",
+    "w2": "Torne älv"
+  },
+  {
+    "q": "Vilket lands huvudstad är Rom?",
+    "a": "Italien",
+    "w1": "Grekland",
+    "w2": "Spanien"
+  },
+  {
+    "q": "Vilken kontinent ligger norr om Afrika?",
+    "a": "Europa",
+    "w1": "Asien",
+    "w2": "Oceanien"
+  },
+  {
+    "q": "I vilket land ligger Vatikanstaten?",
+    "a": "Italien",
+    "w1": "Spanien",
+    "w2": "Frankrike"
+  },
+  {
+    "q": "Vilket hav ligger väster om Sverige?",
+    "a": "Nordsjön",
+    "w1": "Östersjön",
+    "w2": "Barents hav"
+  },
+  {
+    "q": "Vad heter Danmarks näst största stad?",
+    "a": "Aarhus",
+    "w1": "Odense",
+    "w2": "Aalborg"
+  },
+  {
+    "q": "Vilket lands flagga är blå över gul?",
+    "a": "Ukraina",
+    "w1": "Sverige",
+    "w2": "Kazakstan"
+  },
+  {
+    "q": "Vilket lands flagga är tre horisontella röd-vit-röda band?",
+    "a": "Österrike",
+    "w1": "Polen",
+    "w2": "Ungern"
+  },
+  {
+    "q": "Vilken stad kallas 'staden som aldrig sover'?",
+    "a": "New York",
+    "w1": "Los Angeles",
+    "w2": "Chicago"
+  },
+  {
+    "q": "Vilken stad var delad av en mur fram till 1989?",
+    "a": "Berlin",
+    "w1": "München",
+    "w2": "Hamburg"
+  },
+  {
+    "q": "Vilket land är känt för legoklossar?",
+    "a": "Danmark",
+    "w1": "Norge",
+    "w2": "Finland"
+  },
+  {
+    "q": "Vilket land är känt för klockor och choklad?",
+    "a": "Schweiz",
+    "w1": "Belgien",
+    "w2": "Österrike"
+  },
+  {
+    "q": "I vilken stad står Colosseum?",
+    "a": "Rom",
+    "w1": "Aten",
+    "w2": "Neapel"
+  },
+  {
+    "q": "Vilken flod flyter genom London?",
+    "a": "Themsen",
+    "w1": "Seinen",
+    "w2": "Rhen"
+  },
+  {
+    "q": "Vilken är Sveriges längsta älv?",
+    "a": "Torne älv",
+    "w1": "Göta älv",
+    "w2": "Klarälven"
+  },
+  {
+    "q": "Vilket nordiskt land kallas 'tusen sjöars land'?",
+    "a": "Finland",
+    "w1": "Norge",
+    "w2": "Island"
+  },
+  {
+    "q": "Vad heter havet söder om Europa?",
+    "a": "Medelhavet",
+    "w1": "Svarta havet",
+    "w2": "Kaspiska havet"
+  },
+  {
+    "q": "Vilket land styr Grönland?",
+    "a": "Danmark",
+    "w1": "Norge",
+    "w2": "Kanada"
+  },
+  {
+    "q": "Vad heter Irlands huvudstad?",
+    "a": "Dublin",
+    "w1": "Belfast",
+    "w2": "Cork"
+  },
+  {
+    "q": "Vilken kontinent kallas 'Down Under'?",
+    "a": "Australien",
+    "w1": "Sydamerika",
+    "w2": "Afrika"
   }
 ]

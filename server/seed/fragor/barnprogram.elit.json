@@ -238,5 +238,125 @@
     "a": "Naoko Takeuchi",
     "w1": "Clamp",
     "w2": "Rumiko Takahashi"
+  },
+  {
+    "q": "Vilket år föddes Tove Jansson?",
+    "a": "1914",
+    "w1": "1910",
+    "w2": "1918"
+  },
+  {
+    "q": "Vad hette den första Muminboken (1945)?",
+    "a": "Småtrollen och den stora översvämningen",
+    "w1": "Kometen kommer",
+    "w2": "Trollkarlens hatt"
+  },
+  {
+    "q": "Vilket år kom 'Trollkarlens hatt'?",
+    "a": "1948",
+    "w1": "1946",
+    "w2": "1950"
+  },
+  {
+    "q": "Vilken Muminbok kom 1946?",
+    "a": "Kometen kommer",
+    "w1": "Muminpappans bravader",
+    "w2": "Farlig midsommar"
+  },
+  {
+    "q": "Vad heter den sista Muminboken (1970)?",
+    "a": "Sent i november",
+    "w1": "Pappan och havet",
+    "w2": "Det osynliga barnet"
+  },
+  {
+    "q": "Vad heter Mumintrollets flickvän?",
+    "a": "Snorkfröken",
+    "w1": "Snorkfröken My",
+    "w2": "Mymlan"
+  },
+  {
+    "q": "Vem är Lilla Mys mamma?",
+    "a": "Mymlan",
+    "w1": "Muminmamma",
+    "w2": "Snorkfröken"
+  },
+  {
+    "q": "Vilket år kom 'Min granne Totoro'?",
+    "a": "1988",
+    "w1": "1986",
+    "w2": "1990"
+  },
+  {
+    "q": "Vilket år kom 'Kikis expressbud'?",
+    "a": "1989",
+    "w1": "1987",
+    "w2": "1991"
+  },
+  {
+    "q": "Vilket år kom 'Spirited Away'?",
+    "a": "2001",
+    "w1": "1999",
+    "w2": "2003"
+  },
+  {
+    "q": "Vilken Oscar vann 'Spirited Away'?",
+    "a": "Bästa animerade film",
+    "w1": "Bästa originalmusik",
+    "w2": "Bästa utländska film"
+  },
+  {
+    "q": "Vilket år kom 'Det levande slottet'?",
+    "a": "2004",
+    "w1": "2002",
+    "w2": "2006"
+  },
+  {
+    "q": "Vilken Miyazaki-film handlar om stridsflygplan?",
+    "a": "Det blåser upp en vind",
+    "w1": "Porco Rosso",
+    "w2": "Vinden stiger"
+  },
+  {
+    "q": "Vad var Studio Ghiblis första film?",
+    "a": "Laputa – Slottet i himlen",
+    "w1": "Nausicaä",
+    "w2": "Min granne Totoro"
+  },
+  {
+    "q": "Vilket år kom 'Prinsessan Mononoke'?",
+    "a": "1997",
+    "w1": "1995",
+    "w2": "1999"
+  },
+  {
+    "q": "Vilken Ghibli-film handlar om två syskon i krigets Japan?",
+    "a": "Graven för eldflugorna",
+    "w1": "Det levande slottet",
+    "w2": "Vinden stiger"
+  },
+  {
+    "q": "Vem regisserade 'Graven för eldflugorna'?",
+    "a": "Isao Takahata",
+    "w1": "Hayao Miyazaki",
+    "w2": "Yoshifumi Kondō"
+  },
+  {
+    "q": "Vad betyder namnet LEGO (från 'leg godt')?",
+    "a": "Lek gott",
+    "w1": "Bygga bra",
+    "w2": "Lek lätt"
+  },
+  {
+    "q": "Vilket år kom LEGO-minifiguren?",
+    "a": "1978",
+    "w1": "1975",
+    "w2": "1981"
+  },
+  {
+    "q": "Vad var Disneys första helt animerade långfilm?",
+    "a": "Snövit och de sju dvärgarna",
+    "w1": "Pinocchio",
+    "w2": "Bambi"
   }
 ]

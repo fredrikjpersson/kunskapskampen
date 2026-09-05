@@ -238,5 +238,125 @@
     "a": "En liten ring av DNA",
     "w1": "En proteinkanal",
     "w2": "Ett cellorganell"
+  },
+  {
+    "q": "Vad kallas läran om mossor?",
+    "a": "Bryologi",
+    "w1": "Fykologi",
+    "w2": "Likenologi"
+  },
+  {
+    "q": "Vad kallas nedbrytarnas återföring av näringsämnen till oorganisk form?",
+    "a": "Mineralisering",
+    "w1": "Humifiering",
+    "w2": "Nitrifikation endast"
+  },
+  {
+    "q": "Vad kallas artrikedomen inom ett avgränsat område?",
+    "a": "Alfa-diversitet",
+    "w1": "Beta-diversitet",
+    "w2": "Gamma-diversitet"
+  },
+  {
+    "q": "Vilken molekyl transportera aminosyror till ribosomen?",
+    "a": "tRNA",
+    "w1": "mRNA",
+    "w2": "rRNA"
+  },
+  {
+    "q": "Vilket enzym i saliven bryter ner stärkelse?",
+    "a": "Amylas",
+    "w1": "Pepsin",
+    "w2": "Lipas"
+  },
+  {
+    "q": "Vilket växthormon styr fruktmognad och bladvissning?",
+    "a": "Etylen",
+    "w1": "Auxin",
+    "w2": "Cytokinin"
+  },
+  {
+    "q": "Vilken geologisk period kallas fiskarnas era?",
+    "a": "Devon",
+    "w1": "Silur",
+    "w2": "Karbon"
+  },
+  {
+    "q": "Vilken superkontinent fanns för cirka 300 miljoner år sedan?",
+    "a": "Pangea",
+    "w1": "Gondwana",
+    "w2": "Laurentia"
+  },
+  {
+    "q": "Vad kallas bildningen av ATP i mitokondriernas andningskedja?",
+    "a": "Oxidativ fosforylering",
+    "w1": "Substratnivåfosforylering",
+    "w2": "Fotofosforylering"
+  },
+  {
+    "q": "Vilken djurstam är artrikast?",
+    "a": "Leddjur",
+    "w1": "Blötdjur",
+    "w2": "Rundmaskar"
+  },
+  {
+    "q": "Vad är en karyotyp?",
+    "a": "En cells kromosomuppsättning",
+    "w1": "En genkopia",
+    "w2": "Typ av mutation"
+  },
+  {
+    "q": "Vad betyder diploid?",
+    "a": "Dubbel kromosomuppsättning",
+    "w1": "Enkel kromosomuppsättning",
+    "w2": "Tredubbel kromosomuppsättning"
+  },
+  {
+    "q": "Vad kallas proteinhöljet runt ett virus arvsmassa?",
+    "a": "Kapsid",
+    "w1": "Kapsel",
+    "w2": "Virosom"
+  },
+  {
+    "q": "Vilken del av hjärnan sköter kroppens balans?",
+    "a": "Lillhjärnan",
+    "w1": "Storhjärnan",
+    "w2": "Märgen"
+  },
+  {
+    "q": "Vad är kroppens längsta nerv?",
+    "a": "Ischiasnerven",
+    "w1": "Vagusnerven",
+    "w2": "Lokalnerven"
+  },
+  {
+    "q": "Vad kallas kvarvarande juvenila drag hos vuxna individer?",
+    "a": "Neoteni",
+    "w1": "Alometri",
+    "w2": "Atavism"
+  },
+  {
+    "q": "Vilken anpassning kallas krypsis?",
+    "a": "Kamouflage",
+    "w1": "Varningsfärger",
+    "w2": " Härmning"
+  },
+  {
+    "q": "Vad innebär konvergent evolution?",
+    "a": "Obesläktade arter utvecklar liknande drag",
+    "w1": "Besläktade arter blir olika",
+    "w2": "Arter utvecklas mot varandra"
+  },
+  {
+    "q": "Vad kallas artbildning utan geografisk isolering?",
+    "a": "Sympatrisk artbildning",
+    "w1": "Alopatrisk artbildning",
+    "w2": "Parapatrisk artbildning"
+  },
+  {
+    "q": "Vilken cells struktur kallas cellens matsmältningssystem?",
+    "a": "Lysosomer",
+    "w1": "Golgiapparaten",
+    "w2": "Ribosomerna"
   }
 ]

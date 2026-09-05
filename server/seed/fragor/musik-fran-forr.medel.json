@@ -238,5 +238,125 @@
     "a": "Soft Cell",
     "w1": "Depeche Mode",
     "w2": "Eurythmics"
+  },
+  {
+    "q": "Vilket år dog Eddie Cochran?",
+    "a": "1960",
+    "w1": "1959",
+    "w2": "1962"
+  },
+  {
+    "q": "Vilket år dog Marc Bolan?",
+    "a": "1977",
+    "w1": "1975",
+    "w2": "1979"
+  },
+  {
+    "q": "Vilket år dog Karen Carpenter?",
+    "a": "1983",
+    "w1": "1981",
+    "w2": "1985"
+  },
+  {
+    "q": "Vilket år dog Freddie Mercury?",
+    "a": "1991",
+    "w1": "1989",
+    "w2": "1993"
+  },
+  {
+    "q": "Vilket år dog George Harrison?",
+    "a": "2001",
+    "w1": "1999",
+    "w2": "2003"
+  },
+  {
+    "q": "Vilket år dog Johnny Cash?",
+    "a": "2003",
+    "w1": "2005",
+    "w2": "2001"
+  },
+  {
+    "q": "Vilken grupp var David Crosby medlem i först?",
+    "a": "The Byrds",
+    "w1": "Buffalo Springfield",
+    "w2": "The Hollies"
+  },
+  {
+    "q": "Vem blev fjärde medlemmen i Crosby, Stills and Nash?",
+    "a": "Neil Young",
+    "w1": "Joni Mitchell",
+    "w2": "David Gilmour"
+  },
+  {
+    "q": "Vem spelade trummor i Cream?",
+    "a": "Ginger Baker",
+    "w1": "John Bonham",
+    "w2": "Mitch Mitchell"
+  },
+  {
+    "q": "Vem spelade bas i Cream?",
+    "a": "Jack Bruce",
+    "w1": "Jack Casady",
+    "w2": "Noel Redding"
+  },
+  {
+    "q": "Vad hette Pink Floyds debutalbum?",
+    "a": "The Piper at the Gates of Dawn",
+    "w1": "A Saucerful of Secrets",
+    "w2": "Atom Heart Mother"
+  },
+  {
+    "q": "Vilket album kom mellan 'Dark Side of the Moon' och 'Animals'?",
+    "a": "Wish You Were Here",
+    "w1": "Meddle",
+    "w2": "Obscured by Clouds"
+  },
+  {
+    "q": "Vilket år kom 'The Wall'?",
+    "a": "1979",
+    "w1": "1977",
+    "w2": "1981"
+  },
+  {
+    "q": "Vem sjöng 'The Weight'?",
+    "a": "The Band",
+    "w1": "The Byrds",
+    "w2": "Flying Burrito Brothers"
+  },
+  {
+    "q": "Vilken engelsk festival hölls 1969, samma år som Woodstock?",
+    "a": "Isle of Wight",
+    "w1": "Reading",
+    "w2": "Glastonbury"
+  },
+  {
+    "q": "Vilken grupp var Marc Bolan frontman i?",
+    "a": "T. Rex",
+    "w1": "Mott the Hoople",
+    "w2": "Slade"
+  },
+  {
+    "q": "Vad hette David Bowies alter ego 1976?",
+    "a": "The Thin White Duke",
+    "w1": "Ziggy Stardust",
+    "w2": "Aladdin Sane"
+  },
+  {
+    "q": "I vilken stad dog Elvis Presley?",
+    "a": "Memphis",
+    "w1": "Nashville",
+    "w2": "Las Vegas"
+  },
+  {
+    "q": "Vilket år gjorde Elvis sin sista konsert?",
+    "a": "1977",
+    "w1": "1975",
+    "w2": "1976"
+  },
+  {
+    "q": "Vem hade hit med 'Me and Bobby McGee' 1971?",
+    "a": "Janis Joplin",
+    "w1": "Kris Kristofferson",
+    "w2": "Joan Baez"
   }
 ]

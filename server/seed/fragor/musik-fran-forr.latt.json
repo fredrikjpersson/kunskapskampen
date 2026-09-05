@@ -238,5 +238,125 @@
     "a": "Carola",
     "w1": "Lena Philipsson",
     "w2": "Pernilla Wahlgren"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Dancing Queen'?",
+    "a": "ABBA",
+    "w1": "Sweet",
+    "w2": "Baccara"
+  },
+  {
+    "q": "Vem sjöng 'Peggy Sue'?",
+    "a": "Buddy Holly",
+    "w1": "Elvis Presley",
+    "w2": "Chuck Berry"
+  },
+  {
+    "q": "Vem sjöng in 'Over the Rainbow' först?",
+    "a": "Judy Garland",
+    "w1": "Ella Fitzgerald",
+    "w2": "Billie Holiday"
+  },
+  {
+    "q": "Vem gjorde klassisk version av 'Fly Me to the Moon'?",
+    "a": "Frank Sinatra",
+    "w1": "Dean Martin",
+    "w2": "Nat King Cole"
+  },
+  {
+    "q": "Vilken duo gjorde 'Bridge over Troubled Water'?",
+    "a": "Simon & Garfunkel",
+    "w1": "The Everly Brothers",
+    "w2": "Hall & Oates"
+  },
+  {
+    "q": "Vem sjöng 'You've Got a Friend'?",
+    "a": "Carole King",
+    "w1": "Joni Mitchell",
+    "w2": "Aretha Franklin"
+  },
+  {
+    "q": "Vilken duo sjöng 'I Got You Babe'?",
+    "a": "Sonny & Cher",
+    "w1": "The Righteous Brothers",
+    "w2": "The Carpenters"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Paint It Black'?",
+    "a": "The Rolling Stones",
+    "w1": "The Beatles",
+    "w2": "The Kinks"
+  },
+  {
+    "q": "Vem sjöng 'Delilah'?",
+    "a": "Tom Jones",
+    "w1": "Engelbert Humperdinck",
+    "w2": "Neil Diamond"
+  },
+  {
+    "q": "Vem sjöng 'Release Me' 1967?",
+    "a": "Engelbert Humperdinck",
+    "w1": "Tom Jones",
+    "w2": "Andy Williams"
+  },
+  {
+    "q": "Vilken svensk grupp hade Benny Andersson som keyboardist?",
+    "a": "Hep Stars",
+    "w1": "Hootenanny Singers",
+    "w2": "Made in Sweden"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Under the Boardwalk'?",
+    "a": "The Drifters",
+    "w1": "The Temptations",
+    "w2": "The Four Tops"
+  },
+  {
+    "q": "Vem sjöng 'Runaway' från 1961?",
+    "a": "Del Shannon",
+    "w1": "Bobby Vee",
+    "w2": "Gene Pitney"
+  },
+  {
+    "q": "Vem sjöng 'The Twist'?",
+    "a": "Chubby Checker",
+    "w1": "Hank Ballard",
+    "w2": "Fats Domino"
+  },
+  {
+    "q": "Vem sjöng 'Blue Velvet'?",
+    "a": "Bobby Vinton",
+    "w1": "Bobby Vee",
+    "w2": "Paul Anka"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Surfin' Safari'?",
+    "a": "The Beach Boys",
+    "w1": "Jan & Dean",
+    "w2": "Frankie Avalon"
+  },
+  {
+    "q": "Vilken duo sjöng 'Islands in the Stream'?",
+    "a": "Kenny Rogers och Dolly Parton",
+    "w1": "Johnny Cash och June Carter",
+    "w2": "Sonny & Cher"
+  },
+  {
+    "q": "Vem sjöng 'A Boy Named Sue'?",
+    "a": "Johnny Cash",
+    "w1": "Waylon Jennings",
+    "w2": "Willie Nelson"
+  },
+  {
+    "q": "Vem gjorde 'Sweet Caroline'?",
+    "a": "Neil Diamond",
+    "w1": "Elvis Presley",
+    "w2": "Tom Jones"
+  },
+  {
+    "q": "Vem sjöng 'Suspicious Minds'?",
+    "a": "Elvis Presley",
+    "w1": "Neil Diamond",
+    "w2": "Roy Orbison"
   }
 ]

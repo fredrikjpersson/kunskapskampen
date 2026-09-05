@@ -238,5 +238,125 @@
     "a": "Leaf",
     "w1": "Prius",
     "w2": "Insight"
+  },
+  {
+    "q": "Vad betyder E85 på macken?",
+    "a": "85 % etanol",
+    "w1": "85 oktan bensin",
+    "w2": "85 % diesel"
+  },
+  {
+    "q": "Vilka oktantal är standard på svenska mackar?",
+    "a": "95 och 98",
+    "w1": "91 och 95",
+    "w2": "98 och 100"
+  },
+  {
+    "q": "Vad gör ett start-stopp-system?",
+    "a": "Stänger av motorn vid stillastående",
+    "w1": "Startar motorn vid broms",
+    "w2": "Låter motorn gå tomgång"
+  },
+  {
+    "q": "Vad gör en differentväxel?",
+    "a": "Fördelar kraften mellan hjulen i kurva",
+    "w1": "Växlar upp automatiskt",
+    "w2": "Kylar växellådan"
+  },
+  {
+    "q": "Vad kallas bilens unika chassinummer?",
+    "a": "VIN",
+    "w1": "PIN",
+    "w2": "WMI"
+  },
+  {
+    "q": "Hur många växlar har en modern manuell personbil ofta?",
+    "a": "6",
+    "w1": "4",
+    "w2": "5"
+  },
+  {
+    "q": "Vad står ASR för på tyska bilar?",
+    "a": "Antispinnsystem",
+    "w1": "Automatisk stötdämpning",
+    "w2": "Adaptiv styrning"
+  },
+  {
+    "q": "Vad är en Torsen-differential?",
+    "a": "En momentkännande självspärrande differential",
+    "w1": "En elektroniskt styrd koppling",
+    "w2": "En manuell spärr"
+  },
+  {
+    "q": "Vad kallas fjädrar och dämpare tillsammans?",
+    "a": "Hjulupphängning",
+    "w1": "Chassiram",
+    "w2": "Stötbuffer"
+  },
+  {
+    "q": "Vad är ett MacPherson-fjäderben?",
+    "a": "Kombinerad dämpare och spiral fjäder",
+    "w1": "En luftfjäder",
+    "w2": "En bladfjäder"
+  },
+  {
+    "q": "Vad kallas camshaft på svenska?",
+    "a": "Kamaxel",
+    "w1": "Vevaxel",
+    "w2": "Swingaxel"
+  },
+  {
+    "q": "Vad är turbo lag?",
+    "a": "Fördröjningen innan turbon ger tryck",
+    "w1": "Bränsleförbrukningen vid turbo",
+    "w2": "Ljudet från wastegaten"
+  },
+  {
+    "q": "Vad gör en intercooler?",
+    "a": "Kylar inluften till motorn",
+    "w1": "Kylar motornoljan",
+    "w2": "Kyler avgaserna"
+  },
+  {
+    "q": "Vad är common rail?",
+    "a": "Ett gemensamt insprutningssystem för diesel",
+    "w1": "Ett chassinätverk",
+    "w2": "En typ av tändsystem"
+  },
+  {
+    "q": "Vad betyder GDI hos bensinmotorer?",
+    "a": "Direktinsprutning i cylindern",
+    "w1": "Dubbla tändstift",
+    "w2": "Gasdrift integrerad"
+  },
+  {
+    "q": "Vad laddar bilbatteriet när motorn går?",
+    "a": "Generatoren (alternatorn)",
+    "w1": "Startmotorn",
+    "w2": "Katalysatorn"
+  },
+  {
+    "q": "Vad mäts i kubikcentimeter hos en motor?",
+    "a": "Slagvolymen",
+    "w1": "Vikten",
+    "w2": "Effekten"
+  },
+  {
+    "q": "Vad betyder bhp?",
+    "a": "Brake horsepower",
+    "w1": "Boost horsepower",
+    "w2": "Base horsepower"
+  },
+  {
+    "q": "Vad gör en lamellkoppling i en automatlåda?",
+    "a": "För över moment stegvis via vått lameller",
+    "w1": "Kylar växellådsoljan",
+    "w2": "Låser differentialen"
+  },
+  {
+    "q": "Vad kallas det när motorn stannar av bränslebrist i kurvor?",
+    "a": "Bränslesvält",
+    "w1": "Motorsvikt",
+    "w2": "Dämparstöt"
   }
 ]

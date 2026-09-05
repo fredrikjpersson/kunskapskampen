@@ -238,5 +238,125 @@
     "a": "Dynamik",
     "w1": "Tempo",
     "w2": "Tonhöjd"
+  },
+  {
+    "q": "Vilken form har ett cardioid-upptagningsmönster?",
+    "a": "Hjärtformat",
+    "w1": "Rundat som en boll",
+    "w2": "Figur-8"
+  },
+  {
+    "q": "Vad är en ribbon-mikrofon?",
+    "a": "En bandmikrofon med tunn metallremsa",
+    "w1": "En kondensator med elektronrör",
+    "w2": "En kristallmikrofon"
+  },
+  {
+    "q": "Vad innebär mid-side-inspelning (MS)?",
+    "a": "Mitt- och sidrosignal som ger justerbar stereobredd",
+    "w1": "Att spela in från mitten av rummet",
+    "w2": "Att mixa mono till stereo efteråt"
+  },
+  {
+    "q": "Vad är en bass reflex-port?",
+    "a": "En öppning som förstärker basen via resonans",
+    "w1": "En kylfläns för förstärkaren",
+    "w2": "En avtuning av diskanten"
+  },
+  {
+    "q": "Vad betyder bi-amping?",
+    "a": "Separata förstärkare för bas och diskant",
+    "w1": "Dubbla högtalare i varje hörn",
+    "w2": "Att spela in med två mikrofoner"
+  },
+  {
+    "q": "Vad är THX-certifiering?",
+    "a": "En ljud- och filmstandard från Lucasfilm",
+    "w1": "En typ av högtalarkabel",
+    "w2": "Ett tyskt brusmät system"
+  },
+  {
+    "q": "Vad är Dolby Atmos?",
+    "a": "Objektbaserat ljud med höjdkanaler",
+    "w1": "En förlustfri komprimering",
+    "w2": "En typ av basreflex"
+  },
+  {
+    "q": "Vad menas med gain before feedback?",
+    "a": "Hur mycket man kan höja nivån innan rundgång",
+    "w1": "Hur snabbt mik rofonen svarar",
+    "w2": "Förstärkningens maxeffekt"
+  },
+  {
+    "q": "Vad är rundgång?",
+    "a": "Ljud som loopar mellan mikrofon och högtalare",
+    "w1": "En ton som svävar",
+    "w2": "En typ av hörlursläcka"
+  },
+  {
+    "q": "Vilken mikrofontyp tål högst ljudtryck?",
+    "a": "Dynamisk",
+    "w1": "Kondensator",
+    "w2": "Elektret"
+  },
+  {
+    "q": "Vad gör en förförstärkare (preamp)?",
+    "a": "Höjer svag signal till linjenivå",
+    "w1": "Dela signalen i frekvensband",
+    "w2": "Tar bort brus helt"
+  },
+  {
+    "q": "Vad kallas basökning när man sjunger alldeles intill mikrofonen?",
+    "a": "Närhetseffekten",
+    "w1": "Kamfiltereffekten",
+    "w2": "Maskeringseffekten"
+  },
+  {
+    "q": "Vad är intermodulationsdistorsion?",
+    "a": "Oönskade frekvenser skapade av samspel mellan toner",
+    "w1": "Klippning av toppar",
+    "w2": "Brus från förstärkaren"
+  },
+  {
+    "q": "Vad står SMPTE för?",
+    "a": "Society of Motion Picture and Television Engineers",
+    "w1": "Standard Music Production Technical Ensemble",
+    "w2": "Sound Mixing Professional Trade Entity"
+  },
+  {
+    "q": "Vilken samplingsfrekvens är standard inom film och broadcast?",
+    "a": "48 kHz",
+    "w1": "44,1 kHz",
+    "w2": "96 kHz"
+  },
+  {
+    "q": "Vad är bit crushing?",
+    "a": "Medvetet sänkt bitdjup som effekt",
+    "w1": "Komprimering av filstorlek",
+    "w2": "Klippning av frekvenser"
+  },
+  {
+    "q": "Vad betyder true bypass på en pedal?",
+    "a": "Signalen passerar obehandlad när pedalen är av",
+    "w1": "Pedalen dubblar signalen",
+    "w2": "Pedalen kräver ingen ström"
+  },
+  {
+    "q": "Vad gör en chorus-effekt?",
+    "a": "Fördubblar signalen med lätt detune för svävning",
+    "w1": "Modulerar volymen snabbt",
+    "w2": "Vänder fasen"
+  },
+  {
+    "q": "Vad kännetecknar en flanger-effekt?",
+    "a": "Kort fördröjd kopia som sveper – jetplanseffekt",
+    "w1": "Lång eftersläpning",
+    "w2": "Ren tonförskjutning uppåt"
+  },
+  {
+    "q": "Vad är tremolo?",
+    "a": "Amplitudmodulering – volymen svävar",
+    "w1": "Tonhöjdsmodulering",
+    "w2": "Rumsafterklang"
   }
 ]

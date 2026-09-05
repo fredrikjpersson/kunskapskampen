@@ -238,5 +238,125 @@
     "a": "Hittar kortaste vägen i en graf",
     "w1": "Sorterar tal snabbast",
     "w2": "Komprimerar bilder"
+  },
+  {
+    "q": "Vilken datastruktur används ofta i databasindex?",
+    "a": "B-träd",
+    "w1": "Hashtabell",
+    "w2": "Heap"
+  },
+  {
+    "q": "Vad är Quicksorts genomsnittliga tidskomplexitet?",
+    "a": "O(n log n)",
+    "w1": "O(n²)",
+    "w2": "O(n)"
+  },
+  {
+    "q": "Vad betyder amorterad komplexitet?",
+    "a": "Genomsnittlig kostnad över en sekvens av operationer",
+    "w1": "Värsta fallet för en enskild operation",
+    "w2": "Minsta möjliga körtid"
+  },
+  {
+    "q": "Vilken algoritm hittar kortaste vägen även med negativa kantvikter?",
+    "a": "Bellman-Ford",
+    "w1": "Dijkstras algoritm",
+    "w2": "Prims algoritm"
+  },
+  {
+    "q": "Vad kallas problemlklassen där lösningar kan verifieras i polynomtid?",
+    "a": "NP",
+    "w1": "P",
+    "w2": "EXPTIME"
+  },
+  {
+    "q": "Vad innebär currying inom programmering?",
+    "a": "Att en funktion tar argument ett i taget och returnerar nya funktioner",
+    "w1": "Att ersätta rekursion med loopar",
+    "w2": "Att omvandla kod till maskinkod"
+  },
+  {
+    "q": "Vad är en monad i funktionell programmering?",
+    "a": "En omslutning som kedjar beräkningar med kontext",
+    "w1": "En funktion utan sidoeffekter",
+    "w2": "En typ av loop"
+  },
+  {
+    "q": "Vad betyder eventual consistency?",
+    "a": "Att repliker så småningom blir likadana",
+    "w1": "Att alla läsningar alltid ser senaste skrivningen",
+    "w2": "Att databasen aldrig hänger ihop"
+  },
+  {
+    "q": "Vad kallas automatisk återvinning av oanvänt minne?",
+    "a": "Garbage collection",
+    "w1": "Defragmentering",
+    "w2": "Swapping"
+  },
+  {
+    "q": "Vad är ett race condition?",
+    "a": "Att resultatet beror på trådarnas inbördes ordning",
+    "w1": "Att programmet kör för snabbt",
+    "w2": "Att två processorer delar cache"
+  },
+  {
+    "q": "Vad säger Church-Turings tes?",
+    "a": "Allt som är berekningsbart kan beräknas av en Turingmaskin",
+    "w1": "Alla program kan bevisas korrekta",
+    "w2": "Alla beräkningar kan parallelliseras"
+  },
+  {
+    "q": "Vad betyder idempotent inom webb-API:er?",
+    "a": "Upprepade anrop ger samma resultat som ett anrop",
+    "w1": "Anropet kan aldrig misslyckas",
+    "w2": "Anropet kräver autentisering"
+  },
+  {
+    "q": "Vilken hashalgoritm anses osäker på grund av kollisioner?",
+    "a": "MD5",
+    "w1": "SHA-256",
+    "w2": "bcrypt"
+  },
+  {
+    "q": "Vad är ett Bloomfilter?",
+    "a": "En probabilistisk struktur som kan ge falska positiva",
+    "w1": "Ett filter som sorterar tal",
+    "w2": "En komprimerad sorterad lista"
+  },
+  {
+    "q": "Vad står POSIX för?",
+    "a": "Portable Operating System Interface",
+    "w1": "Parallel Operating System Index",
+    "w2": "Process Oriented System Interface"
+  },
+  {
+    "q": "Vad är en syscall?",
+    "a": "Ett anrop från användarläge till operativsystemkärnan",
+    "w1": "Ett anrop mellan två processer",
+    "w2": "Ett hårdvaruavbrott"
+  },
+  {
+    "q": "Vad menas med en memory leak?",
+    "a": "Allokerat minne som aldrig frigörs",
+    "w1": "Minne som skrivs felaktigt",
+    "w2": "Minne som blir fragmenterat"
+  },
+  {
+    "q": "Vad betyder cache miss?",
+    "a": "Att efterfrågad data inte fanns i cachen",
+    "w1": "Att cacheminnet skadats",
+    "w2": "Att cacheminnet är fullt"
+  },
+  {
+    "q": "Vad kallas kompilering som sker under programkörningen?",
+    "a": "JIT-kompilering",
+    "w1": "Ahead-of-time",
+    "w2": "Transpilering"
+  },
+  {
+    "q": "Vilken datastruktur ger snabbast genomsnittlig uppslagning på nycklar?",
+    "a": "Hashtabell",
+    "w1": "Sorterad lista",
+    "w2": "Stack"
   }
 ]

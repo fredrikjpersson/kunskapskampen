@@ -238,5 +238,125 @@
     "a": "Snurre Sprätt",
     "w1": "Pelle Svanslös",
     "w2": "Daffy"
+  },
+  {
+    "q": "Vad heter Karlssons bästis på marken?",
+    "a": "Lillebror",
+    "w1": "Storebror",
+    "w2": "Sven"
+  },
+  {
+    "q": "Vad heter Pelle Svanslös flickvän?",
+    "a": "Maja Gräddnos",
+    "w1": "Mössan",
+    "w2": "Gullan"
+  },
+  {
+    "q": "Vad heter den elaka katten i Pelle Svanslös?",
+    "a": "Mons",
+    "w1": "Måns",
+    "w2": "Murre"
+  },
+  {
+    "q": "Vad heter Bamses dotter?",
+    "a": "Brumma",
+    "w1": "Brummlisa",
+    "w2": "Nalle-Maja"
+  },
+  {
+    "q": "Vad heter Bamses fru?",
+    "a": "Brummelisa",
+    "w1": "Brumma",
+    "w2": "Bamsisa"
+  },
+  {
+    "q": "Vad heter den gamle kloke i Bamse?",
+    "a": "Skalman",
+    "w1": "Skalbanken",
+    "w2": "Lille Skutt"
+  },
+  {
+    "q": "Vad heter Tintins hund?",
+    "a": "Milou",
+    "w1": "Milford",
+    "w2": "Milo"
+  },
+  {
+    "q": "Vad heter kaptenen som svär i Tintin?",
+    "a": "Kapten Haddock",
+    "w1": "Kapten Haddockörn",
+    "w2": "Kapten Milou"
+  },
+  {
+    "q": "Vad heter den frånvarande professorn i Tintin?",
+    "a": "Professor Kalkyl",
+    "w1": "Professor Hjärnklapp",
+    "w2": "Professor Lupin"
+  },
+  {
+    "q": "Vad heter Astérix tjocke kompis?",
+    "a": "Obelix",
+    "w1": "Abraracourcix",
+    "w2": "Assurancetourix"
+  },
+  {
+    "q": "Vad hände Obelix som liten?",
+    "a": "Han föll i trolldrycksgrytan",
+    "w1": "Han åt en hel vildsvinsstek",
+    "w2": "Han blev slagen av en romare"
+  },
+  {
+    "q": "Vad heter druiden i Astérix?",
+    "a": "Miraculix",
+    "w1": "Majestix",
+    "w2": "Troubadix"
+  },
+  {
+    "q": "Vad heter den falske bard­en i Astérix?",
+    "a": "Troubadix",
+    "w1": "Miraculix",
+    "w2": "Idefix"
+  },
+  {
+    "q": "Vad heter Kalles tre brorsöner?",
+    "a": "Knatte, Fnatte och Tjatte",
+    "w1": "Knutte, Fritte och Tjatte",
+    "w2": "Hip, Hopp och Hoppsan"
+  },
+  {
+    "q": "Vilken bil kör Kalle Anka (nummer)?",
+    "a": "313",
+    "w1": "131",
+    "w2": "303"
+  },
+  {
+    "q": "Vilket år skapades Musse Pigg?",
+    "a": "1928",
+    "w1": "1925",
+    "w2": "1930"
+  },
+  {
+    "q": "Vilket år skapades Kalle Anka?",
+    "a": "1934",
+    "w1": "1932",
+    "w2": "1936"
+  },
+  {
+    "q": "Vad heter Kalle Ankas flickvän på engelska?",
+    "a": "Daisy",
+    "w1": "Dolly",
+    "w2": "Daphne"
+  },
+  {
+    "q": "Vad heter Björnligan på engelska?",
+    "a": "Beagle Boys",
+    "w1": "Bear Gang",
+    "w2": "Bad Dogs"
+  },
+  {
+    "q": "Vad heter Musse Piggs flickvän?",
+    "a": "Mimmi (Minnie)",
+    "w1": "Mussa",
+    "w2": "Mysi"
   }
 ]

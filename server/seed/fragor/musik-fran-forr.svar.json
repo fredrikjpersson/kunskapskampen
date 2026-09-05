@@ -238,5 +238,125 @@
     "a": "Them",
     "w1": "The Shadows",
     "w2": "The Pretty Things"
+  },
+  {
+    "q": "Vad hette The Beatles ursprungliga trummis?",
+    "a": "Pete Best",
+    "w1": "Ringo Starr",
+    "w2": "Stuart Sutcliffe"
+  },
+  {
+    "q": "Vilken roll hade Stuart Sutcliffe i tidiga Beatles?",
+    "a": "Basist",
+    "w1": "Gitarrist",
+    "w2": "Trummis"
+  },
+  {
+    "q": "På vilken klubb i Hamburg spelade The Beatles ofta?",
+    "a": "Star-Club",
+    "w1": "Fabrik",
+    "w2": "Ufa-Fabrik"
+  },
+  {
+    "q": "Vilket album av Love räknas som mästerverk?",
+    "a": "Forever Changes",
+    "w1": "Da Capo",
+    "w2": "Four Sail"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Odessey and Oracle'?",
+    "a": "The Zombies",
+    "w1": "The Kinks",
+    "w2": "The Hollies"
+  },
+  {
+    "q": "Vad hette The Zombies keyboardist och låtskrivare?",
+    "a": "Rod Argent",
+    "w1": "Colin Blunstone",
+    "w2": "Chris White"
+  },
+  {
+    "q": "Vem producerade 'Pet Sounds'?",
+    "a": "Brian Wilson",
+    "w1": "Phil Spector",
+    "w2": "George Martin"
+  },
+  {
+    "q": "Vilket år kom 'Pet Sounds'?",
+    "a": "1966",
+    "w1": "1964",
+    "w2": "1968"
+  },
+  {
+    "q": "Vilket år kom Rolling Stones debutalbum?",
+    "a": "1964",
+    "w1": "1962",
+    "w2": "1966"
+  },
+  {
+    "q": "Vad hette Rolling Stones debutsingel?",
+    "a": "Come On",
+    "w1": "Not Fade Away",
+    "w2": "The Last Time"
+  },
+  {
+    "q": "Vilket Stones-album från 1972 räknas som deras mästerverk?",
+    "a": "Exile on Main St.",
+    "w1": "Sticky Fingers",
+    "w2": "Let It Bleed"
+  },
+  {
+    "q": "Vilken Stones-medlem hittades död i sin swimmingpool 1969?",
+    "a": "Brian Jones",
+    "w1": "Mick Taylor",
+    "w2": "Ian Stewart"
+  },
+  {
+    "q": "Vilken gratis Stones-konsert 1969 slutade i katastrof?",
+    "a": "Altamont",
+    "w1": "Hyde Park",
+    "w2": "Gimme Shelter"
+  },
+  {
+    "q": "Vem var Grateful Deads frontfigur?",
+    "a": "Jerry Garcia",
+    "w1": "Bob Weir",
+    "w2": "Phil Lesh"
+  },
+  {
+    "q": "Vilket band var Neil Young med i först?",
+    "a": "Buffalo Springfield",
+    "w1": "Crosby, Stills and Nash",
+    "w2": "The Stray Gators"
+  },
+  {
+    "q": "Vilket år släppte Simon & Garfunkel 'Bridge over Troubled Water'?",
+    "a": "1970",
+    "w1": "1968",
+    "w2": "1972"
+  },
+  {
+    "q": "Vad var Dylans första elektriska album?",
+    "a": "Bringing It All Back Home",
+    "w1": "Highway 61 Revisited",
+    "w2": "Blonde on Blonde"
+  },
+  {
+    "q": "Vilken låt öppnar 'Highway 61 Revisited'?",
+    "a": "Like a Rolling Stone",
+    "w1": "Tombstone Blues",
+    "w2": "Desolation Row"
+  },
+  {
+    "q": "Vad hette Beatles-manager Brian Epsteins skivbutikskedja?",
+    "a": "NEMS",
+    "w1": "HMV",
+    "w2": "Blackstar"
+  },
+  {
+    "q": "Vilket år grundade Beatles skivbolaget Apple?",
+    "a": "1968",
+    "w1": "1967",
+    "w2": "1969"
   }
 ]

@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Inom vilken genre startade Fleetwood Mac 1967 – långt före popæran?",
+    "a": "Blues",
+    "w1": "Folkrock",
+    "w2": "Psykedelisk rock",
+    "w3": "Progrock",
+    "w4": "Country",
+    "w5": "Skiffle"
+  },
+  {
+    "q": "Vem skrev och sjöng in originalversionen av 'Blue Suede Shoes'?",
+    "a": "Carl Perkins",
+    "w1": "Elvis Presley",
+    "w2": "Johnny Cash",
+    "w3": "Buddy Holly",
+    "w4": "Chuck Berry",
+    "w5": "Jerry Lee Lewis"
+  },
+  {
+    "q": "Vad blev The Beatles första singel på vinyl i Storbritannien?",
+    "a": "Love Me Do",
+    "w1": "Please Please Me",
+    "w2": "She Loves You",
+    "w3": "From Me to You",
+    "w4": "Twist and Shout",
+    "w5": "I Saw Her Standing There"
+  },
+  {
+    "q": "Vilket bolag gav ut Elvis allra första kommersiella inspelning?",
+    "a": "Sun Records",
+    "w1": "RCA Victor",
+    "w2": "Decca",
+    "w3": "Columbia",
+    "w4": "Chess Records",
+    "w5": "Atlantic"
+  },
+  {
+    "q": "Vad hette David Bowies kompband på 'Ziggy Stardust'-albumet?",
+    "a": "The Spiders from Mars",
+    "w1": "The Heartbreakers",
+    "w2": "The E Street Band",
+    "w3": "The Blockheads",
+    "w4": "The Stooges",
+    "w5": "The New York Dolls"
+  },
+  {
+    "q": "Vem vann den allra första upplagan av Eurovision Song Contest 1956?",
+    "a": "Lys Assia",
+    "w1": "Corry Brokken",
+    "w2": "André Claveau",
+    "w3": "Domenico Modugno",
+    "w4": "Teddy Scholten",
+    "w5": "France Gall"
+  },
+  {
+    "q": "Vem grundade skivbolaget Motown?",
+    "a": "Berry Gordy",
+    "w1": "Smokey Robinson",
+    "w2": "Stevie Wonder",
+    "w3": "Otis Williams",
+    "w4": "Quincy Jones",
+    "w5": "Sam Cooke"
+  },
+  {
+    "q": "Vilket år släpptes 'Sgt. Pepper's Lonely Hearts Club Band'?",
+    "a": "1967",
+    "w1": "1966",
+    "w2": "1968",
+    "w3": "1965",
+    "w4": "1969",
+    "w5": "1970"
+  },
+  {
+    "q": "Vem hade hitsingeln 'Bang Bang (My Baby Shot Me Down)' 1966?",
+    "a": "Cher",
+    "w1": "Nancy Sinatra",
+    "w2": "Dusty Springfield",
+    "w3": "Aretha Franklin",
+    "w4": "Diana Ross",
+    "w5": "Petula Clark"
+  },
+  {
+    "q": "Vilket år startade föregångaren till Sveriges Radio, Radiotjänst?",
+    "a": "1925",
+    "w1": "1922",
+    "w2": "1924",
+    "w3": "1926",
+    "w4": "1930",
+    "w5": "1919"
+  },
+  {
+    "q": "Vem komponerade filmmusiken till 'Moon River'?",
+    "a": "Henry Mancini",
+    "w1": "Burt Bacharach",
+    "w2": "John Williams",
+    "w3": "Ennio Morricone",
+    "w4": "Cole Porter",
+    "w5": "George Gershwin"
+  },
+  {
+    "q": "I vilken grupp spelade Eric Clapton åren 1966–1968?",
+    "a": "Cream",
+    "w1": "The Yardbirds",
+    "w2": "Blind Faith",
+    "w3": "Derek and the Dominos",
+    "w4": "John Mayall's Bluesbreakers",
+    "w5": "The Band"
+  },
+  {
+    "q": "Vilket år grundades Sun Records?",
+    "a": "1952",
+    "w1": "1949",
+    "w2": "1955",
+    "w3": "1950",
+    "w4": "1954",
+    "w5": "1947"
+  },
+  {
+    "q": "Vilken stad ligger Sun Studio i?",
+    "a": "Memphis",
+    "w1": "Nashville",
+    "w2": "New Orleans",
+    "w3": "Atlanta",
+    "w4": "Chicago",
+    "w5": "Dallas"
+  },
+  {
+    "q": "Vad hette Elvis allra första singels A-sida?",
+    "a": "That's All Right",
+    "w1": "Blue Moon of Kentucky",
+    "w2": "Heartbreak Hotel",
+    "w3": "Mystery Train",
+    "w4": "Good Rockin' Tonight",
+    "w5": "I Forgot to Remember to Forget"
+  },
+  {
+    "q": "Vad hette B-sidan på Elvis första singel?",
+    "a": "Blue Moon of Kentucky",
+    "w1": "That's All Right",
+    "w2": "Milkcow Blues Boogie",
+    "w3": "Baby Let's Play House",
+    "w4": "Hound Dog",
+    "w5": "Lawdy Miss Clawdy"
+  },
+  {
+    "q": "Vilket år skrev Elvis kontrakt med RCA?",
+    "a": "1955",
+    "w1": "1954",
+    "w2": "1956",
+    "w3": "1953",
+    "w4": "1957",
+    "w5": "1958"
+  },
+  {
+    "q": "Vad blev Elvis första singel på RCA?",
+    "a": "Heartbreak Hotel",
+    "w1": "Don't Be Cruel",
+    "w2": "Hound Dog",
+    "w3": "Love Me Tender",
+    "w4": "All Shook Up",
+    "w5": "Jailhouse Rock"
+  },
+  {
+    "q": "Vilket år reste Beatles till USA första gången?",
+    "a": "1964",
+    "w1": "1963",
+    "w2": "1965",
+    "w3": "1962",
+    "w4": "1966",
+    "w5": "1967"
+  },
+  {
+    "q": "Vad hette New York-flygplansen JFK hette innan?",
+    "a": "Idlewild",
+    "w1": "LaGuardia Field",
+    "w2": "Curtiss Field",
+    "w3": "Floyd Bennett",
+    "w4": "Roosevelt Field",
+    "w5": "Newark Liberty"
+  },
+  {
+    "q": "I vilken TV-show framträdde Beatles i februari 1964?",
+    "a": "The Ed Sullivan Show",
+    "w1": "The Tonight Show",
+    "w2": "American Bandstand",
+    "w3": "The Hollywood Palace",
+    "w4": "Shindig!",
+    "w5": "Hullabaloo"
+  },
+  {
+    "q": "Ungefär hur många amerikaner såg Beatles på Ed Sullivan 1964?",
+    "a": "Cirka 73 miljoner",
+    "w1": "Cirka 30 miljoner",
+    "w2": "Cirka 50 miljoner",
+    "w3": "Cirka 100 miljoner",
+    "w4": "Cirka 20 miljoner",
+    "w5": "Cirka 60 miljoner"
+  },
+  {
+    "q": "Vilket år spelade Beatles på Shea Stadium?",
+    "a": "1965",
+    "w1": "1964",
+    "w2": "1966",
+    "w3": "1967",
+    "w4": "1963",
+    "w5": "1968"
+  },
+  {
+    "q": "Ungefär hur många åhörare hade Beatles på Shea Stadium?",
+    "a": "Cirka 55 000",
+    "w1": "Cirka 30 000",
+    "w2": "Cirka 70 000",
+    "w3": "Cirka 45 000",
+    "w4": "Cirka 80 000",
+    "w5": "Cirka 100 000"
+  },
+  {
+    "q": "Var höll Beatles sin sista konsert 1966?",
+    "a": "Candlestick Park, San Francisco",
+    "w1": "Shea Stadium, New York",
+    "w2": "Budokan, Tokyo",
+    "w3": "Hippodrome, London",
+    "w4": "NEM Bowl, Los Angeles",
+    "w5": "Empire Pool, Wembley"
+  },
+  {
+    "q": "Vilket år splittrades The Beatles formellt?",
+    "a": "1970",
+    "w1": "1969",
+    "w2": "1971",
+    "w3": "1968",
+    "w4": "1972",
+    "w5": "1967"
+  },
+  {
+    "q": "Vem designade Rolling Stones logotyp med tungan?",
+    "a": "John Pasche",
+    "w1": "Andy Warhol",
+    "w2": "Peter Blake",
+    "w3": "Craig Braun",
+    "w4": "Ruby Mazur",
+    "w5": "Michael Cooper"
+  },
+  {
+    "q": "Vilket år kom 'Sticky Fingers'?",
+    "a": "1971",
+    "w1": "1969",
+    "w2": "1973",
+    "w3": "1970",
+    "w4": "1972",
+    "w5": "1974"
+  },
+  {
+    "q": "Vem designade omslaget till 'Sticky Fingers'?",
+    "a": "Andy Warhol",
+    "w1": "John Pasche",
+    "w2": "Robert Frank",
+    "w3": "Peter Corriston",
+    "w4": "Storm Thorgerson",
+    "w5": "Guy Peellaert"
+  },
+  {
+    "q": "Vilken låt öppnar 'Exile on Main St.'?",
+    "a": "Rocks Off",
+    "w1": "Tumbling Dice",
+    "w2": "Happy",
+    "w3": "Rip This Joint",
+    "w4": "Shine a Light",
+    "w5": "All Down the Line"
+  },
+  {
+    "q": "På vilken festival 'gick Dylan elektrisk' 1965?",
+    "a": "Newport Folk Festival",
+    "w1": "Woodstock",
+    "w2": "Monterey Pop",
+    "w3": "Isle of Wight",
+    "w4": "Reading",
+    "w5": "Glastonbury"
+  },
+  {
+    "q": "Vad ropades Bob Dylan åt i Manchester 1966?",
+    "a": "Judas!",
+    "w1": "Snickare!",
+    "w2": "Förrädare!",
+    "w3": "Charlie!",
+    "w4": "Electric!",
+    "w5": "Bedragare!"
+  },
+  {
+    "q": "Vem spelar elorgel på 'Like a Rolling Stone'?",
+    "a": "Al Kooper",
+    "w1": "Mike Bloomfield",
+    "w2": "Paul Griffin",
+    "w3": "Garth Hudson",
+    "w4": "Barry Goldberg",
+    "w5": "Booker T. Jones"
+  },
+  {
+    "q": "Vilket år kom 'Blonde on Blonde'?",
+    "a": "1966",
+    "w1": "1965",
+    "w2": "1967",
+    "w3": "1968",
+    "w4": "1964",
+    "w5": "1969"
+  },
+  {
+    "q": "Vilket år hade Dylan sin motorcykelolycka?",
+    "a": "1966",
+    "w1": "1965",
+    "w2": "1967",
+    "w3": "1968",
+    "w4": "1969",
+    "w5": "1964"
+  },
+  {
+    "q": "Vad hette Dylans hustru på 60/70-talet?",
+    "a": "Sara (Lownds)",
+    "w1": "Joan (Baez)",
+    "w2": "Suze (Rotolo)",
+    "w3": "Carolyn (Dennis)",
+    "w4": "Mavis (Staples)",
+    "w5": "Nico"
+  },
+  {
+    "q": "Vilket år kom 'Blood on the Tracks'?",
+    "a": "1975",
+    "w1": "1974",
+    "w2": "1976",
+    "w3": "1977",
+    "w4": "1973",
+    "w5": "1978"
+  },
+  {
+    "q": "Hur många dagar var Woodstockfestivalen officiellt?",
+    "a": "3",
+    "w1": "2",
+    "w2": "4",
+    "w3": "5",
+    "w4": "1",
+    "w5": "7"
+  },
+  {
+    "q": "Ungefär hur många personer kom till Woodstock 1969?",
+    "a": "Cirka 400 000",
+    "w1": "Cirka 100 000",
+    "w2": "Cirka 200 000",
+    "w3": "Cirka 700 000",
+    "w4": "Cirka 50 000",
+    "w5": "Cirka 1 miljon"
+  },
+  {
+    "q": "Vad kostade en förköpsbiljett till Woodstock (dollar)?",
+    "a": "18 dollar",
+    "w1": "7 dollar",
+    "w2": "36 dollar",
+    "w3": "12 dollar",
+    "w4": "24 dollar",
+    "w5": "40 dollar"
+  },
+  {
+    "q": "Vem öppnade Woodstockfestivalen?",
+    "a": "Richie Havens",
+    "w1": "Sly Stone",
+    "w2": "Joan Baez",
+    "w3": "Ravi Shankar",
+    "w4": "Country Joe McDonald",
+    "w5": "Arlo Guthrie"
+  },
+  {
+    "q": "Vem avslutade Woodstockfestivalen?",
+    "a": "Jimi Hendrix",
+    "w1": "The Who",
+    "w2": "CSNY",
+    "w3": "Sha-Na-Na",
+    "w4": "Grateful Dead",
+    "w5": "Janis Joplin"
+  },
+  {
+    "q": "Vilket år hölls Isle of Wights största festival?",
+    "a": "1970",
+    "w1": "1969",
+    "w2": "1971",
+    "w3": "1968",
+    "w4": "1972",
+    "w5": "1967"
+  },
+  {
+    "q": "Ungefär hur många kom till Isle of Wight 1970?",
+    "a": "Cirka 600 000",
+    "w1": "Cirka 200 000",
+    "w2": "Cirka 400 000",
+    "w3": "Cirka 800 000",
+    "w4": "Cirka 100 000",
+    "w5": "Cirka 1,2 miljoner"
+  },
+  {
+    "q": "Vilken låt var Beach Boys största singelhit 1966?",
+    "a": "Good Vibrations",
+    "w1": "God Only Knows",
+    "w2": "Wouldn't It Be Nice",
+    "w3": "Sloop John B",
+    "w4": "Caroline, No",
+    "w5": "Heroes and Villains"
+  },
+  {
+    "q": "Ungefär hur mycket kostade inspelningen av 'Good Vibrations'?",
+    "a": "Cirka 50 000 dollar",
+    "w1": "Cirka 5 000 dollar",
+    "w2": "Cirka 15 000 dollar",
+    "w3": "Cirka 100 000 dollar",
+    "w4": "Cirka 20 000 dollar",
+    "w5": "Cirka 75 000 dollar"
+  },
+  {
+    "q": "Vad hette Beach Boys outgivna mästerverk från 1967?",
+    "a": "SMiLE",
+    "w1": "Pet Sounds II",
+    "w2": "Dumb Angel",
+    "w3": "Landlocked",
+    "w4": "Surf's Down",
+    "w5": "California Myth"
+  },
+  {
+    "q": "Vilket år släppte Brian Wilson äntligen färdig 'SMiLE'?",
+    "a": "2004",
+    "w1": "1998",
+    "w2": "2001",
+    "w3": "2007",
+    "w4": "2011",
+    "w5": "2000"
+  },
+  {
+    "q": "Vad hette Motowns huvudlåtskrivartrio?",
+    "a": "Holland–Dozier–Holland",
+    "w1": "Gamble–Huff",
+    "w2": "Ashford–Simpson",
+    "w3": "Ackerley–Bricusse",
+    "w4": "Weil–Mann",
+    "w5": "Leiber–Stoller"
+  },
+  {
+    "q": "Vad hette Motowns studio i Detroit?",
+    "a": "Hitsville U.S.A.",
+    "w1": "Groovesville",
+    "w2": "Soulville",
+    "w3": "Memphis Sound",
+    "w4": "Golden World",
+    "w5": "United Sound"
+  },
+  {
+    "q": "Vilka grundade Philadelphia International Records?",
+    "a": "Gamble & Huff",
+    "w1": "Holland–Dozier–Holland",
+    "w2": "Isley Brothers",
+    "w3": "Kenneth Gamble solo",
+    "w4": "Thom Bell & Gamble",
+    "w5": "Bell & Creed"
+  },
+  {
+    "q": "I vilken stad låg soulbolaget Stax?",
+    "a": "Memphis",
+    "w1": "Detroit",
+    "w2": "Muscle Shoals",
+    "w3": "Chicago",
+    "w4": "Atlanta",
+    "w5": "Nashville"
+  },
+  {
+    "q": "Vad hette Sam & Daves största hit?",
+    "a": "Soul Man",
+    "w1": "Hold On! I'm Comin'",
+    "w2": "I Thank You",
+    "w3": "Wrap It Up",
+    "w4": "You Don't Know Like I Know",
+    "w5": "When Something Is Wrong"
+  },
+  {
+    "q": "Vilken månad dog Otis Redding 1967?",
+    "a": "December",
+    "w1": "Oktober",
+    "w2": "November",
+    "w3": "September",
+    "w4": "Augusti",
+    "w5": "Juni"
+  },
+  {
+    "q": "Vem var organist och ledare i Booker T. & the M.G.'s?",
+    "a": "Booker T. Jones",
+    "w1": "Steve Cropper",
+    "w2": "Donald 'Duck' Dunn",
+    "w3": "Al Jackson Jr.",
+    "w4": "Lewie Steinberg",
+    "w5": "Isaac Hayes"
+  },
+  {
+    "q": "Vilken instrumental hit hade Booker T. & the M.G.'s 1962?",
+    "a": "Green Onions",
+    "w1": "Time Is Tight",
+    "w2": "Hip Hug-Her",
+    "w3": "Soul Limbo",
+    "w4": "Melting Pot",
+    "w5": "Boot-Leg"
+  },
+  {
+    "q": "Vad hette James Browns kompband?",
+    "a": "The J.B.'s",
+    "w1": "The Famous Flames",
+    "w2": "The Pacemakers",
+    "w3": "The Meters",
+    "w4": "The Bar-Kays",
+    "w5": "The Comets"
+  },
+  {
+    "q": "Vilken James Brown-låt ses ofta som funkins födelse (1965)?",
+    "a": "Papa's Got a Brand New Bag",
+    "w1": "I Got You (I Feel Good)",
+    "w2": "Cold Sweat",
+    "w3": "Say It Loud",
+    "w4": "Get Up (Sex Machine)",
+    "w5": "Please, Please, Please"
+  },
+  {
+    "q": "Vilket år spelade James Brown i Boston efter mordet på Martin Luther King?",
+    "a": "1968",
+    "w1": "1967",
+    "w2": "1969",
+    "w3": "1970",
+    "w4": "1966",
+    "w5": "1965"
+  },
+  {
+    "q": "Vilken Sly Stone-hit från 1969 handlar om gemenskap?",
+    "a": "Everyday People",
+    "w1": "Dance to the Music",
+    "w2": "Higher",
+    "w3": "Thank You",
+    "w4": "Family Affair",
+    "w5": "Stand!"
+  }
+]

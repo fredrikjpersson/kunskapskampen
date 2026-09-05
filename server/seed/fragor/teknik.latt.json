@@ -238,5 +238,125 @@
     "a": "Lösenordet",
     "w1": "Räkningen",
     "w2": "Menyn"
+  },
+  {
+    "q": "Vilket fordon åker på räls?",
+    "a": "Tåget",
+    "w1": "Bussen",
+    "w2": "Bilen"
+  },
+  {
+    "q": "Vad kallas båten som kan gå under vattnet?",
+    "a": "Ubåten",
+    "w1": "Färjan",
+    "w2": "Segelbåten"
+  },
+  {
+    "q": "Vilket fordon har två hjul och pedaler?",
+    "a": "Cykeln",
+    "w1": "Bilen",
+    "w2": "Motorcykeln"
+  },
+  {
+    "q": "Vad kallas den som lagar rör och kranar?",
+    "a": "Rörmokaren",
+    "w1": "Elektrikern",
+    "w2": "Snickaren"
+  },
+  {
+    "q": "Vad heter verktyget man slår i spik med?",
+    "a": "Hammaren",
+    "w1": "Skruvdragaren",
+    "w2": "Sågen"
+  },
+  {
+    "q": "Vad mäter hastighetsmätaren i bilen?",
+    "a": "Farten",
+    "w1": "Vikten",
+    "w2": "Temperaturen"
+  },
+  {
+    "q": "Vad kallas tyget som hissas upp på en segelbåt?",
+    "a": "Seglet",
+    "w1": "Flaggan",
+    "w2": "Presenningen"
+  },
+  {
+    "q": "Vad heter maskinen som tvättar diskarna?",
+    "a": "Diskmaskinen",
+    "w1": "Torktumlaren",
+    "w2": "Kylskåpet"
+  },
+  {
+    "q": "Vad kallas paneler som gör el av solljus?",
+    "a": "Solpaneler",
+    "w1": "Vindkraftverk",
+    "w2": "Värmepumpar"
+  },
+  {
+    "q": "Vad heter hissens kusin som rullar på trappsteg?",
+    "a": "Rulltrappan",
+    "w1": "Rullbandet",
+    "w2": "Hisstrappan"
+  },
+  {
+    "q": "Vilket redskap håller ihop flera papper?",
+    "a": "Häftapparat",
+    "w1": "Hole punch",
+    "w2": "Saxen"
+  },
+  {
+    "q": "Vad kallas det lilla kortet i mobilen med ditt nummer?",
+    "a": "SIM-kortet",
+    "w1": "USB-minnet",
+    "w2": "Kreditkortet"
+  },
+  {
+    "q": "Vad heter knappen som startar datorn?",
+    "a": "Startknappen",
+    "w1": "Spaceknappen",
+    "w2": "Enterknappen"
+  },
+  {
+    "q": "Vilken liten maskin hjälper till att räkna matte?",
+    "a": "Kalkylatorn",
+    "w1": "Kassaregister",
+    "w2": "Väckarklockan"
+  },
+  {
+    "q": "Vad kallas sladden som kopplar datorn till uttaget?",
+    "a": "Strömsladden",
+    "w1": "Hörlurskabeln",
+    "w2": "Nätverkskabeln"
+  },
+  {
+    "q": "Vad kallas glasögonen som visar en annan värld framför ögonen?",
+    "a": "VR-glasögon",
+    "w1": "Solglasögon",
+    "w2": "Läsglasögon"
+  },
+  {
+    "q": "Vad heter apparaten som kokar kaffe?",
+    "a": "Kaffebryggaren",
+    "w1": "Vattenkokaren",
+    "w2": "Mikron"
+  },
+  {
+    "q": "Vad kallas rullarna som skidor åker på uppför backen?",
+    "a": "Släpliften",
+    "w1": "Stolliften",
+    "w2": "Rullbandet"
+  },
+  {
+    "q": "Vad heter det lilla hålet i väggen som ger el?",
+    "a": "Eluttaget",
+    "w1": "Strömbrytaren",
+    "w2": "Kontakten"
+  },
+  {
+    "q": "Vad kallas maskinen som syr ihop tyg?",
+    "a": "Symaskinen",
+    "w1": "Sömmaskinen",
+    "w2": "Overlocken"
   }
 ]

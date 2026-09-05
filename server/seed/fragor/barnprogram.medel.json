@@ -238,5 +238,125 @@
     "a": "Marlin",
     "w1": "Nemo",
     "w2": "Dory"
+  },
+  {
+    "q": "Vilket år sändes julkalendern 'Trolltider'?",
+    "a": "1979",
+    "w1": "1977",
+    "w2": "1981"
+  },
+  {
+    "q": "Vilket år sändes 'Mysteriet på Greveholm'?",
+    "a": "1996",
+    "w1": "1994",
+    "w2": "1998"
+  },
+  {
+    "q": "Vilket år var 'Pelle Svanslös' julkalender?",
+    "a": "1997",
+    "w1": "1995",
+    "w2": "1999"
+  },
+  {
+    "q": "Vem spelade Teskedsgumman?",
+    "a": "Birgitta Andersson",
+    "w1": "Margaretha Krook",
+    "w2": "Gullan Croelvand"
+  },
+  {
+    "q": "Vilket år sändes Teskedsgumman första gången?",
+    "a": "1973",
+    "w1": "1971",
+    "w2": "1975"
+  },
+  {
+    "q": "Vilket år sändes Sveriges första julkalender i TV?",
+    "a": "1960",
+    "w1": "1957",
+    "w2": "1962"
+  },
+  {
+    "q": "Vad hette den allra första julkalendern?",
+    "a": "Titteliture",
+    "w1": "Julbuks­kalendern",
+    "w2": "Adventskalendern"
+  },
+  {
+    "q": "Vad heter den gröna draken i Bolibompa?",
+    "a": "Draken",
+    "w1": "Grönis",
+    "w2": "Drake"
+  },
+  {
+    "q": "Vad heter pappan i familjen på Saltkråkan?",
+    "a": "Melker Melkersson",
+    "w1": "Martin Melkersson",
+    "w2": "Måns Melkersson"
+  },
+  {
+    "q": "Vad heter Tjorvens lillasyster?",
+    "a": "Skrållan",
+    "w1": "Skratta",
+    "w2": "Skrammel"
+  },
+  {
+    "q": "Vad heter Melkers äldsta dotter i Saltkråkan?",
+    "a": "Malin",
+    "w1": "Maria",
+    "w2": "Marianne"
+  },
+  {
+    "q": "Vem spelade Tjorven i TV-serien?",
+    "a": "Maria Johansson",
+    "w1": "Jennie Silfverhjelm",
+    "w2": "Amanda Schulman"
+  },
+  {
+    "q": "Vem regisserade Pippi Långstrump-filmerna?",
+    "a": "Olle Hellbom",
+    "w1": "Åke Falck",
+    "w2": "Arne Mattsson"
+  },
+  {
+    "q": "Vem skrev musiken till de flesta Astrid Lindgren-filmerna?",
+    "a": "Georg Riedel",
+    "w1": "Evert Taube",
+    "w2": "Karl-Birger Blomdahl"
+  },
+  {
+    "q": "Vad heter Emils häst?",
+    "a": "Lukas",
+    "w1": "Ludde",
+    "w2": "Lasse"
+  },
+  {
+    "q": "Vad heter pigan i Katthult?",
+    "a": "Lina",
+    "w1": "Alma",
+    "w2": "Ida"
+  },
+  {
+    "q": "Vad heter drängen i Katthult?",
+    "a": "Alfred",
+    "w1": "Anton",
+    "w2": "Axel"
+  },
+  {
+    "q": "Hur många Emil-filmer spelades in på 70-talet?",
+    "a": "3",
+    "w1": "2",
+    "w2": "4"
+  },
+  {
+    "q": "Vad heter Lisas gård i Bullerbyn?",
+    "a": "Mellangården",
+    "w1": "Norrgården",
+    "w2": "Sörgården"
+  },
+  {
+    "q": "Vad heter Emils lillasyster igen?",
+    "a": "Ida",
+    "w1": "Anna",
+    "w2": "Britta"
   }
 ]

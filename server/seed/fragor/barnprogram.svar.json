@@ -238,5 +238,125 @@
     "a": "Rörmokare",
     "w1": "Elektriker",
     "w2": "Snickare"
+  },
+  {
+    "q": "Vilket år kom boken 'Ronja Rövardotter'?",
+    "a": "1981",
+    "w1": "1979",
+    "w2": "1983"
+  },
+  {
+    "q": "Vilket år kom första Madicken-boken?",
+    "a": "1960",
+    "w1": "1958",
+    "w2": "1962"
+  },
+  {
+    "q": "Vilket år kom första Emil-boken?",
+    "a": "1963",
+    "w1": "1961",
+    "w2": "1965"
+  },
+  {
+    "q": "Vilket år kom 'Karlsson på taket'?",
+    "a": "1955",
+    "w1": "1953",
+    "w2": "1957"
+  },
+  {
+    "q": "Vilket år kom första Bullerbyn-boken?",
+    "a": "1947",
+    "w1": "1945",
+    "w2": "1949"
+  },
+  {
+    "q": "Vilket år tilldelades Astrid Lindgren H.C. Andersen-medaljen?",
+    "a": "1958",
+    "w1": "1956",
+    "w2": "1960"
+  },
+  {
+    "q": "Ungefär hur många Astrid Lindgren-böcher har sålts?",
+    "a": "Cirka 165 miljoner",
+    "w1": "Cirka 80 miljoner",
+    "w2": "Cirka 300 miljoner"
+  },
+  {
+    "q": "Vilken ort växte Astrid Lindgren upp nära?",
+    "a": "Vimmerby",
+    "w1": "Kalmar",
+    "w2": "Linköping"
+  },
+  {
+    "q": "Vad heter huvudpersonen i 'Vilse i pannkakan'?",
+    "a": "Lillströmming",
+    "w1": "Lillstrumpe",
+    "w2": "Lille Skutt"
+  },
+  {
+    "q": "Vad hette de tre programledarna i 'Fem myror'?",
+    "a": "Magnus, Brasse och Eva",
+    "w1": "Magnus, Bosse och Eva",
+    "w2": "Lasse, Brasse och Åsa"
+  },
+  {
+    "q": "Vad heter det snälla spökets syster?",
+    "a": "Labolina",
+    "w1": "Labanetta",
+    "w2": "Labella"
+  },
+  {
+    "q": "Vilket år skapades spöket Laban?",
+    "a": "1965",
+    "w1": "1963",
+    "w2": "1967"
+  },
+  {
+    "q": "Vem spelade Trazan i TV?",
+    "a": "Lasse Åberg",
+    "w1": "Klasse Möllberg",
+    "w2": "Sven Melander"
+  },
+  {
+    "q": "Vem illustrerade Emil-böckerna?",
+    "a": "Björn Berg",
+    "w1": "Ilon Wikland",
+    "w2": "Ingrid Vang Nyman"
+  },
+  {
+    "q": "Vem illustrerade de första Pippi-böckerna?",
+    "a": "Ingrid Vang Nyman",
+    "w1": "Ilon Wikland",
+    "w2": "Eva Eriksson"
+  },
+  {
+    "q": "Vem illustrerade böckerna om Ronja?",
+    "a": "Ilon Wikland",
+    "w1": "Björn Berg",
+    "w2": "Tove Jansson"
+  },
+  {
+    "q": "Vad äter Karlsson allra helst?",
+    "a": "Köttbullar med plättar",
+    "w1": "Pannkakor med sylt",
+    "w2": "Kanelbullar"
+  },
+  {
+    "q": "Vad heter Lillebrors storebror?",
+    "a": "Bosse",
+    "w1": "Bert",
+    "w2": "Benny"
+  },
+  {
+    "q": "Vad heter Lillebrors syster?",
+    "a": "Bettan",
+    "w1": "Bettina",
+    "w2": "Barbro"
+  },
+  {
+    "q": "I vilken stad bor Karlsson på taket?",
+    "a": "Stockholm",
+    "w1": "Göteborg",
+    "w2": "Malmö"
   }
 ]

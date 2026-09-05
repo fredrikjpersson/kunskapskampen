@@ -7,7 +7,7 @@ const CATEGORIES = [
   'Musik från förr', 'Barnprogram', 'Dans', 'Brädspel', 'Elit'
 ];
 
-const DIFFICULTIES = ['latt', 'medel', 'svar', 'elit'];
+const DIFFICULTIES = ['latt', 'medel', 'svar', 'elit', 'geni'];
 
 const DB_PATH = process.env.DB_PATH || path.join(__dirname, '..', 'data', 'kunskapskampen.db');
 fs.mkdirSync(path.dirname(DB_PATH), { recursive: true });
@@ -24,10 +24,24 @@ db.exec(`
     correct TEXT NOT NULL,
     wrong1 TEXT NOT NULL,
     wrong2 TEXT NOT NULL,
+    wrong3 TEXT,
+    wrong4 TEXT,
+    wrong5 TEXT,
     used INTEGER NOT NULL DEFAULT 0
   );
   CREATE INDEX IF NOT EXISTS idx_cat_diff_used ON questions(category, difficulty, used);
 `);
+
+/* Migrering av äldre databaser som saknar kolumnerna för 6 svarsalternativ */
+{
+  const cols = db.prepare('PRAGMA table_info(questions)').all().map(c => c.name);
+  for (const c of ['wrong3', 'wrong4', 'wrong5']) {
+    if (!cols.includes(c)) db.exec(`ALTER TABLE questions ADD COLUMN ${c} TEXT`);
+  }
+}
+
+/* Migrering: svårighetsgraden Mensa bytte namn till Geni */
+db.prepare(`UPDATE questions SET difficulty = 'geni' WHERE difficulty = 'mensa'`).run();
 
 function loadSeedFiles() {
   const dir = path.join(__dirname, 'seed', 'fragor');
@@ -40,7 +54,9 @@ function loadSeedFiles() {
     const items = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8'));
     for (const it of items) {
       if (!it.q || !it.a || !it.w1 || !it.w2) continue;
-      rows.push({ category, difficulty: diff, q: it.q, a: it.a, w1: it.w1, w2: it.w2 });
+      // Geni-frågor kräver sex svarsalternativ
+      if (diff === 'geni' && (!it.w3 || !it.w4 || !it.w5)) continue;
+      rows.push({ category, difficulty: diff, q: it.q, a: it.a, w1: it.w1, w2: it.w2, w3: it.w3 || null, w4: it.w4 || null, w5: it.w5 || null });
     }
   }
   return rows;
@@ -57,8 +73,8 @@ function seedIfNeeded() {
   const count = db.prepare('SELECT COUNT(*) AS c FROM questions').get().c;
   if (count === rows.length) return rows.length;
   db.exec('DELETE FROM questions');
-  const ins = db.prepare(`INSERT INTO questions (category, difficulty, question, correct, wrong1, wrong2)
-    VALUES (@category, @difficulty, @q, @a, @w1, @w2)`);
+  const ins = db.prepare(`INSERT INTO questions (category, difficulty, question, correct, wrong1, wrong2, wrong3, wrong4, wrong5)
+    VALUES (@category, @difficulty, @q, @a, @w1, @w2, @w3, @w4, @w5)`);
   db.transaction(() => {
     for (const r of rows) ins.run(r);
   })();
@@ -68,8 +84,8 @@ function seedIfNeeded() {
 function getQuestion(category, difficulty) {
   if (!CATEGORIES.includes(category)) return null;
   if (!DIFFICULTIES.includes(difficulty)) return null;
-  // Elit-kategorin innehåller alltid elitfrågor, oberoende av global svårighetsgrad
-  if (category === 'Elit') difficulty = 'elit';
+  // Elit-kategorin innehåller alltid elitfrågor, utom när svårighetsgraden Geni valts
+  if (category === 'Elit' && difficulty !== 'geni') difficulty = 'elit';
 
   let row = pick(category, difficulty);
   if (!row) {

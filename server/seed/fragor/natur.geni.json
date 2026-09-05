@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Vilket är Avogadros tal (antalet partiklar per mol)?",
+    "a": "6,022 × 10²³",
+    "w1": "6,022 × 10²¹",
+    "w2": "6,626 × 10²³",
+    "w3": "9,109 × 10²³",
+    "w4": "3,142 × 10²⁴",
+    "w5": "1,602 × 10¹⁹"
+  },
+  {
+    "q": "Vad är värdet på Plancks konstant?",
+    "a": "6,626 × 10⁻³⁴ J·s",
+    "w1": "1,602 × 10⁻¹⁹ J",
+    "w2": "1,381 × 10⁻²³ J/K",
+    "w3": "8,988 × 10⁸ m/s",
+    "w4": "9,81 m/s²",
+    "w5": "6,022 × 10⁻²³ mol⁻¹"
+  },
+  {
+    "q": "Vilket grundämne har högst atomnummer bland de som förekommer naturligt i större mängd?",
+    "a": "Uran (92)",
+    "w1": "Torium (90)",
+    "w2": "Protaktinium (91)",
+    "w3": "Neptunium (93)",
+    "w4": "Plutonium (94)",
+    "w5": "Bly (82)"
+  },
+  {
+    "q": "Vad kallas den process där tunga atomkärnor bildas genom snabb neutroninfångning i supernovor?",
+    "a": "r-processen",
+    "w1": "s-processen",
+    "w2": "p-processen",
+    "w3": "Kärnklyvning",
+    "w4": "Beta-sönderfall",
+    "w5": "Proton–protonkedjan"
+  },
+  {
+    "q": "Hur många halskotor har en giraff – samma som de flesta däggdjur?",
+    "a": "7",
+    "w1": "14",
+    "w2": "12",
+    "w3": "10",
+    "w4": "21",
+    "w5": "8"
+  },
+  {
+    "q": "Vilket är det enda icke-metalliska grundämnet som är flytande vid rumstemperatur?",
+    "a": "Brom",
+    "w1": "Kvicksilver",
+    "w2": "Gallium",
+    "w3": "Cesium",
+    "w4": "Jod",
+    "w5": "Fosfor"
+  },
+  {
+    "q": "Vad är molmassan för svavelhexafluorid, SF₆?",
+    "a": "146 g/mol",
+    "w1": "32 g/mol",
+    "w2": "38 g/mol",
+    "w3": "78 g/mol",
+    "w4": "108 g/mol",
+    "w5": "132 g/mol"
+  },
+  {
+    "q": "En bakteriekultur tredubblas var 20:e minut. Startar du med en bakterie, hur många finns efter exakt 2 timmar?",
+    "a": "729",
+    "w1": "216",
+    "w2": "512",
+    "w3": "243",
+    "w4": "432",
+    "w5": "768"
+  },
+  {
+    "q": "Ungefär hur stor andel av universets vanliga (baryoniska) massa utgörs av väte?",
+    "a": "Cirka 75 %",
+    "w1": "Cirka 50 %",
+    "w2": "Cirka 62 %",
+    "w3": "Cirka 90 %",
+    "w4": "Cirka 25 %",
+    "w5": "Cirka 12 %"
+  },
+  {
+    "q": "Vad är SI-enheten för magnetisk flödestäthet?",
+    "a": "Tesla",
+    "w1": "Weber",
+    "w2": "Henry",
+    "w3": "Siemens",
+    "w4": "Ohm",
+    "w5": "Volt"
+  },
+  {
+    "q": "Hur långt är ett ljusår, ungefär?",
+    "a": "9,46 × 10¹² km",
+    "w1": "9,46 × 10⁹ km",
+    "w2": "9,46 × 10¹⁵ km",
+    "w3": "1,49 × 10⁸ km",
+    "w4": "3,08 × 10¹³ km",
+    "w5": "9,46 × 10⁶ km"
+  },
+  {
+    "q": "Vilken av dessa gaser har högst molmassa?",
+    "a": "Xenon (131 g/mol)",
+    "w1": "Argon (40 g/mol)",
+    "w2": "Klor (71 g/mol)",
+    "w3": "Koldioxid (44 g/mol)",
+    "w4": "Syre (32 g/mol)",
+    "w5": "Krypton (84 g/mol)"
+  },
+  {
+    "q": "Vad är värdet på Boltzmanns konstant?",
+    "a": "1,38 × 10⁻²³ J/K",
+    "w1": "6,63 × 10⁻³⁴ J·s",
+    "w2": "1,60 × 10⁻¹⁹ J",
+    "w3": "9,81 m/s²",
+    "w4": "8,99 × 10⁹ N·m²/C²",
+    "w5": "6,67 × 10⁻¹¹ N·m²/kg²"
+  },
+  {
+    "q": "Hur många baspar innehåller det humana genomet (ungefär)?",
+    "a": "Cirka 3,1 miljarder",
+    "w1": "Cirka 310 miljoner",
+    "w2": "Cirka 31 miljarder",
+    "w3": "Cirka 3,1 miljoner",
+    "w4": "Cirka 310 miljarder",
+    "w5": "Cirka 31 miljoner"
+  },
+  {
+    "q": "Vad är pKa-värdet för ättiksyra (ungefär)?",
+    "a": "4,76",
+    "w1": "2,87",
+    "w2": "6,35",
+    "w3": "9,25",
+    "w4": "3,14",
+    "w5": "7,00"
+  },
+  {
+    "q": "Vilken SI-enhet mäter radioaktiv aktivitet?",
+    "a": "Becquerel",
+    "w1": "Sievert",
+    "w2": "Gray",
+    "w3": "Curie",
+    "w4": "Rutherford",
+    "w5": "Watt"
+  },
+  {
+    "q": "Hur många kromosomer har bananflugans kroppsceller?",
+    "a": "8",
+    "w1": "4",
+    "w2": "16",
+    "w3": "12",
+    "w4": "46",
+    "w5": "10"
+  },
+  {
+    "q": "Vilket grundämne upptäcktes i solens spektrum innan det hittades på jorden?",
+    "a": "Helium",
+    "w1": "Neon",
+    "w2": "Argon",
+    "w3": "Cesum",
+    "w4": "Rubidium",
+    "w5": "Krypton"
+  },
+  {
+    "q": "Vad är den absoluta nollpunkten i Celsius?",
+    "a": "−273,15 °C",
+    "w1": "−259,15 °C",
+    "w2": "−293,15 °C",
+    "w3": "−196 °C",
+    "w4": "−183 °C",
+    "w5": "−248,15 °C"
+  },
+  {
+    "q": "Vad motsvarar en elektronvolt i joule (ungefär)?",
+    "a": "1,602 × 10⁻¹⁹ J",
+    "w1": "1,602 × 10⁻¹⁷ J",
+    "w2": "9,11 × 10⁻³¹ J",
+    "w3": "6,63 × 10⁻³⁴ J",
+    "w4": "1,38 × 10⁻²³ J",
+    "w5": "1,602 × 10⁻²¹ J"
+  },
+  {
+    "q": "En cell deler sig exakt varje timme, start med en cell. Hur många efter 10 timmar?",
+    "a": "1 024",
+    "w1": "512",
+    "w2": "2 048",
+    "w3": "100",
+    "w4": "256",
+    "w5": "4 096"
+  },
+  {
+    "q": "Ett radioaktivt preparat har halveringstiden 3 dagar. Vilken andel återstår efter 12 dagar?",
+    "a": "1/16",
+    "w1": "1/4",
+    "w2": "1/8",
+    "w3": "1/32",
+    "w4": "1/2",
+    "w5": "1/64"
+  },
+  {
+    "q": "Vilken frekvens har det svenska elnätet?",
+    "a": "50 Hz",
+    "w1": "60 Hz",
+    "w2": "25 Hz",
+    "w3": "100 Hz",
+    "w4": "10 Hz",
+    "w5": "400 Hz"
+  },
+  {
+    "q": "Vilket pH har rent vatten vid 100 °C?",
+    "a": "Cirka 6,1",
+    "w1": "Exakt 7,0",
+    "w2": "Cirka 8,0",
+    "w3": "Cirka 5,0",
+    "w4": "Cirka 6,9",
+    "w5": "Cirka 4,5"
+  },
+  {
+    "q": "Vilken är världens starkaste syra?",
+    "a": "Fluoroantimonsyra",
+    "w1": "Koncentrerad svavelsyra",
+    "w2": "Saltsyra",
+    "w3": "Fluorvätesyra (HF)",
+    "w4": "Salpetersyra",
+    "w5": "Perklorsyra"
+  },
+  {
+    "q": "Vilken gen muteras vid sickelcellsanemi?",
+    "a": "HBB (beta-globin)",
+    "w1": "HBA (alfa-globin)",
+    "w2": "CFTR",
+    "w3": "BRCA1",
+    "w4": "HBBF",
+    "w5": "DMD"
+  },
+  {
+    "q": "Vad är Chandrasekhar-gränsen i solmassor?",
+    "a": "Cirka 1,4",
+    "w1": "Cirka 3,0",
+    "w2": "Cirka 0,8",
+    "w3": "Cirka 8,0",
+    "w4": "Cirka 2,2",
+    "w5": "Cirka 5,6"
+  },
+  {
+    "q": "Vad handlar Fermis paradox om?",
+    "a": "Varför vi inte träffat utomjordiskt liv trots hög sannolikhet för det",
+    "w1": "Varför universum expanderar snabbare och snabbare",
+    "w2": "Varför ljusets hastighet är konstant",
+    "w3": "Varför mörk materia inte syns",
+    "w4": "Varför kvantpartiklar är kopplade",
+    "w5": "Varför entropin alltid ökar"
+  },
+  {
+    "q": "Hur många celler har en vuxen människa (nuvarande uppskattning)?",
+    "a": "Cirka 30 biljoner (3 × 10¹³)",
+    "w1": "Cirka 3 miljarder",
+    "w2": "Cirka 300 miljarder",
+    "w3": "Cirka 3 biljoner",
+    "w4": "Cirka 300 biljoner",
+    "w5": "Cirka 30 miljoner"
+  },
+  {
+    "q": "Vilken aminosyra startar alltid proteinsyntesen hos människan?",
+    "a": "Metionin",
+    "w1": "Glycin",
+    "w2": "Alanin",
+    "w3": "Cystein",
+    "w4": "Serin",
+    "w5": "Valin"
+  },
+  {
+    "q": "Hur många ATP bildas (ungefär) vid fullständig oxidation av en glukosmolekyl?",
+    "a": "30–32",
+    "w1": "6–8",
+    "w2": "12–14",
+    "w3": "54–58",
+    "w4": "18–20",
+    "w5": "44–46"
+  },
+  {
+    "q": "Vad är Rydbergkonstantens värde (ungefär)?",
+    "a": "1,097 × 10⁷ m⁻¹",
+    "w1": "1,097 × 10⁵ m⁻¹",
+    "w2": "9,8 × 10⁶ m⁻¹",
+    "w3": "1,38 × 10⁷ m⁻¹",
+    "w4": "6,63 × 10⁻³⁴ m⁻¹",
+    "w5": "1,60 × 10¹⁹ m⁻¹"
+  },
+  {
+    "q": "Vilken spektralklass har solen?",
+    "a": "G2V",
+    "w1": "M1V",
+    "w2": "K5V",
+    "w3": "F8V",
+    "w4": "A0V",
+    "w5": "B2V"
+  },
+  {
+    "q": "Hur lång tid tar ljuset från solen till jorden?",
+    "a": "Cirka 8 minuter och 20 sekunder",
+    "w1": "Cirka 1 minut och 30 sekunder",
+    "w2": "Cirka 12 minuter",
+    "w3": "Cirka 4 minuter",
+    "w4": "Cirka 20 minuter",
+    "w5": "Cirka 45 sekunder"
+  },
+  {
+    "q": "Vad är Hubbles konstant ungefär (km/s/Mpc)?",
+    "a": "Cirka 70",
+    "w1": "Cirka 35",
+    "w2": "Cirka 140",
+    "w3": "Cirka 300 000",
+    "w4": "Cirka 7",
+    "w5": "Cirka 9,8"
+  },
+  {
+    "q": "Vad är Plancktid (ungefär)?",
+    "a": "5,4 × 10⁻⁴⁴ sekunder",
+    "w1": "5,4 × 10⁻³⁴ sekunder",
+    "w2": "5,4 × 10⁻²⁴ sekunder",
+    "w3": "1,6 × 10⁻³⁵ sekunder",
+    "w4": "5,4 × 10⁻⁵⁴ sekunder",
+    "w5": "9,6 × 10⁻⁴⁴ sekunder"
+  },
+  {
+    "q": "Hur många fundamentala naturkrafter erkänns i standardmodellen?",
+    "a": "4",
+    "w1": "3",
+    "w2": "5",
+    "w3": "2",
+    "w4": "6",
+    "w5": "1"
+  },
+  {
+    "q": "Vilken kvark är tyngst?",
+    "a": "Toppkvarken",
+    "w1": "Bottenkvarken",
+    "w2": "Charmkvarken",
+    "w3": "Särkvarken (strange)",
+    "w4": "Uppkvarken",
+    "w5": "Nerkvarken"
+  },
+  {
+    "q": "Vilket färgämne i bladen absorberar mest rött och blått ljus?",
+    "a": "Klorofyll a",
+    "w1": "Klorofyll b",
+    "w2": "Karotenoider",
+    "w3": "Antocyaniner",
+    "w4": "Fykoerytrin",
+    "w5": "Xantofyller"
+  },
+  {
+    "q": "Vilken strukturform beskriver en polypeptidkedjas fulla 3D-veck?",
+    "a": "Tertiärstruktur",
+    "w1": "Primärstruktur",
+    "w2": "Sekundärstruktur",
+    "w3": "Kvartärstruktur",
+    "w4": "Alfastruktur",
+    "w5": "Betastruktur"
+  },
+  {
+    "q": "Vad är en homeobox?",
+    "a": "DNA-sekvens som styr embryonal utveckling",
+    "w1": "Protein som reparerar DNA",
+    "w2": "Cellens energifabrik",
+    "w3": "Transportprotein i membranet",
+    "w4": "Hormonreceptor i kärnan",
+    "w5": "Typ av ribosom"
+  },
+  {
+    "q": "Vilket hormon triggar värkar och förlossning?",
+    "a": "Oxytocin",
+    "w1": "Prolaktin",
+    "w2": "Progesteron",
+    "w3": "Östrogen",
+    "w4": "Kortisol",
+    "w5": "Testosteron"
+  },
+  {
+    "q": "Vilket är det vanligaste grundämnet i jordskorpan?",
+    "a": "Syre (ca 46 %)",
+    "w1": "Kisel (ca 28 %)",
+    "w2": "Aluminium (ca 8 %)",
+    "w3": "Järn (ca 5 %)",
+    "w4": "Kalcium (ca 4 %)",
+    "w5": "Natrium (ca 3 %)"
+  },
+  {
+    "q": "Vad är Mohs hårdhet för kvarts?",
+    "a": "7",
+    "w1": "5",
+    "w2": "6",
+    "w3": "8",
+    "w4": "9",
+    "w5": "10"
+  },
+  {
+    "q": "Vilken mineralgrupp utgör cirka 90 % av jordskorpan?",
+    "a": "Silikater",
+    "w1": "Karbonater",
+    "w2": "Oxider",
+    "w3": "Sulfider",
+    "w4": "Halider",
+    "w5": "Fosfater"
+  },
+  {
+    "q": "Vad är den kemiska formeln för cinnober (kvicksilversulfid)?",
+    "a": "HgS",
+    "w1": "HgSO₄",
+    "w2": "Hg₂S",
+    "w3": "HgO",
+    "w4": "HgCl₂",
+    "w5": "Hg₂SO₄"
+  },
+  {
+    "q": "Hur många kolatomer innehåller acetylsalicylsyra (aspirin)?",
+    "a": "9",
+    "w1": "6",
+    "w2": "8",
+    "w3": "10",
+    "w4": "7",
+    "w5": "12"
+  },
+  {
+    "q": "Vad är Loschmidts tal (antal molekyler per cm³ gas vid 0 °C och 1 atm)?",
+    "a": "Cirka 2,7 × 10¹⁹",
+    "w1": "Cirka 6,0 × 10²³",
+    "w2": "Cirka 2,7 × 10¹⁶",
+    "w3": "Cirka 9,5 × 10¹⁷",
+    "w4": "Cirka 1,1 × 10²¹",
+    "w5": "Cirka 5,4 × 10¹⁸"
+  },
+  {
+    "q": "Vad kännetecknar en eutrof sjö?",
+    "a": "Näringsrik och övergödd",
+    "w1": "Näringsfattig och klar",
+    "w2": "Sur och brunfärgad",
+    "w3": "Salt och grund",
+    "w4": "Djup och kall",
+    "w5": "Kalkrik och grund"
+  },
+  {
+    "q": "Hur lång är en hästs dräktighet (ungefär)?",
+    "a": "Cirka 11 månader",
+    "w1": "Cirka 9 månader",
+    "w2": "Cirka 6 månader",
+    "w3": "Cirka 13 månader",
+    "w4": "Cirka 18 månader",
+    "w5": "Cirka 24 månader"
+  },
+  {
+    "q": "Om genfrekvensen för en allel är p = 0,6, vilken andel av individerna är heterozygoter (2pq)?",
+    "a": "0,48",
+    "w1": "0,36",
+    "w2": "0,16",
+    "w3": "0,24",
+    "w4": "0,60",
+    "w5": "0,40"
+  },
+  {
+    "q": "Hur stor är en vuxen persons totala blodvolym (ca, per 70 kg)?",
+    "a": "Cirka 5 liter",
+    "w1": "Cirka 3 liter",
+    "w2": "Cirka 10 liter",
+    "w3": "Cirka 7 liter",
+    "w4": "Cirka 12 liter",
+    "w5": "Cirka 2 liter"
+  },
+  {
+    "q": "Hur tjockt är en genomsnittlig människas hårstrå (mm)?",
+    "a": "Cirka 0,07 mm",
+    "w1": "Cirka 0,7 mm",
+    "w2": "Cirka 0,007 mm",
+    "w3": "Cirka 0,2 mm",
+    "w4": "Cirka 0,02 mm",
+    "w5": "Cirka 0,5 mm"
+  },
+  {
+    "q": "Upp till ungefär vilken frekvens kan en hund höra ljud?",
+    "a": "Cirka 45 kHz",
+    "w1": "Cirka 20 kHz",
+    "w2": "Cirka 100 Hz",
+    "w3": "Cirka 200 kHz",
+    "w4": "Cirka 2 kHz",
+    "w5": "Cirka 15 kHz"
+  },
+  {
+    "q": "Vilket däggdjur sover minst per dygn?",
+    "a": "Giraffen",
+    "w1": "Elefanten",
+    "w2": "Lejonet",
+    "w3": "Fladdermusen",
+    "w4": "Kon",
+    "w5": "Människan"
+  },
+  {
+    "q": "Vid vilket tryck (0,5 atm) kokar vatten (ca)?",
+    "a": "Cirka 81 °C",
+    "w1": "Cirka 100 °C",
+    "w2": "Cirka 90 °C",
+    "w3": "Cirka 68 °C",
+    "w4": "Cirka 75 °C",
+    "w5": "Cirka 95 °C"
+  },
+  {
+    "q": "Hur mycket kan en blåval växa till i vikt (maximum)?",
+    "a": "Cirka 150 ton",
+    "w1": "Cirka 50 ton",
+    "w2": "Cirka 90 ton",
+    "w3": "Cirka 250 ton",
+    "w4": "Cirka 300 ton",
+    "w5": "Cirka 400 ton"
+  },
+  {
+    "q": "Hur många synapser har den mänskliga hjärnan (uppskattningsvis)?",
+    "a": "Cirka 10¹⁴–10¹⁵",
+    "w1": "Cirka 10¹⁰",
+    "w2": "Cirka 10⁷",
+    "w3": "Cirka 10¹²",
+    "w4": "Cirka 10¹⁸",
+    "w5": "Cirka 10²⁰"
+  },
+  {
+    "q": "Vilken temperatur har den kosmiska mikrovågsbakgrunden?",
+    "a": "Cirka 2,725 K",
+    "w1": "Cirka 0 K",
+    "w2": "Cirka 27 K",
+    "w3": "Cirka 0,027 K",
+    "w4": "Cirka 2,7 × 10⁶ K",
+    "w5": "Cirka 273 K"
+  },
+  {
+    "q": "Vad är Van der Waals-radien för en kolatom (ungefär)?",
+    "a": "Cirka 170 pm",
+    "w1": "Cirka 70 pm",
+    "w2": "Cirka 110 pm",
+    "w3": "Cirka 250 pm",
+    "w4": "Cirka 100 pm",
+    "w5": "Cirka 200 pm"
+  }
+]

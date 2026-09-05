@@ -238,5 +238,125 @@
     "a": "Taxi",
     "w1": "Buss",
     "w2": "Tåg"
+  },
+  {
+    "q": "Vad kallas speglarna på bilens sidor?",
+    "a": "Sidospeglar",
+    "w1": "Granspeglar",
+    "w2": "Väsnespeglar"
+  },
+  {
+    "q": "Vad kallas en bil med bara två dörrar?",
+    "a": "Kupe",
+    "w1": "Kombi",
+    "w2": "Sedan"
+  },
+  {
+    "q": "Var lägger man väskorna i bilen?",
+    "a": "I bagageutrymmet",
+    "w1": "På motorhuven",
+    "w2": "Under bilen"
+  },
+  {
+    "q": "Vad kallas delarna som dämpar stötar från vägen?",
+    "a": "Stötdämpare",
+    "w1": "Bromsbelägg",
+    "w2": "Fjädring"
+  },
+  {
+    "q": "Vad kallas det stället där bilen tvättas med borstar?",
+    "a": "Biltvätt",
+    "w1": "Bilverkstad",
+    "w2": "Bensinmack"
+  },
+  {
+    "q": "Vilket dokument måste föraren alltid ha med sig?",
+    "a": "Körkort",
+    "w1": "Legitimation",
+    "w2": "Visum"
+  },
+  {
+    "q": "Vad kallas ljuset som lyser inne i bilen?",
+    "a": "Kupébelysning",
+    "w1": "Strålkastarbelysning",
+    "w2": "Positionslys"
+  },
+  {
+    "q": "Vad kallas platsen bredvid föraren?",
+    "a": "Passagerarsätet",
+    "w1": "Rattplatsen",
+    "w2": "Mellanhögen"
+  },
+  {
+    "q": "Vad heter extra-hjulet om ett däck går sönder?",
+    "a": "Reservhjul",
+    "w1": "Nödhjul",
+    "w2": "Sommarhjul"
+  },
+  {
+    "q": "Vad kallas den röda trekanten man ställer upp vid olycka?",
+    "a": "Varningstriangel",
+    "w1": "Stoppmärke",
+    "w2": "Förbudsskylt"
+  },
+  {
+    "q": "Vad kallas den årliga kontrollen av bilen?",
+    "a": "Besiktning",
+    "w1": "Synundersökning",
+    "w2": "Reparation"
+  },
+  {
+    "q": "Vad heter mätaren som visar hur mycket bensin som finns?",
+    "a": "Bränslemätaren",
+    "w1": "Tempmätaren",
+    "w2": "Trippmätaren"
+  },
+  {
+    "q": "Vad kallas fläkten som håller motorn sval?",
+    "a": "Kylfläkten",
+    "w1": "Värmarfläkten",
+    "w2": "Kupéfläkten"
+  },
+  {
+    "q": "Vad kallas böterna man får för att parkera fel?",
+    "a": "Parkeringsbot",
+    "w1": "Körförbud",
+    "w2": "Tilläggsavgift"
+  },
+  {
+    "q": "Vad betalar man med i en parkeringsautomat?",
+    "a": "P-biljett",
+    "w1": "Bensinkupong",
+    "w2": "Vägavgift"
+  },
+  {
+    "q": "Vad heter kroken bak på bilen som drar släp?",
+    "a": "Dragkrok",
+    "w1": "Kopplingstång",
+    "w2": "Vinsch"
+  },
+  {
+    "q": "Vad kallas vagnen som dras bakom bilen?",
+    "a": "Släp",
+    "w1": "Kärra",
+    "w2": "Släde"
+  },
+  {
+    "q": "Vad kallas stolen som små barn sitter i i bilen?",
+    "a": "Bilbarnstol",
+    "w1": "Säkerhetsbälte",
+    "w2": "Kudde"
+  },
+  {
+    "q": "Vad heter mannen som hämtar en bil som gått sönder?",
+    "a": "Bärgare",
+    "w1": "Mekaniker",
+    "w2": "Besiktningsman"
+  },
+  {
+    "q": "Vad kallas mätaren som visar motorvarv?",
+    "a": "Varvräknare",
+    "w1": "Vägmätare",
+    "w2": "Hastighetsmätare"
   }
 ]

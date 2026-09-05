@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Hur djup är Bajkalsjön som djupast?",
+    "a": "1 642 meter",
+    "w1": "1 280 meter",
+    "w2": "1 492 meter",
+    "w3": "1 732 meter",
+    "w4": "1 174 meter",
+    "w5": "1 869 meter"
+  },
+  {
+    "q": "Vilket land har flest tidszoner räknat med alla territorier?",
+    "a": "Frankrike",
+    "w1": "Ryssland",
+    "w2": "USA",
+    "w3": "Storbritannien",
+    "w4": "Kina",
+    "w5": "Danmark"
+  },
+  {
+    "q": "Vad är huvudstaden i Kiribati?",
+    "a": "Tarawa",
+    "w1": "Funafuti",
+    "w2": "Majuro",
+    "w3": "Nuku'alofa",
+    "w4": "Suva",
+    "w5": "Port Vila"
+  },
+  {
+    "q": "Vilken är världens sydligaste huvudstad?",
+    "a": "Wellington",
+    "w1": "Canberra",
+    "w2": "Santiago",
+    "w3": "Buenos Aires",
+    "w4": "Kapstaden",
+    "w5": "Montevideo"
+  },
+  {
+    "q": "Längsta landgränsen mellan två länder – vilka?",
+    "a": "Kanada och USA",
+    "w1": "Ryssland och Kazakstan",
+    "w2": "Ryssland och Kina",
+    "w3": "Argentina och Chile",
+    "w4": "Mongoliet och Kina",
+    "w5": "USA och Mexiko"
+  },
+  {
+    "q": "När klockan är 12:00 UTC – vad är klockan på Chathamöarna (UTC+12:45)?",
+    "a": "00:45",
+    "w1": "00:30",
+    "w2": "01:45",
+    "w3": "00:15",
+    "w4": "01:15",
+    "w5": "23:45"
+  },
+  {
+    "q": "Vilken sjö i världen har störst vattenmängd (volym)?",
+    "a": "Bajkalsjön",
+    "w1": "Kaspiska havet",
+    "w2": "Tanganyika",
+    "w3": "Övre sjön (Superior)",
+    "w4": "Victoriasjön",
+    "w5": "Michigansjön"
+  },
+  {
+    "q": "Vilket land har flest öar i världen enligt officiell räkning?",
+    "a": "Sverige",
+    "w1": "Finland",
+    "w2": "Kanada",
+    "w3": "Norge",
+    "w4": "Indonesien",
+    "w5": "Filippinerna"
+  },
+  {
+    "q": "Vad är huvudstaden i Bhutan?",
+    "a": "Thimphu",
+    "w1": "Kathmandu",
+    "w2": "Dhaka",
+    "w3": "Naypyidaw",
+    "w4": "Vientiane",
+    "w5": "Paro"
+  },
+  {
+    "q": "Vad kallas platsen i Stilla havet som ligger längst från allt land?",
+    "a": "Point Nemo",
+    "w1": "Challengerdjupet",
+    "w2": "Point Zero",
+    "w3": "Nemodjupet",
+    "w4": "Oceanus Pol",
+    "w5": "Mariana Point"
+  },
+  {
+    "q": "Vilket är världens yngsta land?",
+    "a": "Sydsudan",
+    "w1": "Kosovo",
+    "w2": "Eritrea",
+    "w3": "Montenegro",
+    "w4": "Östtimor",
+    "w5": "Serbien"
+  },
+  {
+    "q": "Vilken är Europas västligaste huvudstad på fastlandet?",
+    "a": "Lissabon",
+    "w1": "Madrid",
+    "w2": "Bryssel",
+    "w3": "Aten",
+    "w4": "Helsingfors",
+    "w5": "Oslo"
+  },
+  {
+    "q": "Vad är jordens medelradie i kilometer?",
+    "a": "Cirka 6 371 km",
+    "w1": "Cirka 5 971 km",
+    "w2": "Cirka 6 871 km",
+    "w3": "Cirka 7 371 km",
+    "w4": "Cirka 6 071 km",
+    "w5": "Cirka 6 571 km"
+  },
+  {
+    "q": "Hur stor är jordens totala yta (miljoner km²)?",
+    "a": "Cirka 510",
+    "w1": "Cirka 410",
+    "w2": "Cirka 610",
+    "w3": "Cirka 360",
+    "w4": "Cirka 450",
+    "w5": "Cirka 560"
+  },
+  {
+    "q": "Ungefär hur stor andel av jordens yta täcks av hav?",
+    "a": "Cirka 71 %",
+    "w1": "Cirka 60 %",
+    "w2": "Cirka 80 %",
+    "w3": "Cirka 55 %",
+    "w4": "Cirka 66 %",
+    "w5": "Cirka 75 %"
+  },
+  {
+    "q": "På vilken breddgrad ligger polcirkeln exakt?",
+    "a": "66°33′",
+    "w1": "60°00′",
+    "w2": "69°45′",
+    "w3": "63°30′",
+    "w4": "65°33′",
+    "w5": "66°00′"
+  },
+  {
+    "q": "Ungefär på vilken breddgrad ligger Stockholm?",
+    "a": "59,3°N",
+    "w1": "55,3°N",
+    "w2": "62,1°N",
+    "w3": "57,8°N",
+    "w4": "60,9°N",
+    "w5": "58,6°N"
+  },
+  {
+    "q": "Vad kallas meridianen på 180°?",
+    "a": "Antimeridianen",
+    "w1": "Ekvatorn",
+    "w2": "Primärmeridianen",
+    "w3": "Datagränsen",
+    "w4": "Polcirkeln",
+    "w5": "Meridianlinjen"
+  },
+  {
+    "q": "Vilket är Alpernas högsta berg?",
+    "a": "Mont Blanc",
+    "w1": "Matterhorn",
+    "w2": "Jungfrau",
+    "w3": "Eiger",
+    "w4": "Dolomiten",
+    "w5": "Großglockner"
+  },
+  {
+    "q": "Hur högt är Mont Blanc (meter)?",
+    "a": "Cirka 4 808 m",
+    "w1": "Cirka 4 408 m",
+    "w2": "Cirka 5 108 m",
+    "w3": "Cirka 4 608 m",
+    "w4": "Cirka 4 908 m",
+    "w5": "Cirka 5 308 m"
+  },
+  {
+    "q": "Hur högt är Kilimanjaro (meter)?",
+    "a": "5 895 m",
+    "w1": "5 495 m",
+    "w2": "6 195 m",
+    "w3": "5 695 m",
+    "w4": "6 395 m",
+    "w5": "5 295 m"
+  },
+  {
+    "q": "Hur högt är Denali (meter)?",
+    "a": "6 190 m",
+    "w1": "5 890 m",
+    "w2": "6 590 m",
+    "w3": "6 090 m",
+    "w4": "6 390 m",
+    "w5": "5 690 m"
+  },
+  {
+    "q": "Hur högt är Aconcagua (meter)?",
+    "a": "6 961 m",
+    "w1": "6 661 m",
+    "w2": "7 161 m",
+    "w3": "6 861 m",
+    "w4": "7 061 m",
+    "w5": "6 761 m"
+  },
+  {
+    "q": "Hur högt är K2 (meter)?",
+    "a": "8 611 m",
+    "w1": "8 811 m",
+    "w2": "8 411 m",
+    "w3": "8 511 m",
+    "w4": "8 711 m",
+    "w5": "8 311 m"
+  },
+  {
+    "q": "Vilket är Sydamerikas näst högsta berg?",
+    "a": "Ojos del Salado",
+    "w1": "Huascarán",
+    "w2": "Cazadero",
+    "w3": "Llullaillaco",
+    "w4": "Mercedario",
+    "w5": "Incahuasi"
+  },
+  {
+    "q": "Hur många tidszoner har Ryssland?",
+    "a": "11",
+    "w1": "9",
+    "w2": "13",
+    "w3": "8",
+    "w4": "12",
+    "w5": "10"
+  },
+  {
+    "q": "Hur många tidszoner har Kina officiellt?",
+    "a": "1",
+    "w1": "2",
+    "w2": "3",
+    "w3": "5",
+    "w4": "4",
+    "w5": "8"
+  },
+  {
+    "q": "Hur många tidszoner har Frankrike med alla territorier?",
+    "a": "12",
+    "w1": "8",
+    "w2": "11",
+    "w3": "14",
+    "w4": "10",
+    "w5": "13"
+  },
+  {
+    "q": "Vilket land har flest tidszoner i ett sammanhängande område?",
+    "a": "Ryssland",
+    "w1": "Kanada",
+    "w2": "USA",
+    "w3": "Kina",
+    "w4": "Brasilien",
+    "w5": "Australien"
+  },
+  {
+    "q": "Vad är huvudstaden i Burkina Faso?",
+    "a": "Ouagadougou",
+    "w1": "Bamako",
+    "w2": "Niamey",
+    "w3": "Lomé",
+    "w4": "Accra",
+    "w5": "Abuja"
+  },
+  {
+    "q": "Vad är huvudstaden i Eritrea?",
+    "a": "Asmara",
+    "w1": "Addis Abeba",
+    "w2": "Mogadishu",
+    "w3": "Djibouti",
+    "w4": "Khartoum",
+    "w5": "Juba"
+  },
+  {
+    "q": "Vad är huvudstaden i Botswana?",
+    "a": "Gaborone",
+    "w1": "Windhoek",
+    "w2": "Maseru",
+    "w3": "Pretoria",
+    "w4": "Harare",
+    "w5": "Lusaka"
+  },
+  {
+    "q": "Vad är huvudstaden i Lesotho?",
+    "a": "Maseru",
+    "w1": "Mbabane",
+    "w2": "Gaborone",
+    "w3": "Bloemfontein",
+    "w4": "Lobamba",
+    "w5": "Butha-Buthe"
+  },
+  {
+    "q": "Vad är huvudstaden i Belize?",
+    "a": "Belmopan",
+    "w1": "Belize City",
+    "w2": "Guatemala City",
+    "w3": "Tegucigalpa",
+    "w4": "Managua",
+    "w5": "San Salvador"
+  },
+  {
+    "q": "Vad är huvudstaden i Costa Rica?",
+    "a": "San José",
+    "w1": "Managua",
+    "w2": "Panama City",
+    "w3": "Tegucigalpa",
+    "w4": "Liberia",
+    "w5": "Cartago"
+  },
+  {
+    "q": "Vad är huvudstaden i Honduras?",
+    "a": "Tegucigalpa",
+    "w1": "San Pedro Sula",
+    "w2": "Managua",
+    "w3": "San Salvador",
+    "w4": "Guatemala City",
+    "w5": "Belmopan"
+  },
+  {
+    "q": "Vad är huvudstaden i Nicaragua?",
+    "a": "Managua",
+    "w1": "León",
+    "w2": "San José",
+    "w3": "Tegucigalpa",
+    "w4": "Granada",
+    "w5": "Panama City"
+  },
+  {
+    "q": "Vad är huvudstaden i Paraguay?",
+    "a": "Asunción",
+    "w1": "Montevideo",
+    "w2": "La Paz",
+    "w3": "Quito",
+    "w4": "Sucre",
+    "w5": "Lima"
+  },
+  {
+    "q": "Vad är Bolivias konstitutionella huvudstad?",
+    "a": "Sucre",
+    "w1": "La Paz",
+    "w2": "Santa Cruz",
+    "w3": "Cochabamba",
+    "w4": "Oruro",
+    "w5": "Potosí"
+  },
+  {
+    "q": "Vad är huvudstaden i Brunei?",
+    "a": "Bandar Seri Begawan",
+    "w1": "Kuala Lumpur",
+    "w2": "Bandar Labuan",
+    "w3": "Kota Kinabalu",
+    "w4": "Kuching",
+    "w5": "Muara"
+  },
+  {
+    "q": "Vad är huvudstaden i Laos?",
+    "a": "Vientiane",
+    "w1": "Luang Prabang",
+    "w2": "Phnom Penh",
+    "w3": "Hanoi",
+    "w4": "Bangkok",
+    "w5": "Naypyidaw"
+  },
+  {
+    "q": "Vad är huvudstaden i Taiwan?",
+    "a": "Taipei",
+    "w1": "Kaohsiung",
+    "w2": "Taichung",
+    "w3": "Hongkong",
+    "w4": "Hsinchu",
+    "w5": "Tainan"
+  },
+  {
+    "q": "Vad är huvudstaden i Georgien?",
+    "a": "Tbilisi",
+    "w1": "Batumi",
+    "w2": "Kutaisi",
+    "w3": "Jerevan",
+    "w4": "Baku",
+    "w5": "Gori"
+  },
+  {
+    "q": "Vad är huvudstaden i Armenien?",
+    "a": "Jerevan",
+    "w1": "Tbilisi",
+    "w2": "Baku",
+    "w3": "Gyumri",
+    "w4": "Tjusjtj",
+    "w5": "Stepanakert"
+  },
+  {
+    "q": "Vad är huvudstaden i Azerbajdzjan?",
+    "a": "Baku",
+    "w1": "Ganja",
+    "w2": "Tbilisi",
+    "w3": "Jerevan",
+    "w4": "Sumqayıt",
+    "w5": "Nakhitjivan"
+  },
+  {
+    "q": "Vad är huvudstaden i Turkmenistan?",
+    "a": "Asjchabad",
+    "w1": "Tasjkent",
+    "w2": "Dusjanbe",
+    "w3": "Bisjkek",
+    "w4": "Almaty",
+    "w5": "Astana"
+  },
+  {
+    "q": "Vad är huvudstaden i Kirgizistan?",
+    "a": "Bisjkek",
+    "w1": "Osh",
+    "w2": "Dusjanbe",
+    "w3": "Asjchabad",
+    "w4": "Almaty",
+    "w5": "Tasjkent"
+  },
+  {
+    "q": "Vad är huvudstaden i Tadzjikistan?",
+    "a": "Dusjanbe",
+    "w1": "Chudzjand",
+    "w2": "Bisjkek",
+    "w3": "Asjchabad",
+    "w4": "Tasjkent",
+    "w5": "Dusjanbe-Nou"
+  },
+  {
+    "q": "Vilken flod flyter genom Bagdad?",
+    "a": "Tigris",
+    "w1": "Eufrat",
+    "w2": "Jordan",
+    "w3": "Orontes",
+    "w4": "Karun",
+    "w5": "Zagros"
+  },
+  {
+    "q": "Vilka två floder möts i Shatt al-Arab?",
+    "a": "Tigris och Eufrat",
+    "w1": "Nilen och Jordan",
+    "w2": "Tigris och Jordan",
+    "w3": "Eufrat och Orontes",
+    "w4": "Nilen och Röda havet",
+    "w5": "Jordan och Karun"
+  },
+  {
+    "q": "Vilken flod flyter genom Prag?",
+    "a": "Moldau",
+    "w1": "Elbe",
+    "w2": "Donau",
+    "w3": "Oder",
+    "w4": "Morava",
+    "w5": "Inn"
+  },
+  {
+    "q": "Vilken flod flyter genom Warszawa?",
+    "a": "Wisła",
+    "w1": "Oder",
+    "w2": "Donau",
+    "w3": "Dnjepr",
+    "w4": "Elbe",
+    "w5": "Neimen"
+  },
+  {
+    "q": "Vilken flod flyter genom Budapest?",
+    "a": "Donau",
+    "w1": "Tisza",
+    "w2": "Sava",
+    "w3": "Drava",
+    "w4": "Morava",
+    "w5": "Prut"
+  },
+  {
+    "q": "Vilken amerikansk flod har smeknamnet 'Big Muddy'?",
+    "a": "Missouri",
+    "w1": "Mississippi",
+    "w2": "Ohio",
+    "w3": "Colorado",
+    "w4": "Arkansas",
+    "w5": "Tennessee"
+  },
+  {
+    "q": "Vilken är Kanadas längsta flod?",
+    "a": "Mackenzie",
+    "w1": "Yukon",
+    "w2": "Saint Lawrence",
+    "w3": "Fraser",
+    "w4": "Nelson",
+    "w5": "Athabasca"
+  },
+  {
+    "q": "Vilken sibirisk flod mynnar i Laptevhavet?",
+    "a": "Lena",
+    "w1": "Ob",
+    "w2": "Jenisej",
+    "w3": "Amur",
+    "w4": "Kolyma",
+    "w5": "Volga"
+  },
+  {
+    "q": "Vad heter havet mellan Svalbard och Nordnorge?",
+    "a": "Barents hav",
+    "w1": "Norska havet",
+    "w2": "Grönlandshavet",
+    "w3": "Kara havet",
+    "w4": "Norra ishavet",
+    "w5": "Vita havet"
+  },
+  {
+    "q": "Vad heter den kalla strömmen längs Sydamerikas västkust?",
+    "a": "Humboldtströmmen",
+    "w1": "Golfströmmen",
+    "w2": "Kuroshioströmmen",
+    "w3": "Benguelaströmmen",
+    "w4": "Canariströmmen",
+    "w5": "Peru CORRIENTE"
+  },
+  {
+    "q": "Vad heter Golfströmmens förlängning över Nordatlanten?",
+    "a": "Nordatlantiska driften",
+    "w1": "Labradorströmmen",
+    "w2": "Kanariströmmen",
+    "w3": "Irmingerströmmen",
+    "w4": "Antillerströmmen",
+    "w5": "Norska strömmen"
+  },
+  {
+    "q": "Var ligger Saltstraumen, världens starkaste tidvattenström?",
+    "a": "Norge (vid Bodø)",
+    "w1": "Island",
+    "w2": "Skottland",
+    "w3": "Kanada",
+    "w4": "Grönland",
+    "w5": "Färöarna"
+  }
+]

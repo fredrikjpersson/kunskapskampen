@@ -238,5 +238,125 @@
     "a": "Flashmob",
     "w1": "Kör",
     "w2": "Parad"
+  },
+  {
+    "q": "Vad kallas den långsamma lyftdelen i ett pas de deux?",
+    "a": "Adagio",
+    "w1": "Allegro",
+    "w2": "Coda"
+  },
+  {
+    "q": "Vad kallas den snabba hoppdelen i balett?",
+    "a": "Allegro",
+    "w1": "Adagio",
+    "w2": "Barre"
+  },
+  {
+    "q": "Vad är chaînés?",
+    "a": "Kedjesnurrningar på platser",
+    "w1": "Höga benlyft",
+    "w2": "Parvisa vändningar i luften"
+  },
+  {
+    "q": "Vad är en fouetté?",
+    "a": "En snurrning där det fria benet piskar ut",
+    "w1": "Ett parvis lyft",
+    "w2": "En långsam bugning"
+  },
+  {
+    "q": "Vad är pas de bourrée?",
+    "a": "Tre små springsteg",
+    "w1": "Ett stort hopp",
+    "w2": "En markövning"
+  },
+  {
+    "q": "Vilket land har balettskolan Vaganova-metoden?",
+    "a": "Ryssland",
+    "w1": "Frankrike",
+    "w2": "Danmark"
+  },
+  {
+    "q": "I vilken stad ligger Vaganova-akademin?",
+    "a": "Sankt Petersburg",
+    "w1": "Moskva",
+    "w2": "Kiev"
+  },
+  {
+    "q": "Vad heter den danska balettstilen?",
+    "a": "Bournonville",
+    "w1": "Cecchetti",
+    "w2": "Vaganova"
+  },
+  {
+    "q": "Vem skapade den danska baletttraditionen?",
+    "a": "August Bournonville",
+    "w1": "Vincenzo Galeotti",
+    "w2": "Harald Lander"
+  },
+  {
+    "q": "Vad heter Danmarks ledande balettkompani?",
+    "a": "Det Kongelige Ballet",
+    "w1": "Danskdanssteatern",
+    "w2": "Royal Danish Opera Ballet"
+  },
+  {
+    "q": "Vem grundade Cullbergbaletten?",
+    "a": "Birgit Cullberg",
+    "w1": "Mats Ek",
+    "w2": "Ivo Cramér"
+  },
+  {
+    "q": "Vilken svensk koreograf är son till Birgit Cullberg?",
+    "a": "Mats Ek",
+    "w1": "Örjan Andersson",
+    "w2": "Pontus Lidberg"
+  },
+  {
+    "q": "Från vilket område kommer aksak-rytmer?",
+    "a": "Balkan",
+    "w1": "Iberiska halvön",
+    "w2": "Anatolien endast"
+  },
+  {
+    "q": "Vilken ringdans är Rumäniens folkkända?",
+    "a": "Hora",
+    "w1": "Csárdás",
+    "w2": "Kolo"
+  },
+  {
+    "q": "Vad heter Ungerns nationalsdans?",
+    "a": "Csárdás",
+    "w1": "Hora",
+    "w2": "Verbunk"
+  },
+  {
+    "q": "Vad heter Norges motsvarighet till svensk polska?",
+    "a": "Gangar",
+    "w1": "Springleik",
+    "w2": "Reinlender"
+  },
+  {
+    "q": "Vilken dansstil är waacking?",
+    "a": "Diskodans med snabba armrörelser",
+    "w1": "Aggressiv gatudans med kontorstills",
+    "w2": "Latin pardans i par"
+  },
+  {
+    "q": "Vad är krump?",
+    "a": "En intensiv, uttrycksfull gatudansstil",
+    "w1": "En svensk folkdans",
+    "w2": "En balettpiruett"
+  },
+  {
+    "q": "Vilken subkultur födde voguing?",
+    "a": "Ballroomkulturen i Harlem",
+    "w1": "Punkscenen i London",
+    "w2": "Technoklubbar i Berlin"
+  },
+  {
+    "q": "Vems låt 'Vogue' från 1990 populariserade voguing?",
+    "a": "Madonna",
+    "w1": "Grace Jones",
+    "w2": "Lady Gaga"
   }
 ]

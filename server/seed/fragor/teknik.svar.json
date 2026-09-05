@@ -238,5 +238,125 @@
     "a": "Spela upp medan det laddas ner",
     "w1": "Ladda ner hela filen först",
     "w2": "Spela in tv-program"
+  },
+  {
+    "q": "Vilket portnummer använder SSH?",
+    "a": "22",
+    "w1": "23",
+    "w2": "80"
+  },
+  {
+    "q": "Vilket portnummer använder DNS?",
+    "a": "53",
+    "w1": "25",
+    "w2": "110"
+  },
+  {
+    "q": "Vad betyder förkortningen DHCP?",
+    "a": "Dynamic Host Configuration Protocol",
+    "w1": "Direct Host Connection Protocol",
+    "w2": "Data Hardware Control Protocol"
+  },
+  {
+    "q": "Vad är en MAC-adress?",
+    "a": "Nätverkskortets unika hårdvaruadress",
+    "w1": "Apples adress i nätverket",
+    "w2": "En krypterad IP-adress"
+  },
+  {
+    "q": "Vad betyder NAT inom nätverk?",
+    "a": "Network Address Translation",
+    "w1": "Network Access Transfer",
+    "w2": "Node Address Table"
+  },
+  {
+    "q": "Vad används en subnätmask till?",
+    "a": "Att avgöra vilken del av IP-adressen som är nätverk",
+    "w1": "Att kryptera trafiken",
+    "w2": "Att öka hastigheten"
+  },
+  {
+    "q": "Vilket kommando visar vägen paket tar till en värd?",
+    "a": "traceroute/tracert",
+    "w1": "ping",
+    "w2": "nslookup"
+  },
+  {
+    "q": "Vad står ICMP för?",
+    "a": "Internet Control Message Protocol",
+    "w1": "Internal Connection Message Protocol",
+    "w2": "Internet Cache Management Protocol"
+  },
+  {
+    "q": "Vad heter standardkommandotolken i Linux?",
+    "a": "Bash",
+    "w1": "Zsh",
+    "w2": "PowerShell"
+  },
+  {
+    "q": "Vad gör kommandot sudo?",
+    "a": "Kör kommandot som administratör",
+    "w1": "Tar bort filer",
+    "w2": "Byter katalog"
+  },
+  {
+    "q": "Vilken lokal fil kan mappa värdnamn till IP-adresser?",
+    "a": "hosts-filen",
+    "w1": "DNS-filen",
+    "w2": "ARP-filen"
+  },
+  {
+    "q": "Vad betyder förkortningen VLAN?",
+    "a": "Virtual Local Area Network",
+    "w1": "Very Large Area Network",
+    "w2": "Variable LAN"
+  },
+  {
+    "q": "Vad betyder JVM?",
+    "a": "Java Virtual Machine",
+    "w1": "JavaScript Virtual Manager",
+    "w2": "Java Variable Memory"
+  },
+  {
+    "q": "Vad innebär rekursion i programmering?",
+    "a": "Att en funktion anropar sig själv",
+    "w1": "Att en funktion loopar",
+    "w2": "Att två funktioner anropar varandra"
+  },
+  {
+    "q": "Vad innebär ett stack overflow?",
+    "a": "Att stackminnet tar slut vid för djupa anrop",
+    "w1": "Att disken blir full",
+    "w2": "Att minnet läcker till nätverket"
+  },
+  {
+    "q": "Vilken datastruktur arbetar enligt först-in-först-ut?",
+    "a": "Kön (queue)",
+    "w1": "Stacken",
+    "w2": "Trädet"
+  },
+  {
+    "q": "Vilken datastruktur arbetar enligt sist-in-först-ut?",
+    "a": "Stacken",
+    "w1": "Kön (queue)",
+    "w2": "Listan"
+  },
+  {
+    "q": "Vilken sökmetod halverar sökområdet för varje steg?",
+    "a": "Binärsökning",
+    "w1": "Linjär sökning",
+    "w2": "Djupet-först-sökning"
+  },
+  {
+    "q": "Vad står SSL för?",
+    "a": "Secure Sockets Layer",
+    "w1": "Safe Socket Line",
+    "w2": "System Security Layer"
+  },
+  {
+    "q": "Vad betyder förkortningen URI?",
+    "a": "Uniform Resource Identifier",
+    "w1": "Universal Router Interface",
+    "w2": "Uniform Reference Index"
   }
 ]

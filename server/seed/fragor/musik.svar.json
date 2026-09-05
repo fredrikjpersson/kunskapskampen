@@ -238,5 +238,125 @@
     "a": "Keith Moon",
     "w1": "John Entwistle",
     "w2": "Kenney Jones"
+  },
+  {
+    "q": "Vad är en passacaglia?",
+    "a": "Variationer över en upprepande basgång",
+    "w1": "En snabb menuett",
+    "w2": "En körform i mässan"
+  },
+  {
+    "q": "Vad betyder 'ostinato'?",
+    "a": "Ett upprepande mönster",
+    "w1": "En improviserad solostämma",
+    "w2": "Ett tyst parti"
+  },
+  {
+    "q": "Vad är en partita?",
+    "a": "En svit med danssatser",
+    "w1": "En kort opera",
+    "w2": "En typ av mässa"
+  },
+  {
+    "q": "Vad är en aria?",
+    "a": "En sjungen soloscen i opera",
+    "w1": "En instrumental dans",
+    "w2": "Körstilens högsta stämma"
+  },
+  {
+    "q": "Hur många takter har en klassisk blues?",
+    "a": "12",
+    "w1": "8",
+    "w2": "16"
+  },
+  {
+    "q": "Vad är sonata-rondo?",
+    "a": "En blandning av sonataform och rondo",
+    "w1": "En barock danssvit",
+    "w2": "En fuga med två teman"
+  },
+  {
+    "q": "Vad betyder 'through-composed'?",
+    "a": "Genomkomponerad utan återkommande avsnitt",
+    "w1": "Komponerad i samarbete",
+    "w2": "Endast instrumentalt"
+  },
+  {
+    "q": "Vad kallas byte av tonart mitt i ett stycke?",
+    "a": "Modulation",
+    "w1": "Transponering",
+    "w2": "Ornamentering"
+  },
+  {
+    "q": "Vad är en pedalpunkt?",
+    "a": "En kvarhållen ton medan harmonierna skiftar",
+    "w1": "Ett trumsving på pedalen",
+    "w2": "En orgelstämma"
+  },
+  {
+    "q": "Vad innebär kontrapunkt?",
+    "a": "Självständiga stämmor som samklingar",
+    "w1": "Att spela utan ackord",
+    "w2": "Att sjunga i unison"
+  },
+  {
+    "q": "Vad kallas en liten fuga?",
+    "a": "Fughetta",
+    "w1": "Fugato",
+    "w2": "Fugonetta"
+  },
+  {
+    "q": "Vad kallas genomföringsdelen i sonataformen?",
+    "a": "Genomföringen (development)",
+    "w1": "Expositionen",
+    "w2": "Reprisen"
+  },
+  {
+    "q": "Vad betyder 'tutti'?",
+    "a": "Alla spelar tillsammans",
+    "w1": "Endast solisten spelar",
+    "w2": "Alla sjunger tyst"
+  },
+  {
+    "q": "Vad betyder 'poco a poco'?",
+    "a": "Lite i taget",
+    "w1": "Mycket snabbt",
+    "w2": " Så småningom tyst"
+  },
+  {
+    "q": "Vad betyder 'con brio'?",
+    "a": "Med glöd och eld",
+    "w1": "Mjukt och lugnt",
+    "w2": "Utan tempi"
+  },
+  {
+    "q": "Vad betyder 'dolce'?",
+    "a": "Ljuvligt och mjukt",
+    "w1": "Hårt och rytmiskt",
+    "w2": "Extremt snabbt"
+  },
+  {
+    "q": "Vad betyder 'accelerando'?",
+    "a": "Allt snabbare",
+    "w1": "Allt långsammare",
+    "w2": "Andas tillsammans"
+  },
+  {
+    "q": "Vad betyder 'ritardando'?",
+    "a": "Allt långsammare",
+    "w1": "Allt snabbare",
+    "w2": "Åter till tempo"
+  },
+  {
+    "q": "Vad är glissando?",
+    "a": "Glidande mellan toner",
+    "w1": "Knäpp på strängar",
+    "w2": "Trumsving med fingrarna"
+  },
+  {
+    "q": "Vad är pizzicato?",
+    "a": "Att knäppa på strängarna med fingrarna",
+    "w1": "Att spela med stråke",
+    "w2": "Att slå på kroppen"
   }
 ]

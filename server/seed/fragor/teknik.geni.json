@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Hur många transistorer innehöll Intels första mikroprocessor 4004?",
+    "a": "Cirka 2 300",
+    "w1": "Cirka 1 200",
+    "w2": "Cirka 4 500",
+    "w3": "Cirka 6 800",
+    "w4": "Cirka 9 100",
+    "w5": "Cirka 12 000"
+  },
+  {
+    "q": "Vilket av dessa högnivåspråk utvecklades först?",
+    "a": "Fortran",
+    "w1": "Lisp",
+    "w2": "COBOL",
+    "w3": "ALGOL 60",
+    "w4": "BASIC",
+    "w5": "Pascal"
+  },
+  {
+    "q": "Vilken frekvens har GPS:ens civila L1-signal?",
+    "a": "1 575,42 MHz",
+    "w1": "1 090 MHz",
+    "w2": "121,5 MHz",
+    "w3": "243 MHz",
+    "w4": "900 MHz",
+    "w5": "2 400 MHz"
+  },
+  {
+    "q": "Vad är minimiantalet diskar i en RAID 6-konfiguration?",
+    "a": "4",
+    "w1": "2",
+    "w2": "3",
+    "w3": "5",
+    "w4": "6",
+    "w5": "8"
+  },
+  {
+    "q": "Hur många bitar består en IPv6-adress av?",
+    "a": "128",
+    "w1": "64",
+    "w2": "160",
+    "w3": "48",
+    "w4": "256",
+    "w5": "32"
+  },
+  {
+    "q": "Vilket år publicerade Alan Turing artikeln 'On Computable Numbers'?",
+    "a": "1936",
+    "w1": "1930",
+    "w2": "1939",
+    "w3": "1942",
+    "w4": "1945",
+    "w5": "1950"
+  },
+  {
+    "q": "Vad hette Sveriges första satellit, uppskickad 1986?",
+    "a": "Viking",
+    "w1": "Freja",
+    "w2": "Astrid",
+    "w3": "Odin",
+    "w4": "Tele-X",
+    "w5": "Sirius"
+  },
+  {
+    "q": "Hur många cylindrar har den trekantiga Napier Deltac-dieselmotorn?",
+    "a": "18",
+    "w1": "12",
+    "w2": "9",
+    "w3": "24",
+    "w4": "36",
+    "w5": "6"
+  },
+  {
+    "q": "Vilket företag tillverkade 6502-processorn som fanns i Apple II och Commodore 64?",
+    "a": "MOS Technology",
+    "w1": "Motorola",
+    "w2": "Intel",
+    "w3": "Zilog",
+    "w4": "Texas Instruments",
+    "w5": "Commodore"
+  },
+  {
+    "q": "Vilket år grundades företaget som senare blev IBM (då under namnet CTR)?",
+    "a": "1911",
+    "w1": "1924",
+    "w2": "1896",
+    "w3": "1902",
+    "w4": "1918",
+    "w5": "1931"
+  },
+  {
+    "q": "Hur många tändstift behövs i en konventionell dieselmotor?",
+    "a": "0",
+    "w1": "1",
+    "w2": "2",
+    "w3": "4",
+    "w4": "6",
+    "w5": "8"
+  },
+  {
+    "q": "I Gordon Moores ursprungliga artikel från 1965 förutsade han att antalet komponenter per chip skulle fördubblas var...",
+    "a": "12:e månad",
+    "w1": "18:e månad",
+    "w2": "24:e månad",
+    "w3": "6:e månad",
+    "w4": "3:e månad",
+    "w5": "36:e månad"
+  },
+  {
+    "q": "Hur många NAND-portar behövs som minimum för en SR-låskrets?",
+    "a": "2",
+    "w1": "3",
+    "w2": "4",
+    "w3": "1",
+    "w4": "6",
+    "w5": "8"
+  },
+  {
+    "q": "Vad är talet 255 i hexadecimalnotation?",
+    "a": "FF",
+    "w1": "99",
+    "w2": "F0",
+    "w3": "1F",
+    "w4": "EE",
+    "w5": "FE"
+  },
+  {
+    "q": "Vad är 2³² − 1 uttryckt som decimaltal?",
+    "a": "4 294 967 295",
+    "w1": "2 147 483 647",
+    "w2": "4 294 967 296",
+    "w3": "1 073 741 823",
+    "w4": "8 589 934 591",
+    "w5": "65 535"
+  },
+  {
+    "q": "Vilken RFC definierar IPv4?",
+    "a": "RFC 791",
+    "w1": "RFC 1918",
+    "w2": "RFC 793",
+    "w3": "RFC 1035",
+    "w4": "RFC 2616",
+    "w5": "RFC 2460"
+  },
+  {
+    "q": "Vad heter Donald Knuths berömda bokserie?",
+    "a": "The Art of Computer Programming",
+    "w1": "Structure and Interpretation of Computer Programs",
+    "w2": "Introduction to Algorithms",
+    "w3": "The Pragmatic Programmer",
+    "w4": "Computer Networks",
+    "w5": "Design Patterns"
+  },
+  {
+    "q": "Vilket år skapades programspråket C?",
+    "a": "1972",
+    "w1": "1968",
+    "w2": "1975",
+    "w3": "1970",
+    "w4": "1977",
+    "w5": "1969"
+  },
+  {
+    "q": "Ungefär hur många transistorer innehåller Apples M2-chip?",
+    "a": "Cirka 20 miljarder",
+    "w1": "Cirka 2 miljarder",
+    "w2": "Cirka 5 miljarder",
+    "w3": "Cirka 100 miljarder",
+    "w4": "Cirka 50 miljarder",
+    "w5": "Cirka 500 miljoner"
+  },
+  {
+    "q": "På vilken datortyp kördes den allra första webbsidan?",
+    "a": "NeXT",
+    "w1": "Sun SPARCstation",
+    "w2": "IBM PC",
+    "w3": "Apple Macintosh",
+    "w4": "DEC VAX",
+    "w5": "Commodore Amiga"
+  },
+  {
+    "q": "Ungefär hur hög bandbredd har PCIe 3.0 x16 (en riktning)?",
+    "a": "Cirka 16 GB/s",
+    "w1": "Cirka 4 GB/s",
+    "w2": "Cirka 8 GB/s",
+    "w3": "Cirka 32 GB/s",
+    "w4": "Cirka 64 GB/s",
+    "w5": "Cirka 2 GB/s"
+  },
+  {
+    "q": "Ungefär hur många unika adresser ger IPv6?",
+    "a": "Cirka 3,4 × 10³⁸",
+    "w1": "Cirka 4,3 × 10⁹",
+    "w2": "Cirka 3,4 × 10²⁸",
+    "w3": "Cirka 3,4 × 10⁴⁸",
+    "w4": "Cirka 1,8 × 10¹⁹",
+    "w5": "Cirka 6,0 × 10²³"
+  },
+  {
+    "q": "Hur lång är utdatalängden hos SHA-3-512 (bitar)?",
+    "a": "512",
+    "w1": "256",
+    "w2": "384",
+    "w3": "224",
+    "w4": "1024",
+    "w5": "128"
+  },
+  {
+    "q": "Vilket matematiskt problem vilar Diffie-Hellmans nyckelutbyte på?",
+    "a": "Den diskreta logaritmen",
+    "w1": "Faktorisering av stora primtal",
+    "w2": "Kortaste vägen i en graf",
+    "w3": "Ryggkappsproblemet",
+    "w4": "Elliptisk kurvintegration",
+    "w5": "Primtalsgåtan"
+  },
+  {
+    "q": "Enligt Amdahls lag: vad blir max speedup om 50 % av programmet kan parallelliseras?",
+    "a": "2x",
+    "w1": "1,5x",
+    "w2": "4x",
+    "w3": "10x",
+    "w4": "Obegränsad",
+    "w5": "1,33x"
+  },
+  {
+    "q": "Vad säger Gustafsons lag?",
+    "a": "Speedup växer när problemstorleken ökar med parallelliteten",
+    "w1": "Speedup begränsas alltid av den seriella delen",
+    "w2": "Klockfrekvens dubblas varje år",
+    "w3": "Fler kärnor ger linjär speedup alltid",
+    "w4": "Minnet är flaskhalsen",
+    "w5": "Parallelisering lönar sig aldrig"
+  },
+  {
+    "q": "Vad är tidskomplexiteten för naiv matrismultiplikation av två n × n-matriser?",
+    "a": "O(n³)",
+    "w1": "O(n²)",
+    "w2": "O(n log n)",
+    "w3": "O(n⁴)",
+    "w4": "O(log n)",
+    "w5": "O(n!)"
+  },
+  {
+    "q": "Vad är tidskomplexiteten för Fast Fourier Transform?",
+    "a": "O(n log n)",
+    "w1": "O(n²)",
+    "w2": "O(n)",
+    "w3": "O(n log² n)",
+    "w4": "O(n³)",
+    "w5": "O(sqrt(n))"
+  },
+  {
+    "q": "Vad används Hopcroft-Karps algoritm till?",
+    "a": "Maximal matchning i bipartita grafer",
+    "w1": "Kortaste vägen i viktade grafer",
+    "w2": "Sortering av listor",
+    "w3": "Maximalt flöde",
+    "w4": "Minimal uppspännande träd",
+    "w5": "Cykeldetektering"
+  },
+  {
+    "q": "Vilken av dessa sorteringsalgoritmer är stabil i sin grundversion?",
+    "a": "Mergesort",
+    "w1": "Quicksort",
+    "w2": "Heapsort",
+    "w3": "Shellsort",
+    "w4": "Introsort",
+    "w5": "Selection sort"
+  },
+  {
+    "q": "Vilket avgörandeproblem bevisade Turing olösligt 1936?",
+    "a": "Entscheidungsproblemet",
+    "w1": "Halting-problemet för alla program samtidigt",
+    "w2": "Fermats gåta",
+    "w3": "Kontinuumhypotesen",
+    "w4": "P vs NP",
+    "w5": "Collatz förmodan"
+  },
+  {
+    "q": "Vad beskriver Kolmogorov-komplexitet?",
+    "a": "Längden på det kortaste programmet som beskriver ett datainnehåll",
+    "w1": "Antalet bitar i en fil",
+    "w2": "Körtiden för komprimering",
+    "w3": "Minnesåtgången för ett program",
+    "w4": "Antalet unika tecken",
+    "w5": "Grad av slumpmässighet i talserier"
+  },
+  {
+    "q": "Vad är prissumman för att lösa ett av Clay-institutens millennieproblem?",
+    "a": "1 miljon dollar",
+    "w1": "100 000 dollar",
+    "w2": "10 miljoner dollar",
+    "w3": "Nobelprissumman",
+    "w4": "5 miljoner dollar",
+    "w5": "50 miljoner dollar"
+  },
+  {
+    "q": "Vilket problem var det första som bevisades NP-fullständigt (Cook-Levin)?",
+    "a": "SAT (boolesk uppfyllbarhet)",
+    "w1": "Handelsresandeproblemet",
+    "w2": "Ryggkacksproblemet",
+    "w3": "Graffärgning",
+    "w4": "Hamiltoncykel",
+    "w5": "Delmängdssumman"
+  },
+  {
+    "q": "På hur många sätt kan fem böcker ordnas på en hylla?",
+    "a": "120",
+    "w1": "25",
+    "w2": "60",
+    "w3": "720",
+    "w4": "3125",
+    "w5": "24"
+  },
+  {
+    "q": "Hur många delmängder har en mängd med sex element?",
+    "a": "64",
+    "w1": "12",
+    "w2": "32",
+    "w3": "36",
+    "w4": "128",
+    "w5": "720"
+  },
+  {
+    "q": "Vad blir talet 100 (decimalt) skrivet i bas 7?",
+    "a": "202",
+    "w1": "121",
+    "w2": "143",
+    "w3": "211",
+    "w4": "115",
+    "w5": "1000"
+  },
+  {
+    "q": "Vilket är det första Fibonacci-talet som är större än 100?",
+    "a": "144",
+    "w1": "123",
+    "w2": "132",
+    "w3": "155",
+    "w4": "89",
+    "w5": "233"
+  },
+  {
+    "q": "Hur många kanter har en kub?",
+    "a": "12",
+    "w1": "8",
+    "w2": "6",
+    "w3": "10",
+    "w4": "14",
+    "w5": "24"
+  },
+  {
+    "q": "Hur många hörn har en ikosaeder?",
+    "a": "12",
+    "w1": "20",
+    "w2": "30",
+    "w3": "8",
+    "w4": "16",
+    "w5": "24"
+  },
+  {
+    "q": "Vilken rymdsond landade på en komet 2014?",
+    "a": "Philae (Rosetta)",
+    "w1": "Huygens",
+    "w2": "Curiosity",
+    "w3": "Viking 1",
+    "w4": "Hayabusa",
+    "w5": "Chang'e 4"
+  },
+  {
+    "q": "Vilket år skickades världens första SMS?",
+    "a": "1992",
+    "w1": "1989",
+    "w2": "1995",
+    "w3": "1991",
+    "w4": "1998",
+    "w5": "1990"
+  },
+  {
+    "q": "Vad hette världens första webbläsare?",
+    "a": "WorldWideWeb",
+    "w1": "Mosaic",
+    "w2": "Netscape",
+    "w3": "Lynx",
+    "w4": "Internet Explorer",
+    "w5": "Opera"
+  },
+  {
+    "q": "Vad hette den mask som spred sig via internet 1988?",
+    "a": "Morris-masken",
+    "w1": "Melissa",
+    "w2": "ILOVEYOU",
+    "w3": "Code Red",
+    "w4": "Slammer",
+    "w5": "Blaster"
+  },
+  {
+    "q": "Vilken typ av minne använde Apollo Guidance Computer?",
+    "a": "Core rope memory",
+    "w1": "DRAM",
+    "w2": "SRAM",
+    "w3": "Flashminne",
+    "w4": "Förstärkarrör",
+    "w5": "Magnetband"
+  },
+  {
+    "q": "Hur hög är USB 2.0:s maximala hastighet (Mbit/s)?",
+    "a": "480",
+    "w1": "12",
+    "w2": "100",
+    "w3": "5 000",
+    "w4": "9 600",
+    "w5": "10 000"
+  },
+  {
+    "q": "Hur många watt kan USB Power Delivery (3.1) som mest leverera?",
+    "a": "240 W",
+    "w1": "100 W",
+    "w2": "65 W",
+    "w3": "120 W",
+    "w4": "500 W",
+    "w5": "18 W"
+  },
+  {
+    "q": "Vilken standardspänning levererar USB-C som standard (V)?",
+    "a": "5 V",
+    "w1": "3,3 V",
+    "w2": "9 V",
+    "w3": "12 V",
+    "w4": "20 V",
+    "w5": "1,5 V"
+  },
+  {
+    "q": "Ungefär vilken frekvens använder 5G-millimetervågor?",
+    "a": "Cirka 28 GHz",
+    "w1": "Cirka 2,8 GHz",
+    "w2": "Cirka 700 MHz",
+    "w3": "Cirka 100 GHz",
+    "w4": "Cirka 10 GHz",
+    "w5": "Cirka 45 MHz"
+  },
+  {
+    "q": "Vad säger Nyquists teorem?",
+    "a": "Samplingsfrekvensen måste vara minst dubbla den högsta signal­frekvensen",
+    "w1": "Dataöverföring halveras per kabelmeter",
+    "w2": "Bandbredden begränsas av antalet kanaler",
+    "w3": "Kvantisering ger alltid brus",
+    "w4": "Digitala signaler kan aldrig bli analoga",
+    "w5": "Frekvens och amplitud är beroende"
+  },
+  {
+    "q": "Hur många qubits har Googles kvantdator Sycamore?",
+    "a": "53",
+    "w1": "64",
+    "w2": "32",
+    "w3": "72",
+    "w4": "128",
+    "w5": "16"
+  },
+  {
+    "q": "Vad betyder 'kvantöverlägsenhet' (quantum supremacy)?",
+    "a": "Att en kvantdator löser en uppgift som är omöjlig för klassiska datorer",
+    "w1": "Att kvantdatorer alltid är snabbast",
+    "w2": "Att kvantdatorer kan ersätta alla datorer",
+    "w3": "Att kvanttillstånd mäts utan fel",
+    "w4": "Att qubits kan kopieras",
+    "w5": "Att kvantdatorer inte kan felsökas"
+  },
+  {
+    "q": "Vilken felrättande kod används i QR-koder?",
+    "a": "Reed-Solomon",
+    "w1": "Hamming",
+    "w2": "CRC32",
+    "w3": "BCH",
+    "w4": "LDPC",
+    "w5": "Turbo-kod"
+  },
+  {
+    "q": "Hur många siffror kan en QR-kod lagra som max (numeriskt)?",
+    "a": "7 089",
+    "w1": "4 296",
+    "w2": "2 953",
+    "w3": "1 817",
+    "w4": "10 000",
+    "w5": "3 500"
+  },
+  {
+    "q": "Vilken hashfunktion ligger till grund för Bitcoin-gruvdrift?",
+    "a": "Dubbel SHA-256",
+    "w1": "Enkel SHA-256",
+    "w2": "Scrypt",
+    "w3": "Ethash",
+    "w4": "MD5",
+    "w5": "Keccak"
+  },
+  {
+    "q": "Hur ofta skapas i genomsnitt ett nytt bitcoin-block?",
+    "a": "Var 10:e minut",
+    "w1": "Varje minut",
+    "w2": "Var 30:e sekund",
+    "w3": "En gång i timmen",
+    "w4": "Var 2:a minut",
+    "w5": "Var 15:e minut"
+  },
+  {
+    "q": "Vad kallades Ethereums övergång till proof-of-stake 2022?",
+    "a": "The Merge",
+    "w1": "The Flippening",
+    "w2": "The Fork",
+    "w3": "Shanghai-uppgraderingen",
+    "w4": "The Merge Patch",
+    "w5": "Byzantium"
+  },
+  {
+    "q": "Vilket år grundades NASA?",
+    "a": "1958",
+    "w1": "1961",
+    "w2": "1955",
+    "w3": "1969",
+    "w4": "1950",
+    "w5": "1963"
+  },
+  {
+    "q": "Vilken raketmotor har störst thrust genom tiderna?",
+    "a": "Saturn V:s F-1",
+    "w1": "SpaceX Raptor",
+    "w2": "Space Shuttle RS-25",
+    "w3": "N-1:s NK-33",
+    "w4": "SLS RS-25",
+    "w5": "Energias RD-170"
+  },
+  {
+    "q": "På vilken höjd (km) börjar rymden enligt FAI?",
+    "a": "100 km",
+    "w1": "80 km",
+    "w2": "50 km",
+    "w3": "120 km",
+    "w4": "62 miles exakt",
+    "w5": "10 km"
+  }
+]

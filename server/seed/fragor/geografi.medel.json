@@ -238,5 +238,125 @@
     "a": "Hanoi",
     "w1": "Ho Chi Minh-staden",
     "w2": "Da Nang"
+  },
+  {
+    "q": "Vad heter Islands näst största stad?",
+    "a": "Akureyri",
+    "w1": "Keflavík",
+    "w2": "Hafnarfjörður"
+  },
+  {
+    "q": "Vad heter Islands högsta berg?",
+    "a": "Hvannadalshnúkur",
+    "w1": "Hekla",
+    "w2": "Eyjafjallajökull"
+  },
+  {
+    "q": "Vad heter Norges högsta berg?",
+    "a": "Galdhøpiggen",
+    "w1": "Glittertind",
+    "w2": "Store Skagastølstind"
+  },
+  {
+    "q": "Vad heter Tysklands högsta berg?",
+    "a": "Zugspitze",
+    "w1": "Watzmann",
+    "w2": "Feldberg"
+  },
+  {
+    "q": "Vilken är Europas näst längsta flod?",
+    "a": "Donau",
+    "w1": "Rhen",
+    "w2": "Elbe"
+  },
+  {
+    "q": "Vilket land har huvudstaden Bratislava?",
+    "a": "Slovakien",
+    "w1": "Slovenien",
+    "w2": "Kroatien"
+  },
+  {
+    "q": "Vilket land har huvudstaden Riga?",
+    "a": "Lettland",
+    "w1": "Litauen",
+    "w2": "Estland"
+  },
+  {
+    "q": "Vad heter Skottlands största stad?",
+    "a": "Glasgow",
+    "w1": "Edinburgh",
+    "w2": "Aberdeen"
+  },
+  {
+    "q": "I vilket landsdel ligger bergsområdet Snowdonia?",
+    "a": "Wales",
+    "w1": "Skottland",
+    "w2": "Nordirland"
+  },
+  {
+    "q": "Vad heter USA:s största delstat till ytan?",
+    "a": "Alaska",
+    "w1": "Texas",
+    "w2": "Kalifornien"
+  },
+  {
+    "q": "Vad heter USA:s folkrikaste delstat?",
+    "a": "Kalifornien",
+    "w1": "Texas",
+    "w2": "Florida"
+  },
+  {
+    "q": "Vad heter Kanadas folkrikaste stad?",
+    "a": "Toronto",
+    "w1": "Montreal",
+    "w2": "Vancouver"
+  },
+  {
+    "q": "Vad heter Nya Zeelands största stad?",
+    "a": "Auckland",
+    "w1": "Wellington",
+    "w2": "Christchurch"
+  },
+  {
+    "q": "Vilket land har huvudstaden Nairobi?",
+    "a": "Kenya",
+    "w1": "Tanzania",
+    "w2": "Uganda"
+  },
+  {
+    "q": "Vilket land har huvudstaden Addis Abeba?",
+    "a": "Etiopien",
+    "w1": "Eritrea",
+    "w2": "Somalia"
+  },
+  {
+    "q": "Vad är Sydafrikas lagstiftande huvudstad?",
+    "a": "Kapstaden",
+    "w1": "Pretoria",
+    "w2": "Bloemfontein"
+  },
+  {
+    "q": "Vad heter Indiens folkrikaste stad?",
+    "a": "Mumbai",
+    "w1": "Delhi",
+    "w2": "Kolkata"
+  },
+  {
+    "q": "Vilket land har huvudstaden Riyadh?",
+    "a": "Saudiarabien",
+    "w1": "Qatar",
+    "w2": "Kuwait"
+  },
+  {
+    "q": "I vilken australisk delstat ligger Sydney?",
+    "a": "New South Wales",
+    "w1": "Victoria",
+    "w2": "Queensland"
+  },
+  {
+    "q": "Vad heter Brasiliens största stad?",
+    "a": "São Paulo",
+    "w1": "Rio de Janeiro",
+    "w2": "Brasília"
   }
 ]

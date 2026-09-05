@@ -238,5 +238,125 @@
     "a": "Karlheinz Stockhausen",
     "w1": "Hans Werner Henze",
     "w2": "György Ligeti"
+  },
+  {
+    "q": "Vad innebär isorytmik?",
+    "a": "Upprepande rytmiska mönster med skiftande tonhöjd",
+    "w1": "Att alla stämmor har samma rytm",
+    "w2": "Att tempot konstant ökar"
+  },
+  {
+    "q": "Vad kallas en skala med sex toner per oktav?",
+    "a": "Hexatonisk",
+    "w1": "Pentatonisk",
+    "w2": "Diatonisk"
+  },
+  {
+    "q": "Vad kallas Arvo Pärts signaturminimalistiska stil?",
+    "a": "Tintinnabuli",
+    "w1": "Spektralism",
+    "w2": "Aleatorik"
+  },
+  {
+    "q": "Vilken epok i musikhistorien följer efter ars antiqua?",
+    "a": "Ars nova",
+    "w1": "Barocken",
+    "w2": "Renessansen"
+  },
+  {
+    "q": "Vad är musique concrète?",
+    "a": "Musik byggd av inspelade ljud från verkligheten",
+    "w1": "Musik enbart för slagverk",
+    "w2": "Elektronisk dansmusik"
+  },
+  {
+    "q": "Vad innebär seriell musik?",
+    "a": "Att flera musikaliska parametrar organiseras i serier",
+    "w1": "Att verken spelas i tv-serier",
+    "w2": "Att orkestern spelar tyst"
+  },
+  {
+    "q": "Vad är Klangfarbenmelodi?",
+    "a": "Melodi som skapas genom skiftande klangfärger",
+    "w1": "En melodi i hög oktav",
+    "w2": "Melodi utan rytm"
+  },
+  {
+    "q": "Vad är aleatorisk musik?",
+    "a": "Musik med inslag av slump eller valfrihet",
+    "w1": "Musik i udda taktarter",
+    "w2": "Musik enbart på elektroniska instrument"
+  },
+  {
+    "q": "Vad är Sprechgesang?",
+    "a": "En vokalteknik mellan sång och tal",
+    "w1": "En typ av körstubbe",
+    "w2": "Tysk kvällsmusik"
+  },
+  {
+    "q": "Vad är en cantus firmus?",
+    "a": "En befintlig melodi som bärare av ett flerstämmigt verk",
+    "w1": "En fri improvisation",
+    "w2": "En basklavens grundton"
+  },
+  {
+    "q": "Vad innebär Ligetis mikropolyfoni?",
+    "a": "Täta kanoner i mikrostruktur som skapar klangväv",
+    "w1": "En melodisk mikrotonsskala",
+    "w2": "Små orkestrar"
+  },
+  {
+    "q": "Vad är spektral musik?",
+    "a": "Musik komponerad utifrån spektralanalys av ljud",
+    "w1": "Musik i regnbågens färger",
+    "w2": "Musik med ljusshow"
+  },
+  {
+    "q": "Vad är phase music?",
+    "a": "Identiska loopar som förskjuts mot varandra",
+    "w1": "Musik med fasvända högtalare",
+    "w2": "Musik endast i stereo"
+  },
+  {
+    "q": "Vad är processmusik?",
+    "a": "Musik som följer en förutbestämd process",
+    "w1": "Musik i industriprocesser",
+    "w2": "Musik som aldrig upprepas"
+  },
+  {
+    "q": "Vad är tape music?",
+    "a": "Musik komponerad på bandspelare",
+    "w1": "Musik på kassett endast",
+    "w2": "Musik med tejp på strängar"
+  },
+  {
+    "q": "Vad står VCF för på en synthesizer?",
+    "a": "Voltage-controlled filter",
+    "w1": "Variable chorus function",
+    "w2": "Voice channel filter"
+  },
+  {
+    "q": "Vad gör en ringmodulator?",
+    "a": "Multiplicerar signaler till metalleffekter",
+    "w1": "Lägger till eko",
+    "w2": "Dubblar oktaven"
+  },
+  {
+    "q": "Hur många kanaler har MIDI-protokollet?",
+    "a": "16",
+    "w1": "8",
+    "w2": "32"
+  },
+  {
+    "q": "Vad är granulär syntes?",
+    "a": "Syntes av mycket korta ljudkorn",
+    "w1": "Syntes av kristallklanger",
+    "w2": "Syntes endast i basen"
+  },
+  {
+    "q": "Vad är wavetable-syntes?",
+    "a": "Syntes via tabeller med vågformer",
+    "w1": "Syntes med vågor i vatten",
+    "w2": "Syntes med analoga plattor"
   }
 ]

@@ -238,5 +238,125 @@
     "a": "Gudarnas undergång",
     "w1": "Världens början",
     "w2": "Odens vila"
+  },
+  {
+    "q": "Vilken stad belägrades i Iliaden?",
+    "a": "Troja",
+    "w1": "Sparta",
+    "w2": "Korinth"
+  },
+  {
+    "q": "Vilken kung av Makedonien erövrade Persien?",
+    "a": "Alexander den store",
+    "w1": "Filip II",
+    "w2": "Perdikkas"
+  },
+  {
+    "q": "Vilket år dog Alexander den store?",
+    "a": "323 f.Kr.",
+    "w1": "356 f.Kr.",
+    "w2": "301 f.Kr."
+  },
+  {
+    "q": "Vilket år föll Västromerska riket?",
+    "a": "476 e.Kr.",
+    "w1": "410 e.Kr.",
+    "w2": "500 e.Kr."
+  },
+  {
+    "q": "Vilken farsot hemsökte Europa på 1300-talet?",
+    "a": "Digerdöden",
+    "w1": "Spanska sjukan",
+    "w2": "Kolera"
+  },
+  {
+    "q": "Ungefär hur stor andel av Europa dog i digerdöden?",
+    "a": "Cirka en tredjedel",
+    "w1": "Cirka en tiondel",
+    "w2": "Cirka hälften"
+  },
+  {
+    "q": "Vilket år stod slaget vid Poltava?",
+    "a": "1709",
+    "w1": "1700",
+    "w2": "1721"
+  },
+  {
+    "q": "Vilket år slutade trettioåriga kriget?",
+    "a": "1648",
+    "w1": "1632",
+    "w2": "1660"
+  },
+  {
+    "q": "Vilket år valdes Gustav Vasa till kung?",
+    "a": "1523",
+    "w1": "1520",
+    "w2": "1540"
+  },
+  {
+    "q": "Vilket år dog Karl XII?",
+    "a": "1718",
+    "w1": "1709",
+    "w2": "1721"
+  },
+  {
+    "q": "Vem skrev 'Röde Orm'?",
+    "a": "Frans G. Bengtsson",
+    "w1": "Vilhelm Moberg",
+    "w2": "Eyvind Johnson"
+  },
+  {
+    "q": "Vem skrev 'Nils Holgerssons underbara resa'?",
+    "a": "Selma Lagerlöf",
+    "w1": "Astrid Lindgren",
+    "w2": " Elsa Beskow"
+  },
+  {
+    "q": "Vilket år fick Selma Lagerlöf Nobelpriset?",
+    "a": "1909",
+    "w1": "1901",
+    "w2": "1916"
+  },
+  {
+    "q": "Vem målade 'Skriet'?",
+    "a": "Edvard Munch",
+    "w1": "Gustav Klimt",
+    "w2": "Ernst Josephson"
+  },
+  {
+    "q": "Vem skulpterade 'David' i Florens?",
+    "a": "Michelangelo",
+    "w1": "Donatello",
+    "w2": "Bernini"
+  },
+  {
+    "q": "I vilken stad står Michelangelos 'David'?",
+    "a": "Florens",
+    "w1": "Rom",
+    "w2": "Venedig"
+  },
+  {
+    "q": "Vem skrev 'Faust'?",
+    "a": "Johann Wolfgang von Goethe",
+    "w1": "Friedrich Schiller",
+    "w2": "Heinrich Heine"
+  },
+  {
+    "q": "Vem skrev 'Candide'?",
+    "a": "Voltaire",
+    "w1": "Rousseau",
+    "w2": "Diderot"
+  },
+  {
+    "q": "Vem skrev 'Kritik av det rena förnuftet'?",
+    "a": "Immanuel Kant",
+    "w1": "Hegel",
+    "w2": "David Hume"
+  },
+  {
+    "q": "Vad betyder 'cogito ergo sum'?",
+    "a": "Jag tänker, alltså är jag",
+    "w1": "Jag tvivlar, alltså lär jag",
+    "w2": "Se, så är det sagt"
   }
 ]

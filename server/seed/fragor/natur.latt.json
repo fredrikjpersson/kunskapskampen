@@ -238,5 +238,125 @@
     "a": "Gässen",
     "w1": "Hönorna",
     "w2": "Duvorna"
+  },
+  {
+    "q": "Vilket djur skäller?",
+    "a": "Hunden",
+    "w1": "Katten",
+    "w2": "Kon"
+  },
+  {
+    "q": "Vilken färg har himlen en solig dag?",
+    "a": "Blå",
+    "w1": "Grön",
+    "w2": "Röd"
+  },
+  {
+    "q": "Vad dricker en kalv?",
+    "a": "Mjölk",
+    "w1": "Vatten",
+    "w2": "Saft"
+  },
+  {
+    "q": "Hur många ben har en fågel?",
+    "a": "Två",
+    "w1": "Fyra",
+    "w2": "Sex"
+  },
+  {
+    "q": "Vilket djur väcker oss på morgonen på landet?",
+    "a": "Tuppen",
+    "w1": "Galten",
+    "w2": "Hunden"
+  },
+  {
+    "q": "Vad kallas regn som fryser till is på väg ner?",
+    "a": "Hagel",
+    "w1": "Dagg",
+    "w2": "Snö"
+  },
+  {
+    "q": "Vad äter igelkotten gärna?",
+    "a": "Maskar",
+    "w1": "Bär",
+    "w2": "Nötter"
+  },
+  {
+    "q": "Vilket djur kvackar?",
+    "a": "Grodan",
+    "w1": "Ankan",
+    "w2": "Fisken"
+  },
+  {
+    "q": "Vilket träd klär vi in och smycker till jul?",
+    "a": "Granen",
+    "w1": "Eken",
+    "w2": "Björken"
+  },
+  {
+    "q": "Hur många ben har en insekt?",
+    "a": "Sex",
+    "w1": "Fyra",
+    "w2": "Åtta"
+  },
+  {
+    "q": "Vad heter hanen hos änder?",
+    "a": "Drake",
+    "w1": "Tupp",
+    "w2": "Galt"
+  },
+  {
+    "q": "Vilket bärbuskar med röda bär används till gelé?",
+    "a": "Rönn",
+    "w1": "Rön",
+    "w2": "Al"
+  },
+  {
+    "q": "Vad kallas det när luften rör sig över marken?",
+    "a": "Vind",
+    "w1": "Regn",
+    "w2": "Dagg"
+  },
+  {
+    "q": "Vilket djur sover huvudet nedåt på dagen och flyger i skymningen?",
+    "a": "Fladdermusen",
+    "w1": "Ugglan",
+    "w2": "Ekorren"
+  },
+  {
+    "q": "Vilket husdjur spinner när det är nöjt?",
+    "a": "Katten",
+    "w1": "Hunden",
+    "w2": "Kaninen"
+  },
+  {
+    "q": "Hur många årstider har vi i Sverige?",
+    "a": "Fyra",
+    "w1": "Två",
+    "w2": "Sex"
+  },
+  {
+    "q": "Vad glittrar i gräset tidigt på morgonen?",
+    "a": "Dagg",
+    "w1": "Snö",
+    "w2": "Sand"
+  },
+  {
+    "q": "Vilken grönsak får ögonen att tåras när vi skär den?",
+    "a": "Löken",
+    "w1": "Gurkan",
+    "w2": "Tomaten"
+  },
+  {
+    "q": "Vad kläcks ur hönsägget?",
+    "a": "Kycklingen",
+    "w1": "Killingen",
+    "w2": "Valpen"
+  },
+  {
+    "q": "Vilket djur säger mu?",
+    "a": "Kon",
+    "w1": "Fåret",
+    "w2": "Grisen"
   }
 ]

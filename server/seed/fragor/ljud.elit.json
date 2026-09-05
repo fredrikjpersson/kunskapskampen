@@ -238,5 +238,125 @@
     "a": "Leder låga frekvenser till subwoofern",
     "w1": "Dämpar alla baser",
     "w2": "Ökar diskanten"
+  },
+  {
+    "q": "Vad beskriver Fletcher-Munson-kurvorna?",
+    "a": "Lika hörlhet vid olika frekvenser och nivåer",
+    "w1": "Efterklangstid per frekvens",
+    "w2": "Svängningstal i högtalare"
+  },
+  {
+    "q": "Vad innebär temporal maskering?",
+    "a": "Att ljud maskeras strax före eller efter ett starkt ljud",
+    "w1": "Att låga frekvenser döljer höga",
+    "w2": "Att örat tröttas vid lång lyssning"
+  },
+  {
+    "q": "Vad definierar akustisk impedans?",
+    "a": "Förhållandet tryck/volymhastighet",
+    "w1": "Effekt/spänning",
+    "w2": "Amplitud/fas"
+  },
+  {
+    "q": "Vad gör ett allpass-filter?",
+    "a": "Ändrar fasen men inte amplituden",
+    "w1": "Dämpar allt under en frekvens",
+    "w2": "Förstärker alla frekvenser lika"
+  },
+  {
+    "q": "Vad kännetecknar ett minimumfassystem?",
+    "a": "Minimal möjlig fasskärpning för given amplitudgång",
+    "w1": "Att fasen är linjär hela vägen",
+    "w2": "Att fasen är oändlig"
+  },
+  {
+    "q": "Vad kallas stående vågor mellan rummets väggar?",
+    "a": "Rumsmoder",
+    "w1": "Kamfilter",
+    "w2": "Dopplerskifte"
+  },
+  {
+    "q": "Vad markerar Schroederfrekvensen?",
+    "a": "Övergången till diffust ljudfält",
+    "w1": "Gränsen för hörsel skada",
+    "w2": "Nollpunkten för fas"
+  },
+  {
+    "q": "Vad är critical distance i akustik?",
+    "a": "Avståndet där direktljud och reflekterat ljud är lika starka",
+    "w1": "Minsta avstånd till högtalare",
+    "w2": "Avståndet då eko upphör"
+  },
+  {
+    "q": "Vad menas med early reflections?",
+    "a": "De första speglingarna inom cirka 80 ms",
+    "w1": "Eko efter en sekund",
+    "w2": "Brus från förstärkaren"
+  },
+  {
+    "q": "Vad är en bass shaker?",
+    "a": "En taktil givare som låter känna basen",
+    "w1": "En högtalarprotect",
+    "w2": "En sluten subbas"
+  },
+  {
+    "q": "Vad är wave field synthesis?",
+    "a": "Återskapande av vågfronter med många små högtalare",
+    "w1": "Synt av vågvia fm-radio",
+    "w2": "Analys av våghöjd i havet"
+  },
+  {
+    "q": "Vad är ambisonics?",
+    "a": "Fullsfäriskt ljudformat med B-format-signaler",
+    "w1": "En 7.1-standard",
+    "w2": "En typ av hörlurskoppling"
+  },
+  {
+    "q": "Vad står HRTF för?",
+    "a": "Head-Related Transfer Function",
+    "w1": "High Range Tone Filter",
+    "w2": "Harmonic Resonance Transfer"
+  },
+  {
+    "q": "Vad är crosstalk i stereo?",
+    "a": "Läckage mellan kanalerna",
+    "w1": "Förstärkning av båda kanalerna",
+    "w2": "Brus vid koppling"
+  },
+  {
+    "q": "Vad mäter group delay?",
+    "a": "Tidsfördröjningen per frekvens",
+    "w1": "Total kör tid",
+    "w2": "Förstärkning per oktav"
+  },
+  {
+    "q": "Vad är Gibbs fenomen vid filtrering?",
+    "a": "Ringning runt branta signaler vid hård filtrering",
+    "w1": "Brus som tilltar med bandbredd",
+    "w2": "Fasvridning vid klippning"
+  },
+  {
+    "q": "Vad är aliasing vid sampling?",
+    "a": "Frekvenser speglas ner högre än Nyquistfrekvensen",
+    "w1": "Brus från klockan",
+    "w2": "Förlust av låga frekvenser"
+  },
+  {
+    "q": "Vad kallas punkten där vågformen korsar nollinjen?",
+    "a": "Nollgenång",
+    "w1": "Vändpunkt",
+    "w2": "Amplitudtopp"
+  },
+  {
+    "q": "Vad är DC offset?",
+    "a": "En likspänningskomponent i signalen",
+    "w1": "Frekvensskifte",
+    "w2": "Felfasande kabel"
+  },
+  {
+    "q": "Vad menas med noise floor?",
+    "a": "Underlaget av brus i signalen",
+    "w1": "Golvet i inspelningsrummet",
+    "w2": "Lägsta hörbara ton"
   }
 ]

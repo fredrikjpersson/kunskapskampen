@@ -238,5 +238,125 @@
     "a": "Snäppa",
     "w1": "Viska",
     "w2": "Susa"
+  },
+  {
+    "q": "Vilket djur grymtar?",
+    "a": "Grisen",
+    "w1": "Hästen",
+    "w2": "Hunden"
+  },
+  {
+    "q": "Vad kallas det när man skrattar lågt och nervöst?",
+    "a": "Fnittrar",
+    "w1": "Viskar",
+    "w2": "Jublar"
+  },
+  {
+    "q": "Vilket fordon kommer med siren på?",
+    "a": "Ambulansen",
+    "w1": "Cykeln",
+    "w2": "Bussen"
+  },
+  {
+    "q": "Vad gör en hund när den är arg?",
+    "a": "Morrar",
+    "w1": "Jublar",
+    "w2": "Visslar"
+  },
+  {
+    "q": "Vilket instrument spelar man på med en båge?",
+    "a": "Fiolen",
+    "w1": "Trumman",
+    "w2": "Pianot"
+  },
+  {
+    "q": "Vad heter det när publiken skriker av glädje?",
+    "a": "Jubel",
+    "w1": "Ekolod",
+    "w2": "Viskning"
+  },
+  {
+    "q": "Vad heter den stora svarta skivan man spelar musik på?",
+    "a": "Vinylskivan",
+    "w1": "CD:n",
+    "w2": "Kassettbandet"
+  },
+  {
+    "q": "Vilken apparat spelar upp CD-skivor?",
+    "a": "Cd-spelaren",
+    "w1": "Radio",
+    "w2": "Tv:n"
+  },
+  {
+    "q": "Hur låter en duva?",
+    "a": "Kuttrar",
+    "w1": "Kacklar",
+    "w2": "Galopperar"
+  },
+  {
+    "q": "Vad heter det när telefonen ringer?",
+    "a": "Ringsignal",
+    "w1": "Röstläge",
+    "w2": "Samtalston"
+  },
+  {
+    "q": "Vad gör vinden en stormig dag?",
+    "a": "Viner",
+    "w1": "Kacklar",
+    "w2": "Visslar"
+  },
+  {
+    "q": "Vad kallas ljudet av någon som går?",
+    "a": "Steg",
+    "w1": "Rop",
+    "w2": "Tystnad"
+  },
+  {
+    "q": "Vilket instrument har tangenter och drivs med luft?",
+    "a": "Dragspelet",
+    "w1": "Gitarr",
+    "w2": "Trumman"
+  },
+  {
+    "q": "Vilket blåsinstrument har hål för fingrarna?",
+    "a": "Flöjten",
+    "w1": "Trumman",
+    "w2": "Fiolen"
+  },
+  {
+    "q": "Hur låter en höna?",
+    "a": "Kacklar",
+    "w1": "Vänder",
+    "w2": "Klackar"
+  },
+  {
+    "q": "Vad heter det man hör i telefonen medan man väntar?",
+    "a": "Kopplingston",
+    "w1": "Ekolod",
+    "w2": "Radiobrus"
+  },
+  {
+    "q": "Vilket djur lockar med 'kuckeliku'?",
+    "a": "Tuppen",
+    "w1": "Gripen",
+    "w2": "Gåsen"
+  },
+  {
+    "q": "Vad heter det när radion spelar väldigt lågt?",
+    "a": "Låg volym",
+    "w1": "Hög bas",
+    "w2": "Stereo"
+  },
+  {
+    "q": "Vad kallas ljudet av en bi?",
+    "a": "Surrande",
+    "w1": "Tickande",
+    "w2": "Galopperande"
+  },
+  {
+    "q": "Vad heter det ljud som en klocka gör varje sekund?",
+    "a": "Tickande",
+    "w1": "Ringning",
+    "w2": "Blinkning"
   }
 ]

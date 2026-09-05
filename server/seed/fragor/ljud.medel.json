@@ -238,5 +238,125 @@
     "a": "Popskyddet",
     "w1": "Solskyddet",
     "w2": "Regnskyddet"
+  },
+  {
+    "q": "Ungefär hur många dB motsvarar en upplevd fördubbling av ljudnivån?",
+    "a": "Cirka 10 dB",
+    "w1": "Cirka 3 dB",
+    "w2": "Cirka 20 dB"
+  },
+  {
+    "q": "Vilket av formaten MP3, WAV och FLAC använder förlustkomprimering?",
+    "a": "MP3",
+    "w1": "WAV",
+    "w2": "FLAC"
+  },
+  {
+    "q": "Vad kallas konstgjord efterklang i ljudproduktion?",
+    "a": "Reverb",
+    "w1": "Delay",
+    "w2": "Chorus"
+  },
+  {
+    "q": "Vad gör en kompressor med ljudet?",
+    "a": "Minskar skillnaden mellan starkt och svagt",
+    "w1": "Tar bort bakgrundsljud",
+    "w2": "Lägger till ekon"
+  },
+  {
+    "q": "Vad betyder 'dry signal' i en effektkedja?",
+    "a": "Signalen utan effekter",
+    "w1": "Signalen med effekter",
+    "w2": "En trasig signal"
+  },
+  {
+    "q": "Vad kallas mikrofonens riktkaraktär?",
+    "a": "Upptagningsmönster",
+    "w1": "Frekvensgång",
+    "w2": "Impedans"
+  },
+  {
+    "q": "Vad styr 'gain'-ratten på en förstärkare?",
+    "a": "Ingångsförstärkningen",
+    "w1": "Högtalarnas effekt",
+    "w2": "Basens tonhöjd"
+  },
+  {
+    "q": "Vad är en AUX-utgang?",
+    "a": "En extra utgång för till exempel hörlurar",
+    "w1": "En ingång för mikrofon",
+    "w2": "En strömförsörjning"
+  },
+  {
+    "q": "Vilken kontakt kallas även 3,5 mm-jack?",
+    "a": "Mini-jack",
+    "w1": "XLR",
+    "w2": "Phono"
+  },
+  {
+    "q": "Vilken spänningsreferens har dBu?",
+    "a": "0,775 volt",
+    "w1": "1 volt",
+    "w2": "12 volt"
+  },
+  {
+    "q": "Vad är en 'bus' på en mixer?",
+    "a": "En gemensam signalkanal",
+    "w1": "En effektpedal",
+    "w2": "En typ av kabel"
+  },
+  {
+    "q": "Hur många kanaler har stereoljud?",
+    "a": "Två",
+    "w1": "Ett",
+    "w2": "Sex"
+  },
+  {
+    "q": "Vad kallas ett filter som tar bort en mycket smal frekvens?",
+    "a": "Notchfilter",
+    "w1": "Lowpass",
+    "w2": "Highpass"
+  },
+  {
+    "q": "Vad gör en talkbox?",
+    "a": "Låter gitarrljud formas av munnen till 'röst'",
+    "w1": "Förstorar rösten elektroniskt",
+    "w2": "Översätter text till tal"
+  },
+  {
+    "q": "Vad gör en vocoder?",
+    "a": "Låter en synt påverkas av röstens formanter",
+    "w1": "Tar bort störningar",
+    "w2": "Dubblar tempot"
+  },
+  {
+    "q": "Vilket märke är klassiskt förklarat med jukeboxar?",
+    "a": "Wurlitzer",
+    "w1": "Volkswagen",
+    "w2": "Vestas"
+  },
+  {
+    "q": "Vad styr 'balance'-ratten på en stereo?",
+    "a": "Förhållandet vänster/höger",
+    "w1": "Bashöjden",
+    "w2": "Volymen på båda kanalerna"
+  },
+  {
+    "q": "Vad menas med 'line level'?",
+    "a": "En standardiserad signalstyrka",
+    "w1": "Maximal volym",
+    "w2": "Mikrofonnivå"
+  },
+  {
+    "q": "Vad kallas den rundade kontakten som också heter phono?",
+    "a": "RCA",
+    "w1": "Jack",
+    "w2": "MIDI"
+  },
+  {
+    "q": "Vad är latency i ljudsammanhang?",
+    "a": "Fördröjning mellan in- och utgång",
+    "w1": "Frekvensens bärvidd",
+    "w2": "Antal samplingar per sekund"
   }
 ]

@@ -238,5 +238,125 @@
     "a": "420 km/h",
     "w1": "380 km/h",
     "w2": "460 km/h"
+  },
+  {
+    "q": "Vad är Koenigseggs Freevalve-teknik?",
+    "a": "Kamlost elektropneumatisk ventilstyrning",
+    "w1": "Elektrisk turbo",
+    "w2": "Variabel kompression"
+  },
+  {
+    "q": "Vad står KERS för?",
+    "a": "Kinetic Energy Recovery System",
+    "w1": "Kinetic Exhaust Recycling System",
+    "w2": "Kooled Engine Rotation System"
+  },
+  {
+    "q": "Vad gör MGU-H i en Formel 1-bil?",
+    "a": "Återvinner energi från turbinen",
+    "w1": "Återvinner energi vid inbromsning",
+    "w2": "Laddar batteriet från avgastemp"
+  },
+  {
+    "q": "Vilket stall vann det första konstruktörsmästerskapet 1958?",
+    "a": "Vanwall",
+    "w1": "Ferrari",
+    "w2": "Cooper"
+  },
+  {
+    "q": "Vilken motor byggde TAG:s F1-motorer under 1980-talet?",
+    "a": "Porsche",
+    "w1": "BMW",
+    "w2": "Ford"
+  },
+  {
+    "q": "Vad står DSG för?",
+    "a": "Direkt-Schalt-Getriebe",
+    "w1": "Doppel-Schnell-Getriebe",
+    "w2": "Drehzahl-Steuer-Getriebe"
+  },
+  {
+    "q": "Vad kännetecknar en Haldexkoppling?",
+    "a": "Elektroniskt styrd lamellkoppling för fyrhjulsdrift",
+    "w1": "Ren mekanisk different spärr",
+    "w2": "Hydraulisk momentomvandlare"
+  },
+  {
+    "q": "Vilket år invigdes Nürburgring?",
+    "a": "1927",
+    "w1": "1932",
+    "w2": "1921"
+  },
+  {
+    "q": "Vilket år invigdes Monza?",
+    "a": "1922",
+    "w1": "1926",
+    "w2": "1919"
+  },
+  {
+    "q": "Vad heter Monzas sista långsamda kurva?",
+    "a": "Parabolica",
+    "w1": "Lesmo",
+    "w2": "Rettifilo"
+  },
+  {
+    "q": "Vad heter Spas kända snabba stigningskurva?",
+    "a": "Eau Rouge",
+    "w1": "Blanchimont",
+    "w2": "La Source"
+  },
+  {
+    "q": "Vilket år kördes det första loppet i Monaco?",
+    "a": "1929",
+    "w1": "1933",
+    "w2": "1926"
+  },
+  {
+    "q": "Vem vann det allra första F1-loppet på Silverstone 1950?",
+    "a": "Giuseppe Farina",
+    "w1": "Juan Manuel Fangio",
+    "w2": "Alberto Ascari"
+  },
+  {
+    "q": "Vilket stall har flest F1-segrar genom tiderna?",
+    "a": "Ferrari",
+    "w1": "McLaren",
+    "w2": "Williams"
+  },
+  {
+    "q": "Hur delar rekordet för flest F1-VM-titlar (7 stycken)?",
+    "a": "Schumacher och Hamilton",
+    "w1": "Hamilton och Verstappen",
+    "w2": "Fangio och Schumacher"
+  },
+  {
+    "q": "Vilken svensk F1-förare kallades 'Superswede'?",
+    "a": "Ronnie Peterson",
+    "w1": "Gunnar Nilsson",
+    "w2": "Reine Wisell"
+  },
+  {
+    "q": "Vem vann rally-VM åtta år i rad 2004–2011?",
+    "a": "Sébastien Loeb",
+    "w1": "Sébastien Ogier",
+    "w2": "Marcus Grönholm"
+  },
+  {
+    "q": "Vilken liten brittisk bil vann Monte Carlo-rallyt 1964?",
+    "a": "Mini Cooper S",
+    "w1": "Austin Healey",
+    "w2": "MG B"
+  },
+  {
+    "q": "Vad innebär homologering i motorsport?",
+    "a": "Att en gatversion måste byggas för att få tävla",
+    "w1": "Att teamen lottar startnummer",
+    "w2": "Att bilarna vägs före lopp"
+  },
+  {
+    "q": "Vad är en scratch time i rally?",
+    "a": "Bästa tid på en sträcka",
+    "w1": "Strafftid för för sent",
+    "w2": "Totaltid utan straff"
   }
 ]

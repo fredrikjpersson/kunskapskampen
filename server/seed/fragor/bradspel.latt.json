@@ -238,5 +238,125 @@
     "a": "Kortleken",
     "w1": "Korthögen",
     "w2": "Kortboken"
+  },
+  {
+    "q": "Vad har tärningens sexa på motsatt sida?",
+    "a": "Ettan",
+    "w1": "Trean",
+    "w2": "Fyran"
+  },
+  {
+    "q": "Vilken färg gör alltid första draget i schack?",
+    "a": "Vit",
+    "w1": "Svart",
+    "w2": "Lottad färg"
+  },
+  {
+    "q": "Vad kallas knekt, dam och kung i kortleken?",
+    "a": "Klädda kort",
+    "w1": "Kungliga kort",
+    "w2": "Höga kort"
+  },
+  {
+    "q": "Hur många prickar har en tärning totalt?",
+    "a": "21",
+    "w1": "18",
+    "w2": "24"
+  },
+  {
+    "q": "I vilket spel ropar man 'Bingo'?",
+    "a": "Bingo",
+    "w1": "Yatzy",
+    "w2": "Vikingloto"
+  },
+  {
+    "q": "Vad heter Ludo på svenska?",
+    "a": "Fia med knuff",
+    "w1": "Snakes and ladders",
+    "w2": "Kinafadäser"
+  },
+  {
+    "q": "Vad kallas det när man tar en bricka i dam?",
+    "a": "Slag",
+    "w1": "Knuff",
+    "w2": "Vända"
+  },
+  {
+    "q": "I vilket spel får man bara gå diagonalt?",
+    "a": "Dam",
+    "w1": "Schack",
+    "w2": "Othello"
+  },
+  {
+    "q": "Hur många fält används på ett dambräde?",
+    "a": "32",
+    "w1": "64",
+    "w2": "16"
+  },
+  {
+    "q": "Vad kallas det att ingen vinner?",
+    "a": "Oavgjort",
+    "w1": "Förlust",
+    "w2": "Vinst"
+  },
+  {
+    "q": "Hur många tärningar används i Fia med knuff?",
+    "a": "1",
+    "w1": "2",
+    "w2": "5"
+  },
+  {
+    "q": "Vad heter leken med tunna pinnar som man plockar försiktigt?",
+    "a": "Plockepinn",
+    "w1": "Jenga",
+    "w2": "Mikado"
+  },
+  {
+    "q": "Hur många bönder har varje schackspelare?",
+    "a": "8",
+    "w1": "6",
+    "w2": "10"
+  },
+  {
+    "q": "Vilken färg måste höger hörnruta ha i schack?",
+    "a": "Ljus",
+    "w1": "Mörk",
+    "w2": "Spelaren väljer"
+  },
+  {
+    "q": "Vad kallas slutdelen av ett schackparti?",
+    "a": "Slutspel",
+    "w1": "Mittparti",
+    "w2": "Öppning"
+  },
+  {
+    "q": "Vad kallas spelkortens fyra symboler?",
+    "a": "Färger",
+    "w1": "Symboler",
+    "w2": "Valörer"
+  },
+  {
+    "q": "Hur många jokrar finns oftast i en kortlek?",
+    "a": "2",
+    "w1": "1",
+    "w2": "4"
+  },
+  {
+    "q": "Vilket kort är högst i spelet Hjärter?",
+    "a": "Hjärter dam",
+    "w1": "Spader ess",
+    "w2": "Hjärter kung"
+  },
+  {
+    "q": "Vad kallas schackpjäserna man har kvar sammanlagt?",
+    "a": "Material",
+    "w1": "Trupper",
+    "w2": "Upplag"
+  },
+  {
+    "q": "Vad kallas pengarna i Monopol?",
+    "a": "Sedlar",
+    "w1": "Mynt",
+    "w2": "Krediter"
   }
 ]

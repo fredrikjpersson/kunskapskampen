@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Vilket öppningssystem i schack är samma sak som 'spanskt parti'?",
+    "a": "Ruy López",
+    "w1": "Sicilianskt försvar",
+    "w2": "Katalansk öppning",
+    "w3": "Franskt parti",
+    "w4": "Caro-Kann",
+    "w5": "Italienskt parti"
+  },
+  {
+    "q": "Vad betyder schacktermen 'zugzwang'?",
+    "a": "Att en spelare tvingas göra ett drag som försvagar positionen",
+    "w1": "Att offra en springare för pjösfördel",
+    "w2": "Att båda sidorna kan göra rockad i samma drag",
+    "w3": "En remi enligt 50-dragsregeln",
+    "w4": "Att bonde kan slå en passant",
+    "w5": "En öppning med asymmetrisk bondestruktur"
+  },
+  {
+    "q": "Hur många skärningspunkter har ett fullstort Go-bräde (19 × 19)?",
+    "a": "361",
+    "w1": "289",
+    "w2": "324",
+    "w3": "400",
+    "w4": "256",
+    "w5": "441"
+  },
+  {
+    "q": "Hur många olika råvarutyper finns i grundspelet Settlers of Catan?",
+    "a": "5",
+    "w1": "3",
+    "w2": "4",
+    "w3": "6",
+    "w4": "7",
+    "w5": "2"
+  },
+  {
+    "q": "Varifrån kommer ordet 'meeple'?",
+    "a": "En sammanslagning av 'my people' – min spelfigur",
+    "w1": "Från tyska 'Mühlespiel' – kvarnspel",
+    "w2": "Från konstnären som ritade figuren",
+    "w3": "Från 'maple' – lönnträet figurerna görs av",
+    "w4": "Från 'multiple people' – flerspelarläge",
+    "w5": "Från franska 'mi-plé' – halvvikning"
+  },
+  {
+    "q": "Hur många territorier finns det på klassiska Risk-brädet?",
+    "a": "42",
+    "w1": "40",
+    "w2": "44",
+    "w3": "38",
+    "w4": "45",
+    "w5": "48"
+  },
+  {
+    "q": "Hur många möjliga startpositioner finns i schackvarianten Chess960 (Fischer Random)?",
+    "a": "960",
+    "w1": "800",
+    "w2": "1 024",
+    "w3": "512",
+    "w4": "940",
+    "w5": "1 000"
+  },
+  {
+    "q": "Vilket år gavs det allra första Dungeons & Dragons ut?",
+    "a": "1974",
+    "w1": "1968",
+    "w2": "1970",
+    "w3": "1972",
+    "w4": "1976",
+    "w5": "1978"
+  },
+  {
+    "q": "Vad är högsta värde på tärningen i backgammon?",
+    "a": "64",
+    "w1": "32",
+    "w2": "128",
+    "w3": "16",
+    "w4": "256",
+    "w5": "512"
+  },
+  {
+    "q": "Vad innebär 'fianchetto' i schack?",
+    "a": "Att utveckla en löpare till b2/g2 (eller b7/g7) efter bondetåg",
+    "w1": "Att offra en löpare för två bönder",
+    "w2": "Att ställa tornet på en öppna linje",
+    "w3": "Att flytta kungen till centrum",
+    "w4": "Att spela bonde till h3/h6",
+    "w5": "Att byta av damerna tidigt"
+  },
+  {
+    "q": "Hur många brickor har varje spelare i Stratego?",
+    "a": "40",
+    "w1": "32",
+    "w2": "36",
+    "w3": "42",
+    "w4": "45",
+    "w5": "50"
+  },
+  {
+    "q": "Vem uppfann det ratingssystem som används i schack (ELO)?",
+    "a": "Árpád Élő",
+    "w1": "Mark Glickman",
+    "w2": "Jeff Sonas",
+    "w3": "Garry Kasparov",
+    "w4": "David Bronstein",
+    "w5": "Hikaru Nakamura"
+  },
+  {
+    "q": "Hur stort är antalet schackpartier enligt Shannons tal?",
+    "a": "Cirka 10^120",
+    "w1": "Cirka 10^80",
+    "w2": "Cirka 10^60",
+    "w3": "Cirka 10^100",
+    "w4": "Cirka 10^150",
+    "w5": "Cirka 10^90"
+  },
+  {
+    "q": "Ungefär hur många atomer finns i det observerbara universumet?",
+    "a": "Cirka 10^80",
+    "w1": "Cirka 10^50",
+    "w2": "Cirka 10^100",
+    "w3": "Cirka 10^120",
+    "w4": "Cirka 10^40",
+    "w5": "Cirka 10^60"
+  },
+  {
+    "q": "Ungefär hur många lagliga schackpositioner finns?",
+    "a": "Cirka 10^44",
+    "w1": "Cirka 10^20",
+    "w2": "Cirka 10^64",
+    "w3": "Cirka 10^80",
+    "w4": "Cirka 10^30",
+    "w5": "Cirka 10^50"
+  },
+  {
+    "q": "Vad används Zobrist-hashning till i schackmotorer?",
+    "a": "Att hasha positioner för snabb lookup",
+    "w1": "Att generera öppningar",
+    "w2": "Att rangordra spelare",
+    "w3": "Att översätta notation",
+    "w4": "Att komprimera tablebases",
+    "w5": "Att mäta tid"
+  },
+  {
+    "q": "Vad är alfa-beta-beskärning?",
+    "a": "En sökoptimering som hoppar över grenar som inte kan påverka resultatet",
+    "w1": "En teknik för att studsa ut motståndare",
+    "w2": "En ratingberäkning",
+    "w3": "En öppningsfälla",
+    "w4": "En sorts bondestruktur",
+    "w5": "Ett sätt att dela tid"
+  },
+  {
+    "q": "Vad går null move-heuristiken ut på?",
+    "a": "Att anta att spelaren som står i tur kan stå över ett drag",
+    "w1": "Att flytta bonden två steg",
+    "w2": "Att offra damen",
+    "w3": "Att rockera fel",
+    "w4": "Att spela två drag i rad",
+    "w5": "Att gå ur remi"
+  },
+  {
+    "q": "Vad är quiescence search?",
+    "a": "Förlängd sökning i tysta lägen för att undvika horisonteffekter",
+    "w1": "Sökning efter kortaste partiet",
+    "w2": "Slumpmässig sökning",
+    "w3": "Sökning endast i öppningar",
+    "w4": "Sökning baklänges",
+    "w5": "Sökning med tidsgräns"
+  },
+  {
+    "q": "Vad är NNUE i schackmotorer?",
+    "a": "Effektivt neural nätverk som värderar positioner",
+    "w1": "En ny typ av tablebase",
+    "w2": "Ett protokoll för onlinepartier",
+    "w3": "En öppningsbok",
+    "w4": "En sorts ELO-utjämning",
+    "w5": "Ett grafiskt gränssnitt"
+  },
+  {
+    "q": "Vilket år integrerades NNUE i Stockfish?",
+    "a": "2020",
+    "w1": "2018",
+    "w2": "2019",
+    "w3": "2021",
+    "w4": "2017",
+    "w5": "2022"
+  },
+  {
+    "q": "Vad förbättrar Glicko-2 gentemot Elo?",
+    "a": "Den mäter också ratingsäkerheten (RD)",
+    "w1": "Den dubblar vinstpoängen",
+    "w2": "Den tar hänsyn till färg",
+    "w3": "Den premierar remi",
+    "w4": "Den rankar only wins",
+    "w5": "Den ignorerar gamla partier helt"
+  },
+  {
+    "q": "Vem skapade Glicko-systemet?",
+    "a": "Mark Glickman",
+    "w1": "Árpád Élő",
+    "w2": "Jeff Sonas",
+    "w3": "David Levy",
+    "w4": "Ken Thompson",
+    "w5": "Jaap van den Herik"
+  },
+  {
+    "q": "Vilket år tog FIDE över Elo-systemet?",
+    "a": "1970",
+    "w1": "1960",
+    "w2": "1975",
+    "w3": "1980",
+    "w4": "1965",
+    "w5": "1985"
+  },
+  {
+    "q": "Vad är högsta FIDE-rating som uppnåtts?",
+    "a": "2882",
+    "w1": "2851",
+    "w2": "2872",
+    "w3": "2891",
+    "w4": "2861",
+    "w5": "2900"
+  },
+  {
+    "q": "Vilket år nådde Magnus Carlsen ratingen 2882?",
+    "a": "2014",
+    "w1": "2012",
+    "w2": "2016",
+    "w3": "2013",
+    "w4": "2015",
+    "w5": "2018"
+  },
+  {
+    "q": "Vem har näst högsta rating genom tiderna?",
+    "a": "Garry Kasparov (2851)",
+    "w1": "Fabiano Caruana",
+    "w2": "Levon Aronian",
+    "w3": "Maxime Vachier-Lagrave",
+    "w4": "Viswanathan Anand",
+    "w5": "Alexander Grischuk"
+  },
+  {
+    "q": "Vilket år vann Carlsen VM i blixt första gången?",
+    "a": "2009",
+    "w1": "2007",
+    "w2": "2011",
+    "w3": "2010",
+    "w4": "2013",
+    "w5": "2008"
+  },
+  {
+    "q": "Ungefär hur många lagliga Go-positioner finns?",
+    "a": "Cirka 10^170",
+    "w1": "Cirka 10^120",
+    "w2": "Cirka 10^360",
+    "w3": "Cirka 10^80",
+    "w4": "Cirka 10^250",
+    "w5": "Cirka 10^50"
+  },
+  {
+    "q": "Vad säger Crawford-regeln i backgammon?",
+    "a": "Ingen dubblingstärning när motståndaren står på matchpunkt",
+    "w1": "Dubbling bara första spelet",
+    "w2": "Tärningarna kastas om vid dublett",
+    "w3": "Vinnaren börjar nästa parti",
+    "w4": "Gammon räknas dubbel alltid",
+    "w5": "Man får slå två gånger per tärning"
+  },
+  {
+    "q": "Vad säger Jacoby-regeln?",
+    "a": "Gammon räknas även om ingen dubbling skett",
+    "w1": "Man får rulla om dubletter",
+    "w2": "Sista pjäsen ger extra poäng",
+    "w3": "Bar-pjäs slås automatiskt",
+    "w4": "Tre dubletter i rad vinner",
+    "w5": "Man måste ta alla slag"
+  },
+  {
+    "q": "Vad är en 'beaver' i backgammon?",
+    "a": "En omedelbar redubbel efter motståndarens dubbel",
+    "w1": "Att slå två pjäser samtidigt",
+    "w2": "Att gå ut med sista pjäsen",
+    "w3": "En tärning som fastnar på kant",
+    "w4": "En illegal dubbel",
+    "w5": "Att avstå från slag"
+  },
+  {
+    "q": "Vilket år löste Chinook engelskt dam?",
+    "a": "2007",
+    "w1": "1997",
+    "w2": "2002",
+    "w3": "1992",
+    "w4": "2010",
+    "w5": "2014"
+  },
+  {
+    "q": "Vad heter programmet som löste dam?",
+    "a": "Chinook",
+    "w1": "Deep Blue",
+    "w2": "Fritz",
+    "w3": "Checkers-64",
+    "w4": "Nemotron",
+    "w5": "Halon"
+  },
+  {
+    "q": "Vem ledde teamet som skapade Chinook?",
+    "a": "Jonathan Schaeffer",
+    "w1": "Feng-hsiung Hsu",
+    "w2": "Claude Shannon",
+    "w3": "Hans Berliner",
+    "w4": "Monty Newborn",
+    "w5": "Jaap van den Herik"
+  },
+  {
+    "q": "Vilket år löstes fyra-i-rad (Connect Four) beräkningsmässigt?",
+    "a": "1988",
+    "w1": "1995",
+    "w2": "1982",
+    "w3": "1992",
+    "w4": "2001",
+    "w5": "1979"
+  },
+  {
+    "q": "Vilken kolumn vinner i fyra-i-rad med perfekt spel?",
+    "a": "Mittenkolumnen",
+    "w1": "Den vänstra",
+    "w2": "Den näst mittersta",
+    "w3": "Alla lika",
+    "w4": "Den högra",
+    "w5": "Ingen – alltid oavgjort"
+  },
+  {
+    "q": "Vad beskriver Sprague-Grundy-teorin?",
+    "a": "Värderingar av opartiska spel som summa av delspel",
+    "w1": "Rating i schack",
+    "w2": "Sannolikhet i poker",
+    "w3": "Turordning i bridge",
+    "w4": "Kastlängd i Yatzy",
+    "w5": "Antal drag i Go"
+  },
+  {
+    "q": "Hur vinner man Nim (principen)?",
+    "a": "Håll XOR-summan av högar noll",
+    "w1": "Ta alltid från största högen",
+    "w2": "Ta alltid en enda sticka",
+    "w3": "Låt motståndaren börja",
+    "w4": "Jämna ut högarna exakt",
+    "w5": "Ta från minsta högen"
+  },
+  {
+    "q": "Vad är Hackenbush?",
+    "a": "Ett kombinatoriskt penna-och-papper-spel",
+    "w1": "En schackvariant",
+    "w2": "Ett tyskt kortspel",
+    "w3": "En backgammon-variant",
+    "w4": "Ett Yatzy-tillägg",
+    "w5": "Ett GoProblem"
+  },
+  {
+    "q": "Vem skrev 'Winning Ways for Your Mathematical Plays'?",
+    "a": "Berlekamp, Conway och Guy",
+    "w1": "Knuth, Graham och Patashnik",
+    "w2": "Russell och Norvig",
+    "w3": "Shannon och Weaver",
+    "w4": "von Neumann och Morgenstern",
+    "w5": "Hardy och Wright"
+  },
+  {
+    "q": "Vem skapade surreella tal?",
+    "a": "John Conway",
+    "w1": "Donald Knuth",
+    "w2": "Alan Turing",
+    "w3": "Kurt Gödel",
+    "w4": "Paul Erdős",
+    "w5": "Claude Shannon"
+  },
+  {
+    "q": "Hur stor är chansen för royal flush (to cards)?",
+    "a": "Cirka 1 på 650 000",
+    "w1": "Cirka 1 på 50 000",
+    "w2": "Cirka 1 på 4 000",
+    "w3": "Cirka 1 på 3 000 000",
+    "w4": "Cirka 1 på 100 000",
+    "w5": "Cirka 1 på 2 000"
+  },
+  {
+    "q": "Ungefär hur stor är chansen för fyrtal i poker?",
+    "a": "Cirka 1 på 4 200",
+    "w1": "Cirka 1 på 600",
+    "w2": "Cirka 1 på 47",
+    "w3": "Cirka 1 på 12 000",
+    "w4": "Cirka 1 på 900",
+    "w5": "Cirka 1 på 2 500"
+  },
+  {
+    "q": "Ungefär hur stor är chansen för kåk i poker?",
+    "a": "Cirka 1 på 700",
+    "w1": "Cirka 1 på 100",
+    "w2": "Cirka 1 på 3 000",
+    "w3": "Cirka 1 på 37",
+    "w4": "Cirka 1 på 5 000",
+    "w5": "Cirka 1 på 250"
+  },
+  {
+    "q": "Vad är pot odds i poker?",
+    "a": "Förhållandet mellan pottens storlek och kostnaden att syna",
+    "w1": "Chansen att vinna med vinnande hand",
+    "w2": "Antal outs man har",
+    "w3": "Procentsats husets vinst",
+    "w4": "Odds för royal flush",
+    "w5": "Snittets pott per timme"
+  },
+  {
+    "q": "Vad är ICM i turneringspoker?",
+    "a": "Independent Chip Model – omvandlar marker till värde",
+    "w1": "International Card Manager",
+    "w2": "En bluffsstrategi",
+    "w3": "En korträkningsmetod",
+    "w4": "Ett odds-system",
+    "w5": "En satsningsstruktur"
+  },
+  {
+    "q": "Vad är en 'range' i poker?",
+    "a": "Motståndarens samling möjliga händer",
+    "w1": "Skillnaden mellan min och max satsning",
+    "w2": "Färgstege i same suit",
+    "w3": "En position vid bordet",
+    "w4": "Antal spelare i potten",
+    "w5": "Storleken på stora mörken"
+  },
+  {
+    "q": "Vad innebär GTO-poker?",
+    "a": "En balanserad spelteoretiskt optimal strategi",
+    "w1": "Att alltid satsa maximum",
+    "w2": "Att aldrig bluffa",
+    "w3": "Att bara spela premiumhänder",
+    "w4": "Att alltid syna flod",
+    "w5": "Att spela slumpmässigt"
+  },
+  {
+    "q": "Vad hette poker-AI:n som besegrade proffs 2017?",
+    "a": "Libratus",
+    "w1": "DeepStack",
+    "w2": "Claudico",
+    "w3": "Pluribus",
+    "w4": "Cepheus",
+    "w5": "Albert"
+  },
+  {
+    "q": "Vem ledde utvecklingen av Libratus?",
+    "a": "Tuomas Sandholm",
+    "w1": "Demis Hassabis",
+    "w2": "Michael Bowling",
+    "w3": "Noam Brown",
+    "w4": "David Silver",
+    "w5": "Murray Campbell"
+  },
+  {
+    "q": "Vilket poker-AI besegrade fem proffs 2019?",
+    "a": "Pluribus",
+    "w1": "Libratus",
+    "w2": "DeepStack",
+    "w3": "AlphaHoldem",
+    "w4": "Rakeback AI",
+    "w5": "Sonas"
+  },
+  {
+    "q": "Ungefär hur många möjliga bridge-händer finns per spelare?",
+    "a": "Cirka 635 miljarder",
+    "w1": "Cirka 6 miljarder",
+    "w2": "Cirka 52 biljoner",
+    "w3": "Cirka 600 miljoner",
+    "w4": "Cirka 2,5 miljoner",
+    "w5": "Cirka 133 miljoner"
+  },
+  {
+    "q": "Vad är en transfer-anka i bridge?",
+    "a": "Ett bud som överför kontraktet till partner",
+    "w1": "Ett straffbud",
+    "w2": "Ett bud som visar ess",
+    "w3": "Ett utfyllnadsbud",
+    "w4": "En dubbel",
+    "w5": "Ett valsbud"
+  },
+  {
+    "q": "Vad frågar Stayman-konventionen efter?",
+    "a": "En fyrfärgshöjd hos partner",
+    "w1": "Antal ess",
+    "w2": "Kungar i sidofärger",
+    "w3": "Utspelston",
+    "w4": "Singletton",
+    "w5": "Trumf längd"
+  },
+  {
+    "q": "Vad frågar Blackwood-konventionen efter?",
+    "a": "Antal ess",
+    "w1": "Antal kungar enbart",
+    "w2": "Trumförmåga",
+    "w3": "Sidofärgslängd",
+    "w4": "Spelstil",
+    "w5": "Utdelningens form"
+  },
+  {
+    "q": "Vad är Jacoby transfers i bridge?",
+    "a": "Bud som låter stark hand spela trumfhöjden",
+    "w1": "Straffbud på låga nivåer",
+    "w2": "Ess-frågebud",
+    "w3": "Slamuppsökning",
+    "w4": "Utspelsmarkering",
+    "w5": "Poängvisning"
+  },
+  {
+    "q": "Vad är bridgevärldsförbundet förkortat?",
+    "a": "WBF",
+    "w1": "FIDE-B",
+    "w2": "IBF",
+    "w3": "WBO",
+    "w4": "ACBL",
+    "w5": "EBU"
+  },
+  {
+    "q": "Vad är duplicate bridge?",
+    "a": "Samma utdelningar spelas vid flera bord och jämförs",
+    "w1": "Man spelar med två kortlekar",
+    "w2": "Partner byts varje giv",
+    "w3": "Kontrakten dubbleras automatiskt",
+    "w4": "Man spelar utan budgivning",
+    "w5": "Man spelar mot klockan"
+  },
+  {
+    "q": "Vilket år kom spelet Twilight Struggle ut?",
+    "a": "2005",
+    "w1": "2001",
+    "w2": "2008",
+    "w3": "2003",
+    "w4": "2010",
+    "w5": "1999"
+  }
+]

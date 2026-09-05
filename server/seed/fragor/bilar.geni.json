@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Vad anspelar namnet Citroën DS på i Frankrike?",
+    "a": "'Déesse' – gudinnan",
+    "w1": "'Désirée' – den önskade",
+    "w2": "'Démon' – demonen",
+    "w3": "'Dynastie' – dynastin",
+    "w4": "'Duo' – paret",
+    "w5": "'Divine' – den gudomliga"
+  },
+  {
+    "q": "Vilken motor satt i McLaren F1?",
+    "a": "BMW V12 på 6,1 liter",
+    "w1": "Honda V12",
+    "w2": "Mercedes V12",
+    "w3": "Lamborghini V12",
+    "w4": "Porsche flat 12:a",
+    "w5": "Toyota V12"
+  },
+  {
+    "q": "Vilket år lanserades NSU Ro 80 med wankelmotor?",
+    "a": "1967",
+    "w1": "1959",
+    "w2": "1963",
+    "w3": "1971",
+    "w4": "1974",
+    "w5": "1961"
+  },
+  {
+    "q": "Vilken är världens mest sålda bilmodell genom tiderna?",
+    "a": "Toyota Corolla",
+    "w1": "Volkswagen Golf",
+    "w2": "Volkswagen Typ 1 ('Bubblan')",
+    "w3": "Honda Civic",
+    "w4": "Ford Model T",
+    "w5": "Lada 2101"
+  },
+  {
+    "q": "Vad står AMG i Mercedes-AMG för?",
+    "a": "Aufrecht, Melcher och Großaspach",
+    "w1": "Auto Motor Grandprix",
+    "w2": "Affalterbach Motoren Gesellschaft",
+    "w3": "Auspuff Motor Getriebe",
+    "w4": "Augsburg Maschinenbau Gesellschaft",
+    "w5": "Adler Mercedes Motorsport GmbH"
+  },
+  {
+    "q": "Vilket land kommer elbilstillverkaren Rimac från?",
+    "a": "Kroatien",
+    "w1": "Slovenien",
+    "w2": "Tjeckien",
+    "w3": "Slovakien",
+    "w4": "Ungern",
+    "w5": "Österrike"
+  },
+  {
+    "q": "Vad kännetecknar desmodromisk ventilstyrning?",
+    "a": "Ventilerna öppnas och stängs mekaniskt, utan fjäder",
+    "w1": "Dubbla tändstift per cylinder",
+    "w2": "Variabel kompression efter last",
+    "w3": "Rotande ventiler istället för sitsar",
+    "w4": "Elmanövrerad turbovektorering",
+    "w5": "Ventiler som styrs av oljetryck"
+  },
+  {
+    "q": "Vilket stall tog den första F1-segern med turboladdad motor (Dijon 1979)?",
+    "a": "Renault",
+    "w1": "BMW",
+    "w2": "Ferrari",
+    "w3": "Honda",
+    "w4": "Porsche",
+    "w5": "TAG"
+  },
+  {
+    "q": "Vad innebär Ackermanns princip i bilars styrgeometri?",
+    "a": "Det inre hjulet svänger mer än det yttre i kurv",
+    "w1": "Bakhjulen styr åt motsatt håll",
+    "w2": "Styrutväxlingen blir snabbare vid höga farter",
+    "w3": "Camberjustering sker automatiskt vid in- och utlöp",
+    "w4": "Kraftstyrvätskan varierar med hjulvinkeln",
+    "w5": "Båda hjulen svangler exakt lika mycket"
+  },
+  {
+    "q": "Vilket år grundades Saab som flygplanstillverkare?",
+    "a": "1937",
+    "w1": "1927",
+    "w2": "1945",
+    "w3": "1911",
+    "w4": "1930",
+    "w5": "1947"
+  },
+  {
+    "q": "Vilken biltillverkare patenterade trepunktsbältet 1959 – men lät alla använda det gratis?",
+    "a": "Volvo",
+    "w1": "Saab",
+    "w2": "Mercedes-Benz",
+    "w3": "Ford",
+    "w4": "Renault",
+    "w5": "BMW"
+  },
+  {
+    "q": "Vad är 'låsningsfria bromsar' – ABS – ursprungligen utvecklat för?",
+    "a": "Flygplanslandställ",
+    "w1": "Tågbromsar",
+    "w2": "Tunga lastbilar",
+    "w3": "Formel 1-bilar",
+    "w4": "Traktorer",
+    "w5": "Stridsvagnar"
+  },
+  {
+    "q": "Hur är Bugatti Chirons motor konfigurerad?",
+    "a": "W16 med fyra turbo",
+    "w1": "V16 med dubbla turbo",
+    "w2": "V12 quad-turbo",
+    "w3": "W12 med tre turbo",
+    "w4": "V16 atmosferisk",
+    "w5": "W18 med två turbo"
+  },
+  {
+    "q": "Ungefär vilken vinkel har cylinderbankarna i en VR6-motor?",
+    "a": "15°",
+    "w1": "60°",
+    "w2": "90°",
+    "w3": "45°",
+    "w4": "180°",
+    "w5": "72°"
+  },
+  {
+    "q": "Ungefär hur många newtonmeter ger Koenigsegg Jesko som mest?",
+    "a": "Cirka 1 500",
+    "w1": "Cirka 1 000",
+    "w2": "Cirka 1 200",
+    "w3": "Cirka 1 800",
+    "w4": "Cirka 2 000",
+    "w5": "Cirka 800"
+  },
+  {
+    "q": "Vilken teoretisk toppfart har Koenigsegg Jesko Absolut (km/h)?",
+    "a": "Cirka 531",
+    "w1": "Cirka 447",
+    "w2": "Cirka 483",
+    "w3": "Cirka 500",
+    "w4": "Cirka 560",
+    "w5": "Cirka 420"
+  },
+  {
+    "q": "Ungefär hur många kilowatt har Rimac Nevera?",
+    "a": "Cirka 1 400 kW",
+    "w1": "Cirka 700 kW",
+    "w2": "Cirka 1 000 kW",
+    "w3": "Cirka 1 800 kW",
+    "w4": "Cirka 2 200 kW",
+    "w5": "Cirka 500 kW"
+  },
+  {
+    "q": "Hur många hästkrafter har Rimac Nevera?",
+    "a": "1 914",
+    "w1": "1 500",
+    "w2": "1 640",
+    "w3": "2 100",
+    "w4": "1 111",
+    "w5": "1 800"
+  },
+  {
+    "q": "Vad acceleration 0–100 km/h har Rimac Nevera (sekunder)?",
+    "a": "Cirka 1,85",
+    "w1": "Cirka 2,2",
+    "w2": "Cirka 1,55",
+    "w3": "Cirka 2,5",
+    "w4": "Cirka 1,97",
+    "w5": "Cirka 3,1"
+  },
+  {
+    "q": "Vem satte landsvägsrekordet 432 km/h 1938?",
+    "a": "Rudolf Caracciola",
+    "w1": "Bernd Rosemeyer",
+    "w2": "Hans Stuck",
+    "w3": "Tazio Nuvolari",
+    "w4": "Manfred von Brauchitsch",
+    "w5": "Louis Chiron"
+  },
+  {
+    "q": "Vilket år förbjöds turbomotorernas kvalmotorer i F1?",
+    "a": "1989",
+    "w1": "1987",
+    "w2": "1988",
+    "w3": "1990",
+    "w4": "1991",
+    "w5": "1986"
+  },
+  {
+    "q": "Ungefär hur mycket effekt hade BMW:s F1-kvalmotor 1986?",
+    "a": "Cirka 1 300–1 400 hk",
+    "w1": "Cirka 900 hk",
+    "w2": "Cirka 1 100 hk",
+    "w3": "Cirka 1 600 hk",
+    "w4": "Cirka 2 000 hk",
+    "w5": "Cirka 700 hk"
+  },
+  {
+    "q": "Vilket stall vann Le Mans med wankelmotor 1991?",
+    "a": "Mazda (787B)",
+    "w1": "Nissan",
+    "w2": "Toyota",
+    "w3": "Porsche",
+    "w4": "Jaguar",
+    "w5": "Peugeot"
+  },
+  {
+    "q": "Hur många Le Mans-segrar har Porsche totalt?",
+    "a": "19",
+    "w1": "13",
+    "w2": "16",
+    "w3": "17",
+    "w4": "21",
+    "w5": "15"
+  },
+  {
+    "q": "Vilket år vann Saab märkes-VM i rally?",
+    "a": "1979",
+    "w1": "1976",
+    "w2": "1981",
+    "w3": "1973",
+    "w4": "1984",
+    "w5": "1977"
+  },
+  {
+    "q": "Hur många Tucker 48 byggdes totalt?",
+    "a": "51",
+    "w1": "48",
+    "w2": "100",
+    "w3": "150",
+    "w4": "37",
+    "w5": "75"
+  },
+  {
+    "q": "Vilket år lanserades Citroën 2CV?",
+    "a": "1948",
+    "w1": "1936",
+    "w2": "1952",
+    "w3": "1944",
+    "w4": "1955",
+    "w5": "1949"
+  },
+  {
+    "q": "Ungefär hur många Citroën 2CV byggdes totalt?",
+    "a": "Cirka 3,9 miljoner",
+    "w1": "Cirka 1,2 miljoner",
+    "w2": "Cirka 2,1 miljoner",
+    "w3": "Cirka 5,2 miljoner",
+    "w4": "Cirka 800 000",
+    "w5": "Cirka 4,7 miljoner"
+  },
+  {
+    "q": "Hur många kubikcentimeter hade den största Mini Cooper S-motorn?",
+    "a": "1 275",
+    "w1": "998",
+    "w2": "1 071",
+    "w3": "1 148",
+    "w4": "848",
+    "w5": "1 380"
+  },
+  {
+    "q": "Vad hette Lamborghinis första bil från 1963?",
+    "a": "350 GT",
+    "w1": "400 GT",
+    "w2": "Miura",
+    "w3": "Islero",
+    "w4": "Espada",
+    "w5": "Jarama"
+  },
+  {
+    "q": "Var satt motorn i Lamborghini 350 GT?",
+    "a": "Framför, längst bak i en V12",
+    "w1": "Mittmonterad V12",
+    "w2": "Bakmonterad flat-6",
+    "w3": "Frammonterad V8",
+    "w4": "Mittmonterad V8",
+    "w5": "Frammonterad rak sexa"
+  },
+  {
+    "q": "Ungefär hur många Lamborghini Miura byggdes?",
+    "a": "Cirka 764",
+    "w1": "Cirka 400",
+    "w2": "Cirka 1 200",
+    "w3": "Cirka 250",
+    "w4": "Cirka 950",
+    "w5": "Cirka 1 500"
+  },
+  {
+    "q": "Vilket år presenterades Lamborghini Countach LP400?",
+    "a": "1974",
+    "w1": "1971",
+    "w2": "1977",
+    "w3": "1972",
+    "w4": "1979",
+    "w5": "1969"
+  },
+  {
+    "q": "Vad hette Ferraris första serieproducerade bil med mittmotor?",
+    "a": "Dino 206 GT",
+    "w1": "308 GTB",
+    "w2": "Berlinetta Boxer",
+    "w3": "Testarossa",
+    "w4": "512 BBi",
+    "w5": "Mondial"
+  },
+  {
+    "q": "Vad hette Ferraris första mittmotor-V12?",
+    "a": "365 GT4 BB",
+    "w1": "250 LM",
+    "w2": "288 GTO",
+    "w3": "F40",
+    "w4": "512 TR",
+    "w5": "308 GT4"
+  },
+  {
+    "q": "Ungefär hur många Ferrari Enzo byggdes?",
+    "a": "Cirka 400",
+    "w1": "Cirka 250",
+    "w2": "Cirka 300",
+    "w3": "Cirka 500",
+    "w4": "Cirka 650",
+    "w5": "Cirka 1 000"
+  },
+  {
+    "q": "Ungefär vad kostade en McLaren F1 ny 1994 (dollar)?",
+    "a": "Cirka 800 000",
+    "w1": "Cirka 250 000",
+    "w2": "Cirka 400 000",
+    "w3": "Cirka 1,2 miljoner",
+    "w4": "Cirka 2 miljoner",
+    "w5": "Cirka 550 000"
+  },
+  {
+    "q": "Hur många McLaren F1 byggdes totalt (alla versioner)?",
+    "a": "106",
+    "w1": "64",
+    "w2": "86",
+    "w3": "128",
+    "w4": "100",
+    "w5": "152"
+  },
+  {
+    "q": "Vilken växellåda har McLaren F1?",
+    "a": "Manuell sexväxlad",
+    "w1": "Automat sjuväxlad",
+    "w2": "Manuell femväxlad",
+    "w3": "Halvautomat sexväxlad",
+    "w4": "Manuell sexväxlad med reverse lock-out",
+    "w5": "Automat sexväxlad"
+  },
+  {
+    "q": "Vilken motor har Gordon Murray T.50?",
+    "a": "Cosworth V12 på 4,0 liter",
+    "w1": "BMW V12 som i F1",
+    "w2": "Ferrari V12",
+    "w3": "Judd V10",
+    "w4": "Cosworth V8",
+    "w5": "Radjärn sexa med kompressor"
+  },
+  {
+    "q": "Ungefär hur högt varv har Gordon Murray T.50 som max (rpm)?",
+    "a": "Cirka 12 100",
+    "w1": "Cirka 9 500",
+    "w2": "Cirka 10 500",
+    "w3": "Cirka 11 000",
+    "w4": "Cirka 8 000",
+    "w5": "Cirka 13 500"
+  },
+  {
+    "q": "Vad var speciellt med Brabham BT46B 'fan car'?",
+    "a": "En fläkt bak sugande bilen ner mot banan",
+    "w1": "Den hade flygplansvingar bak",
+    "w2": "Den hade sex hjul",
+    "w3": "Den hade dubbla motorer",
+    "w4": "Den hade dolda faner i sidorna",
+    "w5": "Den kylldes med isblock"
+  },
+  {
+    "q": "Vilket år vann Brabham-fan-bilen sitt enda lopp?",
+    "a": "1978",
+    "w1": "1976",
+    "w2": "1977",
+    "w3": "1979",
+    "w4": "1980",
+    "w5": "1975"
+  },
+  {
+    "q": "Vilken bilrevolutionerade Lotus 78 med?",
+    "a": "Ground effect-wing-bilar",
+    "w1": "Turbo-motor",
+    "w2": "Kolfiberchassi",
+    "w3": "Sexväxlade lådan",
+    "w4": "Aktiv fjädring",
+    "w5": "Dubbeldäck"
+  },
+  {
+    "q": "Vilket år debuterade Jordan i Formel 1?",
+    "a": "1991",
+    "w1": "1989",
+    "w2": "1990",
+    "w3": "1993",
+    "w4": "1992",
+    "w5": "1988"
+  },
+  {
+    "q": "Vem tog Jordans första seger i Spa 1998?",
+    "a": "Damon Hill",
+    "w1": "Ralf Schumacher",
+    "w2": "Heinz-Harald Frentzen",
+    "w3": "Giancarlo Fisichella",
+    "w4": "Rubens Barrichello",
+    "w5": "Eddie Irvine"
+  },
+  {
+    "q": "Vilket år tog Stewart Grand Prix sin enda seger?",
+    "a": "1999",
+    "w1": "1997",
+    "w2": "1998",
+    "w3": "2000",
+    "w4": "2001",
+    "w5": "1996"
+  },
+  {
+    "q": "På vilken bana hölls Sveriges Formel 1-lopp?",
+    "a": "Anderstorp (Scandinavian Raceway)",
+    "w1": "Mantorpark",
+    "w2": "Karlskoga",
+    "w3": "Falkenberg",
+    "w4": "Gotland Ring",
+    "w5": "Knutstorp"
+  },
+  {
+    "q": "Vilket år hölls det sista svenska F1-loppet?",
+    "a": "1978",
+    "w1": "1975",
+    "w2": "1976",
+    "w3": "1977",
+    "w4": "1980",
+    "w5": "1974"
+  },
+  {
+    "q": "Vem vann Sveriges F1-lopp 1978?",
+    "a": "Niki Lauda",
+    "w1": "Mario Andretti",
+    "w2": "Ronnie Peterson",
+    "w3": "James Hunt",
+    "w4": "Carlos Reutemann",
+    "w5": "Jody Scheckter"
+  },
+  {
+    "q": "Vilket företag startade Volvo som dotterbolag?",
+    "a": "SKF (Svenska Kullagerfabriken)",
+    "w1": "SAAB",
+    "w2": "Atlas Copco",
+    "w3": "Electrolux",
+    "w4": "AGA",
+    "w5": "Scania-Vabis"
+  },
+  {
+    "q": "Vilken motor hade Volvos första bil ÖV 4?",
+    "a": "Fyrcylindrig radmotor",
+    "w1": "Tvåcylindrig boxermotor",
+    "w2": "Femcylindrig dieselmotor",
+    "w3": "Sexcylindrig radmotor",
+    "w4": "Tvåtakts trecylindrig",
+    "w5": "V8:a"
+  },
+  {
+    "q": "Hur många bilar byggde Volvo under sitt första år 1927?",
+    "a": "297",
+    "w1": "1 000",
+    "w2": "50",
+    "w3": "850",
+    "w4": "179",
+    "w5": "520"
+  },
+  {
+    "q": "Vilket år presenterades Volvo PV444?",
+    "a": "1944",
+    "w1": "1938",
+    "w2": "1947",
+    "w3": "1950",
+    "w4": "1941",
+    "w5": "1946"
+  },
+  {
+    "q": "Vad är Volvo Amazons modellbeteckning?",
+    "a": "P120",
+    "w1": "P1800",
+    "w2": "P444",
+    "w3": "P210",
+    "w4": "P140",
+    "w5": "P850"
+  },
+  {
+    "q": "Vad hette Volvos miljökonceptbil från 1992?",
+    "a": "ECC",
+    "w1": "EVA",
+    "w2": "SCC",
+    "w3": "YCC",
+    "w4": "VCC",
+    "w5": "ACC"
+  },
+  {
+    "q": "Ungefär hur många hästkrafter har Koenigsegg Gemera sammanlagt?",
+    "a": "Cirka 1 700",
+    "w1": "Cirka 1 000",
+    "w2": "Cirka 1 400",
+    "w3": "Cirka 2 300",
+    "w4": "Cirka 800",
+    "w5": "Cirka 2 000"
+  },
+  {
+    "q": "Hur drivs Koenigsegg Gemera?",
+    "a": "Tre elmotorer och en trecylindrig bensinmotor",
+    "w1": "Enbart elmotorer",
+    "w2": "V8 med tre elmotorer",
+    "w3": "V8 med hybrid",
+    "w4": "Två elmotorer och en V6",
+    "w5": "Bränslecell med elmotor"
+  },
+  {
+    "q": "Hur många cylindrar hade Audi Sport quattro S1:s Group B-motor?",
+    "a": "Fem",
+    "w1": "Fyra",
+    "w2": "Sex",
+    "w3": "Åtta",
+    "w4": "Tolv",
+    "w5": "Tio"
+  },
+  {
+    "q": "Vad kallas Koenigseggs SIGNATUR-dörrar som svänger ut och upp?",
+    "a": "Dihedral-synchrome-hinge",
+    "w1": "Suicide doors",
+    "w2": "Gullwing",
+    "w3": "Scissor",
+    "w4": "Butterfly",
+    "w5": "Swan doors"
+  }
+]

@@ -238,5 +238,125 @@
     "a": "Jazz",
     "w1": "Opera",
     "w2": "Reggae"
+  },
+  {
+    "q": "Vad kallas balettens slagsteg med fötterna i luften?",
+    "a": "Batterie",
+    "w1": "Brise",
+    "w2": "Cabriole"
+  },
+  {
+    "q": "Vad är en brisé?",
+    "a": "Ett lågt hopp med benen slår ihop",
+    "w1": "En snurrning på ett ben",
+    "w2": "En bugning"
+  },
+  {
+    "q": "Vad är en cabriole?",
+    "a": "Ett hopp där det undre benet slås mot det övre",
+    "w1": "En parvis lyft",
+    "w2": "Ett sidosteg"
+  },
+  {
+    "q": "Vad är en tour en l'air?",
+    "a": "En hel snurrning i luften",
+    "w1": "En snurrning sittande",
+    "w2": "Ett språng framåt"
+  },
+  {
+    "q": "Vem komponerade baletten 'Sylvia'?",
+    "a": "Léo Delibes",
+    "w1": "Ludwig Minkus",
+    "w2": "César Pugni"
+  },
+  {
+    "q": "Vem komponerade 'La Bayadère'?",
+    "a": "Ludwig Minkus",
+    "w1": "Léo Delibes",
+    "w2": "Riccardo Drigo"
+  },
+  {
+    "q": "Vem koreograferade 'Giselle' ursprungligen?",
+    "a": "Jean Coralli och Jules Perrot",
+    "w1": "Marius Petipa",
+    "w2": "August Bournonville"
+  },
+  {
+    "q": "I vilken balett debuterade pointeskor med Marie Taglioni?",
+    "a": "La Sylphide",
+    "w1": "Giselle",
+    "w2": "Napoli"
+  },
+  {
+    "q": "Vem komponerade den danska 'Sylfiden'?",
+    "a": "Herman Severin Løvenskiold",
+    "w1": "Jean Madeleine Schneitzhöffer",
+    "w2": "Niels Gade"
+  },
+  {
+    "q": "Vilken balett är Bournonvilles mest kända?",
+    "a": "Napoli",
+    "w1": "Sylfiden",
+    "w2": "Kermessen i Brügge"
+  },
+  {
+    "q": "Vilket verk av Jiří Kylián från 1991 är mest känt?",
+    "a": "Petite Mort",
+    "w1": "Symphony of Psalms",
+    "w2": "Svansjön"
+  },
+  {
+    "q": "Vilken är Tjajkovskijs första balett?",
+    "a": "Svansjön",
+    "w1": "Nötknäpparen",
+    "w2": "Törnrosa"
+  },
+  {
+    "q": "Vilket är William Forsythes genombrottsverk?",
+    "a": "In the Middle, Somewhat Elevated",
+    "w1": "Artifact",
+    "w2": "One Flat Thing"
+  },
+  {
+    "q": "Vad står NDT för?",
+    "a": "Nederlands Dans Theater",
+    "w1": "Nordic Dance Theatre",
+    "w2": "National Dans Teater"
+  },
+  {
+    "q": "Vem grundade Batsheva Dance Company tillsammans med sponsorn?",
+    "a": "Martha Graham",
+    "w1": "Ohad Naharin",
+    "w2": "Paul Taylor"
+  },
+  {
+    "q": "Vilket land kommer Batsheva Dance Company ifrån?",
+    "a": "Israel",
+    "w1": "Nederländerna",
+    "w2": "USA"
+  },
+  {
+    "q": "Vad är speciellt med Mats Eks 'Giselle'?",
+    "a": "Den utspelar sig i nutid",
+    "w1": "Den är helt stum",
+    "w2": "Den dansas barfota enbart"
+  },
+  {
+    "q": "Vem koreograferade den berömda baletten 'Carmen'?",
+    "a": "Roland Petit",
+    "w1": "Maurice Béjart",
+    "w2": "Kenneth MacMillan"
+  },
+  {
+    "q": "Vem gjorde 'Romeo och Julia' för Bolsjoj?",
+    "a": "Jurij Grigorovitj",
+    "w1": "Jurij Burlaka",
+    "w2": "Alexej Ratmanskyj"
+  },
+  {
+    "q": "I vilken stad hoppade Nurejev av till väst 1961?",
+    "a": "Paris",
+    "w1": "London",
+    "w2": "New York"
   }
 ]

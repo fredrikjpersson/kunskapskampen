@@ -238,5 +238,125 @@
     "a": "Melodifestivalen",
     "w1": "Sångkampen",
     "w2": "Musikjakten"
+  },
+  {
+    "q": "Vad heter den stora trumman i en symfoniorkester?",
+    "a": "Pukan",
+    "w1": "Virkverket",
+    "w2": "Tamburinen"
+  },
+  {
+    "q": "Vad heter det lilla instrumentet man spelar med munnen?",
+    "a": "Munspel",
+    "w1": "Mungigan",
+    "w2": "Muntrumman"
+  },
+  {
+    "q": "Vad kallas det när alla sjunger tillsammans?",
+    "a": "Allsång",
+    "w1": "Solo",
+    "w2": "Ekolod"
+  },
+  {
+    "q": "Hur många medlemmar har en duo?",
+    "a": "Två",
+    "w1": "Tre",
+    "w2": "Fyra"
+  },
+  {
+    "q": "Vad kallas en grupp med fyra musiker?",
+    "a": "Kvartett",
+    "w1": "Kvintett",
+    "w2": "Trio"
+  },
+  {
+    "q": "Vad heter instrumentet man vevar på och som spelar melodi?",
+    "a": "Vevlira",
+    "w1": "Harpa",
+    "w2": "Dragspel"
+  },
+  {
+    "q": "Vad kallas den som står främst och sjunger i ett band?",
+    "a": "Sångaren",
+    "w1": "Dirigenten",
+    "w2": "Publiken"
+  },
+  {
+    "q": "Vilket ord betyder musikgrupp på engelska?",
+    "a": "Band",
+    "w1": "Song",
+    "w2": "Tune"
+  },
+  {
+    "q": "Vad kallas en person som dirigerar en kör?",
+    "a": "Kördirigent",
+    "w1": "Kapellmästare",
+    "w2": "Vocal coach"
+  },
+  {
+    "q": "Hur många medlemmar har en trio?",
+    "a": "Tre",
+    "w1": "Två",
+    "w2": "Fem"
+  },
+  {
+    "q": "Vad kallas en melodi som fastnar i huvudet?",
+    "a": "Öronmask",
+    "w1": "Hjärnslure",
+    "w2": "Tonsjuk"
+  },
+  {
+    "q": "Vilket instrument liknar en jättestor fiel man spelar stående?",
+    "a": "Kontrabas",
+    "w1": "Cello",
+    "w2": "Harpa"
+  },
+  {
+    "q": "Vad kallas en rolig sång man sjunger till nubbe?",
+    "a": "Snapsvisa",
+    "w1": "Dryckesmelodi",
+    "w2": "Bordsvisa"
+  },
+  {
+    "q": "Vad heter den som spelar keyboard i ett band?",
+    "a": "Keyboardist",
+    "w1": "Notist",
+    "w2": "Pian stroll"
+  },
+  {
+    "q": "Vilken sång sjungs ofta vid bröllop när bruden går in?",
+    "a": "Brudmarsch",
+    "w1": "Dödsmarsch",
+    "w2": "Krigsmarsch"
+  },
+  {
+    "q": "Vilken sång sjunger man till minne av ett helgon i december?",
+    "a": "Sankta Lucia",
+    "w1": "Midnattsmässa",
+    "w2": "Staffansvisa"
+  },
+  {
+    "q": "Vad kallas sångerna man sjunger till jul?",
+    "a": "Julsånger",
+    "w1": "Sommarpsalmer",
+    "w2": "Vintervisor"
+  },
+  {
+    "q": "Vad heter papperet med noter som musiker läser ifrån?",
+    "a": "Notblad",
+    "w1": "Notpapper",
+    "w2": "Textblad"
+  },
+  {
+    "q": "Vad kallas det att öva inför en konsert?",
+    "a": "Repetition",
+    "w1": "Premiär",
+    "w2": "Turné"
+  },
+  {
+    "q": "Vad heter pinnen som en dirigent håller i handen?",
+    "a": "Taktpinne",
+    "w1": "Notpinne",
+    "w2": "Slagpinnar"
   }
 ]

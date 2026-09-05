@@ -238,5 +238,125 @@
     "a": "Musikfil",
     "w1": "Bildfil",
     "w2": "Textfil"
+  },
+  {
+    "q": "Vad betyder förkortningen LAN?",
+    "a": "Local Area Network",
+    "w1": "Large Access Node",
+    "w2": "Linked Area Network"
+  },
+  {
+    "q": "Vad betyder förkortningen PDF?",
+    "a": "Portable Document Format",
+    "w1": "Printed Document File",
+    "w2": "Public Data File"
+  },
+  {
+    "q": "Vad betyder förkortningen GPS?",
+    "a": "Global Positioning System",
+    "w1": "General Point Service",
+    "w2": "Global Path Satellite"
+  },
+  {
+    "q": "Vad betyder förkortningen LTE inom mobiltelefoni?",
+    "a": "Long Term Evolution",
+    "w1": "Low Transmission Energy",
+    "w2": "Local Telecom Exchange"
+  },
+  {
+    "q": "Vad betyder förkortningen SMS?",
+    "a": "Short Message Service",
+    "w1": "Simple Mail System",
+    "w2": "Send Message Signal"
+  },
+  {
+    "q": "Vad heter Apples operativsystem för datorer?",
+    "a": "macOS",
+    "w1": "iOS",
+    "w2": "Windows"
+  },
+  {
+    "q": "Vilket programmeringsspråk är uppkallat efter en pärla?",
+    "a": "Perl",
+    "w1": "Ruby",
+    "w2": "Python"
+  },
+  {
+    "q": "Vad står S:et i HTTPS för?",
+    "a": "Secure",
+    "w1": "Server",
+    "w2": "Standard"
+  },
+  {
+    "q": "Vilken organisation driver webbstandarder som HTML5?",
+    "a": "W3C",
+    "w1": "ISOC",
+    "w2": "IEEE"
+  },
+  {
+    "q": "Vad betyder förkortningen FTP?",
+    "a": "File Transfer Protocol",
+    "w1": "Fast Transfer Process",
+    "w2": "File Transport Program"
+  },
+  {
+    "q": "Vad innebär en brute force-attack?",
+    "a": "Att systematiskt testa alla möjliga lösenord",
+    "w1": "Att lura användare att klicka på länkar",
+    "w2": "Att översvämma en server med trafik"
+  },
+  {
+    "q": "Vad innebär tvåfaktorsautentisering?",
+    "a": "Att logga in med två oberoende metoder",
+    "w1": "Att ha två lösenord",
+    "w2": "Att logga in från två enheter"
+  },
+  {
+    "q": "Vilket JavaScript-ramverk kommer från Facebook?",
+    "a": "React",
+    "w1": "Angular",
+    "w2": "Vue"
+  },
+  {
+    "q": "Vad betyder förkortningen JDK?",
+    "a": "Java Development Kit",
+    "w1": "Java Data Kit",
+    "w2": "JavaScript Deployment Kit"
+  },
+  {
+    "q": "Hur många bitar har en IPv4-adress?",
+    "a": "32",
+    "w1": "64",
+    "w2": "128"
+  },
+  {
+    "q": "Vad heter den svenska medgrundaren av Spotify?",
+    "a": "Daniel Ek",
+    "w1": "Niklas Zennström",
+    "w2": "Boris Huldén"
+  },
+  {
+    "q": "Vilken typ av fil är en .xlsx-fil?",
+    "a": "Excel-kalkylblad",
+    "w1": "Word-dokument",
+    "w2": "Bildfil"
+  },
+  {
+    "q": "Vad gör tangentkombinationen Ctrl+Z?",
+    "a": "Ångrar senaste åtgärden",
+    "w1": "Kopierar",
+    "w2": "Sparar"
+  },
+  {
+    "q": "Vad betyder förkortningen BIOS-datorstartens POST?",
+    "a": "Power-On Self Test",
+    "w1": "Pre-Operating System Transfer",
+    "w2": "Primary Output System Test"
+  },
+  {
+    "q": "Vilken tjänst låter dig lagra filer på internet?",
+    "a": "Molnlagring",
+    "w1": "Brandvägg",
+    "w2": "Router"
   }
 ]

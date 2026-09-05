@@ -1,0 +1,542 @@
+[
+  {
+    "q": "Vad betyder den franska baletttermen 'chassé' ordagrant?",
+    "a": "Att jaga / följa efter",
+    "w1": "Att hoppa",
+    "w2": "Att vända",
+    "w3": "Att böja",
+    "w4": "Att sträcka",
+    "w5": "Att lyfta"
+  },
+  {
+    "q": "Vem koreograferade den berömda 1895-versionen av 'Svansjön' tillsammans med Lev Ivanov?",
+    "a": "Marius Petipa",
+    "w1": "Jules Perrot",
+    "w2": "August Bournonville",
+    "w3": "Michel Fokine",
+    "w4": "Sergei Diaghilev",
+    "w5": "Vaclav Nijinsky"
+  },
+  {
+    "q": "Från vilken region kommer flamenco?",
+    "a": "Andalusien",
+    "w1": "Katalonien",
+    "w2": "Galicien",
+    "w3": "Baskien",
+    "w4": "Kastilien",
+    "w5": "Aragonien"
+  },
+  {
+    "q": "På vilken count dansar 'New York style'-salsa ('on 2')?",
+    "a": "2",
+    "w1": "1",
+    "w2": "3",
+    "w3": "4",
+    "w4": "6",
+    "w5": "8"
+  },
+  {
+    "q": "Vad kallas omfamningen – den tätta hållningen – i argentinsk tango?",
+    "a": "Abrazo",
+    "w1": "Adorno",
+    "w2": "Salida",
+    "w3": "Giro",
+    "w4": "Ocho",
+    "w5": "Boleo"
+  },
+  {
+    "q": "Från vilket område kommer polkan?",
+    "a": "Böhmen",
+    "w1": "Polen",
+    "w2": "Bayern",
+    "w3": "Österrike",
+    "w4": "Ungern",
+    "w5": "Slovakien"
+  },
+  {
+    "q": "Vad är den högsta titeln en ballerina kan erhålla?",
+    "a": "Prima ballerina assoluta",
+    "w1": "Prima ballerina",
+    "w2": "Étoile",
+    "w3": "Première danseuse",
+    "w4": "Prima danseuse",
+    "w5": "Première danseuse étoile"
+  },
+  {
+    "q": "Vem grundade den berömda Tanztheater-scenen i Wuppertal?",
+    "a": "Pina Bausch",
+    "w1": "William Forsythe",
+    "w2": "Mats Ek",
+    "w3": "Jiří Kylián",
+    "w4": "Cunningham",
+    "w5": "Kurt Jooss"
+  },
+  {
+    "q": "Från vilket land kommer dansen kizomba?",
+    "a": "Angola",
+    "w1": "Kap Verde",
+    "w2": "Moçambique",
+    "w3": "Brasilien",
+    "w4": "Kuba",
+    "w5": "Guinea-Bissau"
+  },
+  {
+    "q": "Vilken av de internationella latindanserna har långsammast tempo?",
+    "a": "Rumba",
+    "w1": "Cha-cha-cha",
+    "w2": "Samba",
+    "w3": "Jive",
+    "w4": "Paso doble",
+    "w5": "East Coast Swing"
+  },
+  {
+    "q": "Vad betyder baletttermen 'ballon'?",
+    "a": "Den svävande lättheten i hopp – att hänga i luften",
+    "w1": "En typ av pirouett med utfällt ben",
+    "w2": "Kjolens plissering vid piruetter",
+    "w3": "En sidospark i låg höjd",
+    "w4": "Att dansa på halvtå",
+    "w5": "En lyft med dubbel rotation"
+  },
+  {
+    "q": "I 'Svansjön' – hur många svanar ingår i den berömda danse des petits cygnes?",
+    "a": "4",
+    "w1": "2",
+    "w2": "3",
+    "w3": "6",
+    "w4": "8",
+    "w5": "5"
+  },
+  {
+    "q": "Vilket år hade 'La Sylphide' premiär?",
+    "a": "1832",
+    "w1": "1841",
+    "w2": "1830",
+    "w3": "1848",
+    "w4": "1828",
+    "w5": "1836"
+  },
+  {
+    "q": "Vilket år hade 'Giselle' premiär?",
+    "a": "1841",
+    "w1": "1832",
+    "w2": "1848",
+    "w3": "1853",
+    "w4": "1836",
+    "w5": "1844"
+  },
+  {
+    "q": "Vilket år hade 'Coppélia' premiär?",
+    "a": "1870",
+    "w1": "1860",
+    "w2": "1880",
+    "w3": "1856",
+    "w4": "1875",
+    "w5": "1865"
+  },
+  {
+    "q": "Vilket år hade 'Nötknäpparen' premiär?",
+    "a": "1892",
+    "w1": "1877",
+    "w2": "1895",
+    "w3": "1890",
+    "w4": "1900",
+    "w5": "1885"
+  },
+  {
+    "q": "Vilket år hade 'Petrusjka' premiär?",
+    "a": "1911",
+    "w1": "1910",
+    "w2": "1913",
+    "w3": "1909",
+    "w4": "1915",
+    "w5": "1912"
+  },
+  {
+    "q": "Vilket år hade 'Eldfågeln' premiär?",
+    "a": "1910",
+    "w1": "1911",
+    "w2": "1913",
+    "w3": "1909",
+    "w4": "1912",
+    "w5": "1908"
+  },
+  {
+    "q": "Vilket år dog Sergej Djagilev?",
+    "a": "1929",
+    "w1": "1925",
+    "w2": "1933",
+    "w3": "1927",
+    "w4": "1931",
+    "w5": "1935"
+  },
+  {
+    "q": "Vilket år grundades Ballets Russes?",
+    "a": "1909",
+    "w1": "1911",
+    "w2": "1907",
+    "w3": "1913",
+    "w4": "1905",
+    "w5": "1910"
+  },
+  {
+    "q": "I vilken stad grundades Ballets Russes?",
+    "a": "Paris",
+    "w1": "Sankt Petersburg",
+    "w2": "Monte Carlo",
+    "w3": "London",
+    "w4": "Moskva",
+    "w5": "Venedig"
+  },
+  {
+    "q": "Vilken balett var Nijinskijs koreografiska debut?",
+    "a": "En fauns eftermiddag",
+    "w1": "Våroffer",
+    "w2": "Jeux",
+    "w3": "Tillfälle",
+    "w4": "Petrusjka",
+    "w5": "Les Noces"
+  },
+  {
+    "q": "Vilken Nijinskij-balett ansågs skandalös för sin erotik?",
+    "a": "En fauns eftermiddag",
+    "w1": "Petrusjka",
+    "w2": "Jeux",
+    "w3": "Våroffer",
+    "w4": "Les Sylphides",
+    "w5": "Carnaval"
+  },
+  {
+    "q": "Vad hette Nijinskijs syster, också koreograf?",
+    "a": "Bronislava Nijinska",
+    "w1": "Tamara Karsavina",
+    "w2": "Olga Spessivtseva",
+    "w3": "Ida Rubinstein",
+    "w4": "Lydia Lopokova",
+    "w5": "Anna Pavlova"
+  },
+  {
+    "q": "Vilket år hade Nijinskas 'Les Noces' premiär?",
+    "a": "1923",
+    "w1": "1921",
+    "w2": "1925",
+    "w3": "1919",
+    "w4": "1927",
+    "w5": "1913"
+  },
+  {
+    "q": "Vem komponerade 'Les Noces'?",
+    "a": "Igor Stravinskij",
+    "w1": "Sergej Prokofjev",
+    "w2": "Maurice Ravel",
+    "w3": "Darius Milhaud",
+    "w4": "Francis Poulenc",
+    "w5": "Erik Satie"
+  },
+  {
+    "q": "Vem grundade New York City Ballet tillsammans med Balanchine?",
+    "a": "Lincoln Kirstein",
+    "w1": "Boris Kochno",
+    "w2": "Edward Warburg",
+    "w3": "John Martin",
+    "w4": "Sol Hurok",
+    "w5": "Nancy Reynolds"
+  },
+  {
+    "q": "Vilket år grundades New York City Ballet?",
+    "a": "1948",
+    "w1": "1934",
+    "w2": "1952",
+    "w3": "1944",
+    "w4": "1950",
+    "w5": "1939"
+  },
+  {
+    "q": "Vilken var Balanchines första stora amerikanska balett?",
+    "a": "Serenade",
+    "w1": "Apollo",
+    "w2": "Prodigal Son",
+    "w3": "Symphony in C",
+    "w4": "Concerto Barocco",
+    "w5": "Theme and Variations"
+  },
+  {
+    "q": "Vad kännetecknar Balanchines stil?",
+    "a": "Dans utan handling – plotless ballet",
+    "w1": "Långa berättelsebaler",
+    "w2": "Endast folkdansinslag",
+    "w3": "Pantomim i varje akt",
+    "w4": "Talande körsång",
+    "w5": "Improviserad ordlös sång"
+  },
+  {
+    "q": "Vem var Balanchines berömda musa på NYCB?",
+    "a": "Suzanne Farrell",
+    "w1": "Maria Tallchief",
+    "w2": "Allegra Kent",
+    "w3": "Tanaquil Le Clercq",
+    "w4": "Diana Adams",
+    "w5": "Gelsey Kirkland"
+  },
+  {
+    "q": "Vem koreograferade 'West Side Story'?",
+    "a": "Jerome Robbins",
+    "w1": "George Balanchine",
+    "w2": "Bob Fosse",
+    "w3": "Agnes de Mille",
+    "w4": "Michael Kidd",
+    "w5": "Peter Gennaro"
+  },
+  {
+    "q": "Vilket år dog George Balanchine?",
+    "a": "1983",
+    "w1": "1979",
+    "w2": "1987",
+    "w3": "1981",
+    "w4": "1985",
+    "w5": "1990"
+  },
+  {
+    "q": "Vilket år dog Martha Graham?",
+    "a": "1991",
+    "w1": "1989",
+    "w2": "1993",
+    "w3": "1987",
+    "w4": "1995",
+    "w5": "1985"
+  },
+  {
+    "q": "Vilket år skapade Graham 'Appalachian Spring'?",
+    "a": "1944",
+    "w1": "1940",
+    "w2": "1948",
+    "w3": "1936",
+    "w4": "1950",
+    "w5": "1942"
+  },
+  {
+    "q": "Vem komponerade 'Appalachian Spring'?",
+    "a": "Aaron Copland",
+    "w1": "Samuel Barber",
+    "w2": "Leonard Bernstein",
+    "w3": "William Schuman",
+    "w4": "Virgil Thomson",
+    "w5": "Marc Blitzstein"
+  },
+  {
+    "q": "Vad är kärnan i Grahams teknik?",
+    "a": "Contraction and release",
+    "w1": "Fall and recovery",
+    "w2": "Push and pull",
+    "w3": "Suspension and drop",
+    "w4": "Spiral and curve",
+    "w5": "Bounce and swing"
+  },
+  {
+    "q": "Vem var Merce Cunninghams konstnärliga partner och kompositör?",
+    "a": "John Cage",
+    "w1": "David Tudor",
+    "w2": "Morton Feldman",
+    "w3": "Earle Brown",
+    "w4": "Christian Wolff",
+    "w5": "Pierre Boulez"
+  },
+  {
+    "q": "Vilket år dog Merce Cunningham?",
+    "a": "2009",
+    "w1": "2005",
+    "w2": "2011",
+    "w3": "2007",
+    "w4": "2013",
+    "w5": "2003"
+  },
+  {
+    "q": "Vad kallas Cunninghams slumpbaserade metod?",
+    "a": "Chance choreography",
+    "w1": "Task movement",
+    "w2": "Score movement",
+    "w3": "Random walk",
+    "w4": "Dice dance",
+    "w5": "Structure chance"
+  },
+  {
+    "q": "Vilken koreograf gjorde 'Esplanade' (1975)?",
+    "a": "Paul Taylor",
+    "w1": "José Limón",
+    "w2": "Alwin Nikolais",
+    "w3": "Erick Hawkins",
+    "w4": "Mark Morris",
+    "w5": "Laura Dean"
+  },
+  {
+    "q": "Vilken teknik är José Limón känd för?",
+    "a": "Fall and recovery",
+    "w1": "Contraction and release",
+    "w2": "Release only",
+    "w3": "Bounce sequence",
+    "w4": "Suspension held",
+    "w5": "Spiral reach"
+  },
+  {
+    "q": "Vad betyder RAD inom dansutbildning?",
+    "a": "Royal Academy of Dance",
+    "w1": "Royal Academy of Dancing",
+    "w2": "Registry of Dance",
+    "w3": "Royal Association of Dance",
+    "w4": "Rhythm and Dance",
+    "w5": "Royal Academy of Dans"
+  },
+  {
+    "q": "Vilket land grundade RAD?",
+    "a": "Storbritannien",
+    "w1": "USA",
+    "w2": "Frankrike",
+    "w3": "Kanada",
+    "w4": "Australien",
+    "w5": "Irland"
+  },
+  {
+    "q": "Vilket år grundades RAD?",
+    "a": "1920",
+    "w1": "1910",
+    "w2": "1930",
+    "w3": "1935",
+    "w4": "1914",
+    "w5": "1925"
+  },
+  {
+    "q": "Vad står ISTD för?",
+    "a": "Imperial Society of Teachers of Dancing",
+    "w1": "International Standard of Training Dance",
+    "w2": "Imperial School of Theatrical Dancing",
+    "w3": "International Society of Dance Teachers",
+    "w4": "Institute of Standardised Teachers of Dance",
+    "w5": "Imperial Society of Traditional Dancing"
+  },
+  {
+    "q": "Vilket år grundades Vaganova-akademin (som kejserlig teaterskola)?",
+    "a": "1738",
+    "w1": "1776",
+    "w2": "1801",
+    "w3": "1710",
+    "w4": "1758",
+    "w5": "1745"
+  },
+  {
+    "q": "Vem skrev läroboken 'Grundläggande klassisk dans'?",
+    "a": "Agrippina Vaganova",
+    "w1": "Enrico Cecchetti",
+    "w2": "August Bournonville",
+    "w3": "Olga Preobrajenska",
+    "w4": "Agrippina Javanova",
+    "w5": "Matilda Ksjesinskaja"
+  },
+  {
+    "q": "Var föddes Michail Barysjnikov?",
+    "a": "Riga",
+    "w1": "Moskva",
+    "w2": "Sankt Petersburg",
+    "w3": "Vilnius",
+    "w4": "Kiev",
+    "w5": "Minsk"
+  },
+  {
+    "q": "Vilket år hoppade Barysjnikov av i Kanada?",
+    "a": "1974",
+    "w1": "1970",
+    "w2": "1978",
+    "w3": "1972",
+    "w4": "1980",
+    "w5": "1969"
+  },
+  {
+    "q": "Vilket kompani ledde Barysjnikov under 1980-talet?",
+    "a": "American Ballet Theatre",
+    "w1": "New York City Ballet",
+    "w2": "Bolsjojbaletten",
+    "w3": "Royal Ballet",
+    "w4": "Parisoperan",
+    "w5": "Stuttgarter Ballett"
+  },
+  {
+    "q": "Vem grundade Kubas nationalbalett?",
+    "a": "Alicia Alonso",
+    "w1": "Carlos Acosta",
+    "w2": "Laura Alonso",
+    "w3": "Jorge Esquivel",
+    "w4": "Loipa Araújo",
+    "w5": "Josefina Méndez"
+  },
+  {
+    "q": "Vilket år grundades Bolsjojbaletten?",
+    "a": "1776",
+    "w1": "1738",
+    "w2": "1805",
+    "w3": "1860",
+    "w4": "1788",
+    "w5": "1825"
+  },
+  {
+    "q": "Vilket år invigdes Mariinskijteatern?",
+    "a": "1860",
+    "w1": "1776",
+    "w2": "1836",
+    "w3": "1885",
+    "w4": "1859",
+    "w5": "1890"
+  },
+  {
+    "q": "Vad hette Kirovbaletten före 1935 (och heter igen)?",
+    "a": "Mariinskijbaletten",
+    "w1": "Bolsjojbaletten",
+    "w2": "Kejserliga ryska baletten",
+    "w3": "Petrogradbaletten",
+    "w4": "Vaganovabaletten",
+    "w5": "Leningradbaletten"
+  },
+  {
+    "q": "Vem komponerade baletten 'Spartacus'?",
+    "a": "Aram Chatjaturjan",
+    "w1": "Sergej Prokofjev",
+    "w2": "Dmitrij Sjostakovitj",
+    "w3": "Rodion Sjtjedrin",
+    "w4": "Reinhold Glière",
+    "w5": "Igor Stravinskij"
+  },
+  {
+    "q": "Vilket år skapade Béjart 'Boléro'?",
+    "a": "1961",
+    "w1": "1957",
+    "w2": "1965",
+    "w3": "1959",
+    "w4": "1967",
+    "w5": "1963"
+  },
+  {
+    "q": "Vem dansade huvudrollen i 'Den unge mannen och döden' (1953)?",
+    "a": "Jean Babilée",
+    "w1": "Michail Barysjnikov",
+    "w2": "Rudolf Nurejev",
+    "w3": "Erik Bruhn",
+    "w4": "Vladimir Vasiljev",
+    "w5": "Peter Schaufuss"
+  },
+  {
+    "q": "Vilket år dog Erik Bruhn?",
+    "a": "1986",
+    "w1": "1982",
+    "w2": "1990",
+    "w3": "1984",
+    "w4": "1988",
+    "w5": "1979"
+  },
+  {
+    "q": "Vilket år hade Bauschs Café Müller premiär?",
+    "a": "1978",
+    "w1": "1975",
+    "w2": "1981",
+    "w3": "1973",
+    "w4": "1984",
+    "w5": "1976"
+  }
+]

@@ -238,5 +238,125 @@
     "a": "Lukten",
     "w1": "Synen",
     "w2": "Hörseln"
+  },
+  {
+    "q": "Hur länge är en elefanths dräktighet?",
+    "a": "Cirka 22 månader",
+    "w1": "Cirka 12 månader",
+    "w2": "Cirka 8 månader"
+  },
+  {
+    "q": "Vad heter hanen hos svin?",
+    "a": "Galt",
+    "w1": "Tupp",
+    "w2": "Drake"
+  },
+  {
+    "q": "Vilket lövträd har hjärtformade blad?",
+    "a": "Linden",
+    "w1": "Boken",
+    "w2": "Aspen"
+  },
+  {
+    "q": "Vad äter katter ibland för att hjälpa matsmältningen?",
+    "a": "Gräs",
+    "w1": "Jord",
+    "w2": "Insekter"
+  },
+  {
+    "q": "Vad heter hanen hos rådjur?",
+    "a": "Bock",
+    "w1": "Tjur",
+    "w2": "Vädur"
+  },
+  {
+    "q": "Vilket mineral behöver skelettet för att bli hårt?",
+    "a": "Kalcium",
+    "w1": "Natrium",
+    "w2": "Kalium"
+  },
+  {
+    "q": "Vad heter honan hos räv?",
+    "a": "Tik",
+    "w1": "Ko",
+    "w2": "Täcka"
+  },
+  {
+    "q": "Vilken fågel förknippas med visdom i mytologin?",
+    "a": "Ugglan",
+    "w1": "Kråkan",
+    "w2": "Måsen"
+  },
+  {
+    "q": "Vilken myra klipper av löv och odlar svamp i sitt bo?",
+    "a": "Bladskärarmyran",
+    "w1": "Skogsmyran",
+    "w2": "Faraomyran"
+  },
+  {
+    "q": "Hur stor andel av kroppen består av vatten (ungefär)?",
+    "a": "Cirka 60 %",
+    "w1": "Cirka 30 %",
+    "w2": "Cirka 90 %"
+  },
+  {
+    "q": "Vilken körtel producerar insulin?",
+    "a": "Bukspottkörteln",
+    "w1": "Sköldkörteln",
+    "w2": "Levern"
+  },
+  {
+    "q": "Vilket vitamin bildas i huden när solen lyser på den?",
+    "a": "D-vitamin",
+    "w1": "C-vitamin",
+    "w2": "B12"
+  },
+  {
+    "q": "Vad äter den bruna björnen mest av i Sverige?",
+    "a": "Bär och myror",
+    "w1": "Kött och fisk",
+    "w2": "Endast fisk"
+  },
+  {
+    "q": "Vilket är världens största landrovdjur?",
+    "a": "Isbjörnen",
+    "w1": "Lejonet",
+    "w2": "Tigern"
+  },
+  {
+    "q": "Vad kallas en sälhanne?",
+    "a": "Kobbe",
+    "w1": "Bock",
+    "w2": "Tjur"
+  },
+  {
+    "q": "Vilket djur är känt för sitt skrattande läte?",
+    "a": "Hyenan",
+    "w1": "Schakalen",
+    "w2": "Sjleopard"
+  },
+  {
+    "q": "Vad heter honan hos älg?",
+    "a": "Ko",
+    "w1": "Tik",
+    "w2": "Älgrygg"
+  },
+  {
+    "q": "Vilket djur har utvecklat djurrikets största ögon?",
+    "a": "Bläckfisk",
+    "w1": "Örn",
+    "w2": "Uggla"
+  },
+  {
+    "q": "Hur många tår har en häst per hov?",
+    "a": "En",
+    "w1": "Två",
+    "w2": "Fyra"
+  },
+  {
+    "q": "Vad kallas en ung höna under första året?",
+    "a": "Pulpa",
+    "w1": "Kycklinghöna",
+    "w2": "Ärthöna"
   }
 ]
