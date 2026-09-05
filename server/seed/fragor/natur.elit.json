@@ -118,5 +118,125 @@
     "a": "Läran om organismers form och struktur",
     "w1": "Läran om beteenden",
     "w2": "Läran om celler"
+  },
+  {
+    "q": "Vad kallas studiet av skalbaggar?",
+    "a": "Coleopterologi",
+    "w1": "Ornitologi",
+    "w2": "Herpetologi"
+  },
+  {
+    "q": "Vad är ketologi läran om?",
+    "a": "Valar",
+    "w1": "Pälsdjur",
+    "w2": "Kräldjur"
+  },
+  {
+    "q": "Vad betyder att en art är endemisk?",
+    "a": "Den finns bara på ett avgränsat område",
+    "w1": "Den lever över hela världen",
+    "w2": "Den är nyligen utdöd"
+  },
+  {
+    "q": "Vad är en holotyp?",
+    "a": "Exemplaret som arten beskrivits ifrån",
+    "w1": "En kopia av ett fossil",
+    "w2": "En hybrid mellan arter"
+  },
+  {
+    "q": "Vad kallas beskrivningen av arternas släktskap?",
+    "a": "Filogeni",
+    "w1": "Synekologi",
+    "w2": "Autekologi"
+  },
+  {
+    "q": "Vad är eusocialitet?",
+    "a": "Samhällsbildande med kaster",
+    "w1": "Ensamlevande djur",
+    "w2": "Parasitiskt leverne"
+  },
+  {
+    "q": "Vad är en punktmutation?",
+    "a": "Förändring av en enskild nukleotid",
+    "w1": "Byte av en hel kromosom",
+    "w2": "Fördubbling av alla gener"
+  },
+  {
+    "q": "Vad är genetisk drift?",
+    "a": "Slumpmässig förändring av anlagsfrekvenser",
+    "w1": "Medvetet urval av anlag",
+    "w2": "Migration av populationer"
+  },
+  {
+    "q": "Vad beskriver Hardy-Weinbergs jämvikt?",
+    "a": "Allelfrekvenser i en ideal population",
+    "w1": "Tillväxt i ekosystem",
+    "w2": "Näringsflöden i hav"
+  },
+  {
+    "q": "Vad är apoptos?",
+    "a": "Programmerad celldöd",
+    "w1": "Okontrollerad celldelning",
+    "w2": "Cellens viloläge"
+  },
+  {
+    "q": "Vad är homeostas?",
+    "a": "Kroppens inre jämvikt",
+    "w1": "Förlust av kroppsvätska",
+    "w2": "Ökad ämnesomsättning"
+  },
+  {
+    "q": "Vad är ett ekoton?",
+    "a": "Övergångszon mellan två ekosystem",
+    "w1": "Studiet av ekorrar",
+    "w2": "En arts bostad"
+  },
+  {
+    "q": "Vad är primärsuccession?",
+    "a": "Kolonisering av helt bar mark",
+    "w1": "Återväxt efter skogsbrand",
+    "w2": "Säsongsflytt hos djur"
+  },
+  {
+    "q": "Vad är mutualism?",
+    "a": "Symbios där båda parter gynnas",
+    "w1": "Relation där en parasiterar",
+    "w2": "Konkurrens om samma resurs"
+  },
+  {
+    "q": "Vad är detritus?",
+    "a": "Dött organiskt material",
+    "w1": "Marina däggdjur",
+    "w2": "Kemikalier i jord"
+  },
+  {
+    "q": "Vad kallas regnskogens tak av kronor?",
+    "a": "Kronskiktet",
+    "w1": "Rotzonen",
+    "w2": "Barrskiktet"
+  },
+  {
+    "q": "Vad betyder epifyt?",
+    "a": "Växt som växer på andra växter",
+    "w1": "Växt som äter insekter",
+    "w2": "Växt utan klorofyll"
+  },
+  {
+    "q": "Vad är mykorrhiza?",
+    "a": "Symbios mellan svamp och rötter",
+    "w1": "Sjukdom i barken",
+    "w2": "Konstgjodning av gran"
+  },
+  {
+    "q": "Vad bygger bakteriens cellvägg av?",
+    "a": "Peptidoglykan",
+    "w1": "Cellulosa",
+    "w2": "Kitin"
+  },
+  {
+    "q": "Vad är en plasmid?",
+    "a": "En liten ring av DNA",
+    "w1": "En proteinkanal",
+    "w2": "Ett cellorganell"
   }
 ]

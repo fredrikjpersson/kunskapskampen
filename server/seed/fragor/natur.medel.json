@@ -118,5 +118,125 @@
     "a": "Visenten",
     "w1": "Älgen",
     "w2": "Brunbjörnen"
+  },
+  {
+    "q": "Vilket hanligt djur bär horn som fälls varje år?",
+    "a": "Kronhjorten",
+    "w1": "Geten",
+    "w2": "Kon"
+  },
+  {
+    "q": "Vad kallas ungen hos en häst?",
+    "a": "Föl",
+    "w1": "Valp",
+    "w2": "Killing"
+  },
+  {
+    "q": "Vad kallas ungen hos en get?",
+    "a": "Killing",
+    "w1": "Lamm",
+    "w2": "Föl"
+  },
+  {
+    "q": "Vad kallas ungen hos ett får?",
+    "a": "Lamm",
+    "w1": "Killing",
+    "w2": "Föl"
+  },
+  {
+    "q": "Vad äter rådjur främst?",
+    "a": "Växter",
+    "w1": "Kött",
+    "w2": "Insekter"
+  },
+  {
+    "q": "Vad heter Sveriges minsta fågel?",
+    "a": "Kungsfågeln",
+    "w1": "Koltrasten",
+    "w2": "Skatan"
+  },
+  {
+    "q": "Vilken fågel är svart med orange näbb?",
+    "a": "Koltrasten",
+    "w1": "Skatan",
+    "w2": "Svalan"
+  },
+  {
+    "q": "Vilken fågel bygger bo av lera?",
+    "a": "Svalan",
+    "w1": "Koltrasten",
+    "w2": "Sparven"
+  },
+  {
+    "q": "Vilken insekt sticker och surrar på kvällen?",
+    "a": "Myggan",
+    "w1": "Flugan",
+    "w2": "Biet"
+  },
+  {
+    "q": "Vilket djur bär sin unge i en ficka?",
+    "a": "Kängurun",
+    "w1": "Kaninen",
+    "w2": "Musen"
+  },
+  {
+    "q": "Vilket träd får gula blommor tidigt på våren?",
+    "a": "Sälgen",
+    "w1": "Eken",
+    "w2": "Tallen"
+  },
+  {
+    "q": "Vad kallas grans barr?",
+    "a": "Barr",
+    "w1": "Löv",
+    "w2": "Kottar"
+  },
+  {
+    "q": "Vad gömmer ekorren till vintern?",
+    "a": "Nötter och frön",
+    "w1": "Bröd",
+    "w2": "Fisk"
+  },
+  {
+    "q": "Vilket svenskt djur håller vinterdvala?",
+    "a": "Igelkotten",
+    "w1": "Räven",
+    "w2": "Haren"
+  },
+  {
+    "q": "Vilket organ renar blodet?",
+    "a": "Njurarna",
+    "w1": "Levern",
+    "w2": "Magen"
+  },
+  {
+    "q": "Var tas syret upp i kroppen?",
+    "a": "I lungorna",
+    "w1": "I hjärtat",
+    "w2": "I magen"
+  },
+  {
+    "q": "Vad pumpar hjärtat runt i kroppen?",
+    "a": "Blod",
+    "w1": "Luft",
+    "w2": "Vatten"
+  },
+  {
+    "q": "Hur många lungor har en människa?",
+    "a": "2",
+    "w1": "1",
+    "w2": "3"
+  },
+  {
+    "q": "Vilken kroppsdel skyddar revbenen?",
+    "a": "Lungor och hjärta",
+    "w1": "Magen",
+    "w2": "Hjärnan"
+  },
+  {
+    "q": "Vilket sinne använder hunden allra bäst?",
+    "a": "Lukten",
+    "w1": "Synen",
+    "w2": "Hörseln"
   }
 ]

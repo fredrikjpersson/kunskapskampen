@@ -118,5 +118,125 @@
     "a": "Carcassonne",
     "w1": "Kingdomino",
     "w2": "Landssköld"
+  },
+  {
+    "q": "I vilket spel ritar man tågrutter på en karta?",
+    "a": "Ticket to Ride",
+    "w1": "Risk",
+    "w2": "Diplomacy"
+  },
+  {
+    "q": "Vilket svenskt utomhusspel kastar man träklossar vid pinnar?",
+    "a": "Kubb",
+    "w1": "Pétanque",
+    "w2": "Krocket"
+  },
+  {
+    "q": "I vilket spel kastar man sten mot en pinne?",
+    "a": "Varpa",
+    "w1": "Kubb",
+    "w2": "Pétanque"
+  },
+  {
+    "q": "Vilken lek går ut på att slå boll och springa runda?",
+    "a": "Brännboll",
+    "w1": "Kubb",
+    "w2": "Krocket"
+  },
+  {
+    "q": "I vilket spel är man sheriff och banditer?",
+    "a": "Bang!",
+    "w1": "Saboteur",
+    "w2": "Carcassonne"
+  },
+  {
+    "q": "I vilket spel får man inte säga vissa ord när man förklarar?",
+    "a": "Tabu",
+    "w1": "Monopol",
+    "w2": "Yatzy"
+  },
+  {
+    "q": "I vilket spel berättar man mystiska sagor med bildkort?",
+    "a": "Dixit",
+    "w1": "Catan",
+    "w2": "Pandemic"
+  },
+  {
+    "q": "I vilket spel väljer man dominobitar för att bygga ett rike?",
+    "a": "Kingdomino",
+    "w1": "Carcassonne",
+    "w2": "Catan"
+  },
+  {
+    "q": "I vilket spel lägger man mönster av kakelbitar?",
+    "a": "Azul",
+    "w1": "Carcassonne",
+    "w2": "Catan"
+  },
+  {
+    "q": "Vilket samlarkortspel kom först 1993?",
+    "a": "Magic: The Gathering",
+    "w1": "Pokémon",
+    "w2": "Yu-Gi-Oh"
+  },
+  {
+    "q": "Vad betyder kooperativt spel?",
+    "a": "Alla spelar tillsammans mot spelet",
+    "w1": "Alla mot alla",
+    "w2": "Två lag mot varandra"
+  },
+  {
+    "q": "Vad kallas den som leder ett rollspel?",
+    "a": "Spelledare",
+    "w1": "Domare",
+    "w2": "Tränare"
+  },
+  {
+    "q": "Vad kallas spel där man spelar roller med berättelse?",
+    "a": "Rollspel",
+    "w1": "Sällskapsspel",
+    "w2": "Krigsspel"
+  },
+  {
+    "q": "Vilket är världens mest kända bordsrollspel?",
+    "a": "Dungeons & Dragons",
+    "w1": "Pathfinder",
+    "w2": "Warhammer"
+  },
+  {
+    "q": "Vilken genre tillhör Warhammer med miniatyrer?",
+    "a": "Miniatyrspel",
+    "w1": "Rollspel",
+    "w2": "Kortspel"
+  },
+  {
+    "q": "Vilket kortspel är whist med budgivning?",
+    "a": "Bridge",
+    "w1": "Poker",
+    "w2": "Hjärter"
+  },
+  {
+    "q": "Hur många kort får varje spelare i bridge?",
+    "a": "13",
+    "w1": "10",
+    "w2": "12"
+  },
+  {
+    "q": "Hur många kort finns i en kortlek utan jokrar?",
+    "a": "52",
+    "w1": "48",
+    "w2": "54"
+  },
+  {
+    "q": "Vad heter knekten på engelska?",
+    "a": "Jack",
+    "w1": "Joker",
+    "w2": "Prince"
+  },
+  {
+    "q": "Vad heter damen på engelska?",
+    "a": "Queen",
+    "w1": "King",
+    "w2": "Joker"
   }
 ]

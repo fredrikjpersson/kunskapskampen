@@ -118,5 +118,125 @@
     "a": "1994",
     "w1": "1990",
     "w2": "1998"
+  },
+  {
+    "q": "Vilket år debuterade Bamse i Allers?",
+    "a": "1966",
+    "w1": "1960",
+    "w2": "1972"
+  },
+  {
+    "q": "Vem skapade seriefiguren Hälge?",
+    "a": "Lars Mortimer",
+    "w1": "Rune Andréasson",
+    "w2": "Jan Romero"
+  },
+  {
+    "q": "Vem skapar seriefiguren Rocky?",
+    "a": "Martin Kellerman",
+    "w1": "Lars Mortimer",
+    "w2": "Charlie Christensen"
+  },
+  {
+    "q": "Vem tecknade den danska serien Valhalla?",
+    "a": "Peter Madsen",
+    "w1": "Martin Kellerman",
+    "w2": "Peter Mårtensson"
+  },
+  {
+    "q": "Vilket år grundades SF Studios?",
+    "a": "1919",
+    "w1": "1909",
+    "w2": "1929"
+  },
+  {
+    "q": "Vem regisserade den animerade 'Sagan om ringen' 1978?",
+    "a": "Ralph Bakshi",
+    "w1": "Don Bluth",
+    "w2": "Richard Williams"
+  },
+  {
+    "q": "Vilken var Disneys första film med synkroniserat ljud?",
+    "a": "Steamboat Willie",
+    "w1": "Plane Crazy",
+    "w2": "Gallopin Gaucho"
+  },
+  {
+    "q": "Vilken film vann första Oscar för animerad långfilm?",
+    "a": "Shrek",
+    "w1": "Monsters Inc",
+    "w2": "Jimmy Neutron"
+  },
+  {
+    "q": "Vad kallades Disneys kärngrupp av animatörer?",
+    "a": "De nio gamle männen",
+    "w1": "De tolv mästarna",
+    "w2": "Animatörsgillet"
+  },
+  {
+    "q": "Vem skapade Astro Boy?",
+    "a": "Osamu Tezuka",
+    "w1": "Hayao Miyazaki",
+    "w2": "Akira Toriyama"
+  },
+  {
+    "q": "Vem skapade Dragon Ball?",
+    "a": "Akira Toriyama",
+    "w1": "Osamu Tezuka",
+    "w2": "Masashi Kishimoto"
+  },
+  {
+    "q": "Vem skapade Naruto?",
+    "a": "Masashi Kishimoto",
+    "w1": "Akira Toriyama",
+    "w2": "Eiichiro Oda"
+  },
+  {
+    "q": "Vem skapade One Piece?",
+    "a": "Eiichiro Oda",
+    "w1": "Masashi Kishimoto",
+    "w2": "Akira Toriyama"
+  },
+  {
+    "q": "Vem skapade Pokémon?",
+    "a": "Satoshi Tajiri",
+    "w1": "Shigeru Miyamoto",
+    "w2": "Satoru Iwata"
+  },
+  {
+    "q": "Vem skapade Mario?",
+    "a": "Shigeru Miyamoto",
+    "w1": "Satoshi Tajiri",
+    "w2": "Gunpei Yokoi"
+  },
+  {
+    "q": "Vem skrev 'Ghost in the Shell'-mangan?",
+    "a": "Masamune Shirow",
+    "w1": "Katsuhiro Otomo",
+    "w2": "Naoko Takeuchi"
+  },
+  {
+    "q": "Vem regisserade animen 'Akira'?",
+    "a": "Katsuhiro Otomo",
+    "w1": "Mamoru Oshii",
+    "w2": "Hayao Miyazaki"
+  },
+  {
+    "q": "Vem grundade Studio Ghibli tillsammans med Miyazaki?",
+    "a": "Isao Takahata",
+    "w1": "Osamu Tezuka",
+    "w2": "Toshio Suzuki"
+  },
+  {
+    "q": "Vilket år grundades Studio Ghibli?",
+    "a": "1985",
+    "w1": "1975",
+    "w2": "1995"
+  },
+  {
+    "q": "Vem skapade Sailor Moon?",
+    "a": "Naoko Takeuchi",
+    "w1": "Clamp",
+    "w2": "Rumiko Takahashi"
   }
 ]

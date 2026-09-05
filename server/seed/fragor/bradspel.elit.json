@@ -118,5 +118,125 @@
     "a": "1995",
     "w1": "1985",
     "w2": "2005"
+  },
+  {
+    "q": "Vilket år lanserades Risk i USA?",
+    "a": "1959",
+    "w1": "1957",
+    "w2": "1961"
+  },
+  {
+    "q": "Vem designade Diplomacy?",
+    "a": "Allan B. Calhamer",
+    "w1": "Hasbro",
+    "w2": "Anthony Pratt"
+  },
+  {
+    "q": "Vilket år kom Diplomacy?",
+    "a": "1959",
+    "w1": "1954",
+    "w2": "1964"
+  },
+  {
+    "q": "Vem var den legendariske Go-mästaren Honinbo Shusaku?",
+    "a": "En Go-spelare",
+    "w1": "En samuraj",
+    "w2": "En kejsare"
+  },
+  {
+    "q": "Hur många korsningar har ett Go-bräde?",
+    "a": "361",
+    "w1": "324",
+    "w2": "400"
+  },
+  {
+    "q": "I schack, vad är Berliner-försvaret?",
+    "a": "En variant i öppna spel",
+    "w1": "En slutspektaktik",
+    "w2": "En form av remi"
+  },
+  {
+    "q": "I schack, vad är ett mellandrag?",
+    "a": "Ett drag som inte möter hotet direkt",
+    "w1": "Ett dubbelt hot",
+    "w2": "En legal patrulla"
+  },
+  {
+    "q": "Vilket år spelades den första officiella schack-VM-matchen?",
+    "a": "1886",
+    "w1": "1876",
+    "w2": "1896"
+  },
+  {
+    "q": "Vem vann den första officiella schack-VM-matchen?",
+    "a": "Wilhelm Steinitz",
+    "w1": "Adolf Anderssen",
+    "w2": "Emanuel Lasker"
+  },
+  {
+    "q": "Vem höll schack-VM-titeln längst?",
+    "a": "Emanuel Lasker",
+    "w1": "José Raúl Capablanca",
+    "w2": "Alexander Alekhine"
+  },
+  {
+    "q": "Vilket år vann Magnus Carlsen VM-titeln?",
+    "a": "2013",
+    "w1": "2011",
+    "w2": "2015"
+  },
+  {
+    "q": "Vem besegrade Carlsen i VM-matchen 2023?",
+    "a": "Ding Liren",
+    "w1": "Nepomniachtchi",
+    "w2": "Caruana"
+  },
+  {
+    "q": "Vilket år instiftades Spiel des Jahres?",
+    "a": "1979",
+    "w1": "1974",
+    "w2": "1984"
+  },
+  {
+    "q": "Vilket spel vann första Spiel des Jahres?",
+    "a": "Hare and Tortoise",
+    "w1": "Risk",
+    "w2": "Monopol"
+  },
+  {
+    "q": "Vilket år vann Catan Spiel des Jahres?",
+    "a": "1995",
+    "w1": "1993",
+    "w2": "1997"
+  },
+  {
+    "q": "Vilket spel vann Spiel des Jahres 2018?",
+    "a": "Azul",
+    "w1": "Kingdomino",
+    "w2": "Codenames"
+  },
+  {
+    "q": "Vad är Kennerspiel des Jahres?",
+    "a": "Priset för mer komplexa expertspel",
+    "w1": "Ett barnspelpris",
+    "w2": "Ett datorspelpris"
+  },
+  {
+    "q": "Vad är BGG?",
+    "a": "BoardGameGeek, världens största brädspelsajt",
+    "w1": "En brädspelsbutikskedja",
+    "w2": "En speltidning"
+  },
+  {
+    "q": "Vad är en legacy-mekanik?",
+    "a": "Spelet förändras permanent under spel",
+    "w1": "Spelet ärvas mellan generationer",
+    "w2": "Spelet spelas i turné"
+  },
+  {
+    "q": "Vad är worker placement?",
+    "a": "Att placera arbetare för att utföra handlingar",
+    "w1": "Att flytta pjäser i lager",
+    "w2": "Att anställa spelledare"
   }
 ]

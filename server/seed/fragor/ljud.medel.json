@@ -118,5 +118,125 @@
     "a": "Radio på nätet",
     "w1": "En liten högtalare",
     "w2": "Ett ljudmått"
+  },
+  {
+    "q": "Vad kallas ljudets styrka?",
+    "a": "Volymen",
+    "w1": "Hastigheten",
+    "w2": "Längden"
+  },
+  {
+    "q": "Vad används ekolod till?",
+    "a": "Att mäta havsdjup",
+    "w1": "Att mäta vind",
+    "w2": "Att mäta temperatur"
+  },
+  {
+    "q": "Hur bär sig ljud under vatten jämfört med i luft?",
+    "a": "Fortare och längre",
+    "w1": "Svagare och kortare",
+    "w2": "Inte alls"
+  },
+  {
+    "q": "Vad sänder AM och FM ut?",
+    "a": "Radio",
+    "w1": "Tv",
+    "w2": "Telefoni"
+  },
+  {
+    "q": "Vad betyder 'stereos' på grekiska?",
+    "a": "Fast, kroppslig",
+    "w1": "Två",
+    "w2": "Ljud"
+  },
+  {
+    "q": "Vad gör en ljudtekniker?",
+    "a": "Mixar och justerar ljud",
+    "w1": "Bygger scener",
+    "w2": "Sjunger körsång"
+  },
+  {
+    "q": "Vad är en jingel?",
+    "a": "En kort signaturmelodi",
+    "w1": "En lång opera",
+    "w2": "Ett nyhetsinslag"
+  },
+  {
+    "q": "Vad kallas den sista finmixen av musiken?",
+    "a": "Mastering",
+    "w1": "Målning",
+    "w2": "Murning"
+  },
+  {
+    "q": "Vad används öronproppar till?",
+    "a": "Att dämpa ljud",
+    "w1": "Att förstärka bas",
+    "w2": "Att skydda näsan"
+  },
+  {
+    "q": "Vad gör en stämgaffel?",
+    "a": "Ger en ren ton",
+    "w1": "Slår ihop två stavar",
+    "w2": "Mäter volym"
+  },
+  {
+    "q": "Vad kallas röstens höjd eller djup?",
+    "a": "Röstläge",
+    "w1": "Höjdpunkt",
+    "w2": "Ansiktsuttryck"
+  },
+  {
+    "q": "Vad kallas en grupp som sjunger tillsammans?",
+    "a": "Kören",
+    "w1": "Orkestern",
+    "w2": "Laget"
+  },
+  {
+    "q": "Vad gör mute-knappen?",
+    "a": "Stänger av ljudet",
+    "w1": "Höjer volymen",
+    "w2": "Spolar framåt"
+  },
+  {
+    "q": "Vad kallas flera toner som spelas samtidigt?",
+    "a": "Ackord",
+    "w1": "Solo",
+    "w2": "Eko"
+  },
+  {
+    "q": "Vad kallas de lägsta tonerna?",
+    "a": "Bas",
+    "w1": "Diskant",
+    "w2": "Melodi"
+  },
+  {
+    "q": "Vad kallas de högsta tonerna?",
+    "a": "Diskant",
+    "w1": "Bas",
+    "w2": "Mellanton"
+  },
+  {
+    "q": "Vad kallas musikens 'skrift'?",
+    "a": "Noter",
+    "w1": "Bokstäver",
+    "w2": "Siffror"
+  },
+  {
+    "q": "Vad kallas musikens 'hjärtslag'?",
+    "a": "Pulsen",
+    "w1": "Pauserna",
+    "w2": "Volymen"
+  },
+  {
+    "q": "Vad kallas det när musiken spelas in live?",
+    "a": "Liveinspelning",
+    "w1": "Studioinspelning",
+    "w2": "Playback"
+  },
+  {
+    "q": "Vad heter skärmen framför mikrofonen?",
+    "a": "Popskyddet",
+    "w1": "Solskyddet",
+    "w2": "Regnskyddet"
   }
 ]

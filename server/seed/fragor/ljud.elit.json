@@ -118,5 +118,125 @@
     "a": "Kort och avhugget",
     "w1": "Sammanbundet och jämnt",
     "w2": "Långsamt och mjukt"
+  },
+  {
+    "q": "Vad är Haas-effekten?",
+    "a": "Det första ljudet dominerar riktningsuppfattningen",
+    "w1": "Ekot fördubblar volymen",
+    "w2": "Bas hörs före diskant"
+  },
+  {
+    "q": "Vad gör en Schroeder-diffusor?",
+    "a": "Sprider ljud i olika riktningar",
+    "w1": "Slukar all bas",
+    "w2": "Kylar ned förstärkare"
+  },
+  {
+    "q": "Vad är kamfiltrering?",
+    "a": "Utsläckning när samma signal blandas fördröjd",
+    "w1": "Filter för kammarorkestrar",
+    "w2": "Brusreducering i vind"
+  },
+  {
+    "q": "Vad betyder fasinvertering?",
+    "a": "Vågens polaritet vänds",
+    "w1": "Ljudet spelas baklänges",
+    "w2": "Volymen halveras"
+  },
+  {
+    "q": "Vad är en transduktor?",
+    "a": "En omvandlare mellan energiformer",
+    "w1": "En typ av gitarr",
+    "w2": "Ett effektfilter"
+  },
+  {
+    "q": "Vad är sidechain-komprimering?",
+    "a": "En signal styr en annans komprimering",
+    "w1": "Komp av två mikrofoner",
+    "w2": "Dubbla utgångar"
+  },
+  {
+    "q": "Vad är dither?",
+    "a": "Medvetet brus vid kvantisering",
+    "w1": "En typ av ekokammare",
+    "w2": "Digital förvrängning av bas"
+  },
+  {
+    "q": "Vad betyder sampling i digitalt ljud?",
+    "a": "Att mäta vågformen vid diskreta tidpunkter",
+    "w1": "Att låna musikbitar",
+    "w2": "Att spela in på band"
+  },
+  {
+    "q": "Vad bestämmer bitdjupet?",
+    "a": "Amplitudupplösningen",
+    "w1": "Antal kanaler",
+    "w2": "Ljudets längd"
+  },
+  {
+    "q": "Vad är impedans?",
+    "a": "Växelströmmens motstånd",
+    "w1": "Likspänningens styrka",
+    "w2": "Högtalarens vikt"
+  },
+  {
+    "q": "Vad mäter THD?",
+    "a": "Total harmonisk distorsion",
+    "w1": "Temperaturen i röret",
+    "w2": "Tiden mellan toner"
+  },
+  {
+    "q": "Vad är en plosiv vid inspelning?",
+    "a": "P- och b-ljud som poppar i mikrofonen",
+    "w1": "En paus mellan verser",
+    "w2": "Ett långt s-ljud"
+  },
+  {
+    "q": "Vad betyder mono-kompatibel mix?",
+    "a": "Mixen fungerar när den summeras till mono",
+    "w1": "Mixen saknar bas",
+    "w2": "Mixen spelas utan förstärkare"
+  },
+  {
+    "q": "Vad är loudness war?",
+    "a": "Upptrapning av master-volymen",
+    "w1": "Tävling i hörsel",
+    "w2": "Krig om radiotid"
+  },
+  {
+    "q": "Vad är Nyquistfrekvensen?",
+    "a": "Halva samplingsfrekvensen",
+    "w1": "Dubbla samplingsfrekvensen",
+    "w2": "Samma som bitdjupet"
+  },
+  {
+    "q": "Vad är oversampling?",
+    "a": "Att internt sampla med högre frekvens",
+    "w1": "Att spela in samma take flera gånger",
+    "w2": "Att addera extra bas"
+  },
+  {
+    "q": "Vad är gain staging?",
+    "a": "Att sätta rätt nivåer genom signalkedjan",
+    "w1": "Att byta förstärkarrör",
+    "w2": "Att balansera hörlurar"
+  },
+  {
+    "q": "Vad gör en DI-box?",
+    "a": "Anpassar instrument till mikroring",
+    "w1": "Lagrar inställningar",
+    "w2": "Delar upp frekvenser"
+  },
+  {
+    "q": "Vad är convolution reverb?",
+    "a": "Efterklang skapad från inspelad rumskaraktär",
+    "w1": "Ekokammare av metall",
+    "w2": "Fjädereko i gitarr"
+  },
+  {
+    "q": "Vad gör bass management?",
+    "a": "Leder låga frekvenser till subwoofern",
+    "w1": "Dämpar alla baser",
+    "w2": "Ökar diskanten"
   }
 ]

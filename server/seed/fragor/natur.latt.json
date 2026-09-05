@@ -118,5 +118,125 @@
     "a": "Flyttning",
     "w1": "Vintervila",
     "w2": "Dvala"
+  },
+  {
+    "q": "Vad äter kor helst?",
+    "a": "Gräs",
+    "w1": "Kött",
+    "w2": "Fisk"
+  },
+  {
+    "q": "Vilket djur spinner nät?",
+    "a": "Spindeln",
+    "w1": "Flugan",
+    "w2": "Myran"
+  },
+  {
+    "q": "Hur många ben har en myra?",
+    "a": "6",
+    "w1": "4",
+    "w2": "8"
+  },
+  {
+    "q": "Vilket djur gräver tunnlar under gräsmattan?",
+    "a": "Mullvaden",
+    "w1": "Kaninen",
+    "w2": "Igelkotten"
+  },
+  {
+    "q": "Vilket djur har lång hals och lever i Afrika?",
+    "a": "Giraffen",
+    "w1": "Zebran",
+    "w2": "Flodhästen"
+  },
+  {
+    "q": "Vilken fågel kan inte flyga men simmar jättebra?",
+    "a": "Pingvinen",
+    "w1": "Pelikanen",
+    "w2": "Måsen"
+  },
+  {
+    "q": "Vilket djur lägger ägg och har näbb?",
+    "a": "Näbbdjuret",
+    "w1": "Ugglan",
+    "w2": "Ödlan"
+  },
+  {
+    "q": "Vad heter kattens ungar?",
+    "a": "Kattungar",
+    "w1": "Killingar",
+    "w2": "Föl"
+  },
+  {
+    "q": "Vilket djur har taggar och rullar ihop sig?",
+    "a": "Igelkotten",
+    "w1": "Bävern",
+    "w2": "Grävlingen"
+  },
+  {
+    "q": "Vilket djur har tryne och gillar att bada i lera?",
+    "a": "Grisen",
+    "w1": "Kon",
+    "w2": "Fåret"
+  },
+  {
+    "q": "Vad heter fjärilens 'barndom'?",
+    "a": "Larven",
+    "w1": "Grodynglet",
+    "w2": "Ungen"
+  },
+  {
+    "q": "Vilket träd bär ekollon?",
+    "a": "Eken",
+    "w1": "Björken",
+    "w2": "Granen"
+  },
+  {
+    "q": "Vilken frukt är gul och väldigt syrlig?",
+    "a": "Citronen",
+    "w1": "Bananen",
+    "w2": "Äpplet"
+  },
+  {
+    "q": "Vilket djur gör honung?",
+    "a": "Biet",
+    "w1": "Getingen",
+    "w2": "Myran"
+  },
+  {
+    "q": "Vad heter den färgglada bågen på himlen efter regn?",
+    "a": "Regnbågen",
+    "w1": "Solbågen",
+    "w2": "Molnbågen"
+  },
+  {
+    "q": "Vad heter kattens läte?",
+    "a": "Jamande",
+    "w1": "Skall",
+    "w2": "Vrål"
+  },
+  {
+    "q": "Vilken årstid kommer efter vintern?",
+    "a": "Våren",
+    "w1": "Hösten",
+    "w2": "Sommaren"
+  },
+  {
+    "q": "Vad faller från himlen när det är riktigt kallt?",
+    "a": "Snö",
+    "w1": "Sand",
+    "w2": "Stenar"
+  },
+  {
+    "q": "Vilket djur har randig svans och 'tvättar' sin mat?",
+    "a": "Tvättbjörnen",
+    "w1": "Räven",
+    "w2": "Bävern"
+  },
+  {
+    "q": "Vilka fåglar flyger söderut i V-formasjon?",
+    "a": "Gässen",
+    "w1": "Hönorna",
+    "w2": "Duvorna"
   }
 ]

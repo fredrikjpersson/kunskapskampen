@@ -118,5 +118,125 @@
     "a": "Nynning",
     "w1": "Ramsa",
     "w2": "Rop"
+  },
+  {
+    "q": "Hur låter en åsna?",
+    "a": "I-ah",
+    "w1": "Mu",
+    "w2": "Bä"
+  },
+  {
+    "q": "Vad heter ljudet när man klappar händerna?",
+    "a": "Ett klapp",
+    "w1": "Ett vrål",
+    "w2": "En viskning"
+  },
+  {
+    "q": "Vad kallas det när alla är helt tysta?",
+    "a": "Tystnad",
+    "w1": "Vrål",
+    "w2": "Sång"
+  },
+  {
+    "q": "Vad heter en som spelar piano?",
+    "a": "Pianist",
+    "w1": "Kurator",
+    "w2": "Pilot"
+  },
+  {
+    "q": "Var spelar man in musik?",
+    "a": "I studion",
+    "w1": "I köket",
+    "w2": "I gymmet"
+  },
+  {
+    "q": "Vad kallas det när många låter samtidigt?",
+    "a": "Buller",
+    "w1": "Tystnad",
+    "w2": "Konsertpaus"
+  },
+  {
+    "q": "Hur låter en uggla ofta?",
+    "a": "Ho-ho",
+    "w1": "Mu",
+    "w2": "Bä"
+  },
+  {
+    "q": "Vad kallas ljudet när ballongen spricker?",
+    "a": "En smäll",
+    "w1": "Ett plopp",
+    "w2": "Ett sus"
+  },
+  {
+    "q": "Vad heter ljudet av löv som prasslar?",
+    "a": "Prasslet",
+    "w1": "Vrålet",
+    "w2": "Dånet"
+  },
+  {
+    "q": "Vilket djur 'sjunger' i havet?",
+    "a": "Valen",
+    "w1": "Hajen",
+    "w2": "Sälen"
+  },
+  {
+    "q": "Vad heter den som spelar skivor på en fest?",
+    "a": "DJ:n",
+    "w1": "Kocken",
+    "w2": "Värden"
+  },
+  {
+    "q": "Vad är en melodi?",
+    "a": "En tonföljd",
+    "w1": "En bok",
+    "w2": "En dans"
+  },
+  {
+    "q": "Vad kallas det när ljudet är starkt?",
+    "a": "Hög volym",
+    "w1": "Tyst volym",
+    "w2": "Låg volym"
+  },
+  {
+    "q": "Varför har man öronvax?",
+    "a": "För att skydda örat",
+    "w1": "För att färga håret",
+    "w2": "För att smaka gott"
+  },
+  {
+    "q": "Vilket blåsinstrument är långt och glider?",
+    "a": "Trombonen",
+    "w1": "Fiolen",
+    "w2": "Trumman"
+  },
+  {
+    "q": "Vilken knapp höjer ljudet?",
+    "a": "Volymknappen",
+    "w1": "Ljusknappen",
+    "w2": "Startknappen"
+  },
+  {
+    "q": "Vad säger en klocka?",
+    "a": "Tick-tack",
+    "w1": "Plopp",
+    "w2": "Vrål"
+  },
+  {
+    "q": "Vilket stort djur morrar?",
+    "a": "Lejonet",
+    "w1": "Musen",
+    "w2": "Kaninen"
+  },
+  {
+    "q": "Vad heter fåglarnas läte?",
+    "a": "Kvitter",
+    "w1": "Mu",
+    "w2": "Skall"
+  },
+  {
+    "q": "Vad kan man göra med fingrarna för att skapa ljud?",
+    "a": "Snäppa",
+    "w1": "Viska",
+    "w2": "Susa"
   }
 ]

@@ -118,5 +118,125 @@
     "a": "Snövit",
     "w1": "Bambi",
     "w2": "Pinocchio"
+  },
+  {
+    "q": "Vad heter Harrys uggla?",
+    "a": "Hedwig",
+    "w1": "Errol",
+    "w2": "Pigwidgeon"
+  },
+  {
+    "q": "Vad heter Harrys bästa vän?",
+    "a": "Ron",
+    "w1": "Neville",
+    "w2": "Draco"
+  },
+  {
+    "q": "Vad heter Harrys bästa kvinnliga vän?",
+    "a": "Hermione",
+    "w1": "Ginny",
+    "w2": "Luna"
+  },
+  {
+    "q": "Vad heter skolan i Harry Potter?",
+    "a": "Hogwarts",
+    "w1": "Durmstrang",
+    "w2": "Beauxbatons"
+  },
+  {
+    "q": "Vilket hus tillhör Harry?",
+    "a": "Gryffindor",
+    "w1": "Slytherin",
+    "w2": "Ravenclaw"
+  },
+  {
+    "q": "Vem är 'Han som inte får nämnas'?",
+    "a": "Voldemort",
+    "w1": "Grindelwald",
+    "w2": "Snape"
+  },
+  {
+    "q": "Vad heter tvillingbröderna Weasley?",
+    "a": "Fred och George",
+    "w1": "Bill och Charlie",
+    "w2": "Ron och Ginny"
+  },
+  {
+    "q": "Vilken Ghibli-film handlar om en ung häxa?",
+    "a": "Kikis expressbud",
+    "w1": "Totoro",
+    "w2": "Ponyo"
+  },
+  {
+    "q": "Vilken Miyazaki-film utspelas på ett badhus för andar?",
+    "a": "Spirited Away",
+    "w1": "Totoro",
+    "w2": "Ponyo"
+  },
+  {
+    "q": "Vad heter Ashs första Pokémon?",
+    "a": "Pikachu",
+    "w1": "Charmander",
+    "w2": "Squirtle"
+  },
+  {
+    "q": "Vad heter eldraken i Pokémon?",
+    "a": "Charizard",
+    "w1": "Blastoise",
+    "w2": "Venusaur"
+  },
+  {
+    "q": "Vad fångar man Pokémon med?",
+    "a": "Pokéboll",
+    "w1": "Pokédex",
+    "w2": "Pokéflöjt"
+  },
+  {
+    "q": "Vad heter jediriddarens vapen?",
+    "a": "Ljussabel",
+    "w1": "Laserpistol",
+    "w2": "Plasmakanon"
+  },
+  {
+    "q": "Vad heter Darth Vader som barn?",
+    "a": "Anakin",
+    "w1": "Luke",
+    "w2": "Obi-Wan"
+  },
+  {
+    "q": "Vad heter Elsas syster i Frost?",
+    "a": "Anna",
+    "w1": "Kristin",
+    "w2": "Iduna"
+  },
+  {
+    "q": "Vad heter snögubben i Frost?",
+    "a": "Olaf",
+    "w1": "Sven",
+    "w2": "Kristoffer"
+  },
+  {
+    "q": "Vad heter cowboyen i Toy Story?",
+    "a": "Woody",
+    "w1": "Buzz",
+    "w2": "Jessie"
+  },
+  {
+    "q": "Vad heter rymdmannen i Toy Story?",
+    "a": "Buzz Lightyear",
+    "w1": "Woody",
+    "w2": "Zurg"
+  },
+  {
+    "q": "Vad heter huvudbilen i Cars?",
+    "a": "Blixt McQueen",
+    "w1": "Mate",
+    "w2": "Sally"
+  },
+  {
+    "q": "Vad heter Nemos pappa?",
+    "a": "Marlin",
+    "w1": "Nemo",
+    "w2": "Dory"
   }
 ]

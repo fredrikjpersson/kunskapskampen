@@ -118,5 +118,125 @@
     "a": "Gran Turismo Injection",
     "w1": "Grand Touring International",
     "w2": "Gas Turbo Injection"
+  },
+  {
+    "q": "Vilket år lanserades den klassiska Minin?",
+    "a": "1959",
+    "w1": "1949",
+    "w2": "1969"
+  },
+  {
+    "q": "Vem designade den klassiska Minin?",
+    "a": "Alec Issigonis",
+    "w1": "John Cooper",
+    "w2": "Colin Chapman"
+  },
+  {
+    "q": "Vem grundade Bugatti?",
+    "a": "Ettore Bugatti",
+    "w1": "Enzo Bugatti",
+    "w2": "Ferruccio Lamborghini"
+  },
+  {
+    "q": "Vem var med och grundade Chevrolet?",
+    "a": "Louis Chevrolet",
+    "w1": "Henry Ford",
+    "w2": "Ransom Olds"
+  },
+  {
+    "q": "Vad är Audis slogan på tyska?",
+    "a": "Vorsprung durch Technik",
+    "w1": "Das Auto",
+    "w2": "Freude am Fahren"
+  },
+  {
+    "q": "Vad betyder Volkswagen ordagrant?",
+    "a": "Folkets bil",
+    "w1": "Tysk bil",
+    "w2": "Snabb bil"
+  },
+  {
+    "q": "Vad hette Porsche 911 från början internt?",
+    "a": "901",
+    "w1": "911 E",
+    "w2": "912"
+  },
+  {
+    "q": "Vilket år lanserades Ford Mustang?",
+    "a": "1964",
+    "w1": "1954",
+    "w2": "1974"
+  },
+  {
+    "q": "Vilket stall körde Ayrton Senna till sina VM-titlar?",
+    "a": "McLaren",
+    "w1": "Williams",
+    "w2": "Lotus"
+  },
+  {
+    "q": "Hur många förar-VM vann Ayrton Senna?",
+    "a": "3",
+    "w1": "2",
+    "w2": "4"
+  },
+  {
+    "q": "Vem var Formel 1:s största svensk?",
+    "a": "Ronnie Peterson",
+    "w1": "Stefan Johansson",
+    "w2": "Marcus Ericsson"
+  },
+  {
+    "q": "Vilket bilmärke har flest segrar i Le Mans?",
+    "a": "Porsche",
+    "w1": "Audi",
+    "w2": "Ferrari"
+  },
+  {
+    "q": "Vad är ett Targatak?",
+    "a": "Ett avtagbart mittparti i taket",
+    "w1": "Ett fast glastak",
+    "w2": "Ett tygtak som fälls ihop"
+  },
+  {
+    "q": "Vad betyder beteckningen Spyder på en bil?",
+    "a": "Öppen sportvagn",
+    "w1": "Tvåtaktsmotor",
+    "w2": "Mittemotor"
+  },
+  {
+    "q": "Vad är en shooting brake?",
+    "a": "En kombiliknande coupé",
+    "w1": "En bil med skjutdörrar",
+    "w2": "En racer med bromsok"
+  },
+  {
+    "q": "Vad heter Koenigseggs grundare?",
+    "a": "Christian von Koenigsegg",
+    "w1": "Christian Krogh",
+    "w2": "von Koenigsegg Jr"
+  },
+  {
+    "q": "Vilket år grundades Koenigsegg?",
+    "a": "1994",
+    "w1": "1984",
+    "w2": "2004"
+  },
+  {
+    "q": "Vilken Volvo körde Roger Moore i TV-serien Helgonet?",
+    "a": "P1800",
+    "w1": "P1900",
+    "w2": "Amazon"
+  },
+  {
+    "q": "Vilken Saab var turbopionjär 1978?",
+    "a": "99 Turbo",
+    "w1": "900 Turbo",
+    "w2": "96 V4"
+  },
+  {
+    "q": "Vad gör ESC-systemet?",
+    "a": "Motverkar sladd",
+    "w1": "Låser hjulen",
+    "w2": "Kylr motor"
   }
 ]

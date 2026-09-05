@@ -118,5 +118,125 @@
     "a": "Light Emitting Diode",
     "w1": "Low Energy Display",
     "w2": "Light Energy Device"
+  },
+  {
+    "q": "Vad betyder förkortningen API?",
+    "a": "Application Programming Interface",
+    "w1": "Applied Program Internet",
+    "w2": "App Processing Index"
+  },
+  {
+    "q": "Vad är en algoritm?",
+    "a": "Stegvis instruktion för att lösa ett problem",
+    "w1": "En typ av processor",
+    "w2": "Ett dataspråk"
+  },
+  {
+    "q": "Vad är cache?",
+    "a": "Snabbminne för ofta använd data",
+    "w1": "Ett backup-minne",
+    "w2": "En typ av skrivare"
+  },
+  {
+    "q": "Vad är en cookie på webbsidor?",
+    "a": "En liten fil som minns dig",
+    "w1": "Ett virus",
+    "w2": "En bildkomprimering"
+  },
+  {
+    "q": "Vad gör en VPN?",
+    "a": "Krypterar och döljer din trafik",
+    "w1": "Snabbar upp internet",
+    "w2": "Blockerar reklam"
+  },
+  {
+    "q": "Vad kallas den som skriver kod?",
+    "a": "Programmerare",
+    "w1": "Arkitekt",
+    "w2": "Dirigent"
+  },
+  {
+    "q": "Vad används Git till?",
+    "a": "Versionshantering av kod",
+    "w1": "Att rita gränssnitt",
+    "w2": "Att mäta prestanda"
+  },
+  {
+    "q": "Vad betyder debugging?",
+    "a": "Att leta och rätta fel i kod",
+    "w1": "Att skriva snabb kod",
+    "w2": "Att radera filer"
+  },
+  {
+    "q": "Vad kallas operativsystemets kärna?",
+    "a": "Kerneln",
+    "w1": "Drivrutin",
+    "w2": "Skript"
+  },
+  {
+    "q": "Vad betyder CSS?",
+    "a": "Cascading Style Sheets",
+    "w1": "Computer Style System",
+    "w2": "Creative Sheet Script"
+  },
+  {
+    "q": "Vad är en server?",
+    "a": "Dator som levererar data och tjänster",
+    "w1": "En extra skärm",
+    "w2": "Ett nätverkskort"
+  },
+  {
+    "q": "Vad betyder HTTP-statuskoden 404?",
+    "a": "Sidan hittades inte",
+    "w1": "Servern kraschade",
+    "w2": "Åtkomst nekad"
+  },
+  {
+    "q": "Vad är ett artificiellt neuralt nätverk?",
+    "a": "Beräkningsmodell inspirerad av hjärnan",
+    "w1": "Ett trådlöst nätverk",
+    "w2": "En typ av kabel"
+  },
+  {
+    "q": "Vad är en QR-kod?",
+    "a": "Kod som scannas för länkar och info",
+    "w1": "Ett prisindex",
+    "w2": "En krypteringsnyckel"
+  },
+  {
+    "q": "Vad gör en kompilator?",
+    "a": "Översätter kod till maskinkod",
+    "w1": "Raderar buggar",
+    "w2": "Komprimerar filer"
+  },
+  {
+    "q": "Vad betyder big data?",
+    "a": "Enorma mängder data",
+    "w1": "Stora hårddiskar",
+    "w2": "Snabba nätverk"
+  },
+  {
+    "q": "Vad betyder IoT?",
+    "a": "Internet of Things",
+    "w1": "Internet of Time",
+    "w2": "Input over Technology"
+  },
+  {
+    "q": "Vilket talsystem arbetar datorer grundläggande med?",
+    "a": "Binära talsystemet",
+    "w1": "Decimala talsystemet",
+    "w2": "Romerska siffror"
+  },
+  {
+    "q": "Vad är malware?",
+    "a": "Skadlig programvara",
+    "w1": "Program för e-post",
+    "w2": "Mjukvara i molnet"
+  },
+  {
+    "q": "Vad betyder streaming?",
+    "a": "Spela upp medan det laddas ner",
+    "w1": "Ladda ner hela filen först",
+    "w2": "Spela in tv-program"
   }
 ]

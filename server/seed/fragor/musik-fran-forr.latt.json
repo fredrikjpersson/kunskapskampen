@@ -118,5 +118,125 @@
     "a": "Kiss",
     "w1": "Queen",
     "w2": "ABBA"
+  },
+  {
+    "q": "Vilken grupp sjöng 'She Loves You'?",
+    "a": "The Beatles",
+    "w1": "The Kinks",
+    "w2": "The Hollies"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Yesterday'?",
+    "a": "The Beatles",
+    "w1": "The Beach Boys",
+    "w2": "The Byrds"
+  },
+  {
+    "q": "Vem sjöng 'Jailhouse Rock'?",
+    "a": "Elvis Presley",
+    "w1": "Chuck Berry",
+    "w2": "Jerry Lee Lewis"
+  },
+  {
+    "q": "Vem sjöng 'What'd I Say'?",
+    "a": "Ray Charles",
+    "w1": "Sam Cooke",
+    "w2": "James Brown"
+  },
+  {
+    "q": "Vilken grupp sjöng 'California Dreamin''?",
+    "a": "The Mamas & the Papas",
+    "w1": "The Beach Boys",
+    "w2": "The Byrds"
+  },
+  {
+    "q": "Vem sjöng 'Stand By Me'?",
+    "a": "Ben E. King",
+    "w1": "Sam Cooke",
+    "w2": "Otis Redding"
+  },
+  {
+    "q": "Vem sjöng 'Big Yellow Taxi'?",
+    "a": "Joni Mitchell",
+    "w1": "Judy Collins",
+    "w2": "Carole King"
+  },
+  {
+    "q": "Vilken grupp sjöng 'California Girls'?",
+    "a": "The Beach Boys",
+    "w1": "The Beatles",
+    "w2": "The Monkees"
+  },
+  {
+    "q": "Vilken film innehåller 'Over the Rainbow'?",
+    "a": "Trollkarlen från Oz",
+    "w1": "Mary Poppins",
+    "w2": "Askungen"
+  },
+  {
+    "q": "Vilken Disney-film har sången 'En hel ny värld'?",
+    "a": "Aladdin",
+    "w1": "Lejonkungen",
+    "w2": "Askungen"
+  },
+  {
+    "q": "Vad hette Lennart Hylands klassiska TV-program?",
+    "a": "Hylands hörna",
+    "w1": "Nattugglan",
+    "w2": "Karusellen"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Save the Last Dance for Me'?",
+    "a": "The Drifters",
+    "w1": "The Platters",
+    "w2": "The Coasters"
+  },
+  {
+    "q": "Vem sjöng 'Only the Lonely'?",
+    "a": "Roy Orbison",
+    "w1": "Del Shannon",
+    "w2": "Gene Pitney"
+  },
+  {
+    "q": "Vem sjöng 'Blueberry Hill'?",
+    "a": "Fats Domino",
+    "w1": "Little Richard",
+    "w2": "Chuck Berry"
+  },
+  {
+    "q": "Vem sjöng 'Tutti Frutti'?",
+    "a": "Little Richard",
+    "w1": "Fats Domino",
+    "w2": "Bo Diddley"
+  },
+  {
+    "q": "Vem sjöng 'These Boots Are Made for Walkin''?",
+    "a": "Nancy Sinatra",
+    "w1": "Françoise Hardy",
+    "w2": "Dusty Springfield"
+  },
+  {
+    "q": "Vem sjöng 'Son of a Preacher Man'?",
+    "a": "Dusty Springfield",
+    "w1": "Aretha Franklin",
+    "w2": "Petula Clark"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Dancing in the Street'?",
+    "a": "Martha and the Vandellas",
+    "w1": "The Supremes",
+    "w2": "The Marvelettes"
+  },
+  {
+    "q": "Vilken grupp sjöng 'My Girl'?",
+    "a": "The Temptations",
+    "w1": "The Four Tops",
+    "w2": "The Miracles"
+  },
+  {
+    "q": "Vem sjöng 'Främling' 1983?",
+    "a": "Carola",
+    "w1": "Lena Philipsson",
+    "w2": "Pernilla Wahlgren"
   }
 ]

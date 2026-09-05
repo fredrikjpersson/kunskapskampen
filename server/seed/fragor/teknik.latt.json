@@ -118,5 +118,125 @@
     "a": "Väckarklockan",
     "w1": "Kylskåpet",
     "w2": "Tv:n"
+  },
+  {
+    "q": "Vad laddar man mobilen med?",
+    "a": "Laddaren",
+    "w1": "Borsten",
+    "w2": "Kudden"
+  },
+  {
+    "q": "Vad styr man TV:n med på avstånd?",
+    "a": "Fjärrkontrollen",
+    "w1": "Musen",
+    "w2": "Spaken"
+  },
+  {
+    "q": "Vad gör en brödrost?",
+    "a": "Roster bröd",
+    "w1": "Kyler mat",
+    "w2": "Tvättar disk"
+  },
+  {
+    "q": "Vad förvarar man glassen i?",
+    "a": "Frysen",
+    "w1": "Kylskåpet",
+    "w2": "Skåpet"
+  },
+  {
+    "q": "Vad heter det man skriver med på datorn?",
+    "a": "Tangentbordet",
+    "w1": "Skrivaren",
+    "w2": "Musen"
+  },
+  {
+    "q": "Vad gör en skrivare?",
+    "a": "Skriver ut papper",
+    "w1": "Tar bilder",
+    "w2": "Spelar musik"
+  },
+  {
+    "q": "Vad heter den lilla bilden man klickar på?",
+    "a": "Ikonen",
+    "w1": "Menyn",
+    "w2": "Pärmen"
+  },
+  {
+    "q": "Vad heter post som skickas via internet?",
+    "a": "E-post",
+    "w1": "Flygposten",
+    "w2": "Brevduvan"
+  },
+  {
+    "q": "Vad heter kameran som sitter i datorn?",
+    "a": "Webbkameran",
+    "w1": "Kikaren",
+    "w2": "Tv-kameran"
+  },
+  {
+    "q": "Vad gör en robot?",
+    "a": "Arbetar åt människor",
+    "w1": "Äter olja",
+    "w2": "Sover på natten"
+  },
+  {
+    "q": "Vad heter maskinen som räknar?",
+    "a": "Kalkylatorn",
+    "w1": "Kassan",
+    "w2": "Vågen"
+  },
+  {
+    "q": "Vad åker runt jorden och tar bilder?",
+    "a": "Satelliten",
+    "w1": "Flygplanet",
+    "w2": "Draken"
+  },
+  {
+    "q": "Vilken bil kan köra utan förare?",
+    "a": "En självkörande bil",
+    "w1": "En skridskobil",
+    "w2": "En motorcykel"
+  },
+  {
+    "q": "Vad heter hålet i väggen man sätter stickkontakten i?",
+    "a": "Eluttaget",
+    "w1": "Strömbrytaren",
+    "w2": "Lampan"
+  },
+  {
+    "q": "Vad heter flygplanet som styrs utan pilot?",
+    "a": "Drönaren",
+    "w1": "Helikoptern",
+    "w2": "Ballongen"
+  },
+  {
+    "q": "Vad gör en fläkt?",
+    "a": "Blåser luft",
+    "w1": "Kyler mat",
+    "w2": "Tvättar kläder"
+  },
+  {
+    "q": "Vad mäter en termometer?",
+    "a": "Temperatur",
+    "w1": "Tid",
+    "w2": "Vikt"
+  },
+  {
+    "q": "Vad mäter en våg?",
+    "a": "Vikt",
+    "w1": "Tid",
+    "w2": "Längd"
+  },
+  {
+    "q": "Vad heter ett litet program i mobilen?",
+    "a": "En app",
+    "w1": "En bok",
+    "w2": "En låt"
+  },
+  {
+    "q": "Vilken hemlig kod behöver man för att logga in?",
+    "a": "Lösenordet",
+    "w1": "Räkningen",
+    "w2": "Menyn"
   }
 ]

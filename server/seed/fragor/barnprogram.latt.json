@@ -118,5 +118,125 @@
     "a": "Hund",
     "w1": "Häst",
     "w2": "Ekorre"
+  },
+  {
+    "q": "Vad heter vargen i Bamse som blir snäll?",
+    "a": "Vargen",
+    "w1": "Räven",
+    "w2": "Björnen"
+  },
+  {
+    "q": "Vad heter Pippis apa?",
+    "a": "Herr Nilsson",
+    "w1": "Herr Svensson",
+    "w2": "Herr Andersson"
+  },
+  {
+    "q": "Vad heter grannbarnen i Pippi?",
+    "a": "Tommy och Annika",
+    "w1": "Tomas och Annelie",
+    "w2": "Johan och Lotta"
+  },
+  {
+    "q": "I vilken by bor Emil?",
+    "a": "Lönneberga",
+    "w1": "Katthult",
+    "w2": "Bullerby"
+  },
+  {
+    "q": "Vem är minst i Muminfamiljen?",
+    "a": "Lilla My",
+    "w1": "Sniff",
+    "w2": "Snorkfröken"
+  },
+  {
+    "q": "Vilket instrument spelar Snusmumriken?",
+    "a": "Munspel",
+    "w1": "Gitarr",
+    "w2": "Trummor"
+  },
+  {
+    "q": "Var bor Madicken?",
+    "a": "Junibacken",
+    "w1": "Katthult",
+    "w2": "Bullerby"
+  },
+  {
+    "q": "Vem skrev böckerna om Bullerbyn?",
+    "a": "Astrid Lindgren",
+    "w1": "Tove Jansson",
+    "w2": "Sven Nordqvist"
+  },
+  {
+    "q": "Vad heter mannen som bor på taket?",
+    "a": "Karlsson",
+    "w1": "Nilsson",
+    "w2": "Svensson"
+  },
+  {
+    "q": "Vad har Karlsson på ryggen?",
+    "a": "En propeller",
+    "w1": "En raket",
+    "w2": "Ett par vingar"
+  },
+  {
+    "q": "Vad heter Tjorvens hund?",
+    "a": "Båtsman",
+    "w1": "Bubben",
+    "w2": "Laban"
+  },
+  {
+    "q": "Vad heter pappan i Simpsons?",
+    "a": "Homer",
+    "w1": "Bart",
+    "w2": "Marge"
+  },
+  {
+    "q": "Vad heter mamman i Simpsons?",
+    "a": "Marge",
+    "w1": "Lisa",
+    "w2": "Maggie"
+  },
+  {
+    "q": "Vad heter grabben som åker skateboard i Simpsons?",
+    "a": "Bart",
+    "w1": "Milhouse",
+    "w2": "Ralph"
+  },
+  {
+    "q": "Vad heter bebisen i Simpsons?",
+    "a": "Maggie",
+    "w1": "Lisa",
+    "w2": "Selma"
+  },
+  {
+    "q": "Vilken prinsessa tappar en glassko?",
+    "a": "Askungen",
+    "w1": "Rapunzel",
+    "w2": "Törnrosa"
+  },
+  {
+    "q": "Vilken prinsessa har långt gult hår?",
+    "a": "Rapunzel",
+    "w1": "Askungen",
+    "w2": "Ariel"
+  },
+  {
+    "q": "Vilken prinsessa kysser en groda?",
+    "a": "Tiana",
+    "w1": "Askungen",
+    "w2": "Rapunzel"
+  },
+  {
+    "q": "Vad heter Musse Piggs hund?",
+    "a": "Pluto",
+    "w1": "Långben",
+    "w2": "Klarabella"
+  },
+  {
+    "q": "Vilken kanin äter morötter och säger 'What's up doc'?",
+    "a": "Snurre Sprätt",
+    "w1": "Pelle Svanslös",
+    "w2": "Daffy"
   }
 ]

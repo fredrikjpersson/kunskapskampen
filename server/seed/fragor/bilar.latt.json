@@ -118,5 +118,125 @@
     "a": "Båten",
     "w1": "Flygplanet",
     "w2": "Tåget"
+  },
+  {
+    "q": "Vad har bilar framför motorhuven som skyddar?",
+    "a": "Grillen",
+    "w1": "Gaveln",
+    "w2": "Köksbänken"
+  },
+  {
+    "q": "Vad kallas rutan fram som man ser igenom?",
+    "a": "Vindrutan",
+    "w1": "Sidorutan",
+    "w2": "Bagagerutan"
+  },
+  {
+    "q": "Vad heter luckan bak som man lastar genom?",
+    "a": "Bagageluckan",
+    "w1": "Motorhuven",
+    "w2": "Huven"
+  },
+  {
+    "q": "Vad heter locket över motorn?",
+    "a": "Motorhuven",
+    "w1": "Bagageluckan",
+    "w2": "Tanklocket"
+  },
+  {
+    "q": "Vad sitter hjulen på av metall?",
+    "a": "Fälgarna",
+    "w1": "Glasögonen",
+    "w2": "Skorna"
+  },
+  {
+    "q": "Vad gör ratten?",
+    "a": "Styr bilen",
+    "w1": "Bromsar bilen",
+    "w2": "Tutar"
+  },
+  {
+    "q": "Vad heter facket framför passagerarsätet?",
+    "a": "Handskfacket",
+    "w1": "Strumpfacket",
+    "w2": "Verktygslådan"
+  },
+  {
+    "q": "Vad har två hjul och trampas?",
+    "a": "Cykeln",
+    "w1": "Bilen",
+    "w2": "Flygplanet"
+  },
+  {
+    "q": "Vilken buss är gul och kör barn till skolan i USA?",
+    "a": "Skolbussen",
+    "w1": "Stadsbussen",
+    "w2": "Turistbussen"
+  },
+  {
+    "q": "Vad heter fordonet som gräver och schaktar?",
+    "a": "Grävmaskinen",
+    "w1": "Traktorn",
+    "w2": "Lyftkranen"
+  },
+  {
+    "q": "Vilket fordon åker i luften?",
+    "a": "Flygplanet",
+    "w1": "Ubåten",
+    "w2": "Tåget"
+  },
+  {
+    "q": "Vad heter stället där bilar tankar?",
+    "a": "Bensinmacken",
+    "w1": "Bageriet",
+    "w2": "Apoteket"
+  },
+  {
+    "q": "Vad heter en som lagar bilar?",
+    "a": "Mekaniker",
+    "w1": "Kock",
+    "w2": "Lärare"
+  },
+  {
+    "q": "Vad heter pedalen som får bilen att gå fortare?",
+    "a": "Gaspedalen",
+    "w1": "Bromspedalen",
+    "w2": "Kopplingen"
+  },
+  {
+    "q": "Vad heter pedalen som saktar in bilen?",
+    "a": "Bromspedalen",
+    "w1": "Gaspedalen",
+    "w2": "Kopplingen"
+  },
+  {
+    "q": "Vad heter skylten som visar högsta tillåtna fart?",
+    "a": "Hastighetsskylten",
+    "w1": "Registreringsskylten",
+    "w2": "Varningskylten"
+  },
+  {
+    "q": "Vad heter den stora vägen mellan städer?",
+    "a": "Motorvägen",
+    "w1": "Gångvägen",
+    "w2": "Skogsvägen"
+  },
+  {
+    "q": "Vad heter en väg i stan med hus på sidorna?",
+    "a": "Gatan",
+    "w1": "Motorvägen",
+    "w2": "Stigen"
+  },
+  {
+    "q": "Var 'sover' bilen om natten ofta?",
+    "a": "I garaget",
+    "w1": "I köket",
+    "w2": "I sängen"
+  },
+  {
+    "q": "Vad kallas bilen med förare som man betalar för?",
+    "a": "Taxi",
+    "w1": "Buss",
+    "w2": "Tåg"
   }
 ]

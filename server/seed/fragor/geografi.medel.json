@@ -118,5 +118,125 @@
     "a": "Italien",
     "w1": "Portugal",
     "w2": "Grekland"
+  },
+  {
+    "q": "Vad heter Österrikes huvudstad?",
+    "a": "Wien",
+    "w1": "Salzburg",
+    "w2": "Graz"
+  },
+  {
+    "q": "Vad heter Tjeckiens huvudstad?",
+    "a": "Prag",
+    "w1": "Brno",
+    "w2": "Bratislava"
+  },
+  {
+    "q": "Vilket land har huvudstaden Kairo?",
+    "a": "Egypten",
+    "w1": "Marocko",
+    "w2": "Libyen"
+  },
+  {
+    "q": "Vad heter Marockos huvudstad?",
+    "a": "Rabat",
+    "w1": "Casablanca",
+    "w2": "Marrakech"
+  },
+  {
+    "q": "Vad heter Nigerias huvudstad?",
+    "a": "Abuja",
+    "w1": "Lagos",
+    "w2": "Kano"
+  },
+  {
+    "q": "Vad heter Brasiliens huvudstad?",
+    "a": "Brasília",
+    "w1": "Rio de Janeiro",
+    "w2": "São Paulo"
+  },
+  {
+    "q": "Vad heter Australiens huvudstad?",
+    "a": "Canberra",
+    "w1": "Sydney",
+    "w2": "Melbourne"
+  },
+  {
+    "q": "Vad heter Nya Zeelands huvudstad?",
+    "a": "Wellington",
+    "w1": "Auckland",
+    "w2": "Christchurch"
+  },
+  {
+    "q": "Vad heter Rysslands huvudstad?",
+    "a": "Moskva",
+    "w1": "Sankt Petersburg",
+    "w2": "Kiev"
+  },
+  {
+    "q": "Vad heter Ukrainas huvudstad?",
+    "a": "Kiev",
+    "w1": "Minsk",
+    "w2": "Chisinau"
+  },
+  {
+    "q": "Vilket berg skiljer Europa och Asien?",
+    "a": "Uralbergen",
+    "w1": "Kaukasus",
+    "w2": "Himalaya"
+  },
+  {
+    "q": "Vad heter halvön där Spanien och Portugal ligger?",
+    "a": "Iberiska halvön",
+    "w1": "Italienska halvön",
+    "w2": "Balkanhalvön"
+  },
+  {
+    "q": "Vad heter världens största halvö?",
+    "a": "Arabiska halvön",
+    "w1": "Indiska halvön",
+    "w2": "Skandinaviska halvön"
+  },
+  {
+    "q": "Vilket land har näst flest öar efter Sverige?",
+    "a": "Finland",
+    "w1": "Norge",
+    "w2": "Kanada"
+  },
+  {
+    "q": "Vilket land ligger söder om USA?",
+    "a": "Mexiko",
+    "w1": "Kanada",
+    "w2": "Kuba"
+  },
+  {
+    "q": "Vilket land ligger norr om USA?",
+    "a": "Kanada",
+    "w1": "Mexiko",
+    "w2": "Ryssland"
+  },
+  {
+    "q": "Vad heter Asiens längsta flod?",
+    "a": "Yangtze",
+    "w1": "Mekong",
+    "w2": "Ganges"
+  },
+  {
+    "q": "Vad heter Indiens huvudstad?",
+    "a": "New Delhi",
+    "w1": "Mumbai",
+    "w2": "Kolkata"
+  },
+  {
+    "q": "Vilket land har huvudstaden Bangkok?",
+    "a": "Thailand",
+    "w1": "Vietnam",
+    "w2": "Laos"
+  },
+  {
+    "q": "Vad heter Vietnams huvudstad?",
+    "a": "Hanoi",
+    "w1": "Ho Chi Minh-staden",
+    "w2": "Da Nang"
   }
 ]

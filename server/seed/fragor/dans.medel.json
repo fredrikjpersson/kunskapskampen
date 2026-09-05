@@ -118,5 +118,125 @@
     "a": "Dansnummer",
     "w1": "Danskväll",
     "w2": "Dansorkester"
+  },
+  {
+    "q": "Vilken av dessa är en latindans?",
+    "a": "Cha-cha-cha",
+    "w1": "Vals",
+    "w2": "Foxtrot"
+  },
+  {
+    "q": "Vilken av dessa är en standarddans?",
+    "a": "Foxtrot",
+    "w1": "Samba",
+    "w2": "Jive"
+  },
+  {
+    "q": "Från vilket land kommer menuetten?",
+    "a": "Frankrike",
+    "w1": "Tyskland",
+    "w2": "Italien"
+  },
+  {
+    "q": "Vilken dans imiterar en tjurfäktare?",
+    "a": "Paso doble",
+    "w1": "Rumba",
+    "w2": "Jive"
+  },
+  {
+    "q": "Vilken dans utförs med kastanjetter?",
+    "a": "Flamenco",
+    "w1": "Tango",
+    "w2": "Salsa"
+  },
+  {
+    "q": "Från vilket land kommer bachata?",
+    "a": "Dominikanska republiken",
+    "w1": "Kuba",
+    "w2": "Puerto Rico"
+  },
+  {
+    "q": "Från vilket land kommer salsan främst?",
+    "a": "Kuba",
+    "w1": "Mexiko",
+    "w2": "Spanien"
+  },
+  {
+    "q": "Vilken dans utvecklades ur charleston?",
+    "a": "Lindy hop",
+    "w1": "Twist",
+    "w2": "Boogie woogie"
+  },
+  {
+    "q": "Hur många taktslag har vals?",
+    "a": "3",
+    "w1": "2",
+    "w2": "4"
+  },
+  {
+    "q": "Från vilket land kommer kizomba?",
+    "a": "Angola",
+    "w1": "Brasilien",
+    "w2": "Portugal"
+  },
+  {
+    "q": "Från vilket land kommer jive?",
+    "a": "USA",
+    "w1": "England",
+    "w2": "Tyskland"
+  },
+  {
+    "q": "Vilken dans förknippas med karnevalen i Rio?",
+    "a": "Samba",
+    "w1": "Salsa",
+    "w2": "Forró"
+  },
+  {
+    "q": "Vad kallas ledaren för en balett?",
+    "a": "Balettmästaren",
+    "w1": "Kapellmästaren",
+    "w2": "Dirigenten"
+  },
+  {
+    "q": "Vad kallas repetitionen där allt sätts ihop?",
+    "a": "Genrep",
+    "w1": "Föreställning",
+    "w2": "Premiär"
+  },
+  {
+    "q": "Vad kallas den första föreställningen?",
+    "a": "Premiär",
+    "w1": "Genrep",
+    "w2": "Galapremiär"
+  },
+  {
+    "q": "Vad kallas ballerinas bugning?",
+    "a": "Reverens",
+    "w1": "Handstående",
+    "w2": "Hopp"
+  },
+  {
+    "q": "Vilken folkdans från alperna klappar man i skorna?",
+    "a": "Schuhplattler",
+    "w1": "Ländler",
+    "w2": "Zwiefacher"
+  },
+  {
+    "q": "Vilket håll snurrar pardans oftast?",
+    "a": "Medurs",
+    "w1": "Moturs",
+    "w2": "Rakt fram"
+  },
+  {
+    "q": "Vad kallas det när paret dansar solo isär?",
+    "a": "Shine",
+    "w1": "Filhöljdans",
+    "w2": "Dimma"
+  },
+  {
+    "q": "Vad kallas när många dyker upp och dansar samtidigt?",
+    "a": "Flashmob",
+    "w1": "Kör",
+    "w2": "Parad"
   }
 ]

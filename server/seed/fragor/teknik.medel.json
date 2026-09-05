@@ -118,5 +118,125 @@
     "a": "2004",
     "w1": "2002",
     "w2": "2006"
+  },
+  {
+    "q": "Vad gör tangentkombinationen Ctrl+C?",
+    "a": "Kopierar",
+    "w1": "Klistrar in",
+    "w2": "Klipper ut"
+  },
+  {
+    "q": "Vad gör Ctrl+V?",
+    "a": "Klistrar in",
+    "w1": "Kopierar",
+    "w2": "Klipper ut"
+  },
+  {
+    "q": "Vilket företag gör Windows?",
+    "a": "Microsoft",
+    "w1": "Apple",
+    "w2": "IBM"
+  },
+  {
+    "q": "Vad heter Microsofts webbläsare?",
+    "a": "Edge",
+    "w1": "Chrome",
+    "w2": "Firefox"
+  },
+  {
+    "q": "Vad är en SSD?",
+    "a": "Ett snabbt lagringsminne",
+    "w1": "En typ av skrivare",
+    "w2": "En högtalare"
+  },
+  {
+    "q": "Vad betyder 'molnet' inom it?",
+    "a": "Filerna lagras på internet",
+    "w1": "Det regnar data",
+    "w2": "Allt sparas på diskett"
+  },
+  {
+    "q": "Vad kallas ett skadligt dataprogram?",
+    "a": "Virus",
+    "w1": "Bakterie",
+    "w2": "Svamp"
+  },
+  {
+    "q": "Vad gör en sökmotor?",
+    "a": "Söker information på nätet",
+    "w1": "Spelar film",
+    "w2": "Ringer samtal"
+  },
+  {
+    "q": "Vad heter bildens minsta punkt?",
+    "a": "Pixel",
+    "w1": "Piktogram",
+    "w2": "Pelare"
+  },
+  {
+    "q": "Vad betyder 4K inom tv?",
+    "a": "Hög bildupplösning",
+    "w1": "Fyra kameror",
+    "w2": "Fyra kanaler"
+  },
+  {
+    "q": "Vad används Bluetooth till?",
+    "a": "Trådlös koppling på nära håll",
+    "w1": "Internetsurf på långt håll",
+    "w2": "Sända tv-signal"
+  },
+  {
+    "q": "Vad betyder backup?",
+    "a": "Säkerhetskopia",
+    "w1": "Baksidan av datorn",
+    "w2": "Reservbatteri"
+  },
+  {
+    "q": "Vad gör ett antivirusprogram?",
+    "a": "Skyddar mot skadliga program",
+    "w1": "Snabbar upp datorn",
+    "w2": "Rensar skrivbordet"
+  },
+  {
+    "q": "Vad betyder det att 'surfa'?",
+    "a": "Kolla på internet",
+    "w1": "Åka vågor på bräda",
+    "w2": "Handla i affär"
+  },
+  {
+    "q": "Vad heter Googles mobiltelefon?",
+    "a": "Pixel",
+    "w1": "Galaxy",
+    "w2": "iPhone"
+  },
+  {
+    "q": "Vilken enhet är störst?",
+    "a": "GB",
+    "w1": "KB",
+    "w2": "MB"
+  },
+  {
+    "q": "Vad heter programmet man skriver texter i?",
+    "a": "Ordbehandlare",
+    "w1": "Räkneprogram",
+    "w2": "Ritprogram"
+  },
+  {
+    "q": "Vad heter de små smileys i mobilen?",
+    "a": "Emojis",
+    "w1": "Emirater",
+    "w2": "Anagram"
+  },
+  {
+    "q": "Vad slutar bildfiler ofta på?",
+    "a": ".jpg",
+    "w1": ".mp3",
+    "w2": ".docx"
+  },
+  {
+    "q": "Vad för slags fil är en .mp3-fil?",
+    "a": "Musikfil",
+    "w1": "Bildfil",
+    "w2": "Textfil"
   }
 ]

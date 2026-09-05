@@ -118,5 +118,125 @@
     "a": "Fritt, elastiskt tempo",
     "w1": "Strikt tempo",
     "w2": "Mycket starkt"
+  },
+  {
+    "q": "Vem komponerade 'Messias'?",
+    "a": "Händel",
+    "w1": "Bach",
+    "w2": "Vivaldi"
+  },
+  {
+    "q": "Vem skrev 'De fyra årstiderna'?",
+    "a": "Vivaldi",
+    "w1": "Corelli",
+    "w2": "Scarlatti"
+  },
+  {
+    "q": "Vad är Tristan-ackordet känt för?",
+    "a": "Sin tonala tvetydighet",
+    "w1": "Att alltid sluta i dur",
+    "w2": "Att ha tre bastoner"
+  },
+  {
+    "q": "Vem komponerade 'Für Elise'?",
+    "a": "Beethoven",
+    "w1": "Mozart",
+    "w2": "Schubert"
+  },
+  {
+    "q": "Vilken kompositör är känd för sina nocturner?",
+    "a": "Chopin",
+    "w1": "Liszt",
+    "w2": "Schumann"
+  },
+  {
+    "q": "Vem komponerade baletten 'Svansjön'?",
+    "a": "Tjajkovskij",
+    "w1": "Prokofjev",
+    "w2": "Stravinskij"
+  },
+  {
+    "q": "Vad betyder tempobeteckningen 'lento'?",
+    "a": "Långsamt",
+    "w1": "Lätt",
+    "w2": "Ledigt"
+  },
+  {
+    "q": "Vad betyder 'presto'?",
+    "a": "Mycket snabbt",
+    "w1": "Roligt",
+    "w2": "Starkt"
+  },
+  {
+    "q": "Vad är en fuga?",
+    "a": "En kontrapunktisk form med imiterande stämmor",
+    "w1": "En opera i en akt",
+    "w2": "En sång utan ackord"
+  },
+  {
+    "q": "Vad är sonataformens tre delar?",
+    "a": "Exposition, genomföring och repris",
+    "w1": "Vers, refräng och brygga",
+    "w2": "Intro, solo och coda"
+  },
+  {
+    "q": "Hur många symfonier skrev Mozart?",
+    "a": "41",
+    "w1": "31",
+    "w2": "51"
+  },
+  {
+    "q": "Vem komponerade 'Carmina Burana'?",
+    "a": "Carl Orff",
+    "w1": "Richard Strauss",
+    "w2": "Zoltán Kodály"
+  },
+  {
+    "q": "Vilken opera innehåller 'La donna è mobile'?",
+    "a": "Rigoletto",
+    "w1": "La Traviata",
+    "w2": "Aida"
+  },
+  {
+    "q": "Vem skrev 'Tosca' och 'La Bohème'?",
+    "a": "Puccini",
+    "w1": "Verdi",
+    "w2": "Leoncavallo"
+  },
+  {
+    "q": "Vad betyder 'bel canto'?",
+    "a": "Vacker sång",
+    "w1": "Krigssång",
+    "w2": "Körsång"
+  },
+  {
+    "q": "Vilken epok följer efter barocken?",
+    "a": "Klassicismen",
+    "w1": "Romantiken",
+    "w2": "Renässansen"
+  },
+  {
+    "q": "Vilken kompositör förknippas med impressionismen?",
+    "a": "Debussy",
+    "w1": "Ravel",
+    "w2": "Satie"
+  },
+  {
+    "q": "Vad kännetecknar minimalism inom musik?",
+    "a": "Repetition av små musikaliska celler",
+    "w1": "Maximal orkester",
+    "w2": "Slumpade toner"
+  },
+  {
+    "q": "Vem komponerade 'Einstein on the Beach'?",
+    "a": "Philip Glass",
+    "w1": "Steve Reich",
+    "w2": "John Adams"
+  },
+  {
+    "q": "Vilken tysk kompositör var elektronmusikpionjär?",
+    "a": "Karlheinz Stockhausen",
+    "w1": "Hans Werner Henze",
+    "w2": "György Ligeti"
   }
 ]

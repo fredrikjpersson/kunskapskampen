@@ -118,5 +118,125 @@
     "a": "Kol",
     "w1": "Väte",
     "w2": "Kalcium"
+  },
+  {
+    "q": "Vad kallas processen där kroppen tar upp syre och avger koldioxid?",
+    "a": "Respiration",
+    "w1": "Fotosyntes",
+    "w2": "Fermentering"
+  },
+  {
+    "q": "Vilken gas tar växter upp från luften?",
+    "a": "Koldioxid",
+    "w1": "Kväve",
+    "w2": "Väte"
+  },
+  {
+    "q": "Vad kallas det när pollen förs från blomma till blomma?",
+    "a": "Pollinering",
+    "w1": "Destillation",
+    "w2": "Kondensation"
+  },
+  {
+    "q": "Vad kan man läsa av trädens årsringar?",
+    "a": "Trädets ålder",
+    "w1": "Trädets höjd",
+    "w2": "Rotens djup"
+  },
+  {
+    "q": "Vilken svensk växt fångar insekter med klibbiga blad?",
+    "a": "Sileshår",
+    "w1": "Blåklockan",
+    "w2": "Ljungen"
+  },
+  {
+    "q": "Vilken svamp är dödligt giftig?",
+    "a": "Vit flugsvamp",
+    "w1": "Kantarell",
+    "w2": "Karljohanssvamp"
+  },
+  {
+    "q": "Vilken svamp är en eftertraktad matsvamp?",
+    "a": "Karljohanssvamp",
+    "w1": "Vit flugsvamp",
+    "w2": "Jordstjärnan"
+  },
+  {
+    "q": "Vad kallas djur med ryggrad?",
+    "a": "Ryggradsdjur",
+    "w1": "Kräldjur",
+    "w2": "Blötdjur"
+  },
+  {
+    "q": "Vad kallas den groda och salamander tillhör?",
+    "a": "Groddjur",
+    "w1": "Kräldjur",
+    "w2": "Fiskar"
+  },
+  {
+    "q": "Vad kan grodor andas genom utöver lungorna?",
+    "a": "Huden",
+    "w1": "Gälarna",
+    "w2": "Fjädrarna"
+  },
+  {
+    "q": "Vilken fjäril övervintrar ofta som vuxen i Sverige?",
+    "a": "Nässelfjärilen",
+    "w1": "Citronfjärilen",
+    "w2": "Påfågelögat"
+  },
+  {
+    "q": "Hur många ögon har de flesta spindlar?",
+    "a": "8",
+    "w1": "6",
+    "w2": "10"
+  },
+  {
+    "q": "Vilket djur är Sveriges enda vilda kattdjur?",
+    "a": "Lodjuret",
+    "w1": "Vargen",
+    "w2": "Björnen"
+  },
+  {
+    "q": "Vilken är världens snabbaste fågel i dyk?",
+    "a": "Pilgrimsfalken",
+    "w1": "Kungsörnen",
+    "w2": "Duvan"
+  },
+  {
+    "q": "Vad kallas processen där DNA:s information blir protein?",
+    "a": "Proteinsyntes",
+    "w1": "Fotosyntes",
+    "w2": "Cellandning"
+  },
+  {
+    "q": "Vad innehåller generna i DNA:t?",
+    "a": "Koden för proteiner",
+    "w1": "Fett",
+    "w2": "Socker"
+  },
+  {
+    "q": "Vad kallas cellens kraftverk?",
+    "a": "Mitokondrien",
+    "w1": "Ribosomen",
+    "w2": "Cellkärnan"
+  },
+  {
+    "q": "Vad styr cellens aktiviteter?",
+    "a": "Cellkärnan",
+    "w1": "Cellväggen",
+    "w2": "Ribosomen"
+  },
+  {
+    "q": "Vilken sorts blodkropp bekämpar infektioner?",
+    "a": "Vita blodkroppar",
+    "w1": "Röda blodkroppar",
+    "w2": "Blodplättar"
+  },
+  {
+    "q": "Vad gör de röda blodkropparna?",
+    "a": "Transporterar syre",
+    "w1": "Bekämpar bakterier",
+    "w2": "Bildar blodproppar"
   }
 ]

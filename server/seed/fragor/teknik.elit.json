@@ -118,5 +118,125 @@
     "a": "Omvandlar data till värde med fast längd",
     "w1": "Komprimerar filer",
     "w2": "Krypterar nätverk"
+  },
+  {
+    "q": "Vad kännetecknar von Neumann-arkitekturen?",
+    "a": "Program och data lagras i samma minne",
+    "w1": "Separata minnen för program och data",
+    "w2": "Inget centralt processorelement"
+  },
+  {
+    "q": "Vad betyder NP-fullständigt?",
+    "a": "De svåraste problemen i komplexitetsklassen NP",
+    "w1": "Problem som aldrig kan lösas",
+    "w2": "Problem som löses på konstant tid"
+  },
+  {
+    "q": "Vad står ACID för inom databaser?",
+    "a": "Fyra garantier för transaktioner",
+    "w1": "En typ av databasindex",
+    "w2": "Ett krypteringsformat"
+  },
+  {
+    "q": "Vad säger CAP-teoremet?",
+    "a": "Konsistens, tillgänglighet och partitionstolerans kan inte alla tre garanteras",
+    "w1": "Alla databaser måste vara relationsbaserade",
+    "w2": "Skrivningar är alltid snabbare än läsningar"
+  },
+  {
+    "q": "Vad betyder RISC?",
+    "a": "Reduced Instruction Set Computer",
+    "w1": "Rapid Internal System Chip",
+    "w2": "Random Instruction Sequencing Core"
+  },
+  {
+    "q": "Vem definierade den relationella databasmodellen?",
+    "a": "Edgar F. Codd",
+    "w1": "Grace Hopper",
+    "w2": "James Gray"
+  },
+  {
+    "q": "Vad kallas datavetenskapens eget 'Nobelpris'?",
+    "a": "Turingpriset",
+    "w1": "Coddmedaljen",
+    "w2": "von Neumann-priset"
+  },
+  {
+    "q": "Vad betyder NAND?",
+    "a": "Not AND",
+    "w1": "New Address Node Design",
+    "w2": "Numeric Analog Digital"
+  },
+  {
+    "q": "Vad är en flip-flop inom elektroniken?",
+    "a": "Ett minneselement som håller en bit",
+    "w1": "En strandsko",
+    "w2": "En strömbrytare i kylskåp"
+  },
+  {
+    "q": "Vad är en interrupt?",
+    "a": "En signal som avbryter processorn",
+    "w1": "Ett avbrott i strömmen",
+    "w2": "En paus i nätverket"
+  },
+  {
+    "q": "Vad betyder endianness?",
+    "a": "Byte-ordningen i minnet",
+    "w1": "Feltyp i kompilatorn",
+    "w2": "Nätverkets hastighet"
+  },
+  {
+    "q": "Vad är en kernel panic?",
+    "a": "Operativsystemet kraschar totalt",
+    "w1": "Ett fullt hårddiskutrymme",
+    "w2": "En virusvarning"
+  },
+  {
+    "q": "Vad betyder SSH?",
+    "a": "Secure Shell",
+    "w1": "Server Side Host",
+    "w2": "Super Storage Hub"
+  },
+  {
+    "q": "Vad är en mutex?",
+    "a": "Ömsesidig uteslutning mellan trådar",
+    "w1": "En typ av datavaskning",
+    "w2": "Ett grafikläge"
+  },
+  {
+    "q": "Vad är REST?",
+    "a": "En arkitekturstil för webb-API:er",
+    "w1": "Ett programmeringsspråk",
+    "w2": "En databasmotor"
+  },
+  {
+    "q": "Vad är en blockchain?",
+    "a": "Distribuerad lista med kryptografiskt länkade block",
+    "w1": "En kedja av servrar",
+    "w2": "Ett trådlöst protokoll"
+  },
+  {
+    "q": "Vad kännetecknar asymmetrisk kryptering?",
+    "a": "Två olika nycklar för kryptering och dekryptering",
+    "w1": "Samma nycklar för alla användare",
+    "w2": "Inga nycklar alls"
+  },
+  {
+    "q": "Vad delar trådar inom samma process?",
+    "a": "Minnesutrymme",
+    "w1": "Endast processorn aldrig",
+    "w2": "Ingenting alls"
+  },
+  {
+    "q": "Vad beskriver Big O-notation?",
+    "a": "Hur exekveringstiden växer med indata",
+    "w1": "Antalet buggar per rad",
+    "w2": "Minnesstorlek i byte"
+  },
+  {
+    "q": "Vad gör Dijkstras algoritm?",
+    "a": "Hittar kortaste vägen i en graf",
+    "w1": "Sorterar tal snabbast",
+    "w2": "Komprimerar bilder"
   }
 ]

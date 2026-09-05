@@ -118,5 +118,125 @@
     "a": "Färg",
     "w1": "Triss",
     "w2": "Två par"
+  },
+  {
+    "q": "Vem designade Catan?",
+    "a": "Klaus Teuber",
+    "w1": "Reiner Knizia",
+    "w2": "Alan R. Moon"
+  },
+  {
+    "q": "Vem designade Ticket to Ride?",
+    "a": "Alan R. Moon",
+    "w1": "Klaus Teuber",
+    "w2": "Bruno Cathala"
+  },
+  {
+    "q": "Vem uppfann Monopols föregångare The Landlord's Game?",
+    "a": "Elizabeth Magie",
+    "w1": "Charles Darrow",
+    "w2": "George Parker"
+  },
+  {
+    "q": "Vem sålde Monopol till Parker Brothers?",
+    "a": "Charles Darrow",
+    "w1": "Elizabeth Magie",
+    "w2": "Milton Bradley"
+  },
+  {
+    "q": "Vilket spel bygger Yatzy på?",
+    "a": "Yacht",
+    "w1": "Kismet",
+    "w2": "Farkle"
+  },
+  {
+    "q": "Vad är Farkle för något?",
+    "a": "Ett amerikanskt tärningsspel",
+    "w1": "Ett kortspel",
+    "w2": "Ett japanskt sällskapsspel"
+  },
+  {
+    "q": "Vad heter kasinots klassiska tärningsspel?",
+    "a": "Craps",
+    "w1": "Sic Bo",
+    "w2": "Yatzy"
+  },
+  {
+    "q": "Vad är house edge?",
+    "a": "Kasinots statistiska fördel",
+    "w1": "Husets högsta insats",
+    "w2": "Kantmärket på kort"
+  },
+  {
+    "q": "Vad betyder RTP på spelautomater?",
+    "a": "Return to Player",
+    "w1": "Real Time Play",
+    "w2": "Random Ticket Pull"
+  },
+  {
+    "q": "Vilket kortspel har målet nio poäng?",
+    "a": "Baccarat",
+    "w1": "Blackjack",
+    "w2": "Poker"
+  },
+  {
+    "q": "Vad betyder pot limit i poker?",
+    "a": "Maxinsatsen är potten",
+    "w1": "Fast insats alltid",
+    "w2": "Ingen gräns alls"
+  },
+  {
+    "q": "Vad är floppen i poker?",
+    "a": "De tre första gemensamma korten",
+    "w1": "Det sista kortet",
+    "w2": "Den första satsningsrundan"
+  },
+  {
+    "q": "Vad är river i poker?",
+    "a": "Det sista gemensamma kortet",
+    "w1": "Den första floppen",
+    "w2": "En lurad hand"
+  },
+  {
+    "q": "Hur många hålkort får man i Texas Hold'em?",
+    "a": "2",
+    "w1": "3",
+    "w2": "5"
+  },
+  {
+    "q": "Vilket kortspel är en rummy-variant med två kortlekar?",
+    "a": "Canasta",
+    "w1": "Bridge",
+    "w2": "Whist"
+  },
+  {
+    "q": "I Go, vad kallas en grupp med bara en frihet kvar?",
+    "a": "Atari",
+    "w1": "Ko",
+    "w2": "Seki"
+  },
+  {
+    "q": "Vad betyder 'shah' som schack kommer ifrån?",
+    "a": "Kung",
+    "w1": "Drottning",
+    "w2": "Torn"
+  },
+  {
+    "q": "Vilket land kommer schackets föregångare Chaturanga ifrån?",
+    "a": "Indien",
+    "w1": "Kina",
+    "w2": "Persien"
+  },
+  {
+    "q": "Vem blev amerikansk schackvärldsmästare 1972?",
+    "a": "Bobby Fischer",
+    "w1": "Boris Spassky",
+    "w2": "Anatolij Karpov"
+  },
+  {
+    "q": "I vilken stad spelades schack-VM 1972?",
+    "a": "Reykjavik",
+    "w1": "Moskva",
+    "w2": "New York"
   }
 ]

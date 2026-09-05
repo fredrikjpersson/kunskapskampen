@@ -118,5 +118,125 @@
     "a": "Bil med stor baklucka",
     "w1": "Bil utan tak",
     "w2": "Bil med två säten"
+  },
+  {
+    "q": "Vilket bilmärke har ett lejon i logotypen?",
+    "a": "Peugeot",
+    "w1": "Renault",
+    "w2": "Citroën"
+  },
+  {
+    "q": "Vilket märke tillverkar 911?",
+    "a": "Porsche",
+    "w1": "Audi",
+    "w2": "BMW"
+  },
+  {
+    "q": "Vad heter Volvos stora SUV-modell?",
+    "a": "XC90",
+    "w1": "V70",
+    "w2": "S60"
+  },
+  {
+    "q": "Vilket märke tillverkar MX-5?",
+    "a": "Mazda",
+    "w1": "Honda",
+    "w2": "Nissan"
+  },
+  {
+    "q": "Vilket märke tillverkar Corvette?",
+    "a": "Chevrolet",
+    "w1": "Ford",
+    "w2": "Dodge"
+  },
+  {
+    "q": "Vilket land kommer Fiat ifrån?",
+    "a": "Italien",
+    "w1": "Spanien",
+    "w2": "Frankrike"
+  },
+  {
+    "q": "Vilket land kommer Renault ifrån?",
+    "a": "Frankrike",
+    "w1": "Italien",
+    "w2": "Tyskland"
+  },
+  {
+    "q": "Vilket land kommer Hyundai ifrån?",
+    "a": "Sydkorea",
+    "w1": "Japan",
+    "w2": "Kina"
+  },
+  {
+    "q": "Vad kallas växellåda utan kopplingspedal?",
+    "a": "Automatlåda",
+    "w1": "Manuell låda",
+    "w2": "CV-låda"
+  },
+  {
+    "q": "Vad kallas kudden som blåser upp vid kollision?",
+    "a": "Krockkudden",
+    "w1": "Säkerhetsdynan",
+    "w2": "Stötdämparen"
+  },
+  {
+    "q": "Vad heter systemet som håller jämn fart?",
+    "a": "Tempomat",
+    "w1": "Filhållning",
+    "w2": "Antisladd"
+  },
+  {
+    "q": "Vad heter systemet som håller bilen kvar i filen?",
+    "a": "Filhållning",
+    "w1": "Tempomat",
+    "w2": "Dödavinkelvarnare"
+  },
+  {
+    "q": "Vad kallas området bakom bilen som syns dåligt?",
+    "a": "Dödavinkeln",
+    "w1": "Blinda zonen",
+    "w2": "Bakhållet"
+  },
+  {
+    "q": "Vad mäter hastighetsmätaren?",
+    "a": "Hastigheten",
+    "w1": "Uppförsbacken",
+    "w2": "Bränslet"
+  },
+  {
+    "q": "Vad heter knappen som får alla lyktor att blinka?",
+    "a": "Varningsblinkers",
+    "w1": "Helljusknappen",
+    "w2": "Dimknappen"
+  },
+  {
+    "q": "Vad betyder M i BMW M-modeller?",
+    "a": "Motorsport",
+    "w1": "Manuell",
+    "w2": "Mellanmodell"
+  },
+  {
+    "q": "Vad är Formel E för tävlingsserie?",
+    "a": "Racing med elbilar",
+    "w1": "Racing med etanol",
+    "w2": "Racing med damförare"
+  },
+  {
+    "q": "Vilket år grundades Saab som flygplanstillverkare?",
+    "a": "1937",
+    "w1": "1947",
+    "w2": "1917"
+  },
+  {
+    "q": "Vad heter Toyotas lyxmärke?",
+    "a": "Lexus",
+    "w1": "Infiniti",
+    "w2": "Acura"
+  },
+  {
+    "q": "Vad heter Nissans kända elbil?",
+    "a": "Leaf",
+    "w1": "Prius",
+    "w2": "Insight"
   }
 ]

@@ -118,5 +118,125 @@
     "a": "Jurij Gagarin",
     "w1": "Neil Armstrong",
     "w2": "Alan Shepard"
+  },
+  {
+    "q": "Vilket år sjönk Titanic?",
+    "a": "1912",
+    "w1": "1902",
+    "w2": "1922"
+  },
+  {
+    "q": "Vem målade Mona Lisa?",
+    "a": "Leonardo da Vinci",
+    "w1": "Michelangelo",
+    "w2": "Rafaël"
+  },
+  {
+    "q": "I vilken stad ligger Vatikanstaten?",
+    "a": "Rom",
+    "w1": "Milano",
+    "w2": "Neapel"
+  },
+  {
+    "q": "Vad var Julius Caesar?",
+    "a": "Romersk fältherre och diktator",
+    "w1": "Grekisk filosof",
+    "w2": "Egyptisk farao"
+  },
+  {
+    "q": "Vem ledde mordet på Caesar?",
+    "a": "Brutus",
+    "w1": "Cicero",
+    "w2": "Augustus"
+  },
+  {
+    "q": "Vilket år mördades Caesar?",
+    "a": "44 f.Kr.",
+    "w1": "64 f.Kr.",
+    "w2": "24 f.Kr."
+  },
+  {
+    "q": "Vem var Kleopatra drottning av?",
+    "a": "Egypten",
+    "w1": "Grekland",
+    "w2": "Karthago"
+  },
+  {
+    "q": "Vilken är världens största religion?",
+    "a": "Kristendomen",
+    "w1": "Islam",
+    "w2": "Hinduismen"
+  },
+  {
+    "q": "Vilken religion dominerar Indien?",
+    "a": "Hinduismen",
+    "w1": "Islam",
+    "w2": "Buddhismen"
+  },
+  {
+    "q": "Vad är Torah?",
+    "a": "Judendomens heliga skrift",
+    "w1": "Kristendomens psalmbok",
+    "w2": "Islams lagtext"
+  },
+  {
+    "q": "Vad är Koranen?",
+    "a": "Islams heliga bok",
+    "w1": "Judendomens trosbekännelse",
+    "w2": "Hinduernas hymner"
+  },
+  {
+    "q": "Vad betyder 'alma mater'?",
+    "a": "Näringsmoder (universitetet)",
+    "w1": "Moderskeppet",
+    "w2": "Kära mor"
+  },
+  {
+    "q": "Vad betyder 'status quo'?",
+    "a": "Nuvarande tillstånd",
+    "w1": "Statushöjning",
+    "w2": "Ständig förändring"
+  },
+  {
+    "q": "Vad betyder 'terra incognita'?",
+    "a": "Okänt land",
+    "w1": "Brunnen jord",
+    "w2": "Helig mark"
+  },
+  {
+    "q": "Vad heter asarnas högste gud?",
+    "a": "Oden",
+    "w1": "Tor",
+    "w2": "Loke"
+  },
+  {
+    "q": "Vad heter Tors hammare?",
+    "a": "Mjölner",
+    "w1": "Gungner",
+    "w2": "Gleipnir"
+  },
+  {
+    "q": "Vad heter Odins åttabente häst?",
+    "a": "Sleipner",
+    "w1": "Gullfaxi",
+    "w2": "Guldtopp"
+  },
+  {
+    "q": "Vad blåser Heimdall i vid Ragnarök?",
+    "a": "Gjallarhornet",
+    "w1": "Lurhornet",
+    "w2": "Krigstrompen"
+  },
+  {
+    "q": "Vad är Yggdrasil?",
+    "a": "Världsträdet",
+    "w1": "Odens spjut",
+    "w2": "Regnbågsbron"
+  },
+  {
+    "q": "Vad betyder Ragnarök?",
+    "a": "Gudarnas undergång",
+    "w1": "Världens början",
+    "w2": "Odens vila"
   }
 ]

@@ -118,5 +118,125 @@
     "a": "Cream",
     "w1": "The Yardbirds",
     "w2": "Blind Faith"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Be My Baby'?",
+    "a": "The Ronettes",
+    "w1": "The Crystals",
+    "w2": "The Shangri-Las"
+  },
+  {
+    "q": "Vilket år dog Sam Cooke?",
+    "a": "1964",
+    "w1": "1959",
+    "w2": "1969"
+  },
+  {
+    "q": "Vilket år dog Otis Redding?",
+    "a": "1967",
+    "w1": "1963",
+    "w2": "1971"
+  },
+  {
+    "q": "Vilket år dog Jimi Hendrix?",
+    "a": "1970",
+    "w1": "1968",
+    "w2": "1972"
+  },
+  {
+    "q": "Vilket år dog Janis Joplin?",
+    "a": "1970",
+    "w1": "1968",
+    "w2": "1972"
+  },
+  {
+    "q": "Vilket år dog Jim Morrison?",
+    "a": "1971",
+    "w1": "1969",
+    "w2": "1973"
+  },
+  {
+    "q": "Vem spelade in 'Hound Dog' före Elvis?",
+    "a": "Big Mama Thornton",
+    "w1": "Sister Rosetta Tharpe",
+    "w2": "Big Maybelle"
+  },
+  {
+    "q": "Vilket bolag gav ut flest Beatles-skivor i USA?",
+    "a": "Capitol",
+    "w1": "Vee-Jay",
+    "w2": "Swan"
+  },
+  {
+    "q": "Vem grundade Rolling Stones?",
+    "a": "Brian Jones",
+    "w1": "Mick Jagger",
+    "w2": "Keith Richards"
+  },
+  {
+    "q": "Vem kallades Stones 'sjätte medlem' (pianist)?",
+    "a": "Ian Stewart",
+    "w1": "Nicky Hopkins",
+    "w2": "Jack Nitzsche"
+  },
+  {
+    "q": "Vilket år grundades Rolling Stones?",
+    "a": "1962",
+    "w1": "1960",
+    "w2": "1964"
+  },
+  {
+    "q": "Vilket år grundades The Who?",
+    "a": "1964",
+    "w1": "1962",
+    "w2": "1966"
+  },
+  {
+    "q": "Vilket år grundades Pink Floyd?",
+    "a": "1965",
+    "w1": "1963",
+    "w2": "1967"
+  },
+  {
+    "q": "Vilket år grundades Led Zeppelin?",
+    "a": "1968",
+    "w1": "1966",
+    "w2": "1970"
+  },
+  {
+    "q": "Vilket år grundades Black Sabbath?",
+    "a": "1968",
+    "w1": "1966",
+    "w2": "1970"
+  },
+  {
+    "q": "Vad hette Deep Purples sångare 1969-1973?",
+    "a": "Ian Gillan",
+    "w1": "David Coverdale",
+    "w2": "Rod Evans"
+  },
+  {
+    "q": "Vad hette Pink Floyds första frontman?",
+    "a": "Syd Barrett",
+    "w1": "Roger Waters",
+    "w2": "David Gilmour"
+  },
+  {
+    "q": "Vad hette Led Zeppelins trummis?",
+    "a": "John Bonham",
+    "w1": "John Paul Jones",
+    "w2": "Keith Moon"
+  },
+  {
+    "q": "Vad hette Led Zeppelins basist?",
+    "a": "John Paul Jones",
+    "w1": "John Bonham",
+    "w2": "Chris Squire"
+  },
+  {
+    "q": "Vilket år släppte Beatles 'White Album'?",
+    "a": "1968",
+    "w1": "1966",
+    "w2": "1970"
   }
 ]

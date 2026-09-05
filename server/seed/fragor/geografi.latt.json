@@ -118,5 +118,125 @@
     "a": "Tokyo",
     "w1": "Kyoto",
     "w2": "Osaka"
+  },
+  {
+    "q": "Vad heter staden i Italien med kanaler i stället för gator?",
+    "a": "Venedig",
+    "w1": "Florens",
+    "w2": "Rom"
+  },
+  {
+    "q": "Vilket land är känt för tulpaner och väderkvarnar?",
+    "a": "Nederländerna",
+    "w1": "Belgien",
+    "w2": "Danmark"
+  },
+  {
+    "q": "Vilket lands flagga har ett lönnlöv?",
+    "a": "Kanada",
+    "w1": "USA",
+    "w2": "Mexiko"
+  },
+  {
+    "q": "Vilket lands flagga föreställer en upp gående sol?",
+    "a": "Japan",
+    "w1": "Kina",
+    "w2": "Korea"
+  },
+  {
+    "q": "Vad är Afrikas största land till ytan?",
+    "a": "Algeriet",
+    "w1": "Nigeria",
+    "w2": "Kongo-Kinshasa"
+  },
+  {
+    "q": "Vad heter USA:s huvudstad?",
+    "a": "Washington D.C.",
+    "w1": "New York",
+    "w2": "Chicago"
+  },
+  {
+    "q": "Vad heter Kanadas största stad?",
+    "a": "Toronto",
+    "w1": "Vancouver",
+    "w2": "Montreal"
+  },
+  {
+    "q": "Vilket hav ligger längst norr om Europa?",
+    "a": "Norra ishavet",
+    "w1": "Östersjön",
+    "w2": "Medelhavet"
+  },
+  {
+    "q": "Vilken kontinent är kallast?",
+    "a": "Antarktis",
+    "w1": "Afrika",
+    "w2": "Europa"
+  },
+  {
+    "q": "Vilken kontinent är störst?",
+    "a": "Asien",
+    "w1": "Afrika",
+    "w2": "Europa"
+  },
+  {
+    "q": "Vilken kontinent är minst?",
+    "a": "Australien",
+    "w1": "Europa",
+    "w2": "Antarktis"
+  },
+  {
+    "q": "Vilket land är störst i Europa till ytan (utom Ryssland)?",
+    "a": "Ukraina",
+    "w1": "Frankrike",
+    "w2": "Tyskland"
+  },
+  {
+    "q": "Vad heter Spaniens huvudstad?",
+    "a": "Madrid",
+    "w1": "Barcelona",
+    "w2": "Sevilla"
+  },
+  {
+    "q": "Vad heter Portugals huvudstad?",
+    "a": "Lissabon",
+    "w1": "Porto",
+    "w2": "Madrid"
+  },
+  {
+    "q": "Vad heter Schweiz största stad?",
+    "a": "Zürich",
+    "w1": "Bern",
+    "w2": "Genève"
+  },
+  {
+    "q": "I vilket land ligger största delen av Amazonas regnskog?",
+    "a": "Brasilien",
+    "w1": "Peru",
+    "w2": "Colombia"
+  },
+  {
+    "q": "Vilket land gränsar till Sverige i öster?",
+    "a": "Finland",
+    "w1": "Norge",
+    "w2": "Danmark"
+  },
+  {
+    "q": "Vad heter den stora bergskedjan mellan Sverige och Norge?",
+    "a": "Skanderna",
+    "w1": "Alperna",
+    "w2": "Pyrenéerna"
+  },
+  {
+    "q": "Vilken önation ligger mitt i Atlanten?",
+    "a": "Island",
+    "w1": "Grönland",
+    "w2": "Irland"
+  },
+  {
+    "q": "Vilken världsdel ligger söder om Europa?",
+    "a": "Afrika",
+    "w1": "Asien",
+    "w2": "Amerika"
   }
 ]

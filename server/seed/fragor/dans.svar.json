@@ -118,5 +118,125 @@
     "a": "Coda",
     "w1": "Koda",
     "w2": "Final"
+  },
+  {
+    "q": "Vad betyder 'chassé' på franska?",
+    "a": "Jaga",
+    "w1": "Gunga",
+    "w2": "Vända"
+  },
+  {
+    "q": "Vad betyder 'jeté' ordagrant?",
+    "a": "Kastad",
+    "w1": "Hoppad",
+    "w2": "Svängd"
+  },
+  {
+    "q": "Vad betyder 'croisé' i balett?",
+    "a": "Kryssad position",
+    "w1": "Öppen position",
+    "w2": "Sidledes position"
+  },
+  {
+    "q": "Vad betyder ordet 'arabesque' ordagrant?",
+    "a": "Arabisk",
+    "w1": "Böjd",
+    "w2": "Sträckt"
+  },
+  {
+    "q": "Vad betyder 'balancé'?",
+    "a": "Balanserande steg",
+    "w1": "Snurrande steg",
+    "w2": "Hoppande steg"
+  },
+  {
+    "q": "Vem koreograferade 'Nötknäpparen' tillsammans med Ivanov?",
+    "a": "Marius Petipa",
+    "w1": "George Balanchine",
+    "w2": "Michel Fokin"
+  },
+  {
+    "q": "Vem komponerade baletten 'Coppélia'?",
+    "a": "Léo Delibes",
+    "w1": "Adolphe Adam",
+    "w2": "Tjajkovskij"
+  },
+  {
+    "q": "Vilken Tjajkovskij-balett handlar om en prinsessa som sover hundra år?",
+    "a": "Törnrosa",
+    "w1": "Svansjön",
+    "w2": "Giselle"
+  },
+  {
+    "q": "Vad heter Kungliga Balettens hem i Stockholm?",
+    "a": "Kungliga Operan",
+    "w1": "Dramaten",
+    "w2": "Stadsteatern"
+  },
+  {
+    "q": "Vad heter Göteborgs moderna danskompani?",
+    "a": "GöteborgsOperans Danskompani",
+    "w1": "NDT",
+    "w2": "Skånes Dansteater"
+  },
+  {
+    "q": "Vem var Isadora Duncan?",
+    "a": "Modern dans pionjär",
+    "w1": "Filmskådespelare",
+    "w2": "Operasångerska"
+  },
+  {
+    "q": "Vad är contact improvisation?",
+    "a": "Dansform med beröring och viktbyte",
+    "w1": "Dans utan kontakt",
+    "w2": "Improviserad sång"
+  },
+  {
+    "q": "Vad är release technique?",
+    "a": "Teknik med minimal muskelspänning",
+    "w1": "Att släppa partner",
+    "w2": "Fristil i balett"
+  },
+  {
+    "q": "Vad är floorwork?",
+    "a": "Arbete på golvet",
+    "w1": "Arbete i luften",
+    "w2": "Arbete vid barrén"
+  },
+  {
+    "q": "Vad kännetecknar contemporary dance?",
+    "a": "Samtida blandstil av flera tekniker",
+    "w1": "Strikt klassisk balett",
+    "w2": "Endast pardans"
+  },
+  {
+    "q": "Vad kallas hiphopens dans-element?",
+    "a": "Breaking",
+    "w1": "DJ:ing",
+    "w2": "Graffiti"
+  },
+  {
+    "q": "Vad är popping inom streetdance?",
+    "a": "Rytmisk spänning och slappnad i muskler",
+    "w1": "Att hoppa högt",
+    "w2": "Att snurra på huvudet"
+  },
+  {
+    "q": "Vad är tutting?",
+    "a": "Geometriska armrörelser",
+    "w1": "Benrörelser i cirkel",
+    "w2": "Roliga ansiktsuttryck"
+  },
+  {
+    "q": "Var föddes house dance?",
+    "a": "Klubbar i Chicago och New York",
+    "w1": "Balettsalonger i Paris",
+    "w2": "Gator i Los Angeles"
+  },
+  {
+    "q": "Vilken musikstil dansas charleston till?",
+    "a": "Jazz",
+    "w1": "Opera",
+    "w2": "Reggae"
   }
 ]

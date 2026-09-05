@@ -118,5 +118,125 @@
     "a": "Rednex",
     "w1": "Army of Lovers",
     "w2": "Ace of Base"
+  },
+  {
+    "q": "Vem gjorde 'Money for Nothing'?",
+    "a": "Dire Straits",
+    "w1": "The Police",
+    "w2": "Genesis"
+  },
+  {
+    "q": "Vem gjorde 'Every Breath You Take'?",
+    "a": "The Police",
+    "w1": "Sting",
+    "w2": "Dire Straits"
+  },
+  {
+    "q": "Vad heter The Polices sångare?",
+    "a": "Sting",
+    "w1": "Stewart Copeland",
+    "w2": "Andy Summers"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Africa'?",
+    "a": "Toto",
+    "w1": "Asia",
+    "w2": "Journey"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Livin' on a Prayer'?",
+    "a": "Bon Jovi",
+    "w1": "Def Leppard",
+    "w2": "Aerosmith"
+  },
+  {
+    "q": "Vem sjöng 'Like a Virgin'?",
+    "a": "Madonna",
+    "w1": "Cyndi Lauper",
+    "w2": "Cher"
+  },
+  {
+    "q": "Vem gjorde 'Girls Just Want to Have Fun'?",
+    "a": "Cyndi Lauper",
+    "w1": "Madonna",
+    "w2": "Debbie Harry"
+  },
+  {
+    "q": "Vem sjöng 'Total Eclipse of the Heart'?",
+    "a": "Bonnie Tyler",
+    "w1": "Kim Wilde",
+    "w2": "Tina Turner"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Sweet Dreams'?",
+    "a": "Eurythmics",
+    "w1": "Depeche Mode",
+    "w2": "Soft Cell"
+  },
+  {
+    "q": "Vad heter Eurythmics sångerska?",
+    "a": "Annie Lennox",
+    "w1": "Siouxsie Sioux",
+    "w2": "Alison Moyet"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Relax'?",
+    "a": "Frankie Goes to Hollywood",
+    "w1": "Erasure",
+    "w2": "Pet Shop Boys"
+  },
+  {
+    "q": "Vilken grupp gjorde 'West End Girls'?",
+    "a": "Pet Shop Boys",
+    "w1": "Erasure",
+    "w2": "New Order"
+  },
+  {
+    "q": "Vem var Wham!s frontman?",
+    "a": "George Michael",
+    "w1": "Andrew Ridgeley",
+    "w2": "Rick Astley"
+  },
+  {
+    "q": "Vilket år kom 'Dancing Queen'?",
+    "a": "1976",
+    "w1": "1974",
+    "w2": "1978"
+  },
+  {
+    "q": "Vilket år släpptes 'Thriller'?",
+    "a": "1982",
+    "w1": "1980",
+    "w2": "1984"
+  },
+  {
+    "q": "Vilken ABBA-låt handlar om Fernando?",
+    "a": "Fernando",
+    "w1": "Chiquitita",
+    "w2": "Hasta Mañana"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Rasputin'?",
+    "a": "Boney M",
+    "w1": "Village People",
+    "w2": "KC and the Sunshine Band"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Y.M.C.A.'?",
+    "a": "Village People",
+    "w1": "Boney M",
+    "w2": "The Trammps"
+  },
+  {
+    "q": "Vem sjöng 'Never Gonna Give You Up' 1987?",
+    "a": "Rick Astley",
+    "w1": "George Michael",
+    "w2": "Jason Donovan"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Tainted Love'?",
+    "a": "Soft Cell",
+    "w1": "Depeche Mode",
+    "w2": "Eurythmics"
   }
 ]

@@ -118,5 +118,125 @@
     "a": "Gammalt italienskt bilslopp på Sicilien",
     "w1": "Ett tyskt rally",
     "w2": "En engelsk racingserie"
+  },
+  {
+    "q": "Vilket år grundades Bentley?",
+    "a": "1919",
+    "w1": "1909",
+    "w2": "1929"
+  },
+  {
+    "q": "Vem grundade Bentley?",
+    "a": "W.O. Bentley",
+    "w1": "Ettore Bentley",
+    "w2": "Henry Bentley"
+  },
+  {
+    "q": "Vilket år grundades Rolls-Royce?",
+    "a": "1906",
+    "w1": "1886",
+    "w2": "1926"
+  },
+  {
+    "q": "Vad heter Rolls-Royces maskot på huven?",
+    "a": "The Spirit of Ecstasy",
+    "w1": "The Flying Lady of Silver",
+    "w2": "The Silver Star"
+  },
+  {
+    "q": "Vilken bil från 1954 är känd för sina måsdörrar?",
+    "a": "Mercedes 300 SL",
+    "w1": "Porsche 959",
+    "w2": "Jaguar E-type"
+  },
+  {
+    "q": "Vilket år kom Citroën DS?",
+    "a": "1955",
+    "w1": "1945",
+    "w2": "1965"
+  },
+  {
+    "q": "Vad betyder DS på franska (uttal)?",
+    "a": "Déesse, alltså gudinnan",
+    "w1": "Désole, alltså ledsen",
+    "w2": "Doux, alltså mjuk"
+  },
+  {
+    "q": "Vilket år debuterade Audi Ur-quattro?",
+    "a": "1980",
+    "w1": "1970",
+    "w2": "1990"
+  },
+  {
+    "q": "Vem kallades 'Il Commendatore'?",
+    "a": "Enzo Ferrari",
+    "w1": "Ferruccio Lamborghini",
+    "w2": "Sergio Pininfarina"
+  },
+  {
+    "q": "Vilket designfirma formgav många Ferraris?",
+    "a": "Pininfarina",
+    "w1": "Bertone",
+    "w2": "Zagato"
+  },
+  {
+    "q": "Vad tillverkade Lamborghini innan bilar?",
+    "a": "Traktorer",
+    "w1": "Mopeder",
+    "w2": "Kylskåp"
+  },
+  {
+    "q": "Vem designade McLaren F1?",
+    "a": "Gordon Murray",
+    "w1": "Adrian Newey",
+    "w2": "Peter Stevens"
+  },
+  {
+    "q": "Vilket år kom McLaren F1?",
+    "a": "1992",
+    "w1": "1988",
+    "w2": "1998"
+  },
+  {
+    "q": "Vilken motor hade McLaren F1?",
+    "a": "BMW V12",
+    "w1": "Honda V12",
+    "w2": "Mercedes V8"
+  },
+  {
+    "q": "Vilket år grundades Alfa Romeo som A.L.F.A.?",
+    "a": "1910",
+    "w1": "1890",
+    "w2": "1930"
+  },
+  {
+    "q": "Från vilken stad kommer Alfa Romeo?",
+    "a": "Milano",
+    "w1": "Turin",
+    "w2": "Rom"
+  },
+  {
+    "q": "Vilket år kom Mazda MX-5?",
+    "a": "1989",
+    "w1": "1979",
+    "w2": "1999"
+  },
+  {
+    "q": "Vilket år lanserades Ford T?",
+    "a": "1908",
+    "w1": "1898",
+    "w2": "1918"
+  },
+  {
+    "q": "Ungefär hur många T-Fordar byggdes?",
+    "a": "Över 15 miljoner",
+    "w1": "Cirka 1,5 miljoner",
+    "w2": "Cirka 150 000"
+  },
+  {
+    "q": "Vad är Bugatti Chirons begränsade toppfart?",
+    "a": "420 km/h",
+    "w1": "380 km/h",
+    "w2": "460 km/h"
   }
 ]

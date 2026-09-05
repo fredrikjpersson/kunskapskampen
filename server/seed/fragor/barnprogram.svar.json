@@ -118,5 +118,125 @@
     "a": "Alexander Lukas",
     "w1": "Knatte",
     "w2": "Knut Anka"
+  },
+  {
+    "q": "Vilket år kom den första Harry Potter-filmen?",
+    "a": "2001",
+    "w1": "1999",
+    "w2": "2003"
+  },
+  {
+    "q": "Vem spelade Harry Potter i filmerna?",
+    "a": "Daniel Radcliffe",
+    "w1": "Rupert Grint",
+    "w2": "Tom Felton"
+  },
+  {
+    "q": "Vem spelade Hermione?",
+    "a": "Emma Watson",
+    "w1": "Bonnie Wright",
+    "w2": "Evanna Lynch"
+  },
+  {
+    "q": "Vem skrev musiken till Harry Potter-filmerna?",
+    "a": "John Williams",
+    "w1": "Hans Zimmer",
+    "w2": "Danny Elfman"
+  },
+  {
+    "q": "Vilket år gavs 'Mio min Mio' ut?",
+    "a": "1954",
+    "w1": "1948",
+    "w2": "1960"
+  },
+  {
+    "q": "Vilket år sändes 'Vi på Saltkråkan' först?",
+    "a": "1964",
+    "w1": "1958",
+    "w2": "1970"
+  },
+  {
+    "q": "Vem regisserade 'Vi på Saltkråkan'?",
+    "a": "Olle Hellbom",
+    "w1": "Tage Danielsson",
+    "w2": "Lasse Hallström"
+  },
+  {
+    "q": "Vad heter familjen Simpsons hund?",
+    "a": "Santa's Little Helper",
+    "w1": "Snowball",
+    "w2": "Lassie"
+  },
+  {
+    "q": "Vad heter Simpsons snälla granne?",
+    "a": "Ned Flanders",
+    "w1": "Mr Burns",
+    "w2": "Rektor Skinner"
+  },
+  {
+    "q": "Vem driver kärnkraftverket i Simpsons?",
+    "a": "Mr Burns",
+    "w1": "Smithers",
+    "w2": "Homer"
+  },
+  {
+    "q": "Vad heter pizzabudet i Futurama?",
+    "a": "Fry",
+    "w1": "Bender",
+    "w2": "Leela"
+  },
+  {
+    "q": "Vad heter roboten i Futurama?",
+    "a": "Bender",
+    "w1": "Fry",
+    "w2": "Zoidberg"
+  },
+  {
+    "q": "Vilken färg har Kyles hatt i South Park?",
+    "a": "Grön",
+    "w1": "Röd",
+    "w2": "Blå"
+  },
+  {
+    "q": "Vad heter Marios bror?",
+    "a": "Luigi",
+    "w1": "Wario",
+    "w2": "Waluigi"
+  },
+  {
+    "q": "Vad heter prinsessan i Mario-spelen?",
+    "a": "Peach",
+    "w1": "Daisy",
+    "w2": "Rosalina"
+  },
+  {
+    "q": "Vad heter Marios ärkefiende?",
+    "a": "Bowser",
+    "w1": "Donkey Kong",
+    "w2": "Wario"
+  },
+  {
+    "q": "Vilket djur är Sonic?",
+    "a": "Piggsvin",
+    "w1": "Kanin",
+    "w2": "Mus"
+  },
+  {
+    "q": "Vad heter prinsessan i Zelda-spelen?",
+    "a": "Zelda",
+    "w1": "Ganon",
+    "w2": "Link"
+  },
+  {
+    "q": "Vilken region börjar Pokémon-resan i?",
+    "a": "Kanto",
+    "w1": "Johto",
+    "w2": "Hoenn"
+  },
+  {
+    "q": "Vad har Mario för yrke?",
+    "a": "Rörmokare",
+    "w1": "Elektriker",
+    "w2": "Snickare"
   }
 ]

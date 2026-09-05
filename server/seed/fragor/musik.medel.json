@@ -118,5 +118,125 @@
     "a": "Michael Jackson",
     "w1": "Prince",
     "w2": "Stevie Wonder"
+  },
+  {
+    "q": "Vem sjöng 'Euphoria' i Eurovision 2012?",
+    "a": "Loreen",
+    "w1": "Carola",
+    "w2": "Måns Zelmerlöw"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Gimme! Gimme! Gimme!'?",
+    "a": "ABBA",
+    "w1": "Secret Service",
+    "w2": "Gyllene Tider"
+  },
+  {
+    "q": "Vilket land kommer Rihanna ifrån?",
+    "a": "Barbados",
+    "w1": "Jamaica",
+    "w2": "USA"
+  },
+  {
+    "q": "Vilket land kommer Justin Bieber ifrån?",
+    "a": "Kanada",
+    "w1": "USA",
+    "w2": "Storbritannien"
+  },
+  {
+    "q": "Vilken artist gjorde 'Bad Guy'?",
+    "a": "Billie Eilish",
+    "w1": "Ariana Grande",
+    "w2": "Dua Lipa"
+  },
+  {
+    "q": "Vilken grupp uppträdde legendariskt på Live Aid 1985?",
+    "a": "Queen",
+    "w1": "U2",
+    "w2": "Dire Straits"
+  },
+  {
+    "q": "Vem sjöng 'Titanium' med David Guetta?",
+    "a": "Sia",
+    "w1": "Rihanna",
+    "w2": "Beyoncé"
+  },
+  {
+    "q": "Vem kallas 'Slim Shady'?",
+    "a": "Eminem",
+    "w1": "Dr. Dre",
+    "w2": "50 Cent"
+  },
+  {
+    "q": "Vad heter Metallicas trumslagare?",
+    "a": "Lars Ulrich",
+    "w1": "James Hetfield",
+    "w2": "Kirk Hammett"
+  },
+  {
+    "q": "Vad heter Guns N' Roses sångare?",
+    "a": "Axl Rose",
+    "w1": "Slash",
+    "w2": "Izzy Stradlin"
+  },
+  {
+    "q": "Vilket är världens mest sålda album?",
+    "a": "Thriller",
+    "w1": "Back in Black",
+    "w2": "The Dark Side of the Moon"
+  },
+  {
+    "q": "Vilken grupp består av tre svenska DJs?",
+    "a": "Swedish House Mafia",
+    "w1": "Avicii",
+    "w2": "Icona Pop"
+  },
+  {
+    "q": "Vad kallas det när bandet övar inför konsert?",
+    "a": "Repetition",
+    "w1": "Föreställning",
+    "w2": "Turné"
+  },
+  {
+    "q": "Vad kallas listan över låtar som spelas på en konsert?",
+    "a": "Setlist",
+    "w1": "Spellista",
+    "w2": "Notblad"
+  },
+  {
+    "q": "Vad betyder 'feat.' i en låttitel?",
+    "a": "Gästartist",
+    "w1": "Bonus",
+    "w2": "Remix"
+  },
+  {
+    "q": "Vad betyder 'remix'?",
+    "a": "Ny version av en låt",
+    "w1": "Borttagen låt",
+    "w2": "Liveversion"
+  },
+  {
+    "q": "Vad kallas den som skriver låttexter?",
+    "a": "Lyricist",
+    "w1": "Notförfattare",
+    "w2": "Dirigent"
+  },
+  {
+    "q": "Vad kallas ett musikstycke utan sång?",
+    "a": "Instrumental",
+    "w1": "A cappella",
+    "w2": "Duett"
+  },
+  {
+    "q": "Vem sjöng 'Guld och gröna skogar'?",
+    "a": "Kikki Danielsson",
+    "w1": "Lotta Engberg",
+    "w2": "Carola"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Wannabe' 1996?",
+    "a": "Spice Girls",
+    "w1": "TLC",
+    "w2": "Destiny's Child"
   }
 ]

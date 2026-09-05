@@ -78,10 +78,10 @@
     "w2": "1972"
   },
   {
-    "q": "Vilket år släpptes 'Thriller'?",
-    "a": "1982",
-    "w1": "1980",
-    "w2": "1984"
+    "q": "Vilket år släppte Michael Jackson 'Bad'?",
+    "a": "1987",
+    "w1": "1985",
+    "w2": "1989"
   },
   {
     "q": "Vem var reggaens största ikon?",
@@ -118,5 +118,125 @@
     "a": "Diggi-Loo Diggi-Ley",
     "w1": "Waterloo",
     "w2": "Fångad av en stormvind"
+  },
+  {
+    "q": "Vilket år dog Tupac Shakur?",
+    "a": "1996",
+    "w1": "1994",
+    "w2": "1998"
+  },
+  {
+    "q": "Vilket år dog The Notorious B.I.G.?",
+    "a": "1997",
+    "w1": "1995",
+    "w2": "1999"
+  },
+  {
+    "q": "Vem kallades 'Queen of Disco'?",
+    "a": "Donna Summer",
+    "w1": "Gloria Gaynor",
+    "w2": "Sylvester"
+  },
+  {
+    "q": "Vilken producent skapade 'Wall of Sound'?",
+    "a": "Phil Spector",
+    "w1": "George Martin",
+    "w2": "Brian Wilson"
+  },
+  {
+    "q": "Vilket låtskrivardu skrev 'Jailhouse Rock'?",
+    "a": "Leiber & Stoller",
+    "w1": "Goffin & King",
+    "w2": "Mann & Weil"
+  },
+  {
+    "q": "Vad kallades Beatles-manager Brian Epstein ibland?",
+    "a": "Den femte Beatlen",
+    "w1": "Den sjätte Beatlen",
+    "w2": "Beatlernas far"
+  },
+  {
+    "q": "Vad hette Beatles innan de blev Beatles?",
+    "a": "The Quarrymen",
+    "w1": "The Silver Beetles",
+    "w2": "Johnny and the Moondogs"
+  },
+  {
+    "q": "Vad var Beatles första singel?",
+    "a": "Love Me Do",
+    "w1": "Please Please Me",
+    "w2": "From Me to You"
+  },
+  {
+    "q": "Vad var Beatles sista singel?",
+    "a": "The Long and Winding Road",
+    "w1": "Let It Be",
+    "w2": "Come Together"
+  },
+  {
+    "q": "Vem kallas 'Slowhand'?",
+    "a": "Eric Clapton",
+    "w1": "Jeff Beck",
+    "w2": "Jimmy Page"
+  },
+  {
+    "q": "I vilken grupp var Eric Clapton INTE medlem?",
+    "a": "Rolling Stones",
+    "w1": "Cream",
+    "w2": "Yardbirds"
+  },
+  {
+    "q": "Vilken grupp gjorde 'House of the Rising Sun'?",
+    "a": "The Animals",
+    "w1": "The Kinks",
+    "w2": "The Yardbirds"
+  },
+  {
+    "q": "Vem kallades 'The Lizard King'?",
+    "a": "Jim Morrison",
+    "w1": "Janis Joplin",
+    "w2": "Jim Croce"
+  },
+  {
+    "q": "Vilken grupp var Jim Morrison sångare i?",
+    "a": "The Doors",
+    "w1": "The Byrds",
+    "w2": "Steppenwolf"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Born to Be Wild'?",
+    "a": "Steppenwolf",
+    "w1": "Iron Butterfly",
+    "w2": "Blue Cheer"
+  },
+  {
+    "q": "Vilken grupp gjorde 'In-A-Gadda-Da-Vida'?",
+    "a": "Iron Butterfly",
+    "w1": "Steppenwolf",
+    "w2": "Vanilla Fudge"
+  },
+  {
+    "q": "Vilket år grundades Motown?",
+    "a": "1959",
+    "w1": "1949",
+    "w2": "1969"
+  },
+  {
+    "q": "Vem gjorde albumet 'What's Going On'?",
+    "a": "Marvin Gaye",
+    "w1": "Stevie Wonder",
+    "w2": "Curtis Mayfield"
+  },
+  {
+    "q": "Vem kallas 'Godfather of Soul'?",
+    "a": "James Brown",
+    "w1": "Ray Charles",
+    "w2": "Otis Redding"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Gloria' på 60-talet?",
+    "a": "Them",
+    "w1": "The Shadows",
+    "w2": "The Pretty Things"
   }
 ]

@@ -118,5 +118,125 @@
     "a": "USA",
     "w1": "Kanada",
     "w2": "Australien"
+  },
+  {
+    "q": "Vilken är Europas folkrikaste stad?",
+    "a": "Istanbul",
+    "w1": "London",
+    "w2": "Moskva"
+  },
+  {
+    "q": "Vilket land har huvudstaden Sofia?",
+    "a": "Bulgarien",
+    "w1": "Rumänien",
+    "w2": "Serbien"
+  },
+  {
+    "q": "Vad heter Albaniens huvudstad?",
+    "a": "Tirana",
+    "w1": "Skopje",
+    "w2": "Pristina"
+  },
+  {
+    "q": "Vad heter Nordmakedoniens huvudstad?",
+    "a": "Skopje",
+    "w1": "Tirana",
+    "w2": "Sofia"
+  },
+  {
+    "q": "Vilket land har huvudstaden Zagreb?",
+    "a": "Kroatien",
+    "w1": "Slovenien",
+    "w2": "Bosnien"
+  },
+  {
+    "q": "Vad heter Bosniens huvudstad?",
+    "a": "Sarajevo",
+    "w1": "Zagreb",
+    "w2": "Ljubljana"
+  },
+  {
+    "q": "Vad heter Serbiens huvudstad?",
+    "a": "Belgrad",
+    "w1": "Sarajevo",
+    "w2": "Skopje"
+  },
+  {
+    "q": "Vilket land är Afrikas folkrikaste?",
+    "a": "Nigeria",
+    "w1": "Etiopien",
+    "w2": "Egypten"
+  },
+  {
+    "q": "Vilken är Sydamerikas folkrikaste stad?",
+    "a": "São Paulo",
+    "w1": "Buenos Aires",
+    "w2": "Lima"
+  },
+  {
+    "q": "Vilken är Nordamerikas folkrikaste stad?",
+    "a": "Mexico City",
+    "w1": "New York",
+    "w2": "Los Angeles"
+  },
+  {
+    "q": "Vilken flod flyter genom Kairo?",
+    "a": "Nilen",
+    "w1": "Tigris",
+    "w2": "Eufrat"
+  },
+  {
+    "q": "Vad är världens djupaste sjö?",
+    "a": "Bajkalsjön",
+    "w1": "Kaspiska havet",
+    "w2": "Vänern"
+  },
+  {
+    "q": "Vilket hav ligger mellan Grekland och Turkiet?",
+    "a": "Egeiska havet",
+    "w1": "Adriatiska havet",
+    "w2": "Svarta havet"
+  },
+  {
+    "q": "Vad kallas den stora vik som skiljer Sverige och Finland?",
+    "a": "Bottniska viken",
+    "w1": "Finska viken",
+    "w2": "Oslofjorden"
+  },
+  {
+    "q": "Vilken ögrupp tillhör Spanien?",
+    "a": "Balearerna",
+    "w1": "Sardinien",
+    "w2": "Korsika"
+  },
+  {
+    "q": "Vilken ö tillhör Portugal?",
+    "a": "Madeira",
+    "w1": "Kanarieöarna",
+    "w2": "Balearerna"
+  },
+  {
+    "q": "Vilket land är helt omslutet av Italien?",
+    "a": "San Marino",
+    "w1": "Liechtenstein",
+    "w2": "Andorra"
+  },
+  {
+    "q": "Vilket land ligger mellan Frankrike och Spanien?",
+    "a": "Andorra",
+    "w1": "Portugal",
+    "w2": "Monaco"
+  },
+  {
+    "q": "Vilket land ligger mellan Schweiz och Österrike?",
+    "a": "Liechtenstein",
+    "w1": "Luxemburg",
+    "w2": "Slovenien"
+  },
+  {
+    "q": "Vilken nordisk huvudstad ligger nordligast?",
+    "a": "Reykjavik",
+    "w1": "Helsingfors",
+    "w2": "Oslo"
   }
 ]

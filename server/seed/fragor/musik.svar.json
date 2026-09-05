@@ -118,5 +118,125 @@
     "a": "Leonard Cohen",
     "w1": "Jeff Buckley",
     "w2": "Bob Dylan"
+  },
+  {
+    "q": "Vem sjöng 'I Will Always Love You' i Bodyguard?",
+    "a": "Whitney Houston",
+    "w1": "Mariah Carey",
+    "w2": "Celine Dion"
+  },
+  {
+    "q": "Vem är sångare i Iron Maiden?",
+    "a": "Bruce Dickinson",
+    "w1": "Rob Halford",
+    "w2": "Ozzy Osbourne"
+  },
+  {
+    "q": "Vem var Led Zeppelins sångare?",
+    "a": "Robert Plant",
+    "w1": "Jimmy Page",
+    "w2": "John Bonham"
+  },
+  {
+    "q": "Vem spelade gitarr i Queen?",
+    "a": "Brian May",
+    "w1": "Roger Taylor",
+    "w2": "John Deacon"
+  },
+  {
+    "q": "Vem spelade bas i The Beatles?",
+    "a": "Paul McCartney",
+    "w1": "John Lennon",
+    "w2": "George Harrison"
+  },
+  {
+    "q": "Vilken Beatle sjöng 'Imagine' som soloartist?",
+    "a": "John Lennon",
+    "w1": "Paul McCartney",
+    "w2": "Ringo Starr"
+  },
+  {
+    "q": "Vilket år dog Kurt Cobain?",
+    "a": "1994",
+    "w1": "1992",
+    "w2": "1996"
+  },
+  {
+    "q": "Vilken artist kallas 'Mother Monster'?",
+    "a": "Lady Gaga",
+    "w1": "Katy Perry",
+    "w2": "Madonna"
+  },
+  {
+    "q": "Vilken sångerska är gift med Jay-Z?",
+    "a": "Beyoncé",
+    "w1": "Rihanna",
+    "w2": "Nicki Minaj"
+  },
+  {
+    "q": "Vilken Foo Fighters-frontman var trummis i Nirvana?",
+    "a": "Dave Grohl",
+    "w1": "Chad Channing",
+    "w2": "Krist Novoselic"
+  },
+  {
+    "q": "Vad heter Ozzy Osbournes gamla band?",
+    "a": "Black Sabbath",
+    "w1": "Judas Priest",
+    "w2": "Rainbow"
+  },
+  {
+    "q": "Vem sjöng 'Space Oddity'?",
+    "a": "David Bowie",
+    "w1": "Elton John",
+    "w2": "Marc Bolan"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Wonderwall'?",
+    "a": "Oasis",
+    "w1": "Blur",
+    "w2": "Pulp"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Creep'?",
+    "a": "Radiohead",
+    "w1": "Muse",
+    "w2": "Coldplay"
+  },
+  {
+    "q": "Vem sjöng 'Wrecking Ball'?",
+    "a": "Miley Cyrus",
+    "w1": "Selena Gomez",
+    "w2": "Demi Lovato"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Take On Me'?",
+    "a": "a-ha",
+    "w1": "Alphaville",
+    "w2": "Tears for Fears"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Enter Sandman'?",
+    "a": "Metallica",
+    "w1": "Megadeth",
+    "w2": "Slayer"
+  },
+  {
+    "q": "Vad hette The Beatles eget skivmärke?",
+    "a": "Apple Records",
+    "w1": "Apple Corps Music",
+    "w2": "Abbey Road Records"
+  },
+  {
+    "q": "Vem sjöng 'At Last'?",
+    "a": "Etta James",
+    "w1": "Billie Holiday",
+    "w2": "Nina Simone"
+  },
+  {
+    "q": "Vad hette The Whos trummis?",
+    "a": "Keith Moon",
+    "w1": "John Entwistle",
+    "w2": "Kenney Jones"
   }
 ]

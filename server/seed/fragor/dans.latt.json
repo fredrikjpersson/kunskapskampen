@@ -118,5 +118,125 @@
     "a": "Dansegolv",
     "w1": "Dansbord",
     "w2": "Dansmatta"
+  },
+  {
+    "q": "Vilket land kommer dansen Riverdance ifrån?",
+    "a": "Irland",
+    "w1": "Skottland",
+    "w2": "England"
+  },
+  {
+    "q": "Vilken dans dansas ofta först på svenska bröllop?",
+    "a": "Brudvals",
+    "w1": "Tango",
+    "w2": "Samba"
+  },
+  {
+    "q": "Vad kallas flera som dansar samma koreografi?",
+    "a": "En dansgrupp",
+    "w1": "Ett band",
+    "w2": "En orkester"
+  },
+  {
+    "q": "Vilken lek går ut på att gå under en 'bro' av armar?",
+    "a": "Bro bro breja",
+    "w1": "Kull",
+    "w2": "Kurragömma"
+  },
+  {
+    "q": "Vad heter en som lär ut dans?",
+    "a": "Dansläraren",
+    "w1": "Köksmästaren",
+    "w2": "Vaktmästaren"
+  },
+  {
+    "q": "Vad heter stället där man lär sig dansa?",
+    "a": "Dansskolan",
+    "w1": "Simskolan",
+    "w2": "Skidskolan"
+  },
+  {
+    "q": "Vilka tights bär balettdansörer?",
+    "a": "Trikåer",
+    "w1": "Jeans",
+    "w2": "Kavajbyxor"
+  },
+  {
+    "q": "Vad kallas det att gå i takt som soldater?",
+    "a": "Att marschera",
+    "w1": "Att springa",
+    "w2": "Att hoppa"
+  },
+  {
+    "q": "Vad kallas två som dansar tillsammans?",
+    "a": "Ett danspar",
+    "w1": "Ett dansband",
+    "w2": "En kör"
+  },
+  {
+    "q": "Vilken musikgrupp spelar dansmusik på svenska?",
+    "a": "Ett dansband",
+    "w1": "Ett rockband",
+    "w2": "En symfoniorkester"
+  },
+  {
+    "q": "Vilken årstid dansar man runt majstången?",
+    "a": "Sommar",
+    "w1": "Vinter",
+    "w2": "Höst"
+  },
+  {
+    "q": "Vad snurrar man runt på midsommar?",
+    "a": "Majstången",
+    "w1": "Julgranen",
+    "w2": "Påskriset"
+  },
+  {
+    "q": "Vilket instrument hörs ofta vid svensk folkdans?",
+    "a": "Dragspelet",
+    "w1": "Trumman",
+    "w2": "Trumpeten"
+  },
+  {
+    "q": "Vad bär man ofta vid svensk folkdans?",
+    "a": "Folkdräkt",
+    "w1": "Kavaj",
+    "w2": "Regnkläder"
+  },
+  {
+    "q": "Vad kallas dans från olika bygder?",
+    "a": "Folkdans",
+    "w1": "Gatudans",
+    "w2": "Modedans"
+  },
+  {
+    "q": "Från vilket land kommer breakdance mest?",
+    "a": "USA",
+    "w1": "Kina",
+    "w2": "Ryssland"
+  },
+  {
+    "q": "Vad heter fest med masker och dans?",
+    "a": "Maskerad",
+    "w1": "Karneval",
+    "w2": "Bröllop"
+  },
+  {
+    "q": "Vilket plagg snurrar vackert vid dans?",
+    "a": "Kjolen",
+    "w1": "Byxorna",
+    "w2": "Tröjan"
+  },
+  {
+    "q": "Vad kallas ett steg man tar i dans?",
+    "a": "Ett danssteg",
+    "w1": "Ett gångsteg",
+    "w2": "Ett löpsteg"
+  },
+  {
+    "q": "Vilken insekt 'dansar' för att visa var nektar finns?",
+    "a": "Biet",
+    "w1": "Myran",
+    "w2": "Getingen"
   }
 ]

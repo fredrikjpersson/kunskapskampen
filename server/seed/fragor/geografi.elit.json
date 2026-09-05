@@ -118,5 +118,125 @@
     "a": "Pyongyang",
     "w1": "Seoul",
     "w2": "Busan"
+  },
+  {
+    "q": "Vad är världens sydligaste huvudstad?",
+    "a": "Wellington",
+    "w1": "Canberra",
+    "w2": "Buenos Aires"
+  },
+  {
+    "q": "Vilket land har huvudstaden Paramaribo?",
+    "a": "Surinam",
+    "w1": "Guyana",
+    "w2": "Trinidad"
+  },
+  {
+    "q": "Vad heter Guyanas huvudstad?",
+    "a": "Georgetown",
+    "w1": "Paramaribo",
+    "w2": "Cayenne"
+  },
+  {
+    "q": "Vad heter Bhutans huvudstad?",
+    "a": "Thimphu",
+    "w1": "Kathmandu",
+    "w2": "Dhaka"
+  },
+  {
+    "q": "Vad heter Nepals huvudstad?",
+    "a": "Kathmandu",
+    "w1": "Thimphu",
+    "w2": "Pokhara"
+  },
+  {
+    "q": "Vad heter Myanmars huvudstad?",
+    "a": "Naypyidaw",
+    "w1": "Yangon",
+    "w2": "Mandalay"
+  },
+  {
+    "q": "Vad heter Sri Lankas officiella huvudstad?",
+    "a": "Sri Jayawardenepura",
+    "w1": "Colombo",
+    "w2": "Kandy"
+  },
+  {
+    "q": "Vad hette Astana åren 2019-2022?",
+    "a": "Nur-Sultan",
+    "w1": "Almaty",
+    "w2": "Karaganda"
+  },
+  {
+    "q": "Vad hette Sankt Petersburg 1924-1991?",
+    "a": "Leningrad",
+    "w1": "Petrograd",
+    "w2": "Stalingrad"
+  },
+  {
+    "q": "Vad hette Volgograd under sovjettiden?",
+    "a": "Stalingrad",
+    "w1": "Saratov",
+    "w2": "Samara"
+  },
+  {
+    "q": "Vad är Förenade arabemiratens huvudstad?",
+    "a": "Abu Dhabi",
+    "w1": "Dubai",
+    "w2": "Sharjah"
+  },
+  {
+    "q": "Vad är USA:s högsta berg?",
+    "a": "Denali",
+    "w1": "Mount Whitney",
+    "w2": "Mount Elbert"
+  },
+  {
+    "q": "Vad är Kanadas högsta berg?",
+    "a": "Mount Logan",
+    "w1": "Mount Columbia",
+    "w2": "Mont Tremblant"
+  },
+  {
+    "q": "Vad är Australiens högsta berg på fastlandet?",
+    "a": "Mount Kosciuszko",
+    "w1": "Uluru",
+    "w2": "Mount Bruce"
+  },
+  {
+    "q": "Vilket hav ligger mellan Grönland och Island?",
+    "a": "Danmarksundet",
+    "w1": "Norska havet",
+    "w2": "Labradorhavet"
+  },
+  {
+    "q": "Vilket hav skiljer Danmark och Norge?",
+    "a": "Skagerrak",
+    "w1": "Kattegatt",
+    "w2": "Öresund"
+  },
+  {
+    "q": "Vad är världens största ö?",
+    "a": "Grönland",
+    "w1": "Nya Guinea",
+    "w2": "Borneo"
+  },
+  {
+    "q": "Vilken ö-nation är Afrikas minsta land?",
+    "a": "Seychellerna",
+    "w1": "Mauritius",
+    "w2": "Komorerna"
+  },
+  {
+    "q": "Vilket är Afrikas minsta land på fastlandet?",
+    "a": "Gambia",
+    "w1": "Djibouti",
+    "w2": "Eswatini"
+  },
+  {
+    "q": "Vad heter Nigers huvudstad?",
+    "a": "Niamey",
+    "w1": "Bamako",
+    "w2": "Ouagadougou"
   }
 ]

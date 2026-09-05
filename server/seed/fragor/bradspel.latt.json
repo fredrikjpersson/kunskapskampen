@@ -118,5 +118,125 @@
     "a": "Boggle",
     "w1": "Scrabble",
     "w2": "Alfapet"
+  },
+  {
+    "q": "I vilket spel förklarar man ord utan att säga vissa förbjudna ord?",
+    "a": "Alias",
+    "w1": "Monopol",
+    "w2": "Yatzy"
+  },
+  {
+    "q": "Vad kallas spelet med tusen bitar som ska läggas ihop?",
+    "a": "Ett pussel",
+    "w1": "En klocka",
+    "w2": "En kartong"
+  },
+  {
+    "q": "Vilket spel spelas med runda brickor på ett schackbräde?",
+    "a": "Dam",
+    "w1": "Ludo",
+    "w2": "Fia med knuff"
+  },
+  {
+    "q": "Vilket kortspel gäller att komma så nära 21 som möjligt?",
+    "a": "Tjugoett",
+    "w1": "Poker",
+    "w2": "Whist"
+  },
+  {
+    "q": "I vilket kortspel ska man undvika hjärter?",
+    "a": "Hjärter",
+    "w1": "Spader",
+    "w2": "Klöver"
+  },
+  {
+    "q": "Vad kallas ett drag man gör i schack?",
+    "a": "Ett drag",
+    "w1": "Ett steg",
+    "w2": "Ett hopp"
+  },
+  {
+    "q": "Hur många sidor har en vanlig tärning?",
+    "a": "6",
+    "w1": "4",
+    "w2": "8"
+  },
+  {
+    "q": "Vad gör man med tärningen innan draget?",
+    "a": "Rullar tärningen",
+    "w1": "Kastar kortet",
+    "w2": "Slår bordet"
+  },
+  {
+    "q": "Vad kallas de små figurerna i spel?",
+    "a": "Pjäser",
+    "w1": "Klossar",
+    "w2": "Dockor"
+  },
+  {
+    "q": "Vad kallas spelplanen i brädspel?",
+    "a": "Brädet",
+    "w1": "Skärmen",
+    "w2": "Duken"
+  },
+  {
+    "q": "Vad kallas boken med spelets regler?",
+    "a": "Regelboken",
+    "w1": "Sagan",
+    "w2": "Katalogen"
+  },
+  {
+    "q": "I vilket spel skjuter man brickor i en labyrint?",
+    "a": "Labyrint",
+    "w1": "Fia med knuff",
+    "w2": "Krocket"
+  },
+  {
+    "q": "I vilket spel lägger man sifferbrickar i serier?",
+    "a": "Rummikub",
+    "w1": "Scrabble",
+    "w2": "Domino"
+  },
+  {
+    "q": "Vilket spel ställer man brickor på högkant i rad?",
+    "a": "Domino",
+    "w1": "Rummikub",
+    "w2": "Mikado"
+  },
+  {
+    "q": "Vilken lek går ut på att lägga geometriska bitar till figurer?",
+    "a": "Tangram",
+    "w1": "Klossar",
+    "w2": "Pinnar"
+  },
+  {
+    "q": "I vilket spel frågar man 'har din person glasögon'?",
+    "a": "Gissa vem",
+    "w1": "Cluedo",
+    "w2": "Alias"
+  },
+  {
+    "q": "I vilket spel kastar man klot nära en litekula?",
+    "a": "Pétanque",
+    "w1": "Krocket",
+    "w2": "Bowling"
+  },
+  {
+    "q": "I vilket spel flyttar man kulor över ett stjärnbräde?",
+    "a": "Kinaschack",
+    "w1": "Dam",
+    "w2": "Fia med knuff"
+  },
+  {
+    "q": "I vilket spelritar man X och O i rutnät?",
+    "a": "Tre i rad",
+    "w1": "Fyra i rad",
+    "w2": "Ludo"
+  },
+  {
+    "q": "Vad kallas samlingen av 52 spelkort?",
+    "a": "Kortleken",
+    "w1": "Korthögen",
+    "w2": "Kortboken"
   }
 ]

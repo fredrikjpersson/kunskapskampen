@@ -118,5 +118,125 @@
     "a": "Ett rörelsespråk av Ohad Naharin",
     "w1": "En dansmusikgenre",
     "w2": "En balettstil från Milano"
+  },
+  {
+    "q": "Vad betyder 'dévéloppé' i balett?",
+    "a": "Att utveckla (sträcka benet långsamt)",
+    "w1": "Att dubblera tempot",
+    "w2": "Att dansa i par"
+  },
+  {
+    "q": "Vad betyder 'effacé'?",
+    "a": "Öppen, avskärmad position",
+    "w1": "Stängd position",
+    "w2": "Bakvänd position"
+  },
+  {
+    "q": "Vad betyder 'en dehors'?",
+    "a": "Utåt",
+    "w1": "Inåt",
+    "w2": "Framåt"
+  },
+  {
+    "q": "Vad betyder 'en dedans'?",
+    "a": "Inåt",
+    "w1": "Utåt",
+    "w2": "Bakåt"
+  },
+  {
+    "q": "Hur ser balettens femte position ut?",
+    "a": "Fötter tätt tå mot häl",
+    "w1": "Fötter isär i spärr",
+    "w2": "En fot på knäet"
+  },
+  {
+    "q": "Vad är en entrechat?",
+    "a": "Slaghopp på stället",
+    "w1": "En långsam snurr",
+    "w2": "En bugning"
+  },
+  {
+    "q": "Vem var Ludvig XIV:s dansmästare?",
+    "a": "Pierre Beauchamp",
+    "w1": "Raoul Feuillet",
+    "w2": "Jean-Baptiste Lully"
+  },
+  {
+    "q": "Vem grundade Académie Royale de Danse 1661?",
+    "a": "Ludvig XIV",
+    "w1": "Pierre Beauchamp",
+    "w2": "Molière"
+  },
+  {
+    "q": "Vem skrev 'Lettres sur la danse'?",
+    "a": "Jean-Georges Noverre",
+    "w1": "Marius Petipa",
+    "w2": "Carlo Blasis"
+  },
+  {
+    "q": "Vad är ballet d'action?",
+    "a": "Dramatisk balett utan ord",
+    "w1": "Balett med sång",
+    "w2": "Komisk balett"
+  },
+  {
+    "q": "Vem var Marie Taglioni?",
+    "a": "Ballerina, pionjär på spets",
+    "w1": "Koreograf vid Bolsjoj",
+    "w2": "Operasångerska"
+  },
+  {
+    "q": "Vem grundade Svenska Baletten i Paris?",
+    "a": "Rolf de Maré",
+    "w1": "Ingmar Bergman",
+    "w2": "August Strindberg"
+  },
+  {
+    "q": "Vem var Svenska Balettens stjärnkoreograf?",
+    "a": "Jean Börlin",
+    "w1": "Rolf de Maré",
+    "w2": "Maurice Béjart"
+  },
+  {
+    "q": "I vilken stad är John Neumeier verksam?",
+    "a": "Hamburg",
+    "w1": "München",
+    "w2": "Berlin"
+  },
+  {
+    "q": "Vad är gagaku?",
+    "a": "Japansk hovmusik och dans",
+    "w1": "Koreansk folkdans",
+    "w2": "Indisk tempeldans"
+  },
+  {
+    "q": "Vad är kathakali?",
+    "a": "Indiskt dansdrama",
+    "w1": "Japansk teater",
+    "w2": "Thailändsk dockteater"
+  },
+  {
+    "q": "Vad är butō?",
+    "a": "Japansk experimentell dansform",
+    "w1": "Brasiliansk kampdans",
+    "w2": "Spansk pardans"
+  },
+  {
+    "q": "Från vilken ö kommer dansen kecak?",
+    "a": "Bali",
+    "w1": "Java",
+    "w2": "Sumatra"
+  },
+  {
+    "q": "Vilken brasiliansk 'danskampsport' kallas lek?",
+    "a": "Capoeira",
+    "w1": "Samba",
+    "w2": "Zumba"
+  },
+  {
+    "q": "Vad är morris dance?",
+    "a": "Engelsk folkdans med pinnar",
+    "w1": "Skotsk krigsdans",
+    "w2": "Irländsk steppdans"
   }
 ]

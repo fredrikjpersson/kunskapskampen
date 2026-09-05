@@ -118,5 +118,125 @@
     "a": "Duett",
     "w1": "Solo",
     "w2": "Kör"
+  },
+  {
+    "q": "Vilken sång sjunger man när någon fyller år?",
+    "a": "Ja må han leva",
+    "w1": "Blinka lilla stjärna",
+    "w2": "Mors lilla Olle"
+  },
+  {
+    "q": "Vilken visa handlar om en liten stjärna som blinkar?",
+    "a": "Blinka lilla stjärna",
+    "w1": "Mors lilla Olle",
+    "w2": "Blåsippa"
+  },
+  {
+    "q": "Vad kallas sånger för små barn?",
+    "a": "Barnvisor",
+    "w1": "Rocklåtar",
+    "w2": "Operor"
+  },
+  {
+    "q": "Vilket instrument spelar en trummis?",
+    "a": "Trummor",
+    "w1": "Flygeln",
+    "w2": "Fiolen"
+  },
+  {
+    "q": "Vad heter början av en låt?",
+    "a": "Introt",
+    "w1": "Outron",
+    "w2": "Mitten"
+  },
+  {
+    "q": "Vad heter delen av låten som upprepas?",
+    "a": "Refrängen",
+    "w1": "Versen",
+    "w2": "Introt"
+  },
+  {
+    "q": "Vad kallas låtens vers-delar?",
+    "a": "Verser",
+    "w1": "Refränger",
+    "w2": "Outros"
+  },
+  {
+    "q": "Vad kallas låtens avslutning?",
+    "a": "Outron",
+    "w1": "Introt",
+    "w2": "Refrängen"
+  },
+  {
+    "q": "Vilket instrument är som en jättestor fiel?",
+    "a": "Kontrabasen",
+    "w1": "Cellon",
+    "w2": "Violinen"
+  },
+  {
+    "q": "Vad kallas många musiker som spelar tillsammans?",
+    "a": "En orkester",
+    "w1": "Ett gäng",
+    "w2": "En kör"
+  },
+  {
+    "q": "Vad heter det när publiken ropar 'mer' efter konserten?",
+    "a": "Extranummer",
+    "w1": "Pauserna",
+    "w2": "Inhämtningarna"
+  },
+  {
+    "q": "Vad behöver man för att komma in på en konsert?",
+    "a": "En biljett",
+    "w1": "En meny",
+    "w2": "Ett kvitto"
+  },
+  {
+    "q": "Vad kallas den djupaste manliga rösttypen?",
+    "a": "Bas",
+    "w1": "Tenor",
+    "w2": "Alt"
+  },
+  {
+    "q": "Vad kallas den högsta manliga rösttypen?",
+    "a": "Tenor",
+    "w1": "Bas",
+    "w2": "Alt"
+  },
+  {
+    "q": "Vad heter en som spelar fiol?",
+    "a": "Fiolinist",
+    "w1": "Pianist",
+    "w2": "Gitarrist"
+  },
+  {
+    "q": "Vad kallas en som sjunger opera?",
+    "a": "Operasångare",
+    "w1": "Skådespelare",
+    "w2": "Komiker"
+  },
+  {
+    "q": "Vad heter det när musiken tar paus?",
+    "a": "Paus",
+    "w1": "Start",
+    "w2": "Signal"
+  },
+  {
+    "q": "Vad heter tävlingen där länder tävlar med låtar?",
+    "a": "Eurovision",
+    "w1": "Melodifestivalen",
+    "w2": "VM i sång"
+  },
+  {
+    "q": "Vad heter den lilla boken med sångtexter?",
+    "a": "Sångboken",
+    "w1": "Telefonboken",
+    "w2": "Ritboken"
+  },
+  {
+    "q": "Vad heter den svenska sångtävlingen som ger Eurovisionbidrag?",
+    "a": "Melodifestivalen",
+    "w1": "Sångkampen",
+    "w2": "Musikjakten"
   }
 ]

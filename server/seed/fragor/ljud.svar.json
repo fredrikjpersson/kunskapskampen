@@ -118,5 +118,125 @@
     "a": "Longitudinell",
     "w1": "Transversell",
     "w2": "Cirkulär"
+  },
+  {
+    "q": "Vad betyder interferens mellan ljudvågor?",
+    "a": "Vågor förstärker eller utsläcker varandra",
+    "w1": "Vågor byter färg",
+    "w2": "Vågor slutar röra sig"
+  },
+  {
+    "q": "Vad är en stående våg?",
+    "a": "Vågor som i resonans ser ut att stå still",
+    "w1": "En våg som aldrig uppstår",
+    "w2": "En våg som bara finns i vakuum"
+  },
+  {
+    "q": "Varför kan människan lokalisera var ljud kommer ifrån?",
+    "a": "Två öron ger tid- och nivåskillnad",
+    "w1": "Öronen ändrar form",
+    "w2": "Näsan fångar ljudet"
+  },
+  {
+    "q": "Vad kallas ljudnivån 0 dB?",
+    "a": "Hörseltröskeln",
+    "w1": "Smärttröskeln",
+    "w2": "Samtalstonen"
+  },
+  {
+    "q": "Vid cirka hur många decibel börjar ljud göra ont?",
+    "a": "120 dB",
+    "w1": "60 dB",
+    "w2": "180 dB"
+  },
+  {
+    "q": "Vad gör akustisk dämpning i ett rum?",
+    "a": "Minskar efterklangen",
+    "w1": "Ökar basen",
+    "w2": "Höjer taket"
+  },
+  {
+    "q": "Vad gör akustikpaneler?",
+    "a": "Absorberar ljud",
+    "w1": "Förstärker basen",
+    "w2": "Skapar eko"
+  },
+  {
+    "q": "Vad betyder RT60 inom akustik?",
+    "a": "Tiden för efterklang att sjunka 60 dB",
+    "w1": "Rummets temperatur",
+    "w2": "Radioöverföringens längd"
+  },
+  {
+    "q": "Vad gör en basfälla i en studio?",
+    "a": "Absorberar låga frekvenser",
+    "w1": "Fångar upp sångfel",
+    "w2": "Förstärker trummor"
+  },
+  {
+    "q": "Vad kallas all ljud i en film?",
+    "a": "Ljudspåret",
+    "w1": "Textspåret",
+    "w2": "Bildspåret"
+  },
+  {
+    "q": "Vad gör en Foley-artist?",
+    "a": "Skapar ljudeffekter till film",
+    "w1": "Spelar in musik",
+    "w2": "Redigerar bild"
+  },
+  {
+    "q": "Vad är diegetisk musik i film?",
+    "a": "Musik som hörs av figurerna i filmen",
+    "w1": "Musik som bara publiken hör",
+    "w2": "Musik utan instrument"
+  },
+  {
+    "q": "Vad kallas det att byta ut röster i film?",
+    "a": "Dubbing",
+    "w1": "Mastring",
+    "w2": "Mixning"
+  },
+  {
+    "q": "Vad är ljudtryck?",
+    "a": "Tryckvariationer som ljudvågorna skapar",
+    "w1": "Vikten av högtalare",
+    "w2": "Luftens temperatur"
+  },
+  {
+    "q": "Vad kallas ljudets 'tonkaraktär'?",
+    "a": "Timbre",
+    "w1": "Tonhöjd",
+    "w2": "Tonstyrka"
+  },
+  {
+    "q": "Vad är en formant?",
+    "a": "En resonans som formar röstens klang",
+    "w1": "Ett format för filer",
+    "w2": "En mikrofonmodell"
+  },
+  {
+    "q": "Vad är audiologi?",
+    "a": "Läran om hörseln",
+    "w1": "Läran om ögon",
+    "w2": "Läran om tänder"
+  },
+  {
+    "q": "Vad är tinnitus?",
+    "a": "Ett sus eller pip i öronen",
+    "w1": "Öronvärk",
+    "w2": "Nedsatt syn"
+  },
+  {
+    "q": "Vad betyder AM förkortat?",
+    "a": "Amplitudmodulering",
+    "w1": "Frekvensmodulering",
+    "w2": "Pulsmodulering"
+  },
+  {
+    "q": "Vad kallas skillnaden mellan starkaste och svagaste ljud?",
+    "a": "Dynamik",
+    "w1": "Tempo",
+    "w2": "Tonhöjd"
   }
 ]
