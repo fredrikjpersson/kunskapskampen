@@ -30,14 +30,7 @@ npm start
 
 ## Svårighetsgrader
 
-Global inställning före spelets start:
-
-| Nivå | Målgrupp |
-|---|---|
-| Lätt | 6–10 år |
-| Medel | 10–16 år |
-| Svår | 16–50 år |
-| Elit | Genier och världsvana |
+Global inställning före spelets start: **Lätt**, **Medel**, **Svår** eller **Elit**.
 
 Kategorin **Elit** innehåller alltid elitefrågor oberoende av den globala svårighetsgraden.
 
@@ -55,7 +48,7 @@ Format per fråga:
 { "q": "Frågan?", "a": "Rätt svar", "w1": "Fel svar 1", "w2": "Fel svar 2" }
 ```
 
-Databasen seedas om automatiskt när antalet frågor i filerna skiljer sig från databasens. Målet är 50 frågor per svårighetsgrad och kategori (200 per kategori); för Elit-kategorin endast elit-nivån. Frågor återanvänds inte inom en session – poolen återställs automatiskt när den tar slut.
+Databasen seedas om automatiskt när antalet frågor i filerna skiljer sig från databasens. Frågebanken innehåller 40 frågor per svårighetsgrad och kategori (1 640 totalt; för Elit-kategorin endast elit-nivån). Frågor återanvänds inte inom en session – poolen återställs automatiskt när den tar slut.
 
 ## Teknik
 

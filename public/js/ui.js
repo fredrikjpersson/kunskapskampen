@@ -92,13 +92,16 @@ const KKUI = (() => {
 
   function hideQuestion() { $('#qarea').classList.add('hidden'); }
 
-  /* Visar rätt/fel på valt alternativ, dimmar övriga */
+  /* Visar resultatet: vid fel svar avslöjas INTE rätt alternativ */
   function showResult(correctIdx, pickedIdx, isCorrect) {
     document.querySelectorAll('.opt').forEach((el, i) => {
       el.disabled = true;
-      if (i === correctIdx) el.classList.add('correct');
-      else if (i === pickedIdx && !isCorrect) el.classList.add('wrong', 'shake');
-      else el.classList.add('dim');
+      if (isCorrect) {
+        if (i === correctIdx) el.classList.add('correct');
+        else el.classList.add('dim');
+      } else if (i === pickedIdx) {
+        el.classList.add('wrong', 'shake');
+      }
     });
   }
 

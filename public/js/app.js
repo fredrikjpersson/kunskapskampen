@@ -3,10 +3,10 @@ const CATEGORIES = ['Natur', 'Teknik', 'Ljud', 'Musik', 'Bilar', 'Geografi',
   'Musik från förr', 'Barnprogram', 'Dans', 'Brädspel', 'Elit'];
 
 const DIFF_LABELS = {
-  latt: 'Lätt (6–10 år)',
-  medel: 'Medel (10–16 år)',
-  svar: 'Svår (16–50 år)',
-  elit: 'Elit (genier)'
+  latt: 'Lätt',
+  medel: 'Medel',
+  svar: 'Svår',
+  elit: 'Elit'
 };
 
 const TARGET_SCORE = 20;
@@ -45,7 +45,7 @@ async function fetchQuestion(category, difficulty) {
   for (const [key, label] of Object.entries(DIFF_LABELS)) {
     const b = document.createElement('button');
     b.className = 'diff-btn';
-    b.innerHTML = label.replace(/(.*?) \((.*?)\)/, '$1<small>$2</small>');
+    b.textContent = label;
     b.dataset.diff = key;
     b.onclick = () => { diff = key; render(); };
     diffWrap.appendChild(b);
