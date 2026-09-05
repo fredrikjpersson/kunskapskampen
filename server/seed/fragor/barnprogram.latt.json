@@ -1,0 +1,12 @@
+[
+  {"q": "Vilken björn blir stark av dunderhonung?", "a": "Bamse", "w1": "Björne", "w2": "Baloo"},
+  {"q": "Vad heter SVT:s barnkanal?", "a": "Barnkanalen", "w1": "Nickelodeon", "w2": "Cartoon Network"},
+  {"q": "Vad heter flickan med röda flätor som äger en häst?", "a": "Pippi Långstrump", "w1": "Ronja Rövardotter", "w2": "Madicken"},
+  {"q": "Vad heter Disneys kända anka?", "a": "Kalle Anka", "w1": "Musse Pigg", "w2": "Långben"},
+  {"q": "Vad heter den gamle mannen med katten Findus?", "a": "Pettson", "w1": "Påhlsson", "w2": "Plättson"},
+  {"q": "Vilken pojke bor på gården Katthult?", "a": "Emil i Lönneberga", "w1": "Mio", "w2": "Bert"},
+  {"q": "Vilken tecknad familj är gul och bor i Springfield?", "a": "Simpsons", "w1": "Family Guy", "w2": "South Park"},
+  {"q": "Vilka bor i Mumindalen?", "a": "Mumintrollen", "w1": "Trolltygningarna", "w2": "Naller"},
+  {"q": "Vad heter det lilla snälla spöket av Lasse Åberg?", "a": "Laban", "w1": "Ludde", "w2": "Lotta"},
+  {"q": "Vilken flicka lever i en stenborg bland rövare?", "a": "Ronja Rövardotter", "w1": "Pippi Långstrump", "w2": "Tjorven"}
+]

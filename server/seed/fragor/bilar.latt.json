@@ -1,0 +1,12 @@
+[
+  {"q": "Vad har bilar för att lysa upp vägen i mörkret?", "a": "Strålkastare", "w1": "Ficklampor", "w2": "Gatlyktor"},
+  {"q": "Vilket är ett känt svenskt bilmärke?", "a": "Volvo", "w1": "Fiat", "w2": "Renault"},
+  {"q": "Vad kallas bränslet som många bilar drivs med?", "a": "Bensin", "w1": "Saft", "w2": "Vatten"},
+  {"q": "Hur många hjul har en vanlig personbil?", "a": "4", "w1": "2", "w2": "6"},
+  {"q": "Vad kallas bilens 'skor'?", "a": "Däcken", "w1": "Stötdämparna", "w2": "Stänkskären"},
+  {"q": "Vad kallas det som håller fast dig i sätet?", "a": "Bilbältet", "w1": "Ratten", "w2": "Kudden"},
+  {"q": "Var kör bilarna?", "a": "På vägen", "w1": "I skogen", "w2": "På haven"},
+  {"q": "Vad betyder de röda lyktorna bak på bilen?", "a": "Bilen bromsar", "w1": "Bilen svänger", "w2": "Bilen backar"},
+  {"q": "Vilken bil kommer med blåljus när det brinner?", "a": "Brandbilen", "w1": "Skåpbilen", "w2": "Bussen"},
+  {"q": "Vad gör bilen för att varna med ljud?", "a": "Tutar", "w1": "Viskar", "w2": "Pratar"}
+]

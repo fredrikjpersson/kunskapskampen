@@ -1,0 +1,12 @@
+[
+  {"q": "Hur många fält har ett schackbräde?", "a": "64", "w1": "81", "w2": "100"},
+  {"q": "Vilken är den svagaste pjäsen i schack?", "a": "Bonden", "w1": "Kungen", "w2": "Springaren"},
+  {"q": "Vad heter draget där kungen och tornet flyttas samtidigt?", "a": "Rockad", "w1": "Remi", "w2": "En passant"},
+  {"q": "Hur många poäng ger en Yatzy (fem lika)?", "a": "50", "w1": "25", "w2": "100"},
+  {"q": "I vilket spel erövrar man territorier och länder?", "a": "Risk", "w1": "Diplomacy", "w2": "Stratego"},
+  {"q": "I vilket spel löser man ett mord i ett slott?", "a": "Cluedo", "w1": "Scotland Yard", "w2": "Mordet i orientexpressen"},
+  {"q": "I vilket spel bygger man byar och städer på en ö?", "a": "Catan", "w1": "Carcassonne", "w2": "Agricola"},
+  {"q": "Vilket spel spelas med svarta och vita stenar på ett rutnät?", "a": "Go", "w1": "Othello", "w2": "Renju"},
+  {"q": "Vad betyder 'schack matt'?", "a": "Kungen kan inte räddas och spelet är slut", "w1": "Kungen är slagen", "w2": "Spelet är oavgjort"},
+  {"q": "I vilket spel lägger man bokstäver för att bilda ord?", "a": "Scrabble", "w1": "Domino", "w2": "Mahjong"}
+]

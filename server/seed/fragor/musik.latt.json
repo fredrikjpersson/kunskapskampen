@@ -1,0 +1,12 @@
+[
+  {"q": "Vad heter den svenska sångtävlingen på TV?", "a": "Melodifestivalen", "w1": "Musiksvampen", "w2": "Sångkampen"},
+  {"q": "Vad kallas en person som sjunger?", "a": "Sångare", "w1": "Dansare", "w2": "Skådespelare"},
+  {"q": "Vad kallas en grupp som spelar musik tillsammans?", "a": "Ett band", "w1": "Ett lag", "w2": "En klass"},
+  {"q": "Vilket stränginstrument har sex strängar man knäpper på?", "a": "Gitarr", "w1": "Fiol", "w2": "Cello"},
+  {"q": "Vad kallas en sång på en CD?", "a": "En låt", "w1": "En bok", "w2": "En film"},
+  {"q": "Vilken svensk grupp sjöng 'Waterloo'?", "a": "ABBA", "w1": "Kent", "w2": "Roxette"},
+  {"q": "Vad gör en dirigent?", "a": "Dirigerar orkestern", "w1": "Bygger scenen", "w2": "Säljer biljetter"},
+  {"q": "Vilket mässingsinstrument blåser man i?", "a": "Trumpet", "w1": "Flöjt", "w2": "Klarinett"},
+  {"q": "Vad heter stället där man spelar konsert?", "a": "Scenen", "w1": "Köket", "w2": "Kontoret"},
+  {"q": "Vad gör publiken när den gillar konserten?", "a": "Klappar", "w1": "Sover", "w2": "Visslar"}
+]

@@ -1,0 +1,12 @@
+[
+  {"q": "Vad betyder förkortningen PC?", "a": "Persondator", "w1": "Privatdator", "w2": "Programdator"},
+  {"q": "Vilket företag skapade iPhone?", "a": "Apple", "w1": "Samsung", "w2": "Nokia"},
+  {"q": "Vad heter Googles operativsystem för mobiltelefoner?", "a": "Android", "w1": "iOS", "w2": "Windows Phone"},
+  {"q": "Vad mäts i watt?", "a": "Effekt", "w1": "Spänning", "w2": "Strömstyrka"},
+  {"q": "Vad betyder förkortningen AI?", "a": "Artificiell intelligens", "w1": "Automatisk internet", "w2": "Avancerad ingenjörskonst"},
+  {"q": "Vem är känd för att ha uppfunnit glödlampan?", "a": "Thomas Edison", "w1": "Nikola Tesla", "w2": "Alexander Graham Bell"},
+  {"q": "Vad gör en router?", "a": "Dirigerar datatrafik i nätverket", "w1": "Lagrar filer", "w2": "Skriver ut bilder"},
+  {"q": "Vad betyder förkortningen USB?", "a": "Universal Serial Bus", "w1": "United Serial Byte", "w2": "Universal System Board"},
+  {"q": "Vilket år lanserades den första iPhonen?", "a": "2007", "w1": "2005", "w2": "2010"},
+  {"q": "Vad kallas datorns minne för långtidslagring?", "a": "Hårddisken", "w1": "Ram-minnet", "w2": "Cachen"}
+]

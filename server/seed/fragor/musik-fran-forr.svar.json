@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket år dog Elvis Presley?", "a": "1977", "w1": "1972", "w2": "1982"},
+  {"q": "Vem producerade The Beatles skivor?", "a": "George Martin", "w1": "Phil Spector", "w2": "Brian Epstein"},
+  {"q": "Vilket år hölls Woodstockfestivalen?", "a": "1969", "w1": "1967", "w2": "1971"},
+  {"q": "Vem grundade skivbolaget Motown?", "a": "Berry Gordy", "w1": "Smokey Robinson", "w2": "Stevie Wonder"},
+  {"q": "Vilken svensk 60-talsgrupp kallades 'Sveriges Beatles'?", "a": "Hep Stars", "w1": " Tages", "w2": "Shanes"},
+  {"q": "Vilket Beatles-album kom 1967?", "a": "Sgt. Pepper's Lonely Hearts Club Band", "w1": "Abbey Road", "w2": "Let It Be"},
+  {"q": "Vem sjöng 'Ring of Fire'?", "a": "Johnny Cash", "w1": "Waylon Jennings", "w2": "Merle Haggard"},
+  {"q": "Vilken grupp gjorde albumet 'The Dark Side of the Moon'?", "a": "Pink Floyd", "w1": "Genesis", "w2": "Yes"},
+  {"q": "Vem sjöng 'Piece of My Heart'?", "a": "Janis Joplin", "w1": "Grace Slick", "w2": "Aretha Franklin"},
+  {"q": "Vilken musikstil föddes i New Orleans?", "a": "Jazz", "w1": "Blues", "w2": "Country"}
+]

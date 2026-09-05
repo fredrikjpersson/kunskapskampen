@@ -1,0 +1,12 @@
+[
+  {"q": "Vad heter Norges huvudstad?", "a": "Oslo", "w1": "Bergen", "w2": "Trondheim"},
+  {"q": "Vad räknas som världens längsta flod?", "a": "Nilen", "w1": "Amazonfloden", "w2": "Yangtze"},
+  {"q": "Vad heter Afrikas högsta berg?", "a": "Kilimanjaro", "w1": "Mount Kenya", "w2": "Atlasbergen"},
+  {"q": "Vad heter Australiens största stad?", "a": "Sydney", "w1": "Canberra", "w2": "Perth"},
+  {"q": "Hur många kontinenter finns det?", "a": "7", "w1": "5", "w2": "6"},
+  {"q": "Vilket är världens till ytan största land?", "a": "Ryssland", "w1": "Kanada", "w2": "Kina"},
+  {"q": "Vad heter Islands huvudstad?", "a": "Reykjavik", "w1": "Akureyri", "w2": "Bergen"},
+  {"q": "Vilken flod flyter genom Wien?", "a": "Donau", "w1": "Rhen", "w2": "Elbe"},
+  {"q": "Vad heter världens största varma öken?", "a": "Sahara", "w1": "Gobi", "w2": "Kalahari"},
+  {"q": "Vad heter havet öster om Sverige?", "a": "Östersjön", "w1": "Nordsjön", "w2": "Kattegatt"}
+]

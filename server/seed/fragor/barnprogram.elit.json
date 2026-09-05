@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket år publicerades den första Mumin-boken?", "a": "1945", "w1": "1935", "w2": "1955"},
+  {"q": "Vilket år sändes första halvtimmesavsnittet av Simpsons?", "a": "1989", "w1": "1987", "w2": "1991"},
+  {"q": "Vilket år kom den första Harry Potter-boken?", "a": "1997", "w1": "1995", "w2": "1999"},
+  {"q": "Vilket år grundades LEGO?", "a": "1932", "w1": "1946", "w2": "1922"},
+  {"q": "Vilket år dog Tove Jansson?", "a": "2001", "w1": "1991", "w2": "2011"},
+  {"q": "Vem skrev 'Hobbit'?", "a": "J.R.R. Tolkien", "w1": "C.S. Lewis", "w2": "J.K. Rowling"},
+  {"q": "Vem skapade seriefiguren Tintin?", "a": "Hergé", "w1": "Morris", "w2": "René Goscinny"},
+  {"q": "Vilket år kom den första datoranimerade långfilmen 'Toy Story'?", "a": "1995", "w1": "1993", "w2": "1997"},
+  {"q": "Vilket år dog H.C. Andersen?", "a": "1875", "w1": "1855", "w2": "1895"},
+  {"q": "Vilket år kom den första boken om Pettson och Findus?", "a": "1992", "w1": "1990", "w2": "1994"}
+]

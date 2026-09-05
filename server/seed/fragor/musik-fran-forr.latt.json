@@ -1,0 +1,12 @@
+[
+  {"q": "Vilken grupp sjöng 'Mamma Mia'?", "a": "ABBA", "w1": "Kent", "w2": "Gyllene Tider"},
+  {"q": "Vem kallades 'King of Rock and Roll'?", "a": "Elvis Presley", "w1": "Chuck Berry", "w2": "Johnny Cash"},
+  {"q": "Vilken grupp sjöng 'Yellow Submarine'?", "a": "The Beatles", "w1": "The Rolling Stones", "w2": "The Kinks"},
+  {"q": "Vilken svensk grupp sjöng 'Sommartider'?", "a": "Gyllene Tider", "w1": "Roxette", "w2": "Noice"},
+  {"q": "Vem sjöng 'Take Me Home, Country Roads'?", "a": "John Denver", "w1": "Kenny Rogers", "w2": "Willie Nelson"},
+  {"q": "Vad kallas den stora svarta skivan man spelar musik med?", "a": "Vinylskiva", "w1": "CD", "w2": "DVD"},
+  {"q": "Hur lyssnade man oftast på musik i bilen förr i tiden?", "a": "Radio", "w1": "Telefon", "w2": "Tv"},
+  {"q": "Vad heter dansen från förr där man vrider på fötterna?", "a": "Twist", "w1": "Charleston", "w2": "Boogie"},
+  {"q": "Vilken brittisk stad kom The Beatles ifrån?", "a": "Liverpool", "w1": "Manchester", "w2": "Birmingham"},
+  {"q": "Vilket instrument med bälgar är vanligt i gammal svensk dansmusik?", "a": "Dragspelet", "w1": "Pianot", "w2": "Fiolen"}
+]

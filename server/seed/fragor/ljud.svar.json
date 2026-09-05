@@ -1,0 +1,12 @@
+[
+  {"q": "Inom vilket frekvensområde hör en människa ungefär?", "a": "20 Hz - 20 kHz", "w1": "10 Hz - 10 kHz", "w2": "50 Hz - 50 kHz"},
+  {"q": "Vad beskriver dopplereffekten?", "a": "Frekvensändring när ljudkällan rör sig", "w1": "Att ljud blir svagare på avstånd", "w2": "Att ljud blir djupare i kyla"},
+  {"q": "Vilka djur använder ekolokalisering för att orientera sig?", "a": "Fladdermöss", "w1": "Ugglor", "w2": "Ormar"},
+  {"q": "Vilket organ hjälper oss att hålla balansen?", "a": "Innerörat", "w1": "Ögat", "w2": "Näsan"},
+  {"q": "I vilket av dessa går ljudet fortast?", "a": "Stål", "w1": "Luft", "w2": "Vatten"},
+  {"q": "Vad kallas ljud med frekvens under 20 Hz?", "a": "Infraljud", "w1": "Ultraljud", "w2": "Mikroljud"},
+  {"q": "Vad kallas det när något förstärks vid en viss frekvens?", "a": "Resonans", "w1": "Interferens", "w2": "Diffusion"},
+  {"q": "Vilket företag lanserade Walkman 1979?", "a": "Sony", "w1": "Philips", "w2": "Panasonic"},
+  {"q": "Vad är en oktav?", "a": "En fördubbling av frekvensen", "w1": "En halvering av ljudstyrkan", "w2": "Ett tredjedelssteg i tonhöjd"},
+  {"q": "Vem uppfann grammofonen?", "a": "Thomas Edison", "w1": "Alexander Graham Bell", "w2": "Guglielmo Marconi"}
+]

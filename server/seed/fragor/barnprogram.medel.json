@@ -1,0 +1,12 @@
+[
+  {"q": "Vilken författare skrev böckerna om Pippi Långstrump?", "a": "Astrid Lindgren", "w1": "Tove Jansson", "w2": "Maria Gripe"},
+  {"q": "Vad heter pojken som är trollkarl och bär glasögon?", "a": "Harry Potter", "w1": "Ron Weasley", "w2": "Percy Jackson"},
+  {"q": "Vilken amerikansk barnkanal sänder Spongebob?", "a": "Nickelodeon", "w1": "Disney Channel", "w2": "Cartoon Network"},
+  {"q": "Vilket japanska program handlar om Pikachu?", "a": "Pokémon", "w1": "Digimon", "w2": "Yo-Kai Watch"},
+  {"q": "Vilket djur är Baloo i Djungelboken?", "a": "Björn", "w1": "Apa", "w2": "Tiger"},
+  {"q": "Vad heter lejonet i filmen 'Lejonkungen'?", "a": "Simba", "w1": "Mufasa", "w2": "Scar"},
+  {"q": "Vad heter prinsessan med iskrafter i Frost?", "a": "Elsa", "w1": "Anna", "w2": "Ariel"},
+  {"q": "Vilket djur är Nalle Puh?", "a": "Björn", "w1": "Kanin", "w2": "Åsna"},
+  {"q": "Vem skrev böckerna om Mumin?", "a": "Tove Jansson", "w1": "Astrid Lindgren", "w2": "Selma Lagerlöf"},
+  {"q": "Vilket land gör anime?", "a": "Japan", "w1": "Kina", "w2": "Sydkorea"}
+]

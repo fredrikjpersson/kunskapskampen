@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket är Sveriges största rovdjur?", "a": "Brunbjörnen", "w1": "Vargen", "w2": "Järven"},
+  {"q": "Hur många hjärtan har en bläckfisk?", "a": "3", "w1": "1", "w2": "5"},
+  {"q": "Vad kallas grodans unge?", "a": "Grodyngel", "w1": "Trollslända", "w2": "Larv"},
+  {"q": "Vilken fågel kan inte flyga men springer jättesnabbt?", "a": "Strutsen", "w1": "Påfågeln", "w2": "Pelikanen"},
+  {"q": "Vilket träd är vintergrönt och bär kottar?", "a": "Granen", "w1": "Björken", "w2": "Eken"},
+  {"q": "Vad kallas djur som äter både växter och kött?", "a": "Allätare", "w1": "Herbivorer", "w2": "Karnivorer"},
+  {"q": "Vilket är världens största djur?", "a": "Blåvalen", "w1": "Späckhuggaren", "w2": "Kaskeloten"},
+  {"q": "Vilket djur bygger dammar i älvar?", "a": "Bävern", "w1": "Uttern", "w2": "Mårdhon"},
+  {"q": "Vad samlar bin in till honung?", "a": "Nektar", "w1": "Dagg", "w2": "Kottar"},
+  {"q": "Vad kallas det när djur sover hela vintern?", "a": "Vinterdvala", "w1": "Sommarsömn", "w2": "Djup meditation"}
+]

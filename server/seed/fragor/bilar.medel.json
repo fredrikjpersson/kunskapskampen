@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket land kommer Toyota ifrån?", "a": "Japan", "w1": "Tyskland", "w2": "USA"},
+  {"q": "Vad betyder BMW?", "a": "Bayerische Motoren Werke", "w1": "Britische Motor Werke", "w2": "Bayerische Maschinen Werk"},
+  {"q": "Vilket märke tillverkar modellen 'Golf'?", "a": "Volkswagen", "w1": "Opel", "w2": "Ford"},
+  {"q": "Vad betyder förkortningen 'hk'?", "a": "Hästkrafter", "w1": "Högsta kilometerhastighet", "w2": "Hjulkraft"},
+  {"q": "Vilket svenskt bilmärke kommer från en flygplanstillverkare?", "a": "Saab", "w1": "Koenigsegg", "w2": "Scania"},
+  {"q": "Vad kallas en bil med nedfällbart tak?", "a": "Cabriolet", "w1": "Kombi", "w2": "Sedan"},
+  {"q": "Vilken svensk tillverkare bygger supersportbilar?", "a": "Koenigsegg", "w1": "Polestar", "w2": "Volvo"},
+  {"q": "Vad gör en växellåda?", "a": "Växlar motorns kraft till hjulen", "w1": "Kylar motorn", "w2": "Styr hjulen"},
+  {"q": "Vad symboliserar Audis fyra ringar?", "a": "Fyra sammanslagna biltillverkare", "w1": "Fyra grundare", "w2": "Fyra fabriker i fyra städer"},
+  {"q": "Vad hindrar ABS-systemet?", "a": "Låsta hjul vid bromsning", "w1": "Tom tank", "w2": "Slirande koppling"}
+]

@@ -1,0 +1,12 @@
+[
+  {"q": "Vilken grupp sjöng 'Bohemian Rhapsody'?", "a": "Queen", "w1": "The Beatles", "w2": "David Bowie"},
+  {"q": "Vem sjöng '(Sittin On) The Dock of the Bay'?", "a": "Otis Redding", "w1": "Sam Cooke", "w2": "Marvin Gaye"},
+  {"q": "Vilket år vann ABBA Eurovision Song Contest med 'Waterloo'?", "a": "1974", "w1": "1972", "w2": "1976"},
+  {"q": "Vem var sångare i bandet Genesis?", "a": "Phil Collins", "w1": "Peter Gabriel", "w2": "Sting"},
+  {"q": "Vilken grupp sjöng 'Stairway to Heaven'?", "a": "Led Zeppelin", "w1": "Deep Purple", "w2": "Pink Floyd"},
+  {"q": "Vem sjöng 'My Way'?", "a": "Frank Sinatra", "w1": "Dean Martin", "w2": "Elvis Presley"},
+  {"q": "Vem sjöng 'Flickan och kråkan'?", "a": "Cornelis Vreeswijk", "w1": "Fred Åkerström", "w2": "Evert Taube"},
+  {"q": "Vilken grupp gjorde 'Smoke on the Water'?", "a": "Deep Purple", "w1": "Black Sabbath", "w2": "Uriah Heep"},
+  {"q": "Vad hette Elvis berömda hem?", "a": "Graceland", "w1": "Neverland", "w2": "Sunhouse"},
+  {"q": "Vilken grupp sjöng 'Hotel California'?", "a": "Eagles", "w1": "Fleetwood Mac", "w2": "Lynyrd Skynyrd"}
+]

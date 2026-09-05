@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket år blev den första elektroniska datorn ENIAC färdig?", "a": "1945", "w1": "1935", "w2": "1955"},
+  {"q": "Vem anses vara historiens första programmerare?", "a": "Ada Lovelace", "w1": "Grace Hopper", "w2": "Alan Turing"},
+  {"q": "Vad ska ett Turingtest avgöra?", "a": "Om en maskin kan uppvisa mänskligt intelligent beteende", "w1": "Hur snabbt en dator kan räkna", "w2": "Om en robot kan gå upprätt"},
+  {"q": "Hur många olika värden kan en nibble (4 bitar) anta?", "a": "16", "w1": "8", "w2": "32"},
+  {"q": "Vem skapade Linux-kärnan?", "a": "Linus Torvalds", "w1": "Richard Stallman", "w2": "Ken Thompson"},
+  {"q": "Vad betyder SQL?", "a": "Structured Query Language", "w1": "Simple Question Line", "w2": "System Query Language"},
+  {"q": "Vilket portnummer används av HTTPS?", "a": "443", "w1": "80", "w2": "22"},
+  {"q": "Vad står AES för inom kryptering?", "a": "Advanced Encryption Standard", "w1": "Applied Encryption System", "w2": "Advanced Email Security"},
+  {"q": "Vilket protokoll används för att skicka e-post?", "a": "SMTP", "w1": "FTP", "w2": "DHCP"},
+  {"q": "Vad utnyttjar en kvantdator för att räkna?", "a": "Kvantsuperposition", "w1": "Kvantgravitation", "w2": "Kvantfusion"}
+]

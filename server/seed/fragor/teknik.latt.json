@@ -1,0 +1,12 @@
+[
+  {"q": "Vad använder man för att ringa till någon?", "a": "Telefonen", "w1": "Kylskåpet", "w2": "Mikrovågsugnen"},
+  {"q": "Vad kallas datorns hjärna?", "a": "Processorn", "w1": "Skärmen", "w2": "Musen"},
+  {"q": "Vilket program använder man för att surfa på internet?", "a": "Webbläsaren", "w1": "Skrivaren", "w2": "Högtalaren"},
+  {"q": "Vilken apparat håller maten kall?", "a": "Kylskåpet", "w1": "Tvättmaskinen", "w2": "Ugnen"},
+  {"q": "Vilken maskin tvättar kläderna?", "a": "Tvättmaskinen", "w1": "Dammsugaren", "w2": "Hårtorken"},
+  {"q": "Vad tittar man på filmer med hemma?", "a": "Tv:n", "w1": "Radion", "w2": "Väckarklockan"},
+  {"q": "Vad heter saken man klickar med på datorn?", "a": "Musen", "w1": "Tangentbordet", "w2": "Skärmen"},
+  {"q": "Vad kallas det trådlösa nätverket hemma?", "a": "Wifi", "w1": "Bluetooth", "w2": "USB"},
+  {"q": "Vad använder man för att mäta tid?", "a": "Klockan", "w1": "Termometern", "w2": "Vågen"},
+  {"q": "Vilken maskin suger upp damm från golvet?", "a": "Dammsugaren", "w1": "Hårtorken", "w2": "Borsten"}
+]

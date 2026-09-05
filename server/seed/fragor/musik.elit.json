@@ -1,0 +1,12 @@
+[
+  {"q": "Vem komponerade operan 'La Traviata'?", "a": "Giuseppe Verdi", "w1": "Giacomo Puccini", "w2": "Gioachino Rossini"},
+  {"q": "Vad betyder 'da capo'?", "a": "Från början", "w1": "Långsammare", "w2": "Allt starkare"},
+  {"q": "Vad visar kvintcirkeln?", "a": "Tonarternas släktskap och förtecken", "w1": "Sångarens röstomfång", "w2": "Metronomtempo per århundrade"},
+  {"q": "Vilket år dog Mozart?", "a": "1791", "w1": "1781", "w2": "1801"},
+  {"q": "Vem komponerade 'Bolero'?", "a": "Maurice Ravel", "w1": "Claude Debussy", "w2": "Camille Saint-Saëns"},
+  {"q": "Vilka toner ingår i en durtreklang?", "a": "Grundton, stor ters och ren kvint", "w1": "Grundton, liten ters och stor septima", "w2": "Grundton, liten sekund och kvart"},
+  {"q": "Vem grundade skivbolaget Motown?", "a": "Berry Gordy", "w1": "Ahmet Ertegun", "w2": "Sam Phillips"},
+  {"q": "Vad betyder 'a cappella'?", "a": "Sång utan instrument", "w1": "Sång med ekoeffekt", "w2": "Sång i kyrkorum"},
+  {"q": "Vilket instrument spelas utan att man rör det?", "a": "Theremin", "w1": "Synthesizer", "w2": "Cembalo"},
+  {"q": "Vad består Bachs 'Det vältempererade klaveret' av?", "a": "Preludier och fugor i alla tonarter", "w1": "Operor om bibliska gestalter", "w2": "Danssviter för stråkorkester"}
+]

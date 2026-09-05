@@ -1,0 +1,12 @@
+[
+  {"q": "Vad betyder 'pas de deux'?", "a": "Dans för två", "w1": "Steg i takt", "w2": "Solodans"},
+  {"q": "Vilken Tjajkovskij-balett utspelas på juletid?", "a": "Nötknäpparen", "w1": "Svansjön", "w2": "Törnrosa"},
+  {"q": "Vad heter Moskvas berömda balettteater?", "a": "Bolsjojteatern", "w1": "Mariinskijteatern", "w2": "La Scala"},
+  {"q": "Vilken dans är känd för höga bensparkar och kjolar?", "a": "Cancan", "w1": "Polka", "w2": "Gavott"},
+  {"q": "Vad kallas Indiens filmiska dansstil?", "a": "Bollywood", "w1": "Bharatanatyam", "w2": "Kathak"},
+  {"q": "Vad är en 'grand jeté'?", "a": "Ett stort hopp framåt", "w1": "En djup bugning", "w2": "En lyftning i par"},
+  {"q": "Vad kallas räcket man övar vid i balettsalen?", "a": "Barré", "w1": "Pirouettstång", "w2": "Adagiolinje"},
+  {"q": "Vilket land kommer träningsdansen Zumba ifrån?", "a": "Colombia", "w1": "Brasilien", "w2": "Mexiko"},
+  {"q": "I vilken stad uppstod dansstilen voguing?", "a": "New York", "w1": "Los Angeles", "w2": "Paris"},
+  {"q": "Vad kallas en manlig balettdansör på franska?", "a": "Danseur", "w1": "Danseux", "w2": "Ballerino"}
+]

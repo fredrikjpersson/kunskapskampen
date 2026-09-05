@@ -1,0 +1,12 @@
+[
+  {"q": "Hur många pjäser har varje spelare i schack?", "a": "16", "w1": "12", "w2": "20"},
+  {"q": "Vilken schackpjäs kan hoppa över andra pjäser?", "a": "Springaren", "w1": "Löparen", "w2": "Tornet"},
+  {"q": "Vad kallas ett öppningsoffer i schack?", "a": "Gambit", "w1": "Fianchetto", "w2": "Zugzwang"},
+  {"q": "Vilket år lanserades Monopol kommersiellt i USA?", "a": "1935", "w1": "1925", "w2": "1945"},
+  {"q": "Ungefär hur gammalt är spelet Go?", "a": "Över 2 000 år", "w1": "Omkring 500 år", "w2": "Omkring 100 år"},
+  {"q": "Vad heter schackets ratingssystem?", "a": "Elo", "w1": "Kasparov-index", "w2": "Fide-poäng"},
+  {"q": "Vad kallas den högsta titeln i schack?", "a": "Stormästare", "w1": "Internationell mästare", "w2": "Nationell mästare"},
+  {"q": "Vilket land kommer spelet Mahjong ifrån?", "a": "Kina", "w1": "Japan", "w2": "Korea"},
+  {"q": "I vilket klassiskt spel förhandlar man om makten över Europa?", "a": "Diplomacy", "w1": "Risk", "w2": "Stratego"},
+  {"q": "Vilket land kommer spelet Carcassonne ifrån?", "a": "Tyskland", "w1": "Frankrike", "w2": "Italien"}
+]

@@ -1,0 +1,12 @@
+[
+  {"q": "Vem komponerade 'Månskenssonaten'?", "a": "Beethoven", "w1": "Mozart", "w2": "Bach"},
+  {"q": "Vilket band var Kurt Cobain sångare i?", "a": "Nirvana", "w1": "Pearl Jam", "w2": "Soundgarden"},
+  {"q": "Vad betyder 'opus' inom klassisk musik?", "a": "Verk", "w1": "Tempo", "w2": "Stämma"},
+  {"q": "Vad betyder tempobeteckningen 'allegro'?", "a": "Snabbt", "w1": "Långsamt", "w2": "Tyst"},
+  {"q": "Vem kallas 'King of Pop'?", "a": "Michael Jackson", "w1": "Elvis Presley", "w2": "Prince"},
+  {"q": "Vem sjöng 'Purple Rain'?", "a": "Prince", "w1": "Michael Jackson", "w2": "David Bowie"},
+  {"q": "Vilket instrument spelar cellisten Yo-Yo Ma?", "a": "Cello", "w1": "Piano", "w2": "Trumpet"},
+  {"q": "Vad heter Sveriges nationalsång?", "a": "Du gamla, du fria", "w1": "Kungssången", "w2": "Vintern rasat"},
+  {"q": "Vilken svensk grupp sjöng 'The Final Countdown'?", "a": "Europe", "w1": "Toto", "w2": "Survivor"},
+  {"q": "Vad kallas en nyinspelning av någon annans låt?", "a": "En cover", "w1": "En remix", "w2": "En sampling"}
+]

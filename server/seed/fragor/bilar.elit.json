@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket år grundades Volvo?", "a": "1927", "w1": "1917", "w2": "1937"},
+  {"q": "Vilket år visade Ferrari sin första bil under eget namn?", "a": "1947", "w1": "1937", "w2": "1957"},
+  {"q": "Vad betyder Audis 'quattro'?", "a": "Fyrhjulsdrift", "w1": "Fyra ventiler per cylinder", "w2": "Fyrportsmotor"},
+  {"q": "Vad kännetecknar en boxermotor?", "a": "Kolvarna rör sig mot varandra", "w1": "Cylindrarna står i V", "w2": "Den har bara en cylinder"},
+  {"q": "Vilket land är bilmärket Bugatti hemmahörande i?", "a": "Frankrike", "w1": "Italien", "w2": "Tyskland"},
+  {"q": "Vilket land kom racerföraren och konstruktören Bruce McLaren ifrån?", "a": "Nya Zeeland", "w1": "Australien", "w2": "Storbritannien"},
+  {"q": "Vad heter den kända tyska racerbanan 'Gröna helvetet'?", "a": "Nürburgring", "w1": "Hockenheimring", "w2": "Lausitzring"},
+  {"q": "Vad står Mercedes-AMG:s bokstäver för?", "a": "Aufrecht, Melcher och Großaspach", "w1": "Auto Motor Germany", "w2": "Allrad Motor Gesellschaft"},
+  {"q": "Vilket år lanserades Saab 92, Saabs första personbil?", "a": "1949", "w1": "1939", "w2": "1959"},
+  {"q": "Vad var Group B inom bilsporten?", "a": "En extrem rallyklass under 1980-talet", "w1": "En klass för eltävlingar", "w2": "En klass för lastbilar"}
+]

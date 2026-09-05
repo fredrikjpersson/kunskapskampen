@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket år sjönk regalskeppet Vasa på sin jungfruresa?", "a": "1628", "w1": "1618", "w2": "1648"},
+  {"q": "Vad räknas som Sveriges äldsta stad?", "a": "Sigtuna", "w1": "Lund", "w2": "Uppsala"},
+  {"q": "Vad betyder det latinska uttrycket 'carpe diem'?", "a": "Fånga dagen", "w1": "Se dagen ljusna", "w2": "Dagen är kort"},
+  {"q": "Vem var den karthagiske befälhavaren som korsade Alperna med elefanter?", "a": "Hannibal", "w1": "Scipio", "w2": "Cato"},
+  {"q": "Vad heter Mongoliets huvudstad?", "a": "Ulan Bator", "w1": "Astana", "w2": "Lhasa"},
+  {"q": "Vem målade tavlan 'Nattvakten'?", "a": "Rembrandt", "w1": "Vermeer", "w2": "Frans Hals"},
+  {"q": "Vem skrev eposet 'Odysséen'?", "a": "Homeros", "w1": "Sofokles", "w2": "Vergilius"},
+  {"q": "Hur dog filosofen Sokrates?", "a": "Han drack gift", "w1": "Han stenades", "w2": "Han förvisades från Aten"},
+  {"q": "Vad hette Konstantinopel innan det blev Konstantinopel?", "a": "Byzantion", "w1": "Nikaia", "w2": "Ankara"},
+  {"q": "Vad betyder det latinska uttrycket 'ad hoc'?", "a": "Till detta, alltså för ett tillfälligt syfte", "w1": "Efter hand", "w2": "I motsats till"}
+]

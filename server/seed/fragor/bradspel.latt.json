@@ -1,0 +1,12 @@
+[
+  {"q": "I vilket spel köper man gator och hus?", "a": "Monopol", "w1": "Risk", "w2": "Cluedo"},
+  {"q": "I vilket spel finns en kung och en dam?", "a": "Schack", "w1": "Ludo", "w2": "Domino"},
+  {"q": "Vad heter spelet där man parar ihop likadana kort?", "a": "Memory", "w1": "Yatzy", "w2": "Uno"},
+  {"q": "I vilket spel slår man med fem tärningar?", "a": "Yatzy", "w1": "Fia med knuff", "w2": "Backgammon"},
+  {"q": "Vilket kortspel har fyra färger och en växelriktning?", "a": "Uno", "w1": "Memory", "w2": "Poker"},
+  {"q": "I vilket spel knuffar man ut motståndarnas brickor?", "a": "Fia med knuff", "w1": "Schack", "w2": "Yatzy"},
+  {"q": "Vad kallas spelplanen i schack?", "a": "Schackbräde", "w1": "Schackkort", "w2": "Schacktavla"},
+  {"q": "Vad heter spelet med skepp på ett rutnät?", "a": "Sänka skepp", "w1": "Piratkort", "w2": "Havsjakten"},
+  {"q": "I vilket spel ska man rita bilder som andra gissar på?", "a": "Pictionary", "w1": "Alias", "w2": "Tabu"},
+  {"q": "I vilket spel svarar man på frågor i sex kategorier?", "a": "Trivial Pursuit", "w1": "Smartöskan", "w2": "Bezzerwizzer"}
+]

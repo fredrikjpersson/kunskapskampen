@@ -1,0 +1,12 @@
+[
+  {"q": "Vad heter Sveriges huvudstad?", "a": "Stockholm", "w1": "Göteborg", "w2": "Malmö"},
+  {"q": "Vad heter landet söder om Sverige?", "a": "Danmark", "w1": "Norge", "w2": "Finland"},
+  {"q": "Vad heter Sveriges största sjö?", "a": "Vänern", "w1": "Vättern", "w2": "Mälaren"},
+  {"q": "I vilket land bor kängurur?", "a": "Australien", "w1": "Brasilien", "w2": "Kanada"},
+  {"q": "Vad heter världens största hav?", "a": "Stilla havet", "w1": "Atlanten", "w2": "Indiska oceanen"},
+  {"q": "I vilket land ligger Kinesiska muren?", "a": "Kina", "w1": "Japan", "w2": "Indien"},
+  {"q": "Vad heter Sveriges näst största stad?", "a": "Göteborg", "w1": "Malmö", "w2": "Uppsala"},
+  {"q": "I vilket land står Eiffeltornet?", "a": "Frankrike", "w1": "Italien", "w2": "Spanien"},
+  {"q": "Vad heter den varma kontinenten med många stora djur?", "a": "Afrika", "w1": "Europa", "w2": "Antarktis"},
+  {"q": "Vilket nordiskt land är känt för fjäll och fjordar?", "a": "Norge", "w1": "Danmark", "w2": "Island"}
+]

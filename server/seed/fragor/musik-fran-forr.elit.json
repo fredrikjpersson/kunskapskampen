@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket år lanserades musikkanalen MTV?", "a": "1981", "w1": "1979", "w2": "1983"},
+  {"q": "Vem komponerade 'Rhapsody in Blue'?", "a": "George Gershwin", "w1": "Aaron Copland", "w2": "Leonard Bernstein"},
+  {"q": "Vilken tjejgrupp var Motowns största succé?", "a": "The Supremes", "w1": "The Marvelettes", "w2": "Martha and the Vandellas"},
+  {"q": "Vilket år höll The Beatles sin sista konsert?", "a": "1966", "w1": "1969", "w2": "1964"},
+  {"q": "Vem sjöng 'What a Wonderful World'?", "a": "Louis Armstrong", "w1": "Nat King Cole", "w2": "Sam Cooke"},
+  {"q": "Vilket skivbolag upptäckte Elvis Presley?", "a": "Sun Records", "w1": "Chess Records", "w2": "Atlantic Records"},
+  {"q": "Vem sjöng 'Sakta vi gå genom stan'?", "a": "Monica Zetterlund", "w1": "Alice Babs", "w2": "Brita Borg"},
+  {"q": "Vilket år dog Beethoven?", "a": "1827", "w1": "1817", "w2": "1837"},
+  {"q": "Vilken instrumentalgrupp ackompanjerade ofta Cliff Richard?", "a": "The Shadows", "w1": "The Ventures", "w2": "The Spotnicks"},
+  {"q": "Vilket instrument spelade Django Reinhardt?", "a": "Gitarr", "w1": "Fiol", "w2": "Piano"}
+]

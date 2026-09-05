@@ -1,0 +1,12 @@
+[
+  {"q": "Vilken celldelningsform ger upphov till könsceller?", "a": "Mejos", "w1": "Mitos", "w2": "Cytokines"},
+  {"q": "Vilket grundämne har atomnummer 79?", "a": "Guld", "w1": "Platina", "w2": "Kvicksilver"},
+  {"q": "Vilken fågel har världens största vingspann?", "a": "Vandrande albatross", "w1": "Kondor", "w2": "Kungsörn"},
+  {"q": "Vilket hormon saknas vid typ 1-diabetes?", "a": "Insulin", "w1": "Adrenalin", "w2": "Tyroxin"},
+  {"q": "Vad heter världens största haj?", "a": "Valhajen", "w1": "Vithajen", "w2": "Tigerhajen"},
+  {"q": "Vilket år publicerade Darwin 'Om arternas uppkomst'?", "a": "1859", "w1": "1839", "w2": "1879"},
+  {"q": "Vilket träd är världens högsta?", "a": "Kustsequoia", "w1": "Eukalyptus", "w2": "Jättebambu"},
+  {"q": "Vilken groda är världens giftigaste?", "a": "Gyllene pilgiftsgroda", "w1": "Lökgroda", "w2": "Grön lövgroda"},
+  {"q": "Vilket grundämne är vanligast i universum?", "a": "Väte", "w1": "Helium", "w2": "Syre"},
+  {"q": "Vilken ordning tillhör människan?", "a": "Primater", "w1": "Rovdjur", "w2": "Gnagare"}
+]

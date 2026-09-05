@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket är världens folkrikaste land?", "a": "Indien", "w1": "Kina", "w2": "USA"},
+  {"q": "Vilken är EU:s folkrikaste stad?", "a": "Berlin", "w1": "Madrid", "w2": "Rom"},
+  {"q": "Vilket land har flest tidszoner räknat med sina territorier?", "a": "Frankrike", "w1": "Ryssland", "w2": "USA"},
+  {"q": "Vad heter sundet mellan Danmark och Sverige?", "a": "Öresund", "w1": "Bältena", "w2": "Skagerrak"},
+  {"q": "Vad heter den enorma kanjonen i Arizona, USA?", "a": "Grand Canyon", "w1": "Copper Canyon", "w2": "Zion Canyon"},
+  {"q": "Vilken är världens minsta stat?", "a": "Vatikanstaten", "w1": "Monaco", "w2": "San Marino"},
+  {"q": "Vilket land är världens längsta från norr till söder?", "a": "Chile", "w1": "Brasilien", "w2": "Peru"},
+  {"q": "Vad heter den stora kalla regionen i östra Ryssland?", "a": "Sibirien", "w1": "Tatarien", "w2": "Kaukasus"},
+  {"q": "Vad heter världens högsta berg?", "a": "Mount Everest", "w1": "K2", "w2": "Kilimanjaro"},
+  {"q": "Vilket land har huvudstaden Ankara?", "a": "Turkiet", "w1": "Grekland", "w2": "Georgien"}
+]

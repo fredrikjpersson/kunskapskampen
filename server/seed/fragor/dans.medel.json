@@ -1,0 +1,12 @@
+[
+  {"q": "Vilket land är tangons hemland?", "a": "Argentina", "w1": "Spanien", "w2": "Kuba"},
+  {"q": "Vad kallas en kvinnlig balettdansör?", "a": "Ballerina", "w1": "Ballera", "w2": "Danseuse"},
+  {"q": "Vilket land härstammar baletten ifrån?", "a": "Italien", "w1": "Ryssland", "w2": "Frankrike"},
+  {"q": "Vad heter Tjajkovskijs berömda balett om en förtrollad svan?", "a": "Svansjön", "w1": "Nötknäpparen", "w2": "Giselle"},
+  {"q": "Vad heter Michael Jacksons berömda glidande steg?", "a": "Moonwalk", "w1": "Backslide", "w2": "Spacewalk"},
+  {"q": "Vilken dans var het på 1920-talet?", "a": "Charleston", "w1": "Twist", "w2": "Macarena"},
+  {"q": "Vilken dans kommer från Andalusien i Spanien?", "a": "Flamenco", "w1": "Paso doble", "w2": "Bolero"},
+  {"q": "Vilken svensk pardans går i tretakt?", "a": "Polska", "w1": "Fox", "w2": "Schottis"},
+  {"q": "Vilken grupp gjorde 'Macarena'?", "a": "Los del Río", "w1": "Ricky Martin", "w2": "Gipsy Kings"},
+  {"q": "Vilken stad är känd för sina valser?", "a": "Wien", "w1": "Prag", "w2": "Budapest"}
+]

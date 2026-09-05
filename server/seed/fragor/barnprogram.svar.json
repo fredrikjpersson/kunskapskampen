@@ -1,0 +1,12 @@
+[
+  {"q": "Vilken dansk författare skrev sagan om den fula ankungen?", "a": "H.C. Andersen", "w1": "Astrid Lindgren", "w2": "Bröderna Grimm"},
+  {"q": "Vilket år dog Astrid Lindgren?", "a": "2002", "w1": "1992", "w2": "2012"},
+  {"q": "Vilket år gavs den första Pippi-boken ut?", "a": "1945", "w1": "1935", "w2": "1955"},
+  {"q": "Vilket land kommer leksaken LEGO ifrån?", "a": "Danmark", "w1": "Tyskland", "w2": "Sverige"},
+  {"q": "Vilken japansk studio gjorde 'Min granne Totoro'?", "a": "Studio Ghibli", "w1": "Toei Animation", "w2": "Studio Pierrot"},
+  {"q": "Vad heter familjen i 'Vi på Saltkråkan'?", "a": "Melkerson", "w1": "Melker", "w2": "Markesson"},
+  {"q": "Vilken serie utspelas i en by som kämpar mot romare?", "a": "Asterix", "w1": "Tintin", "w2": "Lucky Luke"},
+  {"q": "Vilket år sändes första avsnittet av 'Fem myror är fler än fyra elefanter'?", "a": "1973", "w1": "1969", "w2": "1977"},
+  {"q": "Vilken katt är skapad av Gösta Knutsson?", "a": "Pelle Svanslös", "w1": "Kotten", "w2": "Pelle Pluck"},
+  {"q": "Vilket år hade filmen 'Ronja Rövardotter' premiär?", "a": "1984", "w1": "1982", "w2": "1986"}
+]

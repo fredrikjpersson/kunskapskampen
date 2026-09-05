@@ -1,0 +1,12 @@
+[
+  {"q": "Vad kallas processen där växter omvandlar solljus till energi?", "a": "Fotosyntes", "w1": "Respiration", "w2": "Fermentering"},
+  {"q": "Vilket grundämne utgör störst andel av jordens atmosfär?", "a": "Kväve", "w1": "Syre", "w2": "Koldioxid"},
+  {"q": "Hur många kromosomer har en människa?", "a": "46", "w1": "23", "w2": "48"},
+  {"q": "Vad heter Sveriges högsta berg?", "a": "Kebnekaise", "w1": "Åreskutan", "w2": "Sarektjåkkå"},
+  {"q": "Vad kallas studiet av fåglar?", "a": "Ornitologi", "w1": "Entomologi", "w2": "Herpetologi"},
+  {"q": "Vilket djur har det starkaste bettet i djurriket?", "a": "Krokodilen", "w1": "Hajen", "w2": "Lejonet"},
+  {"q": "Vem skapade systemet med tvådelade latinska namn för växter och djur?", "a": "Carl von Linné", "w1": "Alfred Nobel", "w2": "Anders Celsius"},
+  {"q": "Vad kallas förvandlingen när en larv blir en fjäril?", "a": "Metamorfos", "w1": "Kläckning", "w2": "Övervintring"},
+  {"q": "Vilket grundämne har kemisk beteckning Fe?", "a": "Järn", "w1": "Koppar", "w2": "Silver"},
+  {"q": "Vad kallas djur som enbart äter växter?", "a": "Herbivorer", "w1": "Karnivorer", "w2": "Omnivorer"}
+]

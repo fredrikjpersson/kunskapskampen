@@ -1,0 +1,12 @@
+[
+  {"q": "Vad betyder förkortningen HTTP?", "a": "Hypertext Transfer Protocol", "w1": "High Transfer Text Protocol", "w2": "Hyper Transfer Text Process"},
+  {"q": "Vem grundade Microsoft?", "a": "Bill Gates", "w1": "Steve Jobs", "w2": "Larry Page"},
+  {"q": "Vad betyder förkortningen HTML?", "a": "HyperText Markup Language", "w1": "High Text Machine Language", "w2": "Hyper Transfer Markup Link"},
+  {"q": "Vad mäts i hertz?", "a": "Frekvens", "w1": "Effekt", "w2": "Datastyrka"},
+  {"q": "Vad säger Moores lag?", "a": "Antalet transistorer på chip dubblas ungefär vartannat år", "w1": "Datorer blir hälften så dyra varje år", "w2": "Internettrafiken fördubblas varje månad"},
+  {"q": "Vilket år presenterade Tim Berners-Lee World Wide Web?", "a": "1989", "w1": "1993", "w2": "1985"},
+  {"q": "Vad betyder förkortningen RAM?", "a": "Random Access Memory", "w1": "Read Access Memory", "w2": "Rapid Active Memory"},
+  {"q": "Vilket programmeringsspråk körs direkt i webbläsaren?", "a": "JavaScript", "w1": "Python", "w2": "C++"},
+  {"q": "Vad stod GSM (2G) för?", "a": "Global System for Mobile Communications", "w1": "General Standard Mobile", "w2": "Global Signal Module"},
+  {"q": "Vad har en processor till uppgift att göra med grafik?", "a": "GPU:n bearbetar grafik", "w1": "Nätaggregatet ritar grafik", "w2": "Ljudkortet bearbetar grafik"}
+]

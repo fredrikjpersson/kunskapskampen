@@ -1,0 +1,12 @@
+[
+  {"q": "Vad kallas det att röra sig i takt med musik?", "a": "Dans", "w1": "Sång", "w2": "Hopprytmik"},
+  {"q": "Vad kallas en person som dansar?", "a": "Dansare", "w1": "Sångare", "w2": "Skådespelare"},
+  {"q": "Vilken dans utövas med spetsiga skor?", "a": "Balett", "w1": "Breakdance", "w2": "Tango"},
+  {"q": "Vilken barnlek och dans är känd för 'kwa kwa'?", "a": "Små grodorna", "w1": "Räven raskar över isen", "w2": "Bro bro breja"},
+  {"q": "Vad kallas 'dans på is'?", "a": "Konståkning", "w1": "Ishockey", "w2": "Skridskodans"},
+  {"q": "Vad heter en snurrning i balett?", "a": "Piruett", "w1": "Piraya", "w2": "Piraya-sving"},
+  {"q": "Vad kallas dansen runt julgranen?", "a": "Ringdans", "w1": "Kedjedans", "w2": "Snurdans"},
+  {"q": "Vilken glad dans kommer från Brasilien?", "a": "Samba", "w1": "Tango", "w2": "Flamenco"},
+  {"q": "Vilken dans utförs på gatan med akrobatiska rörelser?", "a": "Breakdance", "w1": "Balett", "w2": "Vals"},
+  {"q": "Vad heter den svenska pardans som dansas på midsommar?", "a": "Hambo", "w1": "Tango", "w2": "Salsa"}
+]

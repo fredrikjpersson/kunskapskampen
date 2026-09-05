@@ -1,0 +1,12 @@
+[
+  {"q": "Ungefär hur fort rör sig ljud i vatten?", "a": "1 500 meter per sekund", "w1": "340 meter per sekund", "w2": "3 000 meter per sekund"},
+  {"q": "Vad är SI-enheten för ljudtryck?", "a": "Pascal", "w1": "Decibel", "w2": "Newton"},
+  {"q": "Vad betyder Hi-Fi?", "a": "High Fidelity", "w1": "High Filter", "w2": "Hyper Frequency"},
+  {"q": "Vad kännetecknar ett förlustfritt (lossless) ljudformat?", "a": "Ingen ljuddata tas bort", "w1": "Tystnad komprimeras bort", "w2": "Bas-toner tas bort"},
+  {"q": "Vilket frekvensområde har ultraljud?", "a": "Över 20 kHz", "w1": "Under 20 Hz", "w2": "Mellan 1 och 2 kHz"},
+  {"q": "Vad betyder '.1' i surroundformatet 5.1?", "a": "En lågfrekvenskanal för subbas", "w1": "En ekokanal", "w2": "En extra röstkanal"},
+  {"q": "Vilket brus har lika mycket energi per oktav?", "a": "Rosa brus", "w1": "Vitt brus", "w2": "Brunt brus"},
+  {"q": "Vad kallas standardstämningen A4 = 440 Hz?", "a": "Kammarton", "w1": "Barockstämning", "w2": "Konsertton"},
+  {"q": "Vad kallas tekniken att spela in flera lager på varandra i studion?", "a": "Overdubbing", "w1": "Side-loading", "w2": "Downmixing"},
+  {"q": "Vad uppstår när två toner med nästan samma frekvens blandas?", "a": "Svevningar (slag)", "w1": "Dubblerad tonhöjd", "w2": "Total tystnad"}
+]
