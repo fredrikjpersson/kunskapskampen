@@ -1,12 +1,122 @@
 [
-  {"q": "Hur många strängar har en vanlig gitarr?", "a": "6", "w1": "4", "w2": "7"},
-  {"q": "Vad mäts ljudstyrka i?", "a": "Decibel", "w1": "Hertz", "w2": "Watt"},
-  {"q": "Ungefär hur fort rör sig ljudet i luft?", "a": "340 meter per sekund", "w1": "100 meter per sekund", "w2": "1 000 meter per sekund"},
-  {"q": "Kan man höra ljud i rymden?", "a": "Nej", "w1": "Ja", "w2": "Bara på månen"},
-  {"q": "Vad kallas det när ljud studsar tillbaka?", "a": "Eko", "w1": "Sus", "w2": "Brus"},
-  {"q": "Vad kallas ljud som är för högt för människor att höra?", "a": "Ultraljud", "w1": "Infraljud", "w2": "Mikroljud"},
-  {"q": "Vilken instrumentfamilj tillhör cellon?", "a": "Stråkinstrument", "w1": "Blåsinstrument", "w2": "Slagverkinstrument"},
-  {"q": "Vad orsakar ljud?", "a": "Vibrationer", "w1": "Ljus", "w2": "Värme"},
-  {"q": "Vem uppfann telefonen?", "a": "Alexander Graham Bell", "w1": "Thomas Edison", "w2": "Guglielmo Marconi"},
-  {"q": "Vad heter bandet man spelade in musik på förr i tiden?", "a": "Kassett", "w1": "CD", "w2": "Vinyl"}
+  {
+    "q": "Hur många strängar har en vanlig gitarr?",
+    "a": "6",
+    "w1": "4",
+    "w2": "7"
+  },
+  {
+    "q": "Vad mäts ljudstyrka i?",
+    "a": "Decibel",
+    "w1": "Hertz",
+    "w2": "Watt"
+  },
+  {
+    "q": "Ungefär hur fort rör sig ljudet i luft?",
+    "a": "340 meter per sekund",
+    "w1": "100 meter per sekund",
+    "w2": "1 000 meter per sekund"
+  },
+  {
+    "q": "Kan man höra ljud i rymden?",
+    "a": "Nej",
+    "w1": "Ja",
+    "w2": "Bara på månen"
+  },
+  {
+    "q": "Vad kallas det när ljud studsar tillbaka?",
+    "a": "Eko",
+    "w1": "Sus",
+    "w2": "Brus"
+  },
+  {
+    "q": "Vad kallas ljud som är för högt för människor att höra?",
+    "a": "Ultraljud",
+    "w1": "Infraljud",
+    "w2": "Mikroljud"
+  },
+  {
+    "q": "Vilken instrumentfamilj tillhör cellon?",
+    "a": "Stråkinstrument",
+    "w1": "Blåsinstrument",
+    "w2": "Slagverkinstrument"
+  },
+  {
+    "q": "Vad orsakar ljud?",
+    "a": "Vibrationer",
+    "w1": "Ljus",
+    "w2": "Värme"
+  },
+  {
+    "q": "Vem uppfann telefonen?",
+    "a": "Alexander Graham Bell",
+    "w1": "Thomas Edison",
+    "w2": "Guglielmo Marconi"
+  },
+  {
+    "q": "Vad heter bandet man spelade in musik på förr i tiden?",
+    "a": "Kassett",
+    "w1": "CD",
+    "w2": "Vinyl"
+  },
+  {
+    "q": "Vad är en akustisk gitarr?",
+    "a": "Gitarr utan elektrisk förstärkning",
+    "w1": "Gitarr med batteri",
+    "w2": "En slags fiol"
+  },
+  {
+    "q": "Vad kallas ljudets egenskaper i ett rum?",
+    "a": "Akustik",
+    "w1": "Ekonomi",
+    "w2": "Estetik"
+  },
+  {
+    "q": "Vad gör en megafon?",
+    "a": "Gör rösten högre",
+    "w1": "Spelar in musik",
+    "w2": "Dämpar ljud"
+  },
+  {
+    "q": "Vad gör en equalizer?",
+    "a": "Ändrar ljudets frekvensbalans",
+    "w1": "Ökar batteritiden",
+    "w2": "Tar bort tystnad"
+  },
+  {
+    "q": "Vad är en loop inom musik?",
+    "a": "En upprepad ljudbit",
+    "w1": "En typ av högtalare",
+    "w2": "Ett slags mikrofonblad"
+  },
+  {
+    "q": "Vad kallas det när man sjunger fel ton?",
+    "a": "Falskt",
+    "w1": "Rent",
+    "w2": "Rakt"
+  },
+  {
+    "q": "Vad kallas det när man sjunger till förinspelad musik med mikrofon?",
+    "a": "Karaoke",
+    "w1": "Playback",
+    "w2": "A cappella"
+  },
+  {
+    "q": "Vad är en ljudbok?",
+    "a": "En inläst bok",
+    "w1": "En bok om ljud",
+    "w2": "En tyst film"
+  },
+  {
+    "q": "Vad är surroundljud?",
+    "a": "Ljud från flera håll i rummet",
+    "w1": "Ljud i stereo",
+    "w2": "Mycket starkt ljud"
+  },
+  {
+    "q": "Vad är en podd?",
+    "a": "Radio på nätet",
+    "w1": "En liten högtalare",
+    "w2": "Ett ljudmått"
+  }
 ]

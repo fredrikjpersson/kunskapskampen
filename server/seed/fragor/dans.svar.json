@@ -1,12 +1,122 @@
 [
-  {"q": "Vad betyder 'pas de deux'?", "a": "Dans för två", "w1": "Steg i takt", "w2": "Solodans"},
-  {"q": "Vilken Tjajkovskij-balett utspelas på juletid?", "a": "Nötknäpparen", "w1": "Svansjön", "w2": "Törnrosa"},
-  {"q": "Vad heter Moskvas berömda balettteater?", "a": "Bolsjojteatern", "w1": "Mariinskijteatern", "w2": "La Scala"},
-  {"q": "Vilken dans är känd för höga bensparkar och kjolar?", "a": "Cancan", "w1": "Polka", "w2": "Gavott"},
-  {"q": "Vad kallas Indiens filmiska dansstil?", "a": "Bollywood", "w1": "Bharatanatyam", "w2": "Kathak"},
-  {"q": "Vad är en 'grand jeté'?", "a": "Ett stort hopp framåt", "w1": "En djup bugning", "w2": "En lyftning i par"},
-  {"q": "Vad kallas räcket man övar vid i balettsalen?", "a": "Barré", "w1": "Pirouettstång", "w2": "Adagiolinje"},
-  {"q": "Vilket land kommer träningsdansen Zumba ifrån?", "a": "Colombia", "w1": "Brasilien", "w2": "Mexiko"},
-  {"q": "I vilken stad uppstod dansstilen voguing?", "a": "New York", "w1": "Los Angeles", "w2": "Paris"},
-  {"q": "Vad kallas en manlig balettdansör på franska?", "a": "Danseur", "w1": "Danseux", "w2": "Ballerino"}
+  {
+    "q": "Vad betyder 'pas de deux'?",
+    "a": "Dans för två",
+    "w1": "Steg i takt",
+    "w2": "Solodans"
+  },
+  {
+    "q": "Vilken Tjajkovskij-balett utspelas på juletid?",
+    "a": "Nötknäpparen",
+    "w1": "Svansjön",
+    "w2": "Törnrosa"
+  },
+  {
+    "q": "Vad heter Moskvas berömda balettteater?",
+    "a": "Bolsjojteatern",
+    "w1": "Mariinskijteatern",
+    "w2": "La Scala"
+  },
+  {
+    "q": "Vilken dans är känd för höga bensparkar och kjolar?",
+    "a": "Cancan",
+    "w1": "Polka",
+    "w2": "Gavott"
+  },
+  {
+    "q": "Vad kallas Indiens filmiska dansstil?",
+    "a": "Bollywood",
+    "w1": "Bharatanatyam",
+    "w2": "Kathak"
+  },
+  {
+    "q": "Vad är en 'grand jeté'?",
+    "a": "Ett stort hopp framåt",
+    "w1": "En djup bugning",
+    "w2": "En lyftning i par"
+  },
+  {
+    "q": "Vad kallas räcket man övar vid i balettsalen?",
+    "a": "Barré",
+    "w1": "Pirouettstång",
+    "w2": "Adagiolinje"
+  },
+  {
+    "q": "Vilket land kommer träningsdansen Zumba ifrån?",
+    "a": "Colombia",
+    "w1": "Brasilien",
+    "w2": "Mexiko"
+  },
+  {
+    "q": "I vilken stad uppstod dansstilen voguing?",
+    "a": "New York",
+    "w1": "Los Angeles",
+    "w2": "Paris"
+  },
+  {
+    "q": "Vad kallas en manlig balettdansör på franska?",
+    "a": "Danseur",
+    "w1": "Danseux",
+    "w2": "Ballerino"
+  },
+  {
+    "q": "Vad betyder plié inom balett?",
+    "a": "Knäböj",
+    "w1": "Hopp",
+    "w2": "Snurr"
+  },
+  {
+    "q": "Vad betyder tendu?",
+    "a": "Sträckt ben mot golvet",
+    "w1": "Böjt knä",
+    "w2": "Lyft arm"
+  },
+  {
+    "q": "Vem komponerade baletten 'Romeo och Julia'?",
+    "a": "Prokofjev",
+    "w1": "Tjajkovskij",
+    "w2": "Stravinskij"
+  },
+  {
+    "q": "Vem var Margot Fonteyn?",
+    "a": "Balettdansör",
+    "w1": "Operasångerska",
+    "w2": "Koreograf"
+  },
+  {
+    "q": "Vem var Maurice Béjart?",
+    "a": "Koreograf",
+    "w1": "Balettdansör",
+    "w2": "Kompositör"
+  },
+  {
+    "q": "Vad heter den kubanska karnevalsdansen med kö?",
+    "a": "Conga",
+    "w1": "Mambo",
+    "w2": "Merengue"
+  },
+  {
+    "q": "Vad är isolering inom dans?",
+    "a": "Att röra en kroppsdel i taget",
+    "w1": "Att dansa ensam",
+    "w2": "Att frysa en pose"
+  },
+  {
+    "q": "Vad kännetecknar locking?",
+    "a": "Låsta, rytmiska pauser i rörelser",
+    "w1": "Mjuka svävande steg",
+    "w2": "Klassiska positioner"
+  },
+  {
+    "q": "Vad är en cypher inom breaking?",
+    "a": "Cirkel av dansare runt en som dansar",
+    "w1": "En tävlingsregel",
+    "w2": "Ett stalljud"
+  },
+  {
+    "q": "Vad kallas det avslutande partiet i en balett?",
+    "a": "Coda",
+    "w1": "Koda",
+    "w2": "Final"
+  }
 ]

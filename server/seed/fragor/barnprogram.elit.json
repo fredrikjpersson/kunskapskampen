@@ -1,12 +1,122 @@
 [
-  {"q": "Vilket år publicerades den första Mumin-boken?", "a": "1945", "w1": "1935", "w2": "1955"},
-  {"q": "Vilket år sändes första halvtimmesavsnittet av Simpsons?", "a": "1989", "w1": "1987", "w2": "1991"},
-  {"q": "Vilket år kom den första Harry Potter-boken?", "a": "1997", "w1": "1995", "w2": "1999"},
-  {"q": "Vilket år grundades LEGO?", "a": "1932", "w1": "1946", "w2": "1922"},
-  {"q": "Vilket år dog Tove Jansson?", "a": "2001", "w1": "1991", "w2": "2011"},
-  {"q": "Vem skrev 'Hobbit'?", "a": "J.R.R. Tolkien", "w1": "C.S. Lewis", "w2": "J.K. Rowling"},
-  {"q": "Vem skapade seriefiguren Tintin?", "a": "Hergé", "w1": "Morris", "w2": "René Goscinny"},
-  {"q": "Vilket år kom den första datoranimerade långfilmen 'Toy Story'?", "a": "1995", "w1": "1993", "w2": "1997"},
-  {"q": "Vilket år dog H.C. Andersen?", "a": "1875", "w1": "1855", "w2": "1895"},
-  {"q": "Vilket år kom den första boken om Pettson och Findus?", "a": "1992", "w1": "1990", "w2": "1994"}
+  {
+    "q": "Vilket år publicerades den första Mumin-boken?",
+    "a": "1945",
+    "w1": "1935",
+    "w2": "1955"
+  },
+  {
+    "q": "Vilket år sändes första halvtimmesavsnittet av Simpsons?",
+    "a": "1989",
+    "w1": "1987",
+    "w2": "1991"
+  },
+  {
+    "q": "Vilket år kom den första Harry Potter-boken?",
+    "a": "1997",
+    "w1": "1995",
+    "w2": "1999"
+  },
+  {
+    "q": "Vilket år grundades LEGO?",
+    "a": "1932",
+    "w1": "1946",
+    "w2": "1922"
+  },
+  {
+    "q": "Vilket år dog Tove Jansson?",
+    "a": "2001",
+    "w1": "1991",
+    "w2": "2011"
+  },
+  {
+    "q": "Vem skrev 'Hobbit'?",
+    "a": "J.R.R. Tolkien",
+    "w1": "C.S. Lewis",
+    "w2": "J.K. Rowling"
+  },
+  {
+    "q": "Vem skapade seriefiguren Tintin?",
+    "a": "Hergé",
+    "w1": "Morris",
+    "w2": "René Goscinny"
+  },
+  {
+    "q": "Vilket år kom den första datoranimerade långfilmen 'Toy Story'?",
+    "a": "1995",
+    "w1": "1993",
+    "w2": "1997"
+  },
+  {
+    "q": "Vilket år dog H.C. Andersen?",
+    "a": "1875",
+    "w1": "1855",
+    "w2": "1895"
+  },
+  {
+    "q": "Vilket år kom den första boken om Pettson och Findus?",
+    "a": "1992",
+    "w1": "1990",
+    "w2": "1994"
+  },
+  {
+    "q": "Vilket år sändes 'Pippi Långstrump' som TV-serie?",
+    "a": "1969",
+    "w1": "1965",
+    "w2": "1973"
+  },
+  {
+    "q": "Vilket år föddes Astrid Lindgren?",
+    "a": "1907",
+    "w1": "1897",
+    "w2": "1917"
+  },
+  {
+    "q": "Vad hette Astrid Lindgrens debutroman?",
+    "a": "Britt-Mari lättar sitt hjärta",
+    "w1": "Pippi Långstrump",
+    "w2": "Mio min Mio"
+  },
+  {
+    "q": "Vilken Pixar-film kom 2003?",
+    "a": "Hitta Nemo",
+    "w1": "Monster AB",
+    "w2": "Upp"
+  },
+  {
+    "q": "Vilket år kom Shrek?",
+    "a": "2001",
+    "w1": "1999",
+    "w2": "2003"
+  },
+  {
+    "q": "Vilket år kom Frost?",
+    "a": "2013",
+    "w1": "2011",
+    "w2": "2015"
+  },
+  {
+    "q": "Vilket år dog Walt Disney?",
+    "a": "1966",
+    "w1": "1960",
+    "w2": "1972"
+  },
+  {
+    "q": "Vilket år öppnade den första Disneyland-parken?",
+    "a": "1955",
+    "w1": "1950",
+    "w2": "1960"
+  },
+  {
+    "q": "Vilket år kom 'Lejonkungen'?",
+    "a": "1994",
+    "w1": "1992",
+    "w2": "1996"
+  },
+  {
+    "q": "Vilket år grundades DreamWorks SKG?",
+    "a": "1994",
+    "w1": "1990",
+    "w2": "1998"
+  }
 ]

@@ -1,12 +1,122 @@
 [
-  {"q": "Vad heter Norges huvudstad?", "a": "Oslo", "w1": "Bergen", "w2": "Trondheim"},
-  {"q": "Vad räknas som världens längsta flod?", "a": "Nilen", "w1": "Amazonfloden", "w2": "Yangtze"},
-  {"q": "Vad heter Afrikas högsta berg?", "a": "Kilimanjaro", "w1": "Mount Kenya", "w2": "Atlasbergen"},
-  {"q": "Vad heter Australiens största stad?", "a": "Sydney", "w1": "Canberra", "w2": "Perth"},
-  {"q": "Hur många kontinenter finns det?", "a": "7", "w1": "5", "w2": "6"},
-  {"q": "Vilket är världens till ytan största land?", "a": "Ryssland", "w1": "Kanada", "w2": "Kina"},
-  {"q": "Vad heter Islands huvudstad?", "a": "Reykjavik", "w1": "Akureyri", "w2": "Bergen"},
-  {"q": "Vilken flod flyter genom Wien?", "a": "Donau", "w1": "Rhen", "w2": "Elbe"},
-  {"q": "Vad heter världens största varma öken?", "a": "Sahara", "w1": "Gobi", "w2": "Kalahari"},
-  {"q": "Vad heter havet öster om Sverige?", "a": "Östersjön", "w1": "Nordsjön", "w2": "Kattegatt"}
+  {
+    "q": "Vad heter Norges huvudstad?",
+    "a": "Oslo",
+    "w1": "Bergen",
+    "w2": "Trondheim"
+  },
+  {
+    "q": "Vad räknas som världens längsta flod?",
+    "a": "Nilen",
+    "w1": "Amazonfloden",
+    "w2": "Yangtze"
+  },
+  {
+    "q": "Vad heter Afrikas högsta berg?",
+    "a": "Kilimanjaro",
+    "w1": "Mount Kenya",
+    "w2": "Atlasbergen"
+  },
+  {
+    "q": "Vad heter Australiens största stad?",
+    "a": "Sydney",
+    "w1": "Canberra",
+    "w2": "Perth"
+  },
+  {
+    "q": "Hur många kontinenter finns det?",
+    "a": "7",
+    "w1": "5",
+    "w2": "6"
+  },
+  {
+    "q": "Vilket är världens till ytan största land?",
+    "a": "Ryssland",
+    "w1": "Kanada",
+    "w2": "Kina"
+  },
+  {
+    "q": "Vad heter Islands huvudstad?",
+    "a": "Reykjavik",
+    "w1": "Akureyri",
+    "w2": "Bergen"
+  },
+  {
+    "q": "Vilken flod flyter genom Wien?",
+    "a": "Donau",
+    "w1": "Rhen",
+    "w2": "Elbe"
+  },
+  {
+    "q": "Vad heter världens största varma öken?",
+    "a": "Sahara",
+    "w1": "Gobi",
+    "w2": "Kalahari"
+  },
+  {
+    "q": "Vad heter havet öster om Sverige?",
+    "a": "Östersjön",
+    "w1": "Nordsjön",
+    "w2": "Kattegatt"
+  },
+  {
+    "q": "Vilket land gränsar till Sverige i väster?",
+    "a": "Norge",
+    "w1": "Finland",
+    "w2": "Danmark"
+  },
+  {
+    "q": "Vad heter Tysklands huvudstad?",
+    "a": "Berlin",
+    "w1": "München",
+    "w2": "Hamburg"
+  },
+  {
+    "q": "Vilken är Europas längsta flod?",
+    "a": "Volga",
+    "w1": "Donau",
+    "w2": "Rhen"
+  },
+  {
+    "q": "I vilket land är Amsterdam huvudstad?",
+    "a": "Nederländerna",
+    "w1": "Belgien",
+    "w2": "Luxemburg"
+  },
+  {
+    "q": "Vad heter Greklands huvudstad?",
+    "a": "Aten",
+    "w1": "Thessaloniki",
+    "w2": "Sparta"
+  },
+  {
+    "q": "Vilket land ligger längst söder i Afrika?",
+    "a": "Sydafrika",
+    "w1": "Namibia",
+    "w2": "Moçambique"
+  },
+  {
+    "q": "Vad är det största landet i Sydamerika?",
+    "a": "Brasilien",
+    "w1": "Argentina",
+    "w2": "Colombia"
+  },
+  {
+    "q": "Vad heter Polens huvudstad?",
+    "a": "Warszawa",
+    "w1": "Krakow",
+    "w2": "Gdansk"
+  },
+  {
+    "q": "Vad heter Ungerns huvudstad?",
+    "a": "Budapest",
+    "w1": "Prag",
+    "w2": "Wien"
+  },
+  {
+    "q": "Vilket land liknar formen av en stövel?",
+    "a": "Italien",
+    "w1": "Portugal",
+    "w2": "Grekland"
+  }
 ]

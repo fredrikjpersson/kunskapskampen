@@ -1,12 +1,122 @@
 [
-  {"q": "Vem var världsmästare i schack under större delen av 1980- och 90-talet?", "a": "Garri Kasparov", "w1": "Anatolij Karpov", "w2": "Bobby Fischer"},
-  {"q": "Vilket år besegrade datorn Deep Blue världsmästaren Kasparov?", "a": "1997", "w1": "1994", "w2": "2000"},
-  {"q": "Vad betyder schacktermen 'zugzwang'?", "a": "Spelaren är tvingad till ett drag som förvärrar ställningen", "w1": "Spelaren får spela två drag i rad", "w2": "Spelaren kan passa en omgång"},
-  {"q": "Vilket land kommer spelet 'Terraforming Mars' ifrån?", "a": "Sverige", "w1": "USA", "w2": "Tyskland"},
-  {"q": "Vad heter brädspelsvärldens mest prestigefyllda pris?", "a": "Spiel des Jahres", "w1": "Essen Spiel Award", "w2": "Deutscher Spielepreis för Årets Spel"},
-  {"q": "Vad heter schacköppningen som inleds med d4, d5 och c4?", "a": "Damgambit", "w1": "Kungsgambit", "w2": "Sicilianskt försvar"},
-  {"q": "I vilket samarbetsspel bekämpar man globala utbrott av sjukdomar?", "a": "Pandemic", "w1": "Plague Inc", "w2": "Virus"},
-  {"q": "Vad heter världschackförbundet?", "a": "FIDE", "w1": "WCC", "w2": "ICU"},
-  {"q": "Vilket land kommer spelet 'Codenames' ifrån?", "a": "Tjeckien", "w1": "Polen", "w2": "Tyskland"},
-  {"q": "Vad betyder schackregeln 'en passant' på franska?", "a": "I förbigående", "w1": "I förväg", "w2": "I passing"}
+  {
+    "q": "Vem var världsmästare i schack under större delen av 1980- och 90-talet?",
+    "a": "Garri Kasparov",
+    "w1": "Anatolij Karpov",
+    "w2": "Bobby Fischer"
+  },
+  {
+    "q": "Vilket år besegrade datorn Deep Blue världsmästaren Kasparov?",
+    "a": "1997",
+    "w1": "1994",
+    "w2": "2000"
+  },
+  {
+    "q": "Vad betyder schacktermen 'zugzwang'?",
+    "a": "Spelaren är tvingad till ett drag som förvärrar ställningen",
+    "w1": "Spelaren får spela två drag i rad",
+    "w2": "Spelaren kan passa en omgång"
+  },
+  {
+    "q": "Vilket land kommer spelet 'Terraforming Mars' ifrån?",
+    "a": "Sverige",
+    "w1": "USA",
+    "w2": "Tyskland"
+  },
+  {
+    "q": "Vad heter brädspelsvärldens mest prestigefyllda pris?",
+    "a": "Spiel des Jahres",
+    "w1": "Essen Spiel Award",
+    "w2": "Deutscher Spielepreis för Årets Spel"
+  },
+  {
+    "q": "Vad heter schacköppningen som inleds med d4, d5 och c4?",
+    "a": "Damgambit",
+    "w1": "Kungsgambit",
+    "w2": "Sicilianskt försvar"
+  },
+  {
+    "q": "I vilket samarbetsspel bekämpar man globala utbrott av sjukdomar?",
+    "a": "Pandemic",
+    "w1": "Plague Inc",
+    "w2": "Virus"
+  },
+  {
+    "q": "Vad heter världschackförbundet?",
+    "a": "FIDE",
+    "w1": "WCC",
+    "w2": "ICU"
+  },
+  {
+    "q": "Vilket land kommer spelet 'Codenames' ifrån?",
+    "a": "Tjeckien",
+    "w1": "Polen",
+    "w2": "Tyskland"
+  },
+  {
+    "q": "Vad betyder schackregeln 'en passant' på franska?",
+    "a": "I förbigående",
+    "w1": "I förväg",
+    "w2": "I passing"
+  },
+  {
+    "q": "Vem besegrade Kasparov i VM-matchen 2000?",
+    "a": "Vladimir Kramnik",
+    "w1": "Viswanathan Anand",
+    "w2": "Boris Gelfand"
+  },
+  {
+    "q": "Vilket år grundades FIDE?",
+    "a": "1924",
+    "w1": "1914",
+    "w2": "1934"
+  },
+  {
+    "q": "Vad är Sveshnikov?",
+    "a": "En variant i sicilianskt försvar",
+    "w1": "En öppning med 1.d4",
+    "w2": "Ett slutspeiskonstverk"
+  },
+  {
+    "q": "Vad är Najdorf?",
+    "a": "En variant i sicilianskt försvar",
+    "w1": "Ett schacköppningsgambit",
+    "w2": "En sorts mattbild"
+  },
+  {
+    "q": "Vad kallas ess till tio i samma färg i poker?",
+    "a": "Royal straight flush",
+    "w1": "Straight flush",
+    "w2": "Fyrtal"
+  },
+  {
+    "q": "Vad är kontrakt i bridge?",
+    "a": "Ett utlovat antal stick",
+    "w1": "En kortlek med jokrar",
+    "w2": "En budgivningsrunda"
+  },
+  {
+    "q": "Vad är ko-regeln i Go?",
+    "a": "Regel mot oändlig repetition",
+    "w1": "Regel för poängräkning",
+    "w2": "Regel för handikapp"
+  },
+  {
+    "q": "Vad är seki i Go?",
+    "a": "Position där ingen kan fånga",
+    "w1": "En öppningsvariant",
+    "w2": "Ett slags fusk"
+  },
+  {
+    "q": "Vilket år skapades spelet som blev Risk?",
+    "a": "1957",
+    "w1": "1947",
+    "w2": "1967"
+  },
+  {
+    "q": "Vilket år kom spelet Catan (Die Siedler von Catan)?",
+    "a": "1995",
+    "w1": "1985",
+    "w2": "2005"
+  }
 ]

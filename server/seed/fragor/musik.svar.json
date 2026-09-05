@@ -1,12 +1,122 @@
 [
-  {"q": "Vem komponerade 'Månskenssonaten'?", "a": "Beethoven", "w1": "Mozart", "w2": "Bach"},
-  {"q": "Vilket band var Kurt Cobain sångare i?", "a": "Nirvana", "w1": "Pearl Jam", "w2": "Soundgarden"},
-  {"q": "Vad betyder 'opus' inom klassisk musik?", "a": "Verk", "w1": "Tempo", "w2": "Stämma"},
-  {"q": "Vad betyder tempobeteckningen 'allegro'?", "a": "Snabbt", "w1": "Långsamt", "w2": "Tyst"},
-  {"q": "Vem kallas 'King of Pop'?", "a": "Michael Jackson", "w1": "Elvis Presley", "w2": "Prince"},
-  {"q": "Vem sjöng 'Purple Rain'?", "a": "Prince", "w1": "Michael Jackson", "w2": "David Bowie"},
-  {"q": "Vilket instrument spelar cellisten Yo-Yo Ma?", "a": "Cello", "w1": "Piano", "w2": "Trumpet"},
-  {"q": "Vad heter Sveriges nationalsång?", "a": "Du gamla, du fria", "w1": "Kungssången", "w2": "Vintern rasat"},
-  {"q": "Vilken svensk grupp sjöng 'The Final Countdown'?", "a": "Europe", "w1": "Toto", "w2": "Survivor"},
-  {"q": "Vad kallas en nyinspelning av någon annans låt?", "a": "En cover", "w1": "En remix", "w2": "En sampling"}
+  {
+    "q": "Vem komponerade 'Månskenssonaten'?",
+    "a": "Beethoven",
+    "w1": "Mozart",
+    "w2": "Bach"
+  },
+  {
+    "q": "Vilket band var Kurt Cobain sångare i?",
+    "a": "Nirvana",
+    "w1": "Pearl Jam",
+    "w2": "Soundgarden"
+  },
+  {
+    "q": "Vad betyder 'opus' inom klassisk musik?",
+    "a": "Verk",
+    "w1": "Tempo",
+    "w2": "Stämma"
+  },
+  {
+    "q": "Vad betyder tempobeteckningen 'allegro'?",
+    "a": "Snabbt",
+    "w1": "Långsamt",
+    "w2": "Tyst"
+  },
+  {
+    "q": "Vem kallas 'King of Pop'?",
+    "a": "Michael Jackson",
+    "w1": "Elvis Presley",
+    "w2": "Prince"
+  },
+  {
+    "q": "Vem sjöng 'Purple Rain'?",
+    "a": "Prince",
+    "w1": "Michael Jackson",
+    "w2": "David Bowie"
+  },
+  {
+    "q": "Vilket instrument spelar cellisten Yo-Yo Ma?",
+    "a": "Cello",
+    "w1": "Piano",
+    "w2": "Trumpet"
+  },
+  {
+    "q": "Vad heter Sveriges nationalsång?",
+    "a": "Du gamla, du fria",
+    "w1": "Kungssången",
+    "w2": "Vintern rasat"
+  },
+  {
+    "q": "Vilken svensk grupp sjöng 'The Final Countdown'?",
+    "a": "Europe",
+    "w1": "Toto",
+    "w2": "Survivor"
+  },
+  {
+    "q": "Vad kallas en nyinspelning av någon annans låt?",
+    "a": "En cover",
+    "w1": "En remix",
+    "w2": "En sampling"
+  },
+  {
+    "q": "Vilket år dog Avicii?",
+    "a": "2018",
+    "w1": "2016",
+    "w2": "2020"
+  },
+  {
+    "q": "Vem sjöng 'Like a Rolling Stone'?",
+    "a": "Bob Dylan",
+    "w1": "John Lennon",
+    "w2": "Neil Young"
+  },
+  {
+    "q": "Vilket år grundades Spotify?",
+    "a": "2006",
+    "w1": "2004",
+    "w2": "2008"
+  },
+  {
+    "q": "Vad kallas Bruce Springsteen i folkmun?",
+    "a": "The Boss",
+    "w1": "The King",
+    "w2": "The Duke"
+  },
+  {
+    "q": "Vem sjöng 'Respect'?",
+    "a": "Aretha Franklin",
+    "w1": "Tina Turner",
+    "w2": "Diana Ross"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Back in Black'?",
+    "a": "AC/DC",
+    "w1": "Iron Maiden",
+    "w2": "Kiss"
+  },
+  {
+    "q": "Vem skrev 'The Sound of Silence'?",
+    "a": "Paul Simon",
+    "w1": "Bob Dylan",
+    "w2": "Neil Diamond"
+  },
+  {
+    "q": "Vilket land kommer U2 ifrån?",
+    "a": "Irland",
+    "w1": "Skottland",
+    "w2": "England"
+  },
+  {
+    "q": "Vilken musikakt har sålt mest i världen?",
+    "a": "The Beatles",
+    "w1": "Elvis Presley",
+    "w2": "Michael Jackson"
+  },
+  {
+    "q": "Vem skrev och sjöng 'Hallelujah' först?",
+    "a": "Leonard Cohen",
+    "w1": "Jeff Buckley",
+    "w2": "Bob Dylan"
+  }
 ]

@@ -1,12 +1,122 @@
 [
-  {"q": "Inom vilket frekvensområde hör en människa ungefär?", "a": "20 Hz - 20 kHz", "w1": "10 Hz - 10 kHz", "w2": "50 Hz - 50 kHz"},
-  {"q": "Vad beskriver dopplereffekten?", "a": "Frekvensändring när ljudkällan rör sig", "w1": "Att ljud blir svagare på avstånd", "w2": "Att ljud blir djupare i kyla"},
-  {"q": "Vilka djur använder ekolokalisering för att orientera sig?", "a": "Fladdermöss", "w1": "Ugglor", "w2": "Ormar"},
-  {"q": "Vilket organ hjälper oss att hålla balansen?", "a": "Innerörat", "w1": "Ögat", "w2": "Näsan"},
-  {"q": "I vilket av dessa går ljudet fortast?", "a": "Stål", "w1": "Luft", "w2": "Vatten"},
-  {"q": "Vad kallas ljud med frekvens under 20 Hz?", "a": "Infraljud", "w1": "Ultraljud", "w2": "Mikroljud"},
-  {"q": "Vad kallas det när något förstärks vid en viss frekvens?", "a": "Resonans", "w1": "Interferens", "w2": "Diffusion"},
-  {"q": "Vilket företag lanserade Walkman 1979?", "a": "Sony", "w1": "Philips", "w2": "Panasonic"},
-  {"q": "Vad är en oktav?", "a": "En fördubbling av frekvensen", "w1": "En halvering av ljudstyrkan", "w2": "Ett tredjedelssteg i tonhöjd"},
-  {"q": "Vem uppfann grammofonen?", "a": "Thomas Edison", "w1": "Alexander Graham Bell", "w2": "Guglielmo Marconi"}
+  {
+    "q": "Inom vilket frekvensområde hör en människa ungefär?",
+    "a": "20 Hz - 20 kHz",
+    "w1": "10 Hz - 10 kHz",
+    "w2": "50 Hz - 50 kHz"
+  },
+  {
+    "q": "Vad beskriver dopplereffekten?",
+    "a": "Frekvensändring när ljudkällan rör sig",
+    "w1": "Att ljud blir svagare på avstånd",
+    "w2": "Att ljud blir djupare i kyla"
+  },
+  {
+    "q": "Vilka djur använder ekolokalisering för att orientera sig?",
+    "a": "Fladdermöss",
+    "w1": "Ugglor",
+    "w2": "Ormar"
+  },
+  {
+    "q": "Vilket organ hjälper oss att hålla balansen?",
+    "a": "Innerörat",
+    "w1": "Ögat",
+    "w2": "Näsan"
+  },
+  {
+    "q": "I vilket av dessa går ljudet fortast?",
+    "a": "Stål",
+    "w1": "Luft",
+    "w2": "Vatten"
+  },
+  {
+    "q": "Vad kallas ljud med frekvens under 20 Hz?",
+    "a": "Infraljud",
+    "w1": "Ultraljud",
+    "w2": "Mikroljud"
+  },
+  {
+    "q": "Vad kallas det när något förstärks vid en viss frekvens?",
+    "a": "Resonans",
+    "w1": "Interferens",
+    "w2": "Diffusion"
+  },
+  {
+    "q": "Vilket företag lanserade Walkman 1979?",
+    "a": "Sony",
+    "w1": "Philips",
+    "w2": "Panasonic"
+  },
+  {
+    "q": "Vad är en oktav?",
+    "a": "En fördubbling av frekvensen",
+    "w1": "En halvering av ljudstyrkan",
+    "w2": "Ett tredjedelssteg i tonhöjd"
+  },
+  {
+    "q": "Vem uppfann grammofonen?",
+    "a": "Thomas Edison",
+    "w1": "Alexander Graham Bell",
+    "w2": "Guglielmo Marconi"
+  },
+  {
+    "q": "Vad betyder stereofoni?",
+    "a": "Ljud i två kanaler",
+    "w1": "Ljud i en kanal",
+    "w2": "Ljud utan bas"
+  },
+  {
+    "q": "Vad kallas tryckvågen när ett flygplan går fortare än ljudet?",
+    "a": "Ljudvallen",
+    "w1": "Vindmolnet",
+    "w2": "Tryckbrytaren"
+  },
+  {
+    "q": "Hur är decibelskalan uppbyggd?",
+    "a": "Logaritmisk",
+    "w1": "Linjär",
+    "w2": "Sinusformad"
+  },
+  {
+    "q": "Vad är vitt brus?",
+    "a": "Alla hörbara frekvenser lika starkt",
+    "w1": "Bara basfrekvenser",
+    "w2": "Tystnad mellan toner"
+  },
+  {
+    "q": "Vad omvandlar en mikrofon?",
+    "a": "Ljud till elektrisk signal",
+    "w1": "Elektricitet till ljus",
+    "w2": "Vibrationer till värme"
+  },
+  {
+    "q": "Vad gör en högtalare?",
+    "a": "Omvandlar elektricitet till ljud",
+    "w1": "Förstärker ljus",
+    "w2": "Renar luften"
+  },
+  {
+    "q": "Vad betyder mono inom ljud?",
+    "a": "En kanal",
+    "w1": "Två kanaler",
+    "w2": "Åtta kanaler"
+  },
+  {
+    "q": "Vad använder ubåtar för att upptäcka saker under vatten?",
+    "a": "Sonar",
+    "w1": "Radar",
+    "w2": "Lidar"
+  },
+  {
+    "q": "Vad betyder pitch?",
+    "a": "Tonhöjd",
+    "w1": "Ljudstyrka",
+    "w2": "Efterklang"
+  },
+  {
+    "q": "Vilken sorts våg är ljud?",
+    "a": "Longitudinell",
+    "w1": "Transversell",
+    "w2": "Cirkulär"
+  }
 ]

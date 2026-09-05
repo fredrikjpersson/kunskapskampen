@@ -1,12 +1,122 @@
 [
-  {"q": "Vem koreograferade Svansjön tillsammans med Lev Ivanov?", "a": "Marius Petipa", "w1": "George Balanchine", "w2": "Mikhail Fokin"},
-  {"q": "Vilket år hade baletten Svansjön premiär?", "a": "1877", "w1": "1895", "w2": "1867"},
-  {"q": "Vad kallas de snurrande varven med sträckt ben i Svansjön?", "a": "Fouetté", "w1": "Pirouett", "w2": "Chaîné"},
-  {"q": "Vem komponerade baletten Giselle?", "a": "Adolphe Adam", "w1": "Léo Delibes", "w2": "Cesare Pugni"},
-  {"q": "Vem grundade den tyska dansteatern Tanztheater Wuppertal?", "a": "Pina Bausch", "w1": "Kurt Jooss", "w2": "Sasha Waltz"},
-  {"q": "Vad var Rudolf Nurejev känd som?", "a": "Balettdansör", "w1": "Kompositör", "w2": "Koreograf av Svansjön"},
-  {"q": "Vilket år dog Rudolf Nurejev?", "a": "1993", "w1": "1989", "w2": "1997"},
-  {"q": "Vad betyder 'en pointe' inom balett?", "a": "Att dansa på tåspetsar", "w1": "Att dansa i punkter", "w2": "Att dansa ensam"},
-  {"q": "Vilken expressiva dansstil uppstod i Los Angeles på 2000-talet?", "a": "Krump", "w1": "Tutting", "w2": "Shuffling"},
-  {"q": "Vad betyder 'corps de ballet'?", "a": "Hela ensemblen av dansare", "w1": "Balettens ledare", "w2": "En solodansör"}
+  {
+    "q": "Vem koreograferade Svansjön tillsammans med Lev Ivanov?",
+    "a": "Marius Petipa",
+    "w1": "George Balanchine",
+    "w2": "Mikhail Fokin"
+  },
+  {
+    "q": "Vilket år hade baletten Svansjön premiär?",
+    "a": "1877",
+    "w1": "1895",
+    "w2": "1867"
+  },
+  {
+    "q": "Vad kallas de snurrande varven med sträckt ben i Svansjön?",
+    "a": "Fouetté",
+    "w1": "Pirouett",
+    "w2": "Chaîné"
+  },
+  {
+    "q": "Vem komponerade baletten Giselle?",
+    "a": "Adolphe Adam",
+    "w1": "Léo Delibes",
+    "w2": "Cesare Pugni"
+  },
+  {
+    "q": "Vem grundade den tyska dansteatern Tanztheater Wuppertal?",
+    "a": "Pina Bausch",
+    "w1": "Kurt Jooss",
+    "w2": "Sasha Waltz"
+  },
+  {
+    "q": "Vad var Rudolf Nurejev känd som?",
+    "a": "Balettdansör",
+    "w1": "Kompositör",
+    "w2": "Koreograf av Svansjön"
+  },
+  {
+    "q": "Vilket år dog Rudolf Nurejev?",
+    "a": "1993",
+    "w1": "1989",
+    "w2": "1997"
+  },
+  {
+    "q": "Vad betyder 'en pointe' inom balett?",
+    "a": "Att dansa på tåspetsar",
+    "w1": "Att dansa i punkter",
+    "w2": "Att dansa ensam"
+  },
+  {
+    "q": "Vilken expressiva dansstil uppstod i Los Angeles på 2000-talet?",
+    "a": "Krump",
+    "w1": "Tutting",
+    "w2": "Shuffling"
+  },
+  {
+    "q": "Vad betyder 'corps de ballet'?",
+    "a": "Hela ensemblen av dansare",
+    "w1": "Balettens ledare",
+    "w2": "En solodansör"
+  },
+  {
+    "q": "Vad heter Nederländernas mest kända samtidsdanskompani?",
+    "a": "Nederlands Dans Theater",
+    "w1": "Dutch National Ballet",
+    "w2": "Introdans"
+  },
+  {
+    "q": "Vem var Jirí Kylián?",
+    "a": "Koreograf",
+    "w1": "Balettdansör",
+    "w2": "Kompositör"
+  },
+  {
+    "q": "Vem koreograferade 'Petrousjka'?",
+    "a": "Michel Fokin",
+    "w1": "Marius Petipa",
+    "w2": "George Balanchine"
+  },
+  {
+    "q": "Vem komponerade 'Eldfågeln'?",
+    "a": "Igor Stravinskij",
+    "w1": "Sergej Prokofjev",
+    "w2": "Dmitrij Sjavakostovitj"
+  },
+  {
+    "q": "Vilket år hade 'Våroffer' premiär och skapade skandal?",
+    "a": "1913",
+    "w1": "1903",
+    "w2": "1923"
+  },
+  {
+    "q": "Vem var Vaslav Nijinsky?",
+    "a": "Dansör och koreograf",
+    "w1": "Kompositör",
+    "w2": "Balettmålare"
+  },
+  {
+    "q": "Vad kallas det klassiska korta balettyllerkortet?",
+    "a": "Plat-tutu",
+    "w1": "Romantisk tutu",
+    "w2": "Klock-tutu"
+  },
+  {
+    "q": "Vilken dansteknik utvecklade Martha Graham?",
+    "a": "Kontraktion och release",
+    "w1": "Falling and recovery",
+    "w2": "Release technique"
+  },
+  {
+    "q": "Vem var Merce Cunningham?",
+    "a": "Amerikansk koreograf",
+    "w1": "Rysk balettmästare",
+    "w2": "Fransk dansör"
+  },
+  {
+    "q": "Vad är gaga inom dans?",
+    "a": "Ett rörelsespråk av Ohad Naharin",
+    "w1": "En dansmusikgenre",
+    "w2": "En balettstil från Milano"
+  }
 ]

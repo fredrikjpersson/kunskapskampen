@@ -1,12 +1,122 @@
 [
-  {"q": "Vilket år grundades Volvo?", "a": "1927", "w1": "1917", "w2": "1937"},
-  {"q": "Vilket år visade Ferrari sin första bil under eget namn?", "a": "1947", "w1": "1937", "w2": "1957"},
-  {"q": "Vad betyder Audis 'quattro'?", "a": "Fyrhjulsdrift", "w1": "Fyra ventiler per cylinder", "w2": "Fyrportsmotor"},
-  {"q": "Vad kännetecknar en boxermotor?", "a": "Kolvarna rör sig mot varandra", "w1": "Cylindrarna står i V", "w2": "Den har bara en cylinder"},
-  {"q": "Vilket land är bilmärket Bugatti hemmahörande i?", "a": "Frankrike", "w1": "Italien", "w2": "Tyskland"},
-  {"q": "Vilket land kom racerföraren och konstruktören Bruce McLaren ifrån?", "a": "Nya Zeeland", "w1": "Australien", "w2": "Storbritannien"},
-  {"q": "Vad heter den kända tyska racerbanan 'Gröna helvetet'?", "a": "Nürburgring", "w1": "Hockenheimring", "w2": "Lausitzring"},
-  {"q": "Vad står Mercedes-AMG:s bokstäver för?", "a": "Aufrecht, Melcher och Großaspach", "w1": "Auto Motor Germany", "w2": "Allrad Motor Gesellschaft"},
-  {"q": "Vilket år lanserades Saab 92, Saabs första personbil?", "a": "1949", "w1": "1939", "w2": "1959"},
-  {"q": "Vad var Group B inom bilsporten?", "a": "En extrem rallyklass under 1980-talet", "w1": "En klass för eltävlingar", "w2": "En klass för lastbilar"}
+  {
+    "q": "Vilket år grundades Volvo?",
+    "a": "1927",
+    "w1": "1917",
+    "w2": "1937"
+  },
+  {
+    "q": "Vilket år visade Ferrari sin första bil under eget namn?",
+    "a": "1947",
+    "w1": "1937",
+    "w2": "1957"
+  },
+  {
+    "q": "Vad betyder Audis 'quattro'?",
+    "a": "Fyrhjulsdrift",
+    "w1": "Fyra ventiler per cylinder",
+    "w2": "Fyrportsmotor"
+  },
+  {
+    "q": "Vad kännetecknar en boxermotor?",
+    "a": "Kolvarna rör sig mot varandra",
+    "w1": "Cylindrarna står i V",
+    "w2": "Den har bara en cylinder"
+  },
+  {
+    "q": "Vilket land är bilmärket Bugatti hemmahörande i?",
+    "a": "Frankrike",
+    "w1": "Italien",
+    "w2": "Tyskland"
+  },
+  {
+    "q": "Vilket land kom racerföraren och konstruktören Bruce McLaren ifrån?",
+    "a": "Nya Zeeland",
+    "w1": "Australien",
+    "w2": "Storbritannien"
+  },
+  {
+    "q": "Vad heter den kända tyska racerbanan 'Gröna helvetet'?",
+    "a": "Nürburgring",
+    "w1": "Hockenheimring",
+    "w2": "Lausitzring"
+  },
+  {
+    "q": "Vad står Mercedes-AMG:s bokstäver för?",
+    "a": "Aufrecht, Melcher och Großaspach",
+    "w1": "Auto Motor Germany",
+    "w2": "Allrad Motor Gesellschaft"
+  },
+  {
+    "q": "Vilket år lanserades Saab 92, Saabs första personbil?",
+    "a": "1949",
+    "w1": "1939",
+    "w2": "1959"
+  },
+  {
+    "q": "Vad var Group B inom bilsporten?",
+    "a": "En extrem rallyklass under 1980-talet",
+    "w1": "En klass för eltävlingar",
+    "w2": "En klass för lastbilar"
+  },
+  {
+    "q": "Vilket år bildades Mercedes-Benz (Daimler-Benz)?",
+    "a": "1926",
+    "w1": "1916",
+    "w2": "1936"
+  },
+  {
+    "q": "Var sitter motorn i Porsche 911?",
+    "a": "Baktill",
+    "w1": "Framtill",
+    "w2": "I mitten"
+  },
+  {
+    "q": "Vad heter Bugattis toppmodell efter Veyron?",
+    "a": "Chiron",
+    "w1": "Veyron SS",
+    "w2": "Divo"
+  },
+  {
+    "q": "Vilket år grundades Lamborghini?",
+    "a": "1963",
+    "w1": "1953",
+    "w2": "1973"
+  },
+  {
+    "q": "Vad kallas Mercedes racerstall historiskt?",
+    "a": "Silver arrows",
+    "w1": "Guldvingarna",
+    "w2": "Stålkaparna"
+  },
+  {
+    "q": "Vilket år dog Ayrton Senna?",
+    "a": "1994",
+    "w1": "1990",
+    "w2": "1998"
+  },
+  {
+    "q": "Vad kännetecknar Subaru som bilmärke?",
+    "a": "Boxermotorer och fyrhjulsdrift",
+    "w1": "Wankelmotorer",
+    "w2": "Tvåtaktsmotorer"
+  },
+  {
+    "q": "Vilket år kom Saab 99?",
+    "a": "1968",
+    "w1": "1958",
+    "w2": "1978"
+  },
+  {
+    "q": "Vem uppfann trepunktsbältet som Volvo patenterade?",
+    "a": "Nils Bohlin",
+    "w1": "Gustaf Larson",
+    "w2": "Assar Gabrielsson"
+  },
+  {
+    "q": "Vad är Targa Florio?",
+    "a": "Gammalt italienskt bilslopp på Sicilien",
+    "w1": "Ett tyskt rally",
+    "w2": "En engelsk racingserie"
+  }
 ]

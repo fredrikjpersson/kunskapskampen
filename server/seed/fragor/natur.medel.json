@@ -1,12 +1,122 @@
 [
-  {"q": "Vilket är Sveriges största rovdjur?", "a": "Brunbjörnen", "w1": "Vargen", "w2": "Järven"},
-  {"q": "Hur många hjärtan har en bläckfisk?", "a": "3", "w1": "1", "w2": "5"},
-  {"q": "Vad kallas grodans unge?", "a": "Grodyngel", "w1": "Trollslända", "w2": "Larv"},
-  {"q": "Vilken fågel kan inte flyga men springer jättesnabbt?", "a": "Strutsen", "w1": "Påfågeln", "w2": "Pelikanen"},
-  {"q": "Vilket träd är vintergrönt och bär kottar?", "a": "Granen", "w1": "Björken", "w2": "Eken"},
-  {"q": "Vad kallas djur som äter både växter och kött?", "a": "Allätare", "w1": "Herbivorer", "w2": "Karnivorer"},
-  {"q": "Vilket är världens största djur?", "a": "Blåvalen", "w1": "Späckhuggaren", "w2": "Kaskeloten"},
-  {"q": "Vilket djur bygger dammar i älvar?", "a": "Bävern", "w1": "Uttern", "w2": "Mårdhon"},
-  {"q": "Vad samlar bin in till honung?", "a": "Nektar", "w1": "Dagg", "w2": "Kottar"},
-  {"q": "Vad kallas det när djur sover hela vintern?", "a": "Vinterdvala", "w1": "Sommarsömn", "w2": "Djup meditation"}
+  {
+    "q": "Vilket är Sveriges största rovdjur?",
+    "a": "Brunbjörnen",
+    "w1": "Vargen",
+    "w2": "Järven"
+  },
+  {
+    "q": "Hur många hjärtan har en bläckfisk?",
+    "a": "3",
+    "w1": "1",
+    "w2": "5"
+  },
+  {
+    "q": "Vad kallas grodans unge?",
+    "a": "Grodyngel",
+    "w1": "Trollslända",
+    "w2": "Larv"
+  },
+  {
+    "q": "Vilken fågel kan inte flyga men springer jättesnabbt?",
+    "a": "Strutsen",
+    "w1": "Påfågeln",
+    "w2": "Pelikanen"
+  },
+  {
+    "q": "Vilket träd är vintergrönt och bär kottar?",
+    "a": "Granen",
+    "w1": "Björken",
+    "w2": "Eken"
+  },
+  {
+    "q": "Vad kallas djur som äter både växter och kött?",
+    "a": "Allätare",
+    "w1": "Herbivorer",
+    "w2": "Karnivorer"
+  },
+  {
+    "q": "Vilket är världens största djur?",
+    "a": "Blåvalen",
+    "w1": "Späckhuggaren",
+    "w2": "Kaskeloten"
+  },
+  {
+    "q": "Vilket djur bygger dammar i älvar?",
+    "a": "Bävern",
+    "w1": "Uttern",
+    "w2": "Mårdhon"
+  },
+  {
+    "q": "Vad samlar bin in till honung?",
+    "a": "Nektar",
+    "w1": "Dagg",
+    "w2": "Kottar"
+  },
+  {
+    "q": "Vad kallas det när djur sover hela vintern?",
+    "a": "Vinterdvala",
+    "w1": "Sommarsömn",
+    "w2": "Djup meditation"
+  },
+  {
+    "q": "Vilket djur är världens snabbaste landdjur?",
+    "a": "Geparden",
+    "w1": "Lejonet",
+    "w2": "Antilopen"
+  },
+  {
+    "q": "Hur många tänder har en vuxen människa?",
+    "a": "32",
+    "w1": "24",
+    "w2": "28"
+  },
+  {
+    "q": "Vilken insekt bär ljus på sommarkvällar?",
+    "a": "Eldflugan",
+    "w1": "Myggan",
+    "w2": "Trollsländan"
+  },
+  {
+    "q": "Vilket träd är känt för sin vita bark?",
+    "a": "Björken",
+    "w1": "Almen",
+    "w2": "Asken"
+  },
+  {
+    "q": "Hur många månader varar en människas graviditet?",
+    "a": "9",
+    "w1": "7",
+    "w2": "11"
+  },
+  {
+    "q": "Vilken fisk simmar uppströms för att leka?",
+    "a": "Laxen",
+    "w1": "Abborren",
+    "w2": "Gäddan"
+  },
+  {
+    "q": "Vad kallas det när ormar byter skinn?",
+    "a": "Ömsning",
+    "w1": "Ruggning",
+    "w2": "Fällning"
+  },
+  {
+    "q": "Vilken grupp tillhör delfinen?",
+    "a": "Däggdjur",
+    "w1": "Fiskar",
+    "w2": "Kräldjur"
+  },
+  {
+    "q": "Vilken del av växten tar upp vatten?",
+    "a": "Rötterna",
+    "w1": "Bladen",
+    "w2": "Stjälken"
+  },
+  {
+    "q": "Vilket djur är Europas största landdjur?",
+    "a": "Visenten",
+    "w1": "Älgen",
+    "w2": "Brunbjörnen"
+  }
 ]

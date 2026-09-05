@@ -1,12 +1,122 @@
 [
-  {"q": "Vilken grupp sjöng 'Mamma Mia'?", "a": "ABBA", "w1": "Kent", "w2": "Gyllene Tider"},
-  {"q": "Vem kallades 'King of Rock and Roll'?", "a": "Elvis Presley", "w1": "Chuck Berry", "w2": "Johnny Cash"},
-  {"q": "Vilken grupp sjöng 'Yellow Submarine'?", "a": "The Beatles", "w1": "The Rolling Stones", "w2": "The Kinks"},
-  {"q": "Vilken svensk grupp sjöng 'Sommartider'?", "a": "Gyllene Tider", "w1": "Roxette", "w2": "Noice"},
-  {"q": "Vem sjöng 'Take Me Home, Country Roads'?", "a": "John Denver", "w1": "Kenny Rogers", "w2": "Willie Nelson"},
-  {"q": "Vad kallas den stora svarta skivan man spelar musik med?", "a": "Vinylskiva", "w1": "CD", "w2": "DVD"},
-  {"q": "Hur lyssnade man oftast på musik i bilen förr i tiden?", "a": "Radio", "w1": "Telefon", "w2": "Tv"},
-  {"q": "Vad heter dansen från förr där man vrider på fötterna?", "a": "Twist", "w1": "Charleston", "w2": "Boogie"},
-  {"q": "Vilken brittisk stad kom The Beatles ifrån?", "a": "Liverpool", "w1": "Manchester", "w2": "Birmingham"},
-  {"q": "Vilket instrument med bälgar är vanligt i gammal svensk dansmusik?", "a": "Dragspelet", "w1": "Pianot", "w2": "Fiolen"}
+  {
+    "q": "Vilken grupp sjöng 'Mamma Mia'?",
+    "a": "ABBA",
+    "w1": "Kent",
+    "w2": "Gyllene Tider"
+  },
+  {
+    "q": "Vem kallades 'King of Rock and Roll'?",
+    "a": "Elvis Presley",
+    "w1": "Chuck Berry",
+    "w2": "Johnny Cash"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Yellow Submarine'?",
+    "a": "The Beatles",
+    "w1": "The Rolling Stones",
+    "w2": "The Kinks"
+  },
+  {
+    "q": "Vilken svensk grupp sjöng 'Sommartider'?",
+    "a": "Gyllene Tider",
+    "w1": "Roxette",
+    "w2": "Noice"
+  },
+  {
+    "q": "Vem sjöng 'Take Me Home, Country Roads'?",
+    "a": "John Denver",
+    "w1": "Kenny Rogers",
+    "w2": "Willie Nelson"
+  },
+  {
+    "q": "Vad kallas den stora svarta skivan man spelar musik med?",
+    "a": "Vinylskiva",
+    "w1": "CD",
+    "w2": "DVD"
+  },
+  {
+    "q": "Hur lyssnade man oftast på musik i bilen förr i tiden?",
+    "a": "Radio",
+    "w1": "Telefon",
+    "w2": "Tv"
+  },
+  {
+    "q": "Vad heter dansen från förr där man vrider på fötterna?",
+    "a": "Twist",
+    "w1": "Charleston",
+    "w2": "Boogie"
+  },
+  {
+    "q": "Vilken brittisk stad kom The Beatles ifrån?",
+    "a": "Liverpool",
+    "w1": "Manchester",
+    "w2": "Birmingham"
+  },
+  {
+    "q": "Vilket instrument med bälgar är vanligt i gammal svensk dansmusik?",
+    "a": "Dragspelet",
+    "w1": "Pianot",
+    "w2": "Fiolen"
+  },
+  {
+    "q": "Vem sjöng 'Ringo' på 60-talet?",
+    "a": "Lill-Babs",
+    "w1": "Siw Malmkvist",
+    "w2": "Ann-Louise Hanson"
+  },
+  {
+    "q": "Vilken grupp sjöng 'The Winner Takes It All'?",
+    "a": "ABBA",
+    "w1": "Secret Service",
+    "w2": "Gyllene Tider"
+  },
+  {
+    "q": "Vad kallades Frank Sinatra?",
+    "a": "Ol' Blue Eyes",
+    "w1": "The King",
+    "w2": "The Boss"
+  },
+  {
+    "q": "Vilken grupp sjöng 'We Will Rock You'?",
+    "a": "Queen",
+    "w1": "Kiss",
+    "w2": "The Who"
+  },
+  {
+    "q": "Vem sjöng 'Blue Suede Shoes'?",
+    "a": "Elvis Presley",
+    "w1": "Chuck Berry",
+    "w2": "Buddy Holly"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Twist and Shout' känd?",
+    "a": "The Beatles",
+    "w1": "The Kinks",
+    "w2": "The Beach Boys"
+  },
+  {
+    "q": "Vem sjöng 'Johnny B. Goode'?",
+    "a": "Chuck Berry",
+    "w1": "Little Richard",
+    "w2": "Jerry Lee Lewis"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Sweet Home Alabama'?",
+    "a": "Lynyrd Skynyrd",
+    "w1": "Creedence",
+    "w2": "Eagles"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Surfin' USA'?",
+    "a": "The Beach Boys",
+    "w1": "The Beatles",
+    "w2": "The Monkees"
+  },
+  {
+    "q": "Vilken grupp sjöng 'I Was Made for Lovin' You'?",
+    "a": "Kiss",
+    "w1": "Queen",
+    "w2": "ABBA"
+  }
 ]

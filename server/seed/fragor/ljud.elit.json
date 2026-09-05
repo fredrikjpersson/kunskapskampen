@@ -1,12 +1,122 @@
 [
-  {"q": "Ungefär hur fort rör sig ljud i vatten?", "a": "1 500 meter per sekund", "w1": "340 meter per sekund", "w2": "3 000 meter per sekund"},
-  {"q": "Vad är SI-enheten för ljudtryck?", "a": "Pascal", "w1": "Decibel", "w2": "Newton"},
-  {"q": "Vad betyder Hi-Fi?", "a": "High Fidelity", "w1": "High Filter", "w2": "Hyper Frequency"},
-  {"q": "Vad kännetecknar ett förlustfritt (lossless) ljudformat?", "a": "Ingen ljuddata tas bort", "w1": "Tystnad komprimeras bort", "w2": "Bas-toner tas bort"},
-  {"q": "Vilket frekvensområde har ultraljud?", "a": "Över 20 kHz", "w1": "Under 20 Hz", "w2": "Mellan 1 och 2 kHz"},
-  {"q": "Vad betyder '.1' i surroundformatet 5.1?", "a": "En lågfrekvenskanal för subbas", "w1": "En ekokanal", "w2": "En extra röstkanal"},
-  {"q": "Vilket brus har lika mycket energi per oktav?", "a": "Rosa brus", "w1": "Vitt brus", "w2": "Brunt brus"},
-  {"q": "Vad kallas standardstämningen A4 = 440 Hz?", "a": "Kammarton", "w1": "Barockstämning", "w2": "Konsertton"},
-  {"q": "Vad kallas tekniken att spela in flera lager på varandra i studion?", "a": "Overdubbing", "w1": "Side-loading", "w2": "Downmixing"},
-  {"q": "Vad uppstår när två toner med nästan samma frekvens blandas?", "a": "Svevningar (slag)", "w1": "Dubblerad tonhöjd", "w2": "Total tystnad"}
+  {
+    "q": "Ungefär hur fort rör sig ljud i vatten?",
+    "a": "1 500 meter per sekund",
+    "w1": "340 meter per sekund",
+    "w2": "3 000 meter per sekund"
+  },
+  {
+    "q": "Vad är SI-enheten för ljudtryck?",
+    "a": "Pascal",
+    "w1": "Decibel",
+    "w2": "Newton"
+  },
+  {
+    "q": "Vad betyder Hi-Fi?",
+    "a": "High Fidelity",
+    "w1": "High Filter",
+    "w2": "Hyper Frequency"
+  },
+  {
+    "q": "Vad kännetecknar ett förlustfritt (lossless) ljudformat?",
+    "a": "Ingen ljuddata tas bort",
+    "w1": "Tystnad komprimeras bort",
+    "w2": "Bas-toner tas bort"
+  },
+  {
+    "q": "Vilket frekvensområde har ultraljud?",
+    "a": "Över 20 kHz",
+    "w1": "Under 20 Hz",
+    "w2": "Mellan 1 och 2 kHz"
+  },
+  {
+    "q": "Vad betyder '.1' i surroundformatet 5.1?",
+    "a": "En lågfrekvenskanal för subbas",
+    "w1": "En ekokanal",
+    "w2": "En extra röstkanal"
+  },
+  {
+    "q": "Vilket brus har lika mycket energi per oktav?",
+    "a": "Rosa brus",
+    "w1": "Vitt brus",
+    "w2": "Brunt brus"
+  },
+  {
+    "q": "Vad kallas standardstämningen A4 = 440 Hz?",
+    "a": "Kammarton",
+    "w1": "Barockstämning",
+    "w2": "Konsertton"
+  },
+  {
+    "q": "Vad kallas tekniken att spela in flera lager på varandra i studion?",
+    "a": "Overdubbing",
+    "w1": "Side-loading",
+    "w2": "Downmixing"
+  },
+  {
+    "q": "Vad uppstår när två toner med nästan samma frekvens blandas?",
+    "a": "Svevningar (slag)",
+    "w1": "Dubblerad tonhöjd",
+    "w2": "Total tystnad"
+  },
+  {
+    "q": "Vad är binaural inspelning?",
+    "a": "Tvåkanalig inspelning som imiterar hörseln",
+    "w1": "Inspelning i fyra kanaler",
+    "w2": "Inspelning utan mikrofoner"
+  },
+  {
+    "q": "Vad betyder sforzando?",
+    "a": "Plötsligt starkt",
+    "w1": "Långsamt svagare",
+    "w2": "Helt tyst"
+  },
+  {
+    "q": "Hur förhåller sig brunt brus till frekvens?",
+    "a": "Energin minskar med högre frekvens",
+    "w1": "Energin ökar med högre frekvens",
+    "w2": "Energin är konstant"
+  },
+  {
+    "q": "Vad heter konsumentstandarden för digital ljudöverföring?",
+    "a": "S/PDIF",
+    "w1": "HDMI-ljud",
+    "w2": "AES3"
+  },
+  {
+    "q": "Vad gör en limiter?",
+    "a": "Hindrar signalen att gå över en tröskel",
+    "w1": "Tar bort ekon",
+    "w2": "Dubblerar basen"
+  },
+  {
+    "q": "Vilket är ett känt förlustfritt ljudformat?",
+    "a": "FLAC",
+    "w1": "MP3",
+    "w2": "AAC"
+  },
+  {
+    "q": "Vad betyder con sordino?",
+    "a": "Med dämp",
+    "w1": "Utan dämp",
+    "w2": "Mycket snabbt"
+  },
+  {
+    "q": "Vad utnyttjar piezoelektricitet?",
+    "a": "Kristaller som omvandlar tryck till spänning",
+    "w1": "Vind som blir ljud",
+    "w2": "Värme som blir ljus"
+  },
+  {
+    "q": "Vad är CD-skivens samplingsfrekvens?",
+    "a": "44,1 kHz",
+    "w1": "48 kHz",
+    "w2": "32 kHz"
+  },
+  {
+    "q": "Vad betyder staccato?",
+    "a": "Kort och avhugget",
+    "w1": "Sammanbundet och jämnt",
+    "w2": "Långsamt och mjukt"
+  }
 ]

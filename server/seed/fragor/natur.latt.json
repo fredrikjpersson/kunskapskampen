@@ -1,12 +1,122 @@
 [
-  {"q": "Vilket djur säger mjau?", "a": "Katten", "w1": "Hunden", "w2": "Kon"},
-  {"q": "Vilken färg har gräs?", "a": "Grön", "w1": "Blå", "w2": "Röd"},
-  {"q": "Hur många ben har en spindel?", "a": "8", "w1": "6", "w2": "10"},
-  {"q": "Vilket djur ylar nere i skogen?", "a": "Vargen", "w1": "Räven", "w2": "Björnen"},
-  {"q": "Vilket djur har en snabel?", "a": "Elefanten", "w1": "Noshörningen", "w2": "Flodhästen"},
-  {"q": "Var bor fiskarna?", "a": "I vattnet", "w1": "I träden", "w2": "Under jorden"},
-  {"q": "Vad faller från träden på hösten?", "a": "Löv", "w1": "Blommor", "w2": "Kottar"},
-  {"q": "Vilket djur sover hängande upp och ner?", "a": "Fladdermusen", "w1": "Ugglan", "w2": "Ekorren"},
-  {"q": "Vad äter kaniner gärna?", "a": "Morötter", "w1": "Kött", "w2": "Fisk"},
-  {"q": "Vilket djur kallas kungens av skogen och är Sveriges nationaldjur?", "a": "Älgen", "w1": "Kronhjorten", "w2": "Björnen"}
+  {
+    "q": "Vilket djur säger mjau?",
+    "a": "Katten",
+    "w1": "Hunden",
+    "w2": "Kon"
+  },
+  {
+    "q": "Vilken färg har gräs?",
+    "a": "Grön",
+    "w1": "Blå",
+    "w2": "Röd"
+  },
+  {
+    "q": "Hur många ben har en spindel?",
+    "a": "8",
+    "w1": "6",
+    "w2": "10"
+  },
+  {
+    "q": "Vilket djur ylar nere i skogen?",
+    "a": "Vargen",
+    "w1": "Räven",
+    "w2": "Björnen"
+  },
+  {
+    "q": "Vilket djur har en snabel?",
+    "a": "Elefanten",
+    "w1": "Noshörningen",
+    "w2": "Flodhästen"
+  },
+  {
+    "q": "Var bor fiskarna?",
+    "a": "I vattnet",
+    "w1": "I träden",
+    "w2": "Under jorden"
+  },
+  {
+    "q": "Vad faller från träden på hösten?",
+    "a": "Löv",
+    "w1": "Blommor",
+    "w2": "Kottar"
+  },
+  {
+    "q": "Vilket djur sover hängande upp och ner?",
+    "a": "Fladdermusen",
+    "w1": "Ugglan",
+    "w2": "Ekorren"
+  },
+  {
+    "q": "Vad äter kaniner gärna?",
+    "a": "Morötter",
+    "w1": "Kött",
+    "w2": "Fisk"
+  },
+  {
+    "q": "Vilket djur kallas kungens av skogen och är Sveriges nationaldjur?",
+    "a": "Älgen",
+    "w1": "Kronhjorten",
+    "w2": "Björnen"
+  },
+  {
+    "q": "Vilket djur har randig päls och lever i flock?",
+    "a": "Zebran",
+    "w1": "Kamelen",
+    "w2": "Isbjörnen"
+  },
+  {
+    "q": "Vad heter björnens unge?",
+    "a": "Björnunge",
+    "w1": "Kattunge",
+    "w2": "Valp"
+  },
+  {
+    "q": "Vilket djur bygger bo i träden och äter nötter?",
+    "a": "Ekorren",
+    "w1": "Mullvaden",
+    "w2": "Igelkotten"
+  },
+  {
+    "q": "Vad kallas binas hem?",
+    "a": "Bikupan",
+    "w1": "Myrstacken",
+    "w2": "Fågelboet"
+  },
+  {
+    "q": "Vilket djur har åtta armar?",
+    "a": "Bläckfisken",
+    "w1": "Sälen",
+    "w2": "Delfinen"
+  },
+  {
+    "q": "Vilken fågel är känd för att härma ljud?",
+    "a": "Papegojan",
+    "w1": "Ugglan",
+    "w2": "Hönan"
+  },
+  {
+    "q": "Vad heter en hunds ungar?",
+    "a": "Valpar",
+    "w1": "Killingar",
+    "w2": "Föl"
+  },
+  {
+    "q": "Vilket djur är svartvitt och äter bambu?",
+    "a": "Pandan",
+    "w1": "Koalan",
+    "w2": "Lemuren"
+  },
+  {
+    "q": "Vilket djur ger oss ull?",
+    "a": "Fåret",
+    "w1": "Grisen",
+    "w2": "Hönan"
+  },
+  {
+    "q": "Vad kallas det när fåglar flyttar söderut på hösten?",
+    "a": "Flyttning",
+    "w1": "Vintervila",
+    "w2": "Dvala"
+  }
 ]

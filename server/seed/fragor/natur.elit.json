@@ -1,12 +1,122 @@
 [
-  {"q": "Vilken celldelningsform ger upphov till könsceller?", "a": "Mejos", "w1": "Mitos", "w2": "Cytokines"},
-  {"q": "Vilket grundämne har atomnummer 79?", "a": "Guld", "w1": "Platina", "w2": "Kvicksilver"},
-  {"q": "Vilken fågel har världens största vingspann?", "a": "Vandrande albatross", "w1": "Kondor", "w2": "Kungsörn"},
-  {"q": "Vilket hormon saknas vid typ 1-diabetes?", "a": "Insulin", "w1": "Adrenalin", "w2": "Tyroxin"},
-  {"q": "Vad heter världens största haj?", "a": "Valhajen", "w1": "Vithajen", "w2": "Tigerhajen"},
-  {"q": "Vilket år publicerade Darwin 'Om arternas uppkomst'?", "a": "1859", "w1": "1839", "w2": "1879"},
-  {"q": "Vilket träd är världens högsta?", "a": "Kustsequoia", "w1": "Eukalyptus", "w2": "Jättebambu"},
-  {"q": "Vilken groda är världens giftigaste?", "a": "Gyllene pilgiftsgroda", "w1": "Lökgroda", "w2": "Grön lövgroda"},
-  {"q": "Vilket grundämne är vanligast i universum?", "a": "Väte", "w1": "Helium", "w2": "Syre"},
-  {"q": "Vilken ordning tillhör människan?", "a": "Primater", "w1": "Rovdjur", "w2": "Gnagare"}
+  {
+    "q": "Vilken celldelningsform ger upphov till könsceller?",
+    "a": "Mejos",
+    "w1": "Mitos",
+    "w2": "Cytokines"
+  },
+  {
+    "q": "Vilket grundämne har atomnummer 79?",
+    "a": "Guld",
+    "w1": "Platina",
+    "w2": "Kvicksilver"
+  },
+  {
+    "q": "Vilken fågel har världens största vingspann?",
+    "a": "Vandrande albatross",
+    "w1": "Kondor",
+    "w2": "Kungsörn"
+  },
+  {
+    "q": "Vilket hormon saknas vid typ 1-diabetes?",
+    "a": "Insulin",
+    "w1": "Adrenalin",
+    "w2": "Tyroxin"
+  },
+  {
+    "q": "Vad heter världens största haj?",
+    "a": "Valhajen",
+    "w1": "Vithajen",
+    "w2": "Tigerhajen"
+  },
+  {
+    "q": "Vilket år publicerade Darwin 'Om arternas uppkomst'?",
+    "a": "1859",
+    "w1": "1839",
+    "w2": "1879"
+  },
+  {
+    "q": "Vilket träd är världens högsta?",
+    "a": "Kustsequoia",
+    "w1": "Eukalyptus",
+    "w2": "Jättebambu"
+  },
+  {
+    "q": "Vilken groda är världens giftigaste?",
+    "a": "Gyllene pilgiftsgroda",
+    "w1": "Lökgroda",
+    "w2": "Grön lövgroda"
+  },
+  {
+    "q": "Vilket grundämne är vanligast i universum?",
+    "a": "Väte",
+    "w1": "Helium",
+    "w2": "Syre"
+  },
+  {
+    "q": "Vilken ordning tillhör människan?",
+    "a": "Primater",
+    "w1": "Rovdjur",
+    "w2": "Gnagare"
+  },
+  {
+    "q": "Vilken cellorganell producerar proteiner?",
+    "a": "Ribosomen",
+    "w1": "Mitokondrien",
+    "w2": "Lysosomen"
+  },
+  {
+    "q": "Vilken geologisk era kallas däggdjurens era?",
+    "a": "Kenozoikum",
+    "w1": "Mesozoikum",
+    "w2": "Paleozoikum"
+  },
+  {
+    "q": "Vilket år publicerades det sekvenserade humana genomet i stort sett klart?",
+    "a": "2003",
+    "w1": "1993",
+    "w2": "2013"
+  },
+  {
+    "q": "Vad är myrmekologi?",
+    "a": "Studiet av myror",
+    "w1": "Studiet av svampar",
+    "w2": "Studiet av mossor"
+  },
+  {
+    "q": "Vad är biomimik?",
+    "a": "Teknik inspirerad av naturen",
+    "w1": "Konstgjord befruktning",
+    "w2": "Kloning av växter"
+  },
+  {
+    "q": "Vad orsakar albinism?",
+    "a": "Brist på melanin",
+    "w1": "Brist på keratin",
+    "w2": "Överskott av karoten"
+  },
+  {
+    "q": "Vilken växtgrupp växer snabbast i världen?",
+    "a": "Bambu",
+    "w1": "Sequoia",
+    "w2": "Eukalyptus"
+  },
+  {
+    "q": "Vad kallas nedbrytning som sker utan syre?",
+    "a": "Anaerob nedbrytning",
+    "w1": "Aerob nedbrytning",
+    "w2": "Oxidation"
+  },
+  {
+    "q": "Vilket mikroskopiskt djur kan överleva rymdens vakuum?",
+    "a": "Björndjuret",
+    "w1": "Hjuldjuret",
+    "w2": "Gällefotingen"
+  },
+  {
+    "q": "Vad är morfologi?",
+    "a": "Läran om organismers form och struktur",
+    "w1": "Läran om beteenden",
+    "w2": "Läran om celler"
+  }
 ]

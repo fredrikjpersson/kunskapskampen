@@ -1,12 +1,122 @@
 [
-  {"q": "Hur många medlemmar hade ABBA?", "a": "4", "w1": "3", "w2": "5"},
-  {"q": "Vilken brittisk grupp sjöng 'Hey Jude'?", "a": "The Beatles", "w1": "Rolling Stones", "w2": "Queen"},
-  {"q": "Vilken svensk duo sjöng 'The Look'?", "a": "Roxette", "w1": "The Cardigans", "w2": "Ace of Base"},
-  {"q": "Vad kallas texten till en sång?", "a": "Texten", "w1": "Notbladet", "w2": "Melodin"},
-  {"q": "Hur många tangenter har ett vanligt piano?", "a": "88", "w1": "76", "w2": "100"},
-  {"q": "Vad är Spotify ett exempel på?", "a": "En musikströmningstjänst", "w1": "Ett skivbolag", "w2": "En radioapparat"},
-  {"q": "Vilken svensk DJ gjorde 'Wake Me Up'?", "a": "Avicii", "w1": "Alesso", "w2": "Swedish House Mafia"},
-  {"q": "Vad kallas en stor orkester med många stråkinstrument?", "a": "Symfoniorkester", "w1": "Big band", "w2": "Kör"},
-  {"q": "Vilken TV-kanal blev känd för att visa musikvideor?", "a": "MTV", "w1": "CNN", "w2": "HBO"},
-  {"q": "Vad kallas det högsta kvinnliga röstläget?", "a": "Sopran", "w1": "Alt", "w2": "Bas"}
+  {
+    "q": "Hur många medlemmar hade ABBA?",
+    "a": "4",
+    "w1": "3",
+    "w2": "5"
+  },
+  {
+    "q": "Vilken brittisk grupp sjöng 'Hey Jude'?",
+    "a": "The Beatles",
+    "w1": "Rolling Stones",
+    "w2": "Queen"
+  },
+  {
+    "q": "Vilken svensk duo sjöng 'The Look'?",
+    "a": "Roxette",
+    "w1": "The Cardigans",
+    "w2": "Ace of Base"
+  },
+  {
+    "q": "Vad kallas texten till en sång?",
+    "a": "Texten",
+    "w1": "Notbladet",
+    "w2": "Melodin"
+  },
+  {
+    "q": "Hur många tangenter har ett vanligt piano?",
+    "a": "88",
+    "w1": "76",
+    "w2": "100"
+  },
+  {
+    "q": "Vad är Spotify ett exempel på?",
+    "a": "En musikströmningstjänst",
+    "w1": "Ett skivbolag",
+    "w2": "En radioapparat"
+  },
+  {
+    "q": "Vilken svensk DJ gjorde 'Wake Me Up'?",
+    "a": "Avicii",
+    "w1": "Alesso",
+    "w2": "Swedish House Mafia"
+  },
+  {
+    "q": "Vad kallas en stor orkester med många stråkinstrument?",
+    "a": "Symfoniorkester",
+    "w1": "Big band",
+    "w2": "Kör"
+  },
+  {
+    "q": "Vilken TV-kanal blev känd för att visa musikvideor?",
+    "a": "MTV",
+    "w1": "CNN",
+    "w2": "HBO"
+  },
+  {
+    "q": "Vad kallas det högsta kvinnliga röstläget?",
+    "a": "Sopran",
+    "w1": "Alt",
+    "w2": "Bas"
+  },
+  {
+    "q": "Vilken artist sjöng 'Rolling in the Deep'?",
+    "a": "Adele",
+    "w1": "Amy Winehouse",
+    "w2": "Duffy"
+  },
+  {
+    "q": "Vilken pojkgrupp sjöng 'Dynamite'?",
+    "a": "BTS",
+    "w1": "One Direction",
+    "w2": "Westlife"
+  },
+  {
+    "q": "Hur många strängar har en fiol?",
+    "a": "4",
+    "w1": "6",
+    "w2": "5"
+  },
+  {
+    "q": "Vad heter det svenska musikpriset?",
+    "a": "Grammis",
+    "w1": "Guldklaven",
+    "w2": "Platinaskivan"
+  },
+  {
+    "q": "Vilken musikstil kommer från Jamaica?",
+    "a": "Reggae",
+    "w1": "Salsa",
+    "w2": "Calypso"
+  },
+  {
+    "q": "Vad kallas tung musik med förvrängda gitarrer?",
+    "a": "Hårdrock",
+    "w1": "House",
+    "w2": "Vispop"
+  },
+  {
+    "q": "Vilket land kommer Ed Sheeran ifrån?",
+    "a": "Storbritannien",
+    "w1": "USA",
+    "w2": "Irland"
+  },
+  {
+    "q": "Hur många halvtoner finns i en oktav?",
+    "a": "12",
+    "w1": "8",
+    "w2": "7"
+  },
+  {
+    "q": "Vilket band var Freddie Mercury sångare i?",
+    "a": "Queen",
+    "w1": "The Who",
+    "w2": "Pink Floyd"
+  },
+  {
+    "q": "Vem sjöng 'Billie Jean'?",
+    "a": "Michael Jackson",
+    "w1": "Prince",
+    "w2": "Stevie Wonder"
+  }
 ]

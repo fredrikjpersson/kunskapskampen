@@ -1,12 +1,122 @@
 [
-  {"q": "Vad använder man för att ringa till någon?", "a": "Telefonen", "w1": "Kylskåpet", "w2": "Mikrovågsugnen"},
-  {"q": "Vad kallas datorns hjärna?", "a": "Processorn", "w1": "Skärmen", "w2": "Musen"},
-  {"q": "Vilket program använder man för att surfa på internet?", "a": "Webbläsaren", "w1": "Skrivaren", "w2": "Högtalaren"},
-  {"q": "Vilken apparat håller maten kall?", "a": "Kylskåpet", "w1": "Tvättmaskinen", "w2": "Ugnen"},
-  {"q": "Vilken maskin tvättar kläderna?", "a": "Tvättmaskinen", "w1": "Dammsugaren", "w2": "Hårtorken"},
-  {"q": "Vad tittar man på filmer med hemma?", "a": "Tv:n", "w1": "Radion", "w2": "Väckarklockan"},
-  {"q": "Vad heter saken man klickar med på datorn?", "a": "Musen", "w1": "Tangentbordet", "w2": "Skärmen"},
-  {"q": "Vad kallas det trådlösa nätverket hemma?", "a": "Wifi", "w1": "Bluetooth", "w2": "USB"},
-  {"q": "Vad använder man för att mäta tid?", "a": "Klockan", "w1": "Termometern", "w2": "Vågen"},
-  {"q": "Vilken maskin suger upp damm från golvet?", "a": "Dammsugaren", "w1": "Hårtorken", "w2": "Borsten"}
+  {
+    "q": "Vad använder man för att ringa till någon?",
+    "a": "Telefonen",
+    "w1": "Kylskåpet",
+    "w2": "Mikrovågsugnen"
+  },
+  {
+    "q": "Vad kallas datorns hjärna?",
+    "a": "Processorn",
+    "w1": "Skärmen",
+    "w2": "Musen"
+  },
+  {
+    "q": "Vilket program använder man för att surfa på internet?",
+    "a": "Webbläsaren",
+    "w1": "Skrivaren",
+    "w2": "Högtalaren"
+  },
+  {
+    "q": "Vilken apparat håller maten kall?",
+    "a": "Kylskåpet",
+    "w1": "Tvättmaskinen",
+    "w2": "Ugnen"
+  },
+  {
+    "q": "Vilken maskin tvättar kläderna?",
+    "a": "Tvättmaskinen",
+    "w1": "Dammsugaren",
+    "w2": "Hårtorken"
+  },
+  {
+    "q": "Vad tittar man på filmer med hemma?",
+    "a": "Tv:n",
+    "w1": "Radion",
+    "w2": "Väckarklockan"
+  },
+  {
+    "q": "Vad heter saken man klickar med på datorn?",
+    "a": "Musen",
+    "w1": "Tangentbordet",
+    "w2": "Skärmen"
+  },
+  {
+    "q": "Vad kallas det trådlösa nätverket hemma?",
+    "a": "Wifi",
+    "w1": "Bluetooth",
+    "w2": "USB"
+  },
+  {
+    "q": "Vad använder man för att mäta tid?",
+    "a": "Klockan",
+    "w1": "Termometern",
+    "w2": "Vågen"
+  },
+  {
+    "q": "Vilken maskin suger upp damm från golvet?",
+    "a": "Dammsugaren",
+    "w1": "Hårtorken",
+    "w2": "Borsten"
+  },
+  {
+    "q": "Vad heter lampan man kan ha i fickan?",
+    "a": "Ficklampa",
+    "w1": "Ljuskrona",
+    "w2": "Stearinljus"
+  },
+  {
+    "q": "Vilken maskin kan laga varm mat snabbt med vågor?",
+    "a": "Mikrovågsugnen",
+    "w1": "Tvättmaskinen",
+    "w2": "Dammsugaren"
+  },
+  {
+    "q": "Vad använder man för att torka håret?",
+    "a": "Hårtorken",
+    "w1": "Fläkten",
+    "w2": "Kylskåpet"
+  },
+  {
+    "q": "Vad tittar man på när man använder en dator?",
+    "a": "Skärmen",
+    "w1": "Högtalaren",
+    "w2": "Musen"
+  },
+  {
+    "q": "Vad kallas alla program i en dator?",
+    "a": "Mjukvara",
+    "w1": "Hårdvara",
+    "w2": "Skärmar"
+  },
+  {
+    "q": "Vad heter det stora nätverk som datorer är kopplade till?",
+    "a": "Internet",
+    "w1": "Intranätet",
+    "w2": "Wifi"
+  },
+  {
+    "q": "Vad heter maskinen som mixerar mat?",
+    "a": "Mixern",
+    "w1": "Ugnen",
+    "w2": "Vattenkokaren"
+  },
+  {
+    "q": "Vilken apparat kokar vatten snabbt?",
+    "a": "Vattenkokaren",
+    "w1": "Brödrosten",
+    "w2": "Mikrovågsugnen"
+  },
+  {
+    "q": "Vad gör man med ett USB-minne?",
+    "a": "Sparar filer",
+    "w1": "Skärmar av solen",
+    "w2": "Målar bilder"
+  },
+  {
+    "q": "Vilken apparat väcker dig på morgonen?",
+    "a": "Väckarklockan",
+    "w1": "Kylskåpet",
+    "w2": "Tv:n"
+  }
 ]

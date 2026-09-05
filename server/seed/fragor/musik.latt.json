@@ -1,12 +1,122 @@
 [
-  {"q": "Vad heter den svenska sångtävlingen på TV?", "a": "Melodifestivalen", "w1": "Musiksvampen", "w2": "Sångkampen"},
-  {"q": "Vad kallas en person som sjunger?", "a": "Sångare", "w1": "Dansare", "w2": "Skådespelare"},
-  {"q": "Vad kallas en grupp som spelar musik tillsammans?", "a": "Ett band", "w1": "Ett lag", "w2": "En klass"},
-  {"q": "Vilket stränginstrument har sex strängar man knäpper på?", "a": "Gitarr", "w1": "Fiol", "w2": "Cello"},
-  {"q": "Vad kallas en sång på en CD?", "a": "En låt", "w1": "En bok", "w2": "En film"},
-  {"q": "Vilken svensk grupp sjöng 'Waterloo'?", "a": "ABBA", "w1": "Kent", "w2": "Roxette"},
-  {"q": "Vad gör en dirigent?", "a": "Dirigerar orkestern", "w1": "Bygger scenen", "w2": "Säljer biljetter"},
-  {"q": "Vilket mässingsinstrument blåser man i?", "a": "Trumpet", "w1": "Flöjt", "w2": "Klarinett"},
-  {"q": "Vad heter stället där man spelar konsert?", "a": "Scenen", "w1": "Köket", "w2": "Kontoret"},
-  {"q": "Vad gör publiken när den gillar konserten?", "a": "Klappar", "w1": "Sover", "w2": "Visslar"}
+  {
+    "q": "Vad heter den svenska sångtävlingen på TV?",
+    "a": "Melodifestivalen",
+    "w1": "Musiksvampen",
+    "w2": "Sångkampen"
+  },
+  {
+    "q": "Vad kallas en person som sjunger?",
+    "a": "Sångare",
+    "w1": "Dansare",
+    "w2": "Skådespelare"
+  },
+  {
+    "q": "Vad kallas en grupp som spelar musik tillsammans?",
+    "a": "Ett band",
+    "w1": "Ett lag",
+    "w2": "En klass"
+  },
+  {
+    "q": "Vilket stränginstrument har sex strängar man knäpper på?",
+    "a": "Gitarr",
+    "w1": "Fiol",
+    "w2": "Cello"
+  },
+  {
+    "q": "Vad kallas en sång på en CD?",
+    "a": "En låt",
+    "w1": "En bok",
+    "w2": "En film"
+  },
+  {
+    "q": "Vilken svensk grupp sjöng 'Waterloo'?",
+    "a": "ABBA",
+    "w1": "Kent",
+    "w2": "Roxette"
+  },
+  {
+    "q": "Vad gör en dirigent?",
+    "a": "Dirigerar orkestern",
+    "w1": "Bygger scenen",
+    "w2": "Säljer biljetter"
+  },
+  {
+    "q": "Vilket mässingsinstrument blåser man i?",
+    "a": "Trumpet",
+    "w1": "Flöjt",
+    "w2": "Klarinett"
+  },
+  {
+    "q": "Vad heter stället där man spelar konsert?",
+    "a": "Scenen",
+    "w1": "Köket",
+    "w2": "Kontoret"
+  },
+  {
+    "q": "Vad gör publiken när den gillar konserten?",
+    "a": "Klappar",
+    "w1": "Sover",
+    "w2": "Visslar"
+  },
+  {
+    "q": "Vilket stränginstrument spelar man med en båge?",
+    "a": "Fiolen",
+    "w1": "Gitarr",
+    "w2": "Harpa"
+  },
+  {
+    "q": "Vad heter en person som spelar trummor?",
+    "a": "Trummis",
+    "w1": "Blåsare",
+    "w2": "Stråkare"
+  },
+  {
+    "q": "Vad heter en person som spelar gitarr?",
+    "a": "Gitarrist",
+    "w1": "Cellist",
+    "w2": "Pianist"
+  },
+  {
+    "q": "Vad kallas en samling med många låtar?",
+    "a": "Album",
+    "w1": "Kapitel",
+    "w2": "Akt"
+  },
+  {
+    "q": "Vad kallas det när musiken är snabb eller långsam?",
+    "a": "Tempo",
+    "w1": "Tonläge",
+    "w2": "Stämning"
+  },
+  {
+    "q": "Vad kallas det att skriva musik?",
+    "a": "Att komponera",
+    "w1": "Att översätta",
+    "w2": "Att dirigera"
+  },
+  {
+    "q": "Vilket instrument spelar man med fötter och händer och står i kyrkan?",
+    "a": "Orgeln",
+    "w1": "Pianot",
+    "w2": "Draget"
+  },
+  {
+    "q": "Vad kallas musiken man hör i en film?",
+    "a": "Filmmusik",
+    "w1": "Skådespelarmusik",
+    "w2": "Rollmusik"
+  },
+  {
+    "q": "Vad heter en person som skriver musik?",
+    "a": "Kompositör",
+    "w1": "Konduktör",
+    "w2": "Koordinator"
+  },
+  {
+    "q": "Vad kallas en sång för två personer?",
+    "a": "Duett",
+    "w1": "Solo",
+    "w2": "Kör"
+  }
 ]

@@ -1,12 +1,122 @@
 [
-  {"q": "Hur många pjäser har varje spelare i schack?", "a": "16", "w1": "12", "w2": "20"},
-  {"q": "Vilken schackpjäs kan hoppa över andra pjäser?", "a": "Springaren", "w1": "Löparen", "w2": "Tornet"},
-  {"q": "Vad kallas ett öppningsoffer i schack?", "a": "Gambit", "w1": "Fianchetto", "w2": "Zugzwang"},
-  {"q": "Vilket år lanserades Monopol kommersiellt i USA?", "a": "1935", "w1": "1925", "w2": "1945"},
-  {"q": "Ungefär hur gammalt är spelet Go?", "a": "Över 2 000 år", "w1": "Omkring 500 år", "w2": "Omkring 100 år"},
-  {"q": "Vad heter schackets ratingssystem?", "a": "Elo", "w1": "Kasparov-index", "w2": "Fide-poäng"},
-  {"q": "Vad kallas den högsta titeln i schack?", "a": "Stormästare", "w1": "Internationell mästare", "w2": "Nationell mästare"},
-  {"q": "Vilket land kommer spelet Mahjong ifrån?", "a": "Kina", "w1": "Japan", "w2": "Korea"},
-  {"q": "I vilket klassiskt spel förhandlar man om makten över Europa?", "a": "Diplomacy", "w1": "Risk", "w2": "Stratego"},
-  {"q": "Vilket land kommer spelet Carcassonne ifrån?", "a": "Tyskland", "w1": "Frankrike", "w2": "Italien"}
+  {
+    "q": "Hur många pjäser har varje spelare i schack?",
+    "a": "16",
+    "w1": "12",
+    "w2": "20"
+  },
+  {
+    "q": "Vilken schackpjäs kan hoppa över andra pjäser?",
+    "a": "Springaren",
+    "w1": "Löparen",
+    "w2": "Tornet"
+  },
+  {
+    "q": "Vad kallas ett öppningsoffer i schack?",
+    "a": "Gambit",
+    "w1": "Fianchetto",
+    "w2": "Zugzwang"
+  },
+  {
+    "q": "Vilket år lanserades Monopol kommersiellt i USA?",
+    "a": "1935",
+    "w1": "1925",
+    "w2": "1945"
+  },
+  {
+    "q": "Ungefär hur gammalt är spelet Go?",
+    "a": "Över 2 000 år",
+    "w1": "Omkring 500 år",
+    "w2": "Omkring 100 år"
+  },
+  {
+    "q": "Vad heter schackets ratingssystem?",
+    "a": "Elo",
+    "w1": "Kasparov-index",
+    "w2": "Fide-poäng"
+  },
+  {
+    "q": "Vad kallas den högsta titeln i schack?",
+    "a": "Stormästare",
+    "w1": "Internationell mästare",
+    "w2": "Nationell mästare"
+  },
+  {
+    "q": "Vilket land kommer spelet Mahjong ifrån?",
+    "a": "Kina",
+    "w1": "Japan",
+    "w2": "Korea"
+  },
+  {
+    "q": "I vilket klassiskt spel förhandlar man om makten över Europa?",
+    "a": "Diplomacy",
+    "w1": "Risk",
+    "w2": "Stratego"
+  },
+  {
+    "q": "Vilket land kommer spelet Carcassonne ifrån?",
+    "a": "Tyskland",
+    "w1": "Frankrike",
+    "w2": "Italien"
+  },
+  {
+    "q": "Vilken schacköppning inleds med e4 e5 f4?",
+    "a": "Kungsgambit",
+    "w1": "Damgambit",
+    "w2": "Franskt försvar"
+  },
+  {
+    "q": "Vad betyder fianchetto?",
+    "a": "Att utveckla löparen på lång diagonal",
+    "w1": "Att byta dam tidigt",
+    "w2": "Att rockera på fel sida"
+  },
+  {
+    "q": "Vad kallas studiet av schacköppningar?",
+    "a": "Öppningsteori",
+    "w1": "Gambitlära",
+    "w2": "Debutteori"
+  },
+  {
+    "q": "Vad menas med 'tempo' i schack?",
+    "a": "En tids- eller initiativfördel",
+    "w1": "Antal drag kvar",
+    "w2": "Klockans tickande"
+  },
+  {
+    "q": "Vad betyder 'pat' i schack?",
+    "a": "Oavgjort när spelaren saknar giltigt drag",
+    "w1": "Att kungen står i schack",
+    "w2": "En förlust på tid"
+  },
+  {
+    "q": "Vad är simultanschack?",
+    "a": "En spelare mot flera samtidigt",
+    "w1": "Schack med två bräden",
+    "w2": "Schack utan klocka"
+  },
+  {
+    "q": "Vad heter Go på japanska?",
+    "a": "Igo",
+    "w1": "Weiqi",
+    "w2": "Baduk"
+  },
+  {
+    "q": "Vad är komi i Go?",
+    "a": "Extrapoäng som vit får",
+    "w1": "En öppningsvariant",
+    "w2": "Ett hinder på brädet"
+  },
+  {
+    "q": "Vilket spel har ett bräde med 24 trianglar?",
+    "a": "Backgammon",
+    "w1": "Ludo",
+    "w2": "Mahjong"
+  },
+  {
+    "q": "Vad slår en kåk i poker?",
+    "a": "Färg",
+    "w1": "Triss",
+    "w2": "Två par"
+  }
 ]

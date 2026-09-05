@@ -1,12 +1,122 @@
 [
-  {"q": "Vad betyder förkortningen HTTP?", "a": "Hypertext Transfer Protocol", "w1": "High Transfer Text Protocol", "w2": "Hyper Transfer Text Process"},
-  {"q": "Vem grundade Microsoft?", "a": "Bill Gates", "w1": "Steve Jobs", "w2": "Larry Page"},
-  {"q": "Vad betyder förkortningen HTML?", "a": "HyperText Markup Language", "w1": "High Text Machine Language", "w2": "Hyper Transfer Markup Link"},
-  {"q": "Vad mäts i hertz?", "a": "Frekvens", "w1": "Effekt", "w2": "Datastyrka"},
-  {"q": "Vad säger Moores lag?", "a": "Antalet transistorer på chip dubblas ungefär vartannat år", "w1": "Datorer blir hälften så dyra varje år", "w2": "Internettrafiken fördubblas varje månad"},
-  {"q": "Vilket år presenterade Tim Berners-Lee World Wide Web?", "a": "1989", "w1": "1993", "w2": "1985"},
-  {"q": "Vad betyder förkortningen RAM?", "a": "Random Access Memory", "w1": "Read Access Memory", "w2": "Rapid Active Memory"},
-  {"q": "Vilket programmeringsspråk körs direkt i webbläsaren?", "a": "JavaScript", "w1": "Python", "w2": "C++"},
-  {"q": "Vad stod GSM (2G) för?", "a": "Global System for Mobile Communications", "w1": "General Standard Mobile", "w2": "Global Signal Module"},
-  {"q": "Vad har en processor till uppgift att göra med grafik?", "a": "GPU:n bearbetar grafik", "w1": "Nätaggregatet ritar grafik", "w2": "Ljudkortet bearbetar grafik"}
+  {
+    "q": "Vad betyder förkortningen HTTP?",
+    "a": "Hypertext Transfer Protocol",
+    "w1": "High Transfer Text Protocol",
+    "w2": "Hyper Transfer Text Process"
+  },
+  {
+    "q": "Vem grundade Microsoft?",
+    "a": "Bill Gates",
+    "w1": "Steve Jobs",
+    "w2": "Larry Page"
+  },
+  {
+    "q": "Vad betyder förkortningen HTML?",
+    "a": "HyperText Markup Language",
+    "w1": "High Text Machine Language",
+    "w2": "Hyper Transfer Markup Link"
+  },
+  {
+    "q": "Vad mäts i hertz?",
+    "a": "Frekvens",
+    "w1": "Effekt",
+    "w2": "Datastyrka"
+  },
+  {
+    "q": "Vad säger Moores lag?",
+    "a": "Antalet transistorer på chip dubblas ungefär vartannat år",
+    "w1": "Datorer blir hälften så dyra varje år",
+    "w2": "Internettrafiken fördubblas varje månad"
+  },
+  {
+    "q": "Vilket år presenterade Tim Berners-Lee World Wide Web?",
+    "a": "1989",
+    "w1": "1993",
+    "w2": "1985"
+  },
+  {
+    "q": "Vad betyder förkortningen RAM?",
+    "a": "Random Access Memory",
+    "w1": "Read Access Memory",
+    "w2": "Rapid Active Memory"
+  },
+  {
+    "q": "Vilket programmeringsspråk körs direkt i webbläsaren?",
+    "a": "JavaScript",
+    "w1": "Python",
+    "w2": "C++"
+  },
+  {
+    "q": "Vad stod GSM (2G) för?",
+    "a": "Global System for Mobile Communications",
+    "w1": "General Standard Mobile",
+    "w2": "Global Signal Module"
+  },
+  {
+    "q": "Vad har en processor till uppgift att göra med grafik?",
+    "a": "GPU:n bearbetar grafik",
+    "w1": "Nätaggregatet ritar grafik",
+    "w2": "Ljudkortet bearbetar grafik"
+  },
+  {
+    "q": "Vad betyder förkortningen CPU?",
+    "a": "Central Processing Unit",
+    "w1": "Computer Power Unit",
+    "w2": "Central Program Utility"
+  },
+  {
+    "q": "Vilket protokoll används för krypterade webbsidor?",
+    "a": "HTTPS",
+    "w1": "HTTP",
+    "w2": "FTP"
+  },
+  {
+    "q": "Vad betyder open source?",
+    "a": "Öppen källkod",
+    "w1": "Öppet kontor",
+    "w2": "Fri surfning"
+  },
+  {
+    "q": "Vilket programmeringsspråk skapades av Guido van Rossum?",
+    "a": "Python",
+    "w1": "Ruby",
+    "w2": "Java"
+  },
+  {
+    "q": "Vad är en DDoS-attack?",
+    "a": "Överbelastningsattack mot en tjänst",
+    "w1": "Virus i filer",
+    "w2": "Stöld av lösenord"
+  },
+  {
+    "q": "Vad betyder URL?",
+    "a": "Uniform Resource Locator",
+    "w1": "Universal Router Link",
+    "w2": "User Reference Line"
+  },
+  {
+    "q": "Vad är firmware?",
+    "a": "Program inbyggt i hårdvara",
+    "w1": "Mjukvara i molnet",
+    "w2": "Ett slags minne"
+  },
+  {
+    "q": "Vilket år lanserades Wikipedia?",
+    "a": "2001",
+    "w1": "1999",
+    "w2": "2003"
+  },
+  {
+    "q": "Vad är en app en förkortning av?",
+    "a": "Applikation",
+    "w1": "Apparat",
+    "w2": "Apple-program"
+  },
+  {
+    "q": "Vad betyder LED?",
+    "a": "Light Emitting Diode",
+    "w1": "Low Energy Display",
+    "w2": "Light Energy Device"
+  }
 ]

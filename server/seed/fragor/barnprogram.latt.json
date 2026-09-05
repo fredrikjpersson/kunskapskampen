@@ -1,12 +1,122 @@
 [
-  {"q": "Vilken björn blir stark av dunderhonung?", "a": "Bamse", "w1": "Björne", "w2": "Baloo"},
-  {"q": "Vad heter SVT:s barnkanal?", "a": "Barnkanalen", "w1": "Nickelodeon", "w2": "Cartoon Network"},
-  {"q": "Vad heter flickan med röda flätor som äger en häst?", "a": "Pippi Långstrump", "w1": "Ronja Rövardotter", "w2": "Madicken"},
-  {"q": "Vad heter Disneys kända anka?", "a": "Kalle Anka", "w1": "Musse Pigg", "w2": "Långben"},
-  {"q": "Vad heter den gamle mannen med katten Findus?", "a": "Pettson", "w1": "Påhlsson", "w2": "Plättson"},
-  {"q": "Vilken pojke bor på gården Katthult?", "a": "Emil i Lönneberga", "w1": "Mio", "w2": "Bert"},
-  {"q": "Vilken tecknad familj är gul och bor i Springfield?", "a": "Simpsons", "w1": "Family Guy", "w2": "South Park"},
-  {"q": "Vilka bor i Mumindalen?", "a": "Mumintrollen", "w1": "Trolltygningarna", "w2": "Naller"},
-  {"q": "Vad heter det lilla snälla spöket av Lasse Åberg?", "a": "Laban", "w1": "Ludde", "w2": "Lotta"},
-  {"q": "Vilken flicka lever i en stenborg bland rövare?", "a": "Ronja Rövardotter", "w1": "Pippi Långstrump", "w2": "Tjorven"}
+  {
+    "q": "Vilken björn blir stark av dunderhonung?",
+    "a": "Bamse",
+    "w1": "Björne",
+    "w2": "Baloo"
+  },
+  {
+    "q": "Vad heter SVT:s barnkanal?",
+    "a": "Barnkanalen",
+    "w1": "Nickelodeon",
+    "w2": "Cartoon Network"
+  },
+  {
+    "q": "Vad heter flickan med röda flätor som äger en häst?",
+    "a": "Pippi Långstrump",
+    "w1": "Ronja Rövardotter",
+    "w2": "Madicken"
+  },
+  {
+    "q": "Vad heter Disneys kända anka?",
+    "a": "Kalle Anka",
+    "w1": "Musse Pigg",
+    "w2": "Långben"
+  },
+  {
+    "q": "Vad heter den gamle mannen med katten Findus?",
+    "a": "Pettson",
+    "w1": "Påhlsson",
+    "w2": "Plättson"
+  },
+  {
+    "q": "Vilken pojke bor på gården Katthult?",
+    "a": "Emil i Lönneberga",
+    "w1": "Mio",
+    "w2": "Bert"
+  },
+  {
+    "q": "Vilken tecknad familj är gul och bor i Springfield?",
+    "a": "Simpsons",
+    "w1": "Family Guy",
+    "w2": "South Park"
+  },
+  {
+    "q": "Vilka bor i Mumindalen?",
+    "a": "Mumintrollen",
+    "w1": "Trolltygningarna",
+    "w2": "Naller"
+  },
+  {
+    "q": "Vad heter det lilla snälla spöket av Lasse Åberg?",
+    "a": "Laban",
+    "w1": "Ludde",
+    "w2": "Lotta"
+  },
+  {
+    "q": "Vilken flicka lever i en stenborg bland rövare?",
+    "a": "Ronja Rövardotter",
+    "w1": "Pippi Långstrump",
+    "w2": "Tjorven"
+  },
+  {
+    "q": "Vad heter Bamses lilla kaninkompis?",
+    "a": "Lille Skutt",
+    "w1": "Stora Hoppsan",
+    "w2": "Kaninen Johan"
+  },
+  {
+    "q": "Vad heter Pippis häst?",
+    "a": "Lilla Gubben",
+    "w1": "Stora Karlsson",
+    "w2": "Herr Nilsson"
+  },
+  {
+    "q": "Vad heter Pippis pappa?",
+    "a": "Kapten Långstrump",
+    "w1": "Kapten Kahlua",
+    "w2": "Kapten Blom"
+  },
+  {
+    "q": "Vad heter Emils lillasyster?",
+    "a": "Ida",
+    "w1": "Alma",
+    "w2": "Lina"
+  },
+  {
+    "q": "Vilken färg har Smurferna?",
+    "a": "Blå",
+    "w1": "Grön",
+    "w2": "Lila"
+  },
+  {
+    "q": "Vad heter ledarsmurfen?",
+    "a": "Gammelsmurfen",
+    "w1": "Storsmurfen",
+    "w2": "Vismannen"
+  },
+  {
+    "q": "Vilken hjälte klättrar på väggar och skjuter nät?",
+    "a": "Spindelmannen",
+    "w1": "Superman",
+    "w2": "Hulk"
+  },
+  {
+    "q": "Vilken superhjälte har en hammare?",
+    "a": "Tor",
+    "w1": "Stålmannen",
+    "w2": "Flash"
+  },
+  {
+    "q": "Vilket djur är Snobben?",
+    "a": "Hund",
+    "w1": "Katt",
+    "w2": "Häst"
+  },
+  {
+    "q": "Vilket djur är Lassie?",
+    "a": "Hund",
+    "w1": "Häst",
+    "w2": "Ekorre"
+  }
 ]

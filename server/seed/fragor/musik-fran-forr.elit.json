@@ -1,12 +1,122 @@
 [
-  {"q": "Vilket år lanserades musikkanalen MTV?", "a": "1981", "w1": "1979", "w2": "1983"},
-  {"q": "Vem komponerade 'Rhapsody in Blue'?", "a": "George Gershwin", "w1": "Aaron Copland", "w2": "Leonard Bernstein"},
-  {"q": "Vilken tjejgrupp var Motowns största succé?", "a": "The Supremes", "w1": "The Marvelettes", "w2": "Martha and the Vandellas"},
-  {"q": "Vilket år höll The Beatles sin sista konsert?", "a": "1966", "w1": "1969", "w2": "1964"},
-  {"q": "Vem sjöng 'What a Wonderful World'?", "a": "Louis Armstrong", "w1": "Nat King Cole", "w2": "Sam Cooke"},
-  {"q": "Vilket skivbolag upptäckte Elvis Presley?", "a": "Sun Records", "w1": "Chess Records", "w2": "Atlantic Records"},
-  {"q": "Vem sjöng 'Sakta vi gå genom stan'?", "a": "Monica Zetterlund", "w1": "Alice Babs", "w2": "Brita Borg"},
-  {"q": "Vilket år dog Beethoven?", "a": "1827", "w1": "1817", "w2": "1837"},
-  {"q": "Vilken instrumentalgrupp ackompanjerade ofta Cliff Richard?", "a": "The Shadows", "w1": "The Ventures", "w2": "The Spotnicks"},
-  {"q": "Vilket instrument spelade Django Reinhardt?", "a": "Gitarr", "w1": "Fiol", "w2": "Piano"}
+  {
+    "q": "Vilket år lanserades musikkanalen MTV?",
+    "a": "1981",
+    "w1": "1979",
+    "w2": "1983"
+  },
+  {
+    "q": "Vem komponerade 'Rhapsody in Blue'?",
+    "a": "George Gershwin",
+    "w1": "Aaron Copland",
+    "w2": "Leonard Bernstein"
+  },
+  {
+    "q": "Vilken tjejgrupp var Motowns största succé?",
+    "a": "The Supremes",
+    "w1": "The Marvelettes",
+    "w2": "Martha and the Vandellas"
+  },
+  {
+    "q": "Vilket år höll The Beatles sin sista konsert?",
+    "a": "1966",
+    "w1": "1969",
+    "w2": "1964"
+  },
+  {
+    "q": "Vem sjöng 'What a Wonderful World'?",
+    "a": "Louis Armstrong",
+    "w1": "Nat King Cole",
+    "w2": "Sam Cooke"
+  },
+  {
+    "q": "Vilket skivbolag upptäckte Elvis Presley?",
+    "a": "Sun Records",
+    "w1": "Chess Records",
+    "w2": "Atlantic Records"
+  },
+  {
+    "q": "Vem sjöng 'Sakta vi gå genom stan'?",
+    "a": "Monica Zetterlund",
+    "w1": "Alice Babs",
+    "w2": "Brita Borg"
+  },
+  {
+    "q": "Vilket år dog Beethoven?",
+    "a": "1827",
+    "w1": "1817",
+    "w2": "1837"
+  },
+  {
+    "q": "Vilken instrumentalgrupp ackompanjerade ofta Cliff Richard?",
+    "a": "The Shadows",
+    "w1": "The Ventures",
+    "w2": "The Spotnicks"
+  },
+  {
+    "q": "Vilket instrument spelade Django Reinhardt?",
+    "a": "Gitarr",
+    "w1": "Fiol",
+    "w2": "Piano"
+  },
+  {
+    "q": "Vilket år dog Buddy Holly?",
+    "a": "1959",
+    "w1": "1957",
+    "w2": "1961"
+  },
+  {
+    "q": "Vem skrev och sjöng 'Great Balls of Fire'?",
+    "a": "Jerry Lee Lewis",
+    "w1": "Little Richard",
+    "w2": "Fats Domino"
+  },
+  {
+    "q": "Vem var producenten bakom 'Thriller'?",
+    "a": "Quincy Jones",
+    "w1": "George Martin",
+    "w2": "Phil Spector"
+  },
+  {
+    "q": "Vilken kom först: Pet Sounds eller Sgt. Pepper's?",
+    "a": "Pet Sounds",
+    "w1": "Sgt. Pepper's",
+    "w2": "De kom samtidigt"
+  },
+  {
+    "q": "Vem sjöng 'Volare'?",
+    "a": "Domenico Modugno",
+    "w1": "Luciano Pavarotti",
+    "w2": "Enrico Caruso"
+  },
+  {
+    "q": "Vem skrev 'Så länge skutan kan gå'?",
+    "a": "Evert Taube",
+    "w1": "Carl Michael Bellman",
+    "w2": "Birger Sjöberg"
+  },
+  {
+    "q": "Vilket år grundades ABBA?",
+    "a": "1972",
+    "w1": "1968",
+    "w2": "1976"
+  },
+  {
+    "q": "Vilket soulskivbolag låg i Memphis?",
+    "a": "Stax",
+    "w1": "Chess",
+    "w2": "Atlantic"
+  },
+  {
+    "q": "Vilken sångerska kallas 'Queen of Soul'?",
+    "a": "Aretha Franklin",
+    "w1": "Etta James",
+    "w2": "Nina Simone"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Sunshine of Your Love'?",
+    "a": "Cream",
+    "w1": "The Yardbirds",
+    "w2": "Blind Faith"
+  }
 ]

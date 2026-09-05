@@ -1,12 +1,122 @@
 [
-  {"q": "Vem komponerade operan 'La Traviata'?", "a": "Giuseppe Verdi", "w1": "Giacomo Puccini", "w2": "Gioachino Rossini"},
-  {"q": "Vad betyder 'da capo'?", "a": "Från början", "w1": "Långsammare", "w2": "Allt starkare"},
-  {"q": "Vad visar kvintcirkeln?", "a": "Tonarternas släktskap och förtecken", "w1": "Sångarens röstomfång", "w2": "Metronomtempo per århundrade"},
-  {"q": "Vilket år dog Mozart?", "a": "1791", "w1": "1781", "w2": "1801"},
-  {"q": "Vem komponerade 'Bolero'?", "a": "Maurice Ravel", "w1": "Claude Debussy", "w2": "Camille Saint-Saëns"},
-  {"q": "Vilka toner ingår i en durtreklang?", "a": "Grundton, stor ters och ren kvint", "w1": "Grundton, liten ters och stor septima", "w2": "Grundton, liten sekund och kvart"},
-  {"q": "Vem grundade skivbolaget Motown?", "a": "Berry Gordy", "w1": "Ahmet Ertegun", "w2": "Sam Phillips"},
-  {"q": "Vad betyder 'a cappella'?", "a": "Sång utan instrument", "w1": "Sång med ekoeffekt", "w2": "Sång i kyrkorum"},
-  {"q": "Vilket instrument spelas utan att man rör det?", "a": "Theremin", "w1": "Synthesizer", "w2": "Cembalo"},
-  {"q": "Vad består Bachs 'Det vältempererade klaveret' av?", "a": "Preludier och fugor i alla tonarter", "w1": "Operor om bibliska gestalter", "w2": "Danssviter för stråkorkester"}
+  {
+    "q": "Vem komponerade operan 'La Traviata'?",
+    "a": "Giuseppe Verdi",
+    "w1": "Giacomo Puccini",
+    "w2": "Gioachino Rossini"
+  },
+  {
+    "q": "Vad betyder 'da capo'?",
+    "a": "Från början",
+    "w1": "Långsammare",
+    "w2": "Allt starkare"
+  },
+  {
+    "q": "Vad visar kvintcirkeln?",
+    "a": "Tonarternas släktskap och förtecken",
+    "w1": "Sångarens röstomfång",
+    "w2": "Metronomtempo per århundrade"
+  },
+  {
+    "q": "Vilket år dog Mozart?",
+    "a": "1791",
+    "w1": "1781",
+    "w2": "1801"
+  },
+  {
+    "q": "Vem komponerade 'Bolero'?",
+    "a": "Maurice Ravel",
+    "w1": "Claude Debussy",
+    "w2": "Camille Saint-Saëns"
+  },
+  {
+    "q": "Vilka toner ingår i en durtreklang?",
+    "a": "Grundton, stor ters och ren kvint",
+    "w1": "Grundton, liten ters och stor septima",
+    "w2": "Grundton, liten sekund och kvart"
+  },
+  {
+    "q": "Vem grundade skivbolaget Motown?",
+    "a": "Berry Gordy",
+    "w1": "Ahmet Ertegun",
+    "w2": "Sam Phillips"
+  },
+  {
+    "q": "Vad betyder 'a cappella'?",
+    "a": "Sång utan instrument",
+    "w1": "Sång med ekoeffekt",
+    "w2": "Sång i kyrkorum"
+  },
+  {
+    "q": "Vilket instrument spelas utan att man rör det?",
+    "a": "Theremin",
+    "w1": "Synthesizer",
+    "w2": "Cembalo"
+  },
+  {
+    "q": "Vad består Bachs 'Det vältempererade klaveret' av?",
+    "a": "Preludier och fugor i alla tonarter",
+    "w1": "Operor om bibliska gestalter",
+    "w2": "Danssviter för stråkorkester"
+  },
+  {
+    "q": "Vem komponerade 'Peter och vargen'?",
+    "a": "Sergej Prokofjev",
+    "w1": "Dmitrij Sjavakostovitj",
+    "w2": "Igor Stravinskij"
+  },
+  {
+    "q": "Vad är en leitmotiv?",
+    "a": "Ett återkommande musikaliskt tema",
+    "w1": "En sång utan ord",
+    "w2": "En typ av operaria"
+  },
+  {
+    "q": "Vad betyder opus posthumous?",
+    "a": "Utgiven efter kompositörens död",
+    "w1": "Skriven i ungdomen",
+    "w2": "Osignerad verk"
+  },
+  {
+    "q": "Vilket intervall kallas 'djävulens intervall'?",
+    "a": "Tritonus",
+    "w1": "Ren kvint",
+    "w2": "Liten ters"
+  },
+  {
+    "q": "Vem kallas 'symfonins fader'?",
+    "a": "Joseph Haydn",
+    "w1": "Wolfgang Amadeus Mozart",
+    "w2": "Johann Sebastian Bach"
+  },
+  {
+    "q": "Vilket år hade Beethovens nionde symfoni premiär?",
+    "a": "1824",
+    "w1": "1814",
+    "w2": "1834"
+  },
+  {
+    "q": "Vem komponerade operan 'Trollflöjten'?",
+    "a": "Mozart",
+    "w1": "Gluck",
+    "w2": "Rossini"
+  },
+  {
+    "q": "Vad heter Wagners operacykel om en ring?",
+    "a": "Nibelungens ring",
+    "w1": "Rhenguldet",
+    "w2": "Valkyriernas rop"
+  },
+  {
+    "q": "Vem var Clara Schumann?",
+    "a": "Pianist och kompositör",
+    "w1": "Operasångerska",
+    "w2": "Violinbyggare"
+  },
+  {
+    "q": "Vad betyder rubato?",
+    "a": "Fritt, elastiskt tempo",
+    "w1": "Strikt tempo",
+    "w2": "Mycket starkt"
+  }
 ]

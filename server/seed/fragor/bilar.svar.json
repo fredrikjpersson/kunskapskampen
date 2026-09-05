@@ -1,12 +1,122 @@
 [
-  {"q": "Vem grundade Ford Motor Company?", "a": "Henry Ford", "w1": "Ransom Olds", "w2": "Louis Chevrolet"},
-  {"q": "I vilken stad har Ferrari sitt huvudkontor?", "a": "Maranello", "w1": "Milano", "w2": "Turin"},
-  {"q": "Vad särskillar en Wankelmotor?", "a": "Den använder en roterande rotor istället för kolvar", "w1": "Den har bara två cylindrar", "w2": "Den drivs enbart med el"},
-  {"q": "Vad står GT för?", "a": "Gran Turismo", "w1": "Grand Touring Engine", "w2": "Gas Turbine"},
-  {"q": "Vad mäts i newtonmeter?", "a": "Vridmoment", "w1": "Hastighet", "w2": "Bränsleförbrukning"},
-  {"q": "Vilket märke tillverkar elbilen Model S?", "a": "Tesla", "w1": "Rivian", "w2": "Lucid"},
-  {"q": "Vad gör en katalysator?", "a": "Rengör avgaserna", "w1": "Kyler motorn", "w2": "Förbättrar ljudet"},
-  {"q": "Vilken bil var världens första massproducerade hybridbil?", "a": "Toyota Prius", "w1": "Honda Insight", "w2": "Tesla Roadster"},
-  {"q": "Vad gör en turbo?", "a": "Trycker in mer luft i motorn", "w1": "Kyler avgaserna", "w2": "Minskar bränsleförbrukningen direkt"},
-  {"q": "Vad heter det berömda 24-timmarsloppet i Frankrike?", "a": "Le Mans", "w1": "Monza", "w2": "Spa"}
+  {
+    "q": "Vem grundade Ford Motor Company?",
+    "a": "Henry Ford",
+    "w1": "Ransom Olds",
+    "w2": "Louis Chevrolet"
+  },
+  {
+    "q": "I vilken stad har Ferrari sitt huvudkontor?",
+    "a": "Maranello",
+    "w1": "Milano",
+    "w2": "Turin"
+  },
+  {
+    "q": "Vad särskillar en Wankelmotor?",
+    "a": "Den använder en roterande rotor istället för kolvar",
+    "w1": "Den har bara två cylindrar",
+    "w2": "Den drivs enbart med el"
+  },
+  {
+    "q": "Vad står GT för?",
+    "a": "Gran Turismo",
+    "w1": "Grand Touring Engine",
+    "w2": "Gas Turbine"
+  },
+  {
+    "q": "Vad mäts i newtonmeter?",
+    "a": "Vridmoment",
+    "w1": "Hastighet",
+    "w2": "Bränsleförbrukning"
+  },
+  {
+    "q": "Vilket märke tillverkar elbilen Model S?",
+    "a": "Tesla",
+    "w1": "Rivian",
+    "w2": "Lucid"
+  },
+  {
+    "q": "Vad gör en katalysator?",
+    "a": "Rengör avgaserna",
+    "w1": "Kyler motorn",
+    "w2": "Förbättrar ljudet"
+  },
+  {
+    "q": "Vilken bil var världens första massproducerade hybridbil?",
+    "a": "Toyota Prius",
+    "w1": "Honda Insight",
+    "w2": "Tesla Roadster"
+  },
+  {
+    "q": "Vad gör en turbo?",
+    "a": "Trycker in mer luft i motorn",
+    "w1": "Kyler avgaserna",
+    "w2": "Minskar bränsleförbrukningen direkt"
+  },
+  {
+    "q": "Vad heter det berömda 24-timmarsloppet i Frankrike?",
+    "a": "Le Mans",
+    "w1": "Monza",
+    "w2": "Spa"
+  },
+  {
+    "q": "Vilket år lanserades Teslas första bil, Roadster?",
+    "a": "2008",
+    "w1": "2006",
+    "w2": "2010"
+  },
+  {
+    "q": "Vem grundade Lamborghini?",
+    "a": "Ferruccio Lamborghini",
+    "w1": "Enzo Lamborghini",
+    "w2": "Ferruccio Ferrari"
+  },
+  {
+    "q": "Vilken koncern äger Lamborghini idag?",
+    "a": "Volkswagengruppen",
+    "w1": "BMW-gruppen",
+    "w2": "Fiat-koncernen"
+  },
+  {
+    "q": "Vilket år dog Enzo Ferrari?",
+    "a": "1988",
+    "w1": "1978",
+    "w2": "1998"
+  },
+  {
+    "q": "Vad är en crossover för bil?",
+    "a": "Halvvägs mellan SUV och personbil",
+    "w1": "Bil som kan köra i vatten",
+    "w2": "Bil med utbytbara delar"
+  },
+  {
+    "q": "Vad är Dakar Rally känt för?",
+    "a": "Maratonlopp i öken",
+    "w1": "Isracing i Sverige",
+    "w2": "Hastighet på oval bana"
+  },
+  {
+    "q": "Vilket bilmärke använder slogan 'Ultimate Driving Machine'?",
+    "a": "BMW",
+    "w1": "Audi",
+    "w2": "Mercedes"
+  },
+  {
+    "q": "Vad är en V8?",
+    "a": "Åttacylindrig motor i V-form",
+    "w1": "Åttaväxlad låda",
+    "w2": "Åtta hjul"
+  },
+  {
+    "q": "Vilket år startade Formel 1-VM?",
+    "a": "1950",
+    "w1": "1930",
+    "w2": "1960"
+  },
+  {
+    "q": "Vad betyder GTI?",
+    "a": "Gran Turismo Injection",
+    "w1": "Grand Touring International",
+    "w2": "Gas Turbo Injection"
+  }
 ]

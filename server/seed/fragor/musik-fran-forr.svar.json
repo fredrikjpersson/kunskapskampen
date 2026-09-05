@@ -1,12 +1,122 @@
 [
-  {"q": "Vilket år dog Elvis Presley?", "a": "1977", "w1": "1972", "w2": "1982"},
-  {"q": "Vem producerade The Beatles skivor?", "a": "George Martin", "w1": "Phil Spector", "w2": "Brian Epstein"},
-  {"q": "Vilket år hölls Woodstockfestivalen?", "a": "1969", "w1": "1967", "w2": "1971"},
-  {"q": "Vem grundade skivbolaget Motown?", "a": "Berry Gordy", "w1": "Smokey Robinson", "w2": "Stevie Wonder"},
-  {"q": "Vilken svensk 60-talsgrupp kallades 'Sveriges Beatles'?", "a": "Hep Stars", "w1": " Tages", "w2": "Shanes"},
-  {"q": "Vilket Beatles-album kom 1967?", "a": "Sgt. Pepper's Lonely Hearts Club Band", "w1": "Abbey Road", "w2": "Let It Be"},
-  {"q": "Vem sjöng 'Ring of Fire'?", "a": "Johnny Cash", "w1": "Waylon Jennings", "w2": "Merle Haggard"},
-  {"q": "Vilken grupp gjorde albumet 'The Dark Side of the Moon'?", "a": "Pink Floyd", "w1": "Genesis", "w2": "Yes"},
-  {"q": "Vem sjöng 'Piece of My Heart'?", "a": "Janis Joplin", "w1": "Grace Slick", "w2": "Aretha Franklin"},
-  {"q": "Vilken musikstil föddes i New Orleans?", "a": "Jazz", "w1": "Blues", "w2": "Country"}
+  {
+    "q": "Vilket år dog Elvis Presley?",
+    "a": "1977",
+    "w1": "1972",
+    "w2": "1982"
+  },
+  {
+    "q": "Vem producerade The Beatles skivor?",
+    "a": "George Martin",
+    "w1": "Phil Spector",
+    "w2": "Brian Epstein"
+  },
+  {
+    "q": "Vilket år hölls Woodstockfestivalen?",
+    "a": "1969",
+    "w1": "1967",
+    "w2": "1971"
+  },
+  {
+    "q": "Vem grundade skivbolaget Motown?",
+    "a": "Berry Gordy",
+    "w1": "Smokey Robinson",
+    "w2": "Stevie Wonder"
+  },
+  {
+    "q": "Vilken svensk 60-talsgrupp kallades 'Sveriges Beatles'?",
+    "a": "Hep Stars",
+    "w1": " Tages",
+    "w2": "Shanes"
+  },
+  {
+    "q": "Vilket Beatles-album kom 1967?",
+    "a": "Sgt. Pepper's Lonely Hearts Club Band",
+    "w1": "Abbey Road",
+    "w2": "Let It Be"
+  },
+  {
+    "q": "Vem sjöng 'Ring of Fire'?",
+    "a": "Johnny Cash",
+    "w1": "Waylon Jennings",
+    "w2": "Merle Haggard"
+  },
+  {
+    "q": "Vilken grupp gjorde albumet 'The Dark Side of the Moon'?",
+    "a": "Pink Floyd",
+    "w1": "Genesis",
+    "w2": "Yes"
+  },
+  {
+    "q": "Vem sjöng 'Piece of My Heart'?",
+    "a": "Janis Joplin",
+    "w1": "Grace Slick",
+    "w2": "Aretha Franklin"
+  },
+  {
+    "q": "Vilken musikstil föddes i New Orleans?",
+    "a": "Jazz",
+    "w1": "Blues",
+    "w2": "Country"
+  },
+  {
+    "q": "Vad var Jimi Hendrix känd som?",
+    "a": "Gitarrist",
+    "w1": "Trummis",
+    "w2": "Saxofonist"
+  },
+  {
+    "q": "Vilket år dog John Lennon?",
+    "a": "1980",
+    "w1": "1978",
+    "w2": "1984"
+  },
+  {
+    "q": "Vilket år upplöstes Beatles?",
+    "a": "1970",
+    "w1": "1968",
+    "w2": "1972"
+  },
+  {
+    "q": "Vilket år släpptes 'Thriller'?",
+    "a": "1982",
+    "w1": "1980",
+    "w2": "1984"
+  },
+  {
+    "q": "Vem var reggaens största ikon?",
+    "a": "Bob Marley",
+    "w1": "Peter Tosh",
+    "w2": "Jimmy Cliff"
+  },
+  {
+    "q": "Vem kallades 'The Man in Black'?",
+    "a": "Johnny Cash",
+    "w1": "Roy Orbison",
+    "w2": "Elvis Presley"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Proud Mary' först?",
+    "a": "Creedence Clearwater Revival",
+    "w1": "Ike & Tina Turner",
+    "w2": "The Band"
+  },
+  {
+    "q": "Vad heter Norges mest kända popgrupp?",
+    "a": "a-ha",
+    "w1": "Roxette",
+    "w2": "Kent"
+  },
+  {
+    "q": "Vem sjöng 'New York, New York'?",
+    "a": "Frank Sinatra",
+    "w1": "Tony Bennett",
+    "w2": "Elvis Presley"
+  },
+  {
+    "q": "Vilken svensk låt vann Eurovision 1984?",
+    "a": "Diggi-Loo Diggi-Ley",
+    "w1": "Waterloo",
+    "w2": "Fångad av en stormvind"
+  }
 ]

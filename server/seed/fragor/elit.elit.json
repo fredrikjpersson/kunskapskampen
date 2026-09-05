@@ -1,12 +1,122 @@
 [
-  {"q": "Vilket år sjönk regalskeppet Vasa på sin jungfruresa?", "a": "1628", "w1": "1618", "w2": "1648"},
-  {"q": "Vad räknas som Sveriges äldsta stad?", "a": "Sigtuna", "w1": "Lund", "w2": "Uppsala"},
-  {"q": "Vad betyder det latinska uttrycket 'carpe diem'?", "a": "Fånga dagen", "w1": "Se dagen ljusna", "w2": "Dagen är kort"},
-  {"q": "Vem var den karthagiske befälhavaren som korsade Alperna med elefanter?", "a": "Hannibal", "w1": "Scipio", "w2": "Cato"},
-  {"q": "Vad heter Mongoliets huvudstad?", "a": "Ulan Bator", "w1": "Astana", "w2": "Lhasa"},
-  {"q": "Vem målade tavlan 'Nattvakten'?", "a": "Rembrandt", "w1": "Vermeer", "w2": "Frans Hals"},
-  {"q": "Vem skrev eposet 'Odysséen'?", "a": "Homeros", "w1": "Sofokles", "w2": "Vergilius"},
-  {"q": "Hur dog filosofen Sokrates?", "a": "Han drack gift", "w1": "Han stenades", "w2": "Han förvisades från Aten"},
-  {"q": "Vad hette Konstantinopel innan det blev Konstantinopel?", "a": "Byzantion", "w1": "Nikaia", "w2": "Ankara"},
-  {"q": "Vad betyder det latinska uttrycket 'ad hoc'?", "a": "Till detta, alltså för ett tillfälligt syfte", "w1": "Efter hand", "w2": "I motsats till"}
+  {
+    "q": "Vilket år sjönk regalskeppet Vasa på sin jungfruresa?",
+    "a": "1628",
+    "w1": "1618",
+    "w2": "1648"
+  },
+  {
+    "q": "Vad räknas som Sveriges äldsta stad?",
+    "a": "Sigtuna",
+    "w1": "Lund",
+    "w2": "Uppsala"
+  },
+  {
+    "q": "Vad betyder det latinska uttrycket 'carpe diem'?",
+    "a": "Fånga dagen",
+    "w1": "Se dagen ljusna",
+    "w2": "Dagen är kort"
+  },
+  {
+    "q": "Vem var den karthagiske befälhavaren som korsade Alperna med elefanter?",
+    "a": "Hannibal",
+    "w1": "Scipio",
+    "w2": "Cato"
+  },
+  {
+    "q": "Vad heter Mongoliets huvudstad?",
+    "a": "Ulan Bator",
+    "w1": "Astana",
+    "w2": "Lhasa"
+  },
+  {
+    "q": "Vem målade tavlan 'Nattvakten'?",
+    "a": "Rembrandt",
+    "w1": "Vermeer",
+    "w2": "Frans Hals"
+  },
+  {
+    "q": "Vem skrev eposet 'Odysséen'?",
+    "a": "Homeros",
+    "w1": "Sofokles",
+    "w2": "Vergilius"
+  },
+  {
+    "q": "Hur dog filosofen Sokrates?",
+    "a": "Han drack gift",
+    "w1": "Han stenades",
+    "w2": "Han förvisades från Aten"
+  },
+  {
+    "q": "Vad hette Konstantinopel innan det blev Konstantinopel?",
+    "a": "Byzantion",
+    "w1": "Nikaia",
+    "w2": "Ankara"
+  },
+  {
+    "q": "Vad betyder det latinska uttrycket 'ad hoc'?",
+    "a": "Till detta, alltså för ett tillfälligt syfte",
+    "w1": "Efter hand",
+    "w2": "I motsats till"
+  },
+  {
+    "q": "Vilket år grundades FN?",
+    "a": "1945",
+    "w1": "1935",
+    "w2": "1955"
+  },
+  {
+    "q": "Vem skrev 'Krig och fred'?",
+    "a": "Lev Tolstoj",
+    "w1": "Fjodor Dostojevskij",
+    "w2": "Anton Tjechov"
+  },
+  {
+    "q": "Vad är världens längsta bergskedja på land?",
+    "a": "Anderna",
+    "w1": "Himalaya",
+    "w2": "Kaukasus"
+  },
+  {
+    "q": "Vem målade 'Guernica'?",
+    "a": "Pablo Picasso",
+    "w1": "Salvador Dalí",
+    "w2": "Joan Miró"
+  },
+  {
+    "q": "Vad betyder 'veni, vidi, vici'?",
+    "a": "Jag kom, jag såg, jag segrade",
+    "w1": "Jag kom, jag såg, jag föll",
+    "w2": "Vi kom, vi såg, vi byggde"
+  },
+  {
+    "q": "Vad är världens största öken inklusive kallöknar?",
+    "a": "Antarktis",
+    "w1": "Sahara",
+    "w2": "Gobi"
+  },
+  {
+    "q": "Vilket år föll Berlinmuren?",
+    "a": "1989",
+    "w1": "1987",
+    "w2": "1991"
+  },
+  {
+    "q": "Vilket år inträffade Stockholms blodbad?",
+    "a": "1520",
+    "w1": "1500",
+    "w2": "1540"
+  },
+  {
+    "q": "Vad betyder 'per capita'?",
+    "a": "Per person",
+    "w1": "Per land",
+    "w2": "Per år"
+  },
+  {
+    "q": "Vem var den förste människan i rymden?",
+    "a": "Jurij Gagarin",
+    "w1": "Neil Armstrong",
+    "w2": "Alan Shepard"
+  }
 ]

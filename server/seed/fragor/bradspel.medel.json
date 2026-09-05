@@ -1,12 +1,122 @@
 [
-  {"q": "Hur många fält har ett schackbräde?", "a": "64", "w1": "81", "w2": "100"},
-  {"q": "Vilken är den svagaste pjäsen i schack?", "a": "Bonden", "w1": "Kungen", "w2": "Springaren"},
-  {"q": "Vad heter draget där kungen och tornet flyttas samtidigt?", "a": "Rockad", "w1": "Remi", "w2": "En passant"},
-  {"q": "Hur många poäng ger en Yatzy (fem lika)?", "a": "50", "w1": "25", "w2": "100"},
-  {"q": "I vilket spel erövrar man territorier och länder?", "a": "Risk", "w1": "Diplomacy", "w2": "Stratego"},
-  {"q": "I vilket spel löser man ett mord i ett slott?", "a": "Cluedo", "w1": "Scotland Yard", "w2": "Mordet i orientexpressen"},
-  {"q": "I vilket spel bygger man byar och städer på en ö?", "a": "Catan", "w1": "Carcassonne", "w2": "Agricola"},
-  {"q": "Vilket spel spelas med svarta och vita stenar på ett rutnät?", "a": "Go", "w1": "Othello", "w2": "Renju"},
-  {"q": "Vad betyder 'schack matt'?", "a": "Kungen kan inte räddas och spelet är slut", "w1": "Kungen är slagen", "w2": "Spelet är oavgjort"},
-  {"q": "I vilket spel lägger man bokstäver för att bilda ord?", "a": "Scrabble", "w1": "Domino", "w2": "Mahjong"}
+  {
+    "q": "Hur många fält har ett schackbräde?",
+    "a": "64",
+    "w1": "81",
+    "w2": "100"
+  },
+  {
+    "q": "Vilken är den svagaste pjäsen i schack?",
+    "a": "Bonden",
+    "w1": "Kungen",
+    "w2": "Springaren"
+  },
+  {
+    "q": "Vad heter draget där kungen och tornet flyttas samtidigt?",
+    "a": "Rockad",
+    "w1": "Remi",
+    "w2": "En passant"
+  },
+  {
+    "q": "Hur många poäng ger en Yatzy (fem lika)?",
+    "a": "50",
+    "w1": "25",
+    "w2": "100"
+  },
+  {
+    "q": "I vilket spel erövrar man territorier och länder?",
+    "a": "Risk",
+    "w1": "Diplomacy",
+    "w2": "Stratego"
+  },
+  {
+    "q": "I vilket spel löser man ett mord i ett slott?",
+    "a": "Cluedo",
+    "w1": "Scotland Yard",
+    "w2": "Mordet i orientexpressen"
+  },
+  {
+    "q": "I vilket spel bygger man byar och städer på en ö?",
+    "a": "Catan",
+    "w1": "Carcassonne",
+    "w2": "Agricola"
+  },
+  {
+    "q": "Vilket spel spelas med svarta och vita stenar på ett rutnät?",
+    "a": "Go",
+    "w1": "Othello",
+    "w2": "Renju"
+  },
+  {
+    "q": "Vad betyder 'schack matt'?",
+    "a": "Kungen kan inte räddas och spelet är slut",
+    "w1": "Kungen är slagen",
+    "w2": "Spelet är oavgjort"
+  },
+  {
+    "q": "I vilket spel lägger man bokstäver för att bilda ord?",
+    "a": "Scrabble",
+    "w1": "Domino",
+    "w2": "Mahjong"
+  },
+  {
+    "q": "Vad kallas snabbschack med mycket kort betänketid?",
+    "a": "Blixtschack",
+    "w1": "Stormschack",
+    "w2": "Raskschack"
+  },
+  {
+    "q": "Vad betyder remi?",
+    "a": "Oavgjort",
+    "w1": "Segrar",
+    "w2": "Förlorat"
+  },
+  {
+    "q": "Hur många poäng krävs på översta halvan i Yatzy för bonus?",
+    "a": "63",
+    "w1": "50",
+    "w2": "75"
+  },
+  {
+    "q": "Vad är målet i spelet Risk?",
+    "a": "Att erövra världen",
+    "w1": "Att samla pengar",
+    "w2": "Att bygga järnväg"
+  },
+  {
+    "q": "Vad heter offret i Cluedo?",
+    "a": "Doktor Svart",
+    "w1": "Doktor Grön",
+    "w2": "Fru Vit"
+  },
+  {
+    "q": "Vilken råvara finns inte i grundspelet Catan?",
+    "a": "Guld",
+    "w1": "Lera",
+    "w2": "Malm"
+  },
+  {
+    "q": "Vad kännetecknar en eurogame?",
+    "a": "Strategiskt spel med lite tur",
+    "w1": "Spel med mycket tärningar",
+    "w2": "Kortspel med samlarkort"
+  },
+  {
+    "q": "I vilket spel odlar man och handlar med bönor?",
+    "a": "Bohanza",
+    "w1": "Agricola",
+    "w2": "Caverna"
+  },
+  {
+    "q": "I vilket spel gräver man efter guld medan sabotörer stoppar en?",
+    "a": "Saboteur",
+    "w1": "Sabotör",
+    "w2": "Guldgrävarna"
+  },
+  {
+    "q": "I vilket spel lägger man kartbitar och får bond gårdar?",
+    "a": "Carcassonne",
+    "w1": "Kingdomino",
+    "w2": "Landssköld"
+  }
 ]

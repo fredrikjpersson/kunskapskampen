@@ -1,12 +1,122 @@
 [
-  {"q": "Vad heter jordens djupaste kända punkt?", "a": "Marianergraven", "w1": "Puerto Rico-graven", "w2": "Sundagropen"},
-  {"q": "Vilken är världens djupaste flod?", "a": "Kongofloden", "w1": "Amazonfloden", "w2": "Nilen"},
-  {"q": "Vad heter Kazakstans huvudstad?", "a": "Astana", "w1": "Almaty", "w2": "Sjymkent"},
-  {"q": "Vilket land ligger i alla fyra halvkloterna?", "a": "Kiribati", "w1": "Indonesien", "w2": "Ryssland"},
-  {"q": "Vad kallas en stat som är helt innesluten av en annan stat?", "a": "En enklav", "w1": "En exklav", "w2": "Ett protektorat"},
-  {"q": "Vilket berg är Europas högsta?", "a": "Elbrus", "w1": "Mont Blanc", "w2": "Matterhorn"},
-  {"q": "Vilket land är helt omgivet av Sydafrika?", "a": "Lesotho", "w1": "Eswatini", "w2": "Botswana"},
-  {"q": "Vilket är världens saltaste hav?", "a": "Röda havet", "w1": "Döda havet", "w2": "Medelhavet"},
-  {"q": "Vad heter Schweiz huvudstad?", "a": "Bern", "w1": "Zürich", "w2": "Genève"},
-  {"q": "Vilket land i världen har flest öar?", "a": "Sverige", "w1": "Indonesien", "w2": "Filippinerna"}
+  {
+    "q": "Vad heter jordens djupaste kända punkt?",
+    "a": "Marianergraven",
+    "w1": "Puerto Rico-graven",
+    "w2": "Sundagropen"
+  },
+  {
+    "q": "Vilken är världens djupaste flod?",
+    "a": "Kongofloden",
+    "w1": "Amazonfloden",
+    "w2": "Nilen"
+  },
+  {
+    "q": "Vad heter Kazakstans huvudstad?",
+    "a": "Astana",
+    "w1": "Almaty",
+    "w2": "Sjymkent"
+  },
+  {
+    "q": "Vilket land ligger i alla fyra halvkloterna?",
+    "a": "Kiribati",
+    "w1": "Indonesien",
+    "w2": "Ryssland"
+  },
+  {
+    "q": "Vad kallas en stat som är helt innesluten av en annan stat?",
+    "a": "En enklav",
+    "w1": "En exklav",
+    "w2": "Ett protektorat"
+  },
+  {
+    "q": "Vilket berg är Europas högsta?",
+    "a": "Elbrus",
+    "w1": "Mont Blanc",
+    "w2": "Matterhorn"
+  },
+  {
+    "q": "Vilket land är helt omgivet av Sydafrika?",
+    "a": "Lesotho",
+    "w1": "Eswatini",
+    "w2": "Botswana"
+  },
+  {
+    "q": "Vilket är världens saltaste hav?",
+    "a": "Röda havet",
+    "w1": "Döda havet",
+    "w2": "Medelhavet"
+  },
+  {
+    "q": "Vad heter Schweiz huvudstad?",
+    "a": "Bern",
+    "w1": "Zürich",
+    "w2": "Genève"
+  },
+  {
+    "q": "Vilket land i världen har flest öar?",
+    "a": "Sverige",
+    "w1": "Indonesien",
+    "w2": "Filippinerna"
+  },
+  {
+    "q": "Vad heter Grönlands huvudstad?",
+    "a": "Nuuk",
+    "w1": "Ilulissat",
+    "w2": "Sisimiut"
+  },
+  {
+    "q": "Vad är världens nordligaste huvudstad bland suveräna stater?",
+    "a": "Reykjavik",
+    "w1": "Helsingfors",
+    "w2": "Oslo"
+  },
+  {
+    "q": "Vad heter Estlands huvudstad?",
+    "a": "Tallinn",
+    "w1": "Riga",
+    "w2": "Vilnius"
+  },
+  {
+    "q": "Vad heter Litauens huvudstad?",
+    "a": "Vilnius",
+    "w1": "Kaunas",
+    "w2": "Minsk"
+  },
+  {
+    "q": "Vad heter Moldaviens huvudstad?",
+    "a": "Chisinau",
+    "w1": "Tiraspol",
+    "w2": "Balti"
+  },
+  {
+    "q": "Vilket land har huvudstaden Ljubljana?",
+    "a": "Slovenien",
+    "w1": "Slovakien",
+    "w2": "Kroatien"
+  },
+  {
+    "q": "Vad är världens största inlandshav?",
+    "a": "Kaspiska havet",
+    "w1": "Svarta havet",
+    "w2": "Aralsjön"
+  },
+  {
+    "q": "I vilket land ligger världens torraste plats Atacama?",
+    "a": "Chile",
+    "w1": "Peru",
+    "w2": "Bolivia"
+  },
+  {
+    "q": "Vilket land har flest vulkaner?",
+    "a": "Indonesien",
+    "w1": "Japan",
+    "w2": "Filippinerna"
+  },
+  {
+    "q": "Vad heter Nordkoreas huvudstad?",
+    "a": "Pyongyang",
+    "w1": "Seoul",
+    "w2": "Busan"
+  }
 ]

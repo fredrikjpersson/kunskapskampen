@@ -1,12 +1,122 @@
 [
-  {"q": "Vilken grupp sjöng 'Bohemian Rhapsody'?", "a": "Queen", "w1": "The Beatles", "w2": "David Bowie"},
-  {"q": "Vem sjöng '(Sittin On) The Dock of the Bay'?", "a": "Otis Redding", "w1": "Sam Cooke", "w2": "Marvin Gaye"},
-  {"q": "Vilket år vann ABBA Eurovision Song Contest med 'Waterloo'?", "a": "1974", "w1": "1972", "w2": "1976"},
-  {"q": "Vem var sångare i bandet Genesis?", "a": "Phil Collins", "w1": "Peter Gabriel", "w2": "Sting"},
-  {"q": "Vilken grupp sjöng 'Stairway to Heaven'?", "a": "Led Zeppelin", "w1": "Deep Purple", "w2": "Pink Floyd"},
-  {"q": "Vem sjöng 'My Way'?", "a": "Frank Sinatra", "w1": "Dean Martin", "w2": "Elvis Presley"},
-  {"q": "Vem sjöng 'Flickan och kråkan'?", "a": "Cornelis Vreeswijk", "w1": "Fred Åkerström", "w2": "Evert Taube"},
-  {"q": "Vilken grupp gjorde 'Smoke on the Water'?", "a": "Deep Purple", "w1": "Black Sabbath", "w2": "Uriah Heep"},
-  {"q": "Vad hette Elvis berömda hem?", "a": "Graceland", "w1": "Neverland", "w2": "Sunhouse"},
-  {"q": "Vilken grupp sjöng 'Hotel California'?", "a": "Eagles", "w1": "Fleetwood Mac", "w2": "Lynyrd Skynyrd"}
+  {
+    "q": "Vilken grupp sjöng 'Bohemian Rhapsody'?",
+    "a": "Queen",
+    "w1": "The Beatles",
+    "w2": "David Bowie"
+  },
+  {
+    "q": "Vem sjöng '(Sittin On) The Dock of the Bay'?",
+    "a": "Otis Redding",
+    "w1": "Sam Cooke",
+    "w2": "Marvin Gaye"
+  },
+  {
+    "q": "Vilket år vann ABBA Eurovision Song Contest med 'Waterloo'?",
+    "a": "1974",
+    "w1": "1972",
+    "w2": "1976"
+  },
+  {
+    "q": "Vem var sångare i bandet Genesis?",
+    "a": "Phil Collins",
+    "w1": "Peter Gabriel",
+    "w2": "Sting"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Stairway to Heaven'?",
+    "a": "Led Zeppelin",
+    "w1": "Deep Purple",
+    "w2": "Pink Floyd"
+  },
+  {
+    "q": "Vem sjöng 'My Way'?",
+    "a": "Frank Sinatra",
+    "w1": "Dean Martin",
+    "w2": "Elvis Presley"
+  },
+  {
+    "q": "Vem sjöng 'Flickan och kråkan'?",
+    "a": "Cornelis Vreeswijk",
+    "w1": "Fred Åkerström",
+    "w2": "Evert Taube"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Smoke on the Water'?",
+    "a": "Deep Purple",
+    "w1": "Black Sabbath",
+    "w2": "Uriah Heep"
+  },
+  {
+    "q": "Vad hette Elvis berömda hem?",
+    "a": "Graceland",
+    "w1": "Neverland",
+    "w2": "Sunhouse"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Hotel California'?",
+    "a": "Eagles",
+    "w1": "Fleetwood Mac",
+    "w2": "Lynyrd Skynyrd"
+  },
+  {
+    "q": "Vem sjöng '(I Can't Get No) Satisfaction'?",
+    "a": "The Rolling Stones",
+    "w1": "The Beatles",
+    "w2": "The Who"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Come Together'?",
+    "a": "The Beatles",
+    "w1": "Cream",
+    "w2": "The Doors"
+  },
+  {
+    "q": "Vem sjöng 'Sommaren är kort'?",
+    "a": "Tomas Ledin",
+    "w1": "Ratata",
+    "w2": "Gyllene Tider"
+  },
+  {
+    "q": "Vem sjöng 'I Will Survive'?",
+    "a": "Gloria Gaynor",
+    "w1": "Donna Summer",
+    "w2": "Diana Ross"
+  },
+  {
+    "q": "Vilken ABBA-låt handlar om en dansande drottning?",
+    "a": "Dancing Queen",
+    "w1": "Fernando",
+    "w2": "Chiquitita"
+  },
+  {
+    "q": "Vem sjöng 'Strangers in the Night'?",
+    "a": "Frank Sinatra",
+    "w1": "Dean Martin",
+    "w2": "Bing Crosby"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Immigrant Song'?",
+    "a": "Led Zeppelin",
+    "w1": "Deep Purple",
+    "w2": "Black Sabbath"
+  },
+  {
+    "q": "Vem sjöng 'Like a Prayer'?",
+    "a": "Madonna",
+    "w1": "Cher",
+    "w2": "Cyndi Lauper"
+  },
+  {
+    "q": "Vilken grupp sjöng 'Call Me'?",
+    "a": "Blondie",
+    "w1": "The Cars",
+    "w2": "Talking Heads"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Cotton Eye Joe'?",
+    "a": "Rednex",
+    "w1": "Army of Lovers",
+    "w2": "Ace of Base"
+  }
 ]

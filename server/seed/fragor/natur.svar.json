@@ -1,12 +1,122 @@
 [
-  {"q": "Vad kallas processen där växter omvandlar solljus till energi?", "a": "Fotosyntes", "w1": "Respiration", "w2": "Fermentering"},
-  {"q": "Vilket grundämne utgör störst andel av jordens atmosfär?", "a": "Kväve", "w1": "Syre", "w2": "Koldioxid"},
-  {"q": "Hur många kromosomer har en människa?", "a": "46", "w1": "23", "w2": "48"},
-  {"q": "Vad heter Sveriges högsta berg?", "a": "Kebnekaise", "w1": "Åreskutan", "w2": "Sarektjåkkå"},
-  {"q": "Vad kallas studiet av fåglar?", "a": "Ornitologi", "w1": "Entomologi", "w2": "Herpetologi"},
-  {"q": "Vilket djur har det starkaste bettet i djurriket?", "a": "Krokodilen", "w1": "Hajen", "w2": "Lejonet"},
-  {"q": "Vem skapade systemet med tvådelade latinska namn för växter och djur?", "a": "Carl von Linné", "w1": "Alfred Nobel", "w2": "Anders Celsius"},
-  {"q": "Vad kallas förvandlingen när en larv blir en fjäril?", "a": "Metamorfos", "w1": "Kläckning", "w2": "Övervintring"},
-  {"q": "Vilket grundämne har kemisk beteckning Fe?", "a": "Järn", "w1": "Koppar", "w2": "Silver"},
-  {"q": "Vad kallas djur som enbart äter växter?", "a": "Herbivorer", "w1": "Karnivorer", "w2": "Omnivorer"}
+  {
+    "q": "Vad kallas processen där växter omvandlar solljus till energi?",
+    "a": "Fotosyntes",
+    "w1": "Respiration",
+    "w2": "Fermentering"
+  },
+  {
+    "q": "Vilket grundämne utgör störst andel av jordens atmosfär?",
+    "a": "Kväve",
+    "w1": "Syre",
+    "w2": "Koldioxid"
+  },
+  {
+    "q": "Hur många kromosomer har en människa?",
+    "a": "46",
+    "w1": "23",
+    "w2": "48"
+  },
+  {
+    "q": "Vad heter Sveriges högsta berg?",
+    "a": "Kebnekaise",
+    "w1": "Åreskutan",
+    "w2": "Sarektjåkkå"
+  },
+  {
+    "q": "Vad kallas studiet av fåglar?",
+    "a": "Ornitologi",
+    "w1": "Entomologi",
+    "w2": "Herpetologi"
+  },
+  {
+    "q": "Vilket djur har det starkaste bettet i djurriket?",
+    "a": "Krokodilen",
+    "w1": "Hajen",
+    "w2": "Lejonet"
+  },
+  {
+    "q": "Vem skapade systemet med tvådelade latinska namn för växter och djur?",
+    "a": "Carl von Linné",
+    "w1": "Alfred Nobel",
+    "w2": "Anders Celsius"
+  },
+  {
+    "q": "Vad kallas förvandlingen när en larv blir en fjäril?",
+    "a": "Metamorfos",
+    "w1": "Kläckning",
+    "w2": "Övervintring"
+  },
+  {
+    "q": "Vilket grundämne har kemisk beteckning Fe?",
+    "a": "Järn",
+    "w1": "Koppar",
+    "w2": "Silver"
+  },
+  {
+    "q": "Vad kallas djur som enbart äter växter?",
+    "a": "Herbivorer",
+    "w1": "Karnivorer",
+    "w2": "Omnivorer"
+  },
+  {
+    "q": "Vad kallas studiet av växter?",
+    "a": "Botanik",
+    "w1": "Zoologi",
+    "w2": "Ekologi"
+  },
+  {
+    "q": "Vilket grundämne utgör cirka 21 procent av jordens atmosfär?",
+    "a": "Syre",
+    "w1": "Koldioxid",
+    "w2": "Argon"
+  },
+  {
+    "q": "Vad är den vanligaste blodgruppen i Sverige?",
+    "a": "A",
+    "w1": "B",
+    "w2": "AB"
+  },
+  {
+    "q": "Vad jäser bröddeg?",
+    "a": "Jäst",
+    "w1": "Bakterier",
+    "w2": "Mögel"
+  },
+  {
+    "q": "Vad kallas djur som är aktiva på natten?",
+    "a": "Nattaktiva",
+    "w1": "Dagaktiva",
+    "w2": "Vinteraktiva"
+  },
+  {
+    "q": "Vilket blodkärl leder blod från hjärtat till lungorna?",
+    "a": "Lungartären",
+    "w1": "Lungvenen",
+    "w2": "Kroppspulsådern"
+  },
+  {
+    "q": "Vilken fågel lägger världens störst ägg?",
+    "a": "Strutsen",
+    "w1": "Örnen",
+    "w2": "Pelikanen"
+  },
+  {
+    "q": "Vad kallas avdunstningen av vatten från växters blad?",
+    "a": "Transpiration",
+    "w1": "Kondensation",
+    "w2": "Filtrering"
+  },
+  {
+    "q": "Hur många magar har en ko?",
+    "a": "4",
+    "w1": "3",
+    "w2": "2"
+  },
+  {
+    "q": "Vilket är det näst vanligaste grundämnet i kroppen efter syre?",
+    "a": "Kol",
+    "w1": "Väte",
+    "w2": "Kalcium"
+  }
 ]

@@ -1,12 +1,122 @@
 [
-  {"q": "Vad betyder förkortningen PC?", "a": "Persondator", "w1": "Privatdator", "w2": "Programdator"},
-  {"q": "Vilket företag skapade iPhone?", "a": "Apple", "w1": "Samsung", "w2": "Nokia"},
-  {"q": "Vad heter Googles operativsystem för mobiltelefoner?", "a": "Android", "w1": "iOS", "w2": "Windows Phone"},
-  {"q": "Vad mäts i watt?", "a": "Effekt", "w1": "Spänning", "w2": "Strömstyrka"},
-  {"q": "Vad betyder förkortningen AI?", "a": "Artificiell intelligens", "w1": "Automatisk internet", "w2": "Avancerad ingenjörskonst"},
-  {"q": "Vem är känd för att ha uppfunnit glödlampan?", "a": "Thomas Edison", "w1": "Nikola Tesla", "w2": "Alexander Graham Bell"},
-  {"q": "Vad gör en router?", "a": "Dirigerar datatrafik i nätverket", "w1": "Lagrar filer", "w2": "Skriver ut bilder"},
-  {"q": "Vad betyder förkortningen USB?", "a": "Universal Serial Bus", "w1": "United Serial Byte", "w2": "Universal System Board"},
-  {"q": "Vilket år lanserades den första iPhonen?", "a": "2007", "w1": "2005", "w2": "2010"},
-  {"q": "Vad kallas datorns minne för långtidslagring?", "a": "Hårddisken", "w1": "Ram-minnet", "w2": "Cachen"}
+  {
+    "q": "Vad betyder förkortningen PC?",
+    "a": "Persondator",
+    "w1": "Privatdator",
+    "w2": "Programdator"
+  },
+  {
+    "q": "Vilket företag skapade iPhone?",
+    "a": "Apple",
+    "w1": "Samsung",
+    "w2": "Nokia"
+  },
+  {
+    "q": "Vad heter Googles operativsystem för mobiltelefoner?",
+    "a": "Android",
+    "w1": "iOS",
+    "w2": "Windows Phone"
+  },
+  {
+    "q": "Vad mäts i watt?",
+    "a": "Effekt",
+    "w1": "Spänning",
+    "w2": "Strömstyrka"
+  },
+  {
+    "q": "Vad betyder förkortningen AI?",
+    "a": "Artificiell intelligens",
+    "w1": "Automatisk internet",
+    "w2": "Avancerad ingenjörskonst"
+  },
+  {
+    "q": "Vem är känd för att ha uppfunnit glödlampan?",
+    "a": "Thomas Edison",
+    "w1": "Nikola Tesla",
+    "w2": "Alexander Graham Bell"
+  },
+  {
+    "q": "Vad gör en router?",
+    "a": "Dirigerar datatrafik i nätverket",
+    "w1": "Lagrar filer",
+    "w2": "Skriver ut bilder"
+  },
+  {
+    "q": "Vad betyder förkortningen USB?",
+    "a": "Universal Serial Bus",
+    "w1": "United Serial Byte",
+    "w2": "Universal System Board"
+  },
+  {
+    "q": "Vilket år lanserades den första iPhonen?",
+    "a": "2007",
+    "w1": "2005",
+    "w2": "2010"
+  },
+  {
+    "q": "Vad kallas datorns minne för långtidslagring?",
+    "a": "Hårddisken",
+    "w1": "Ram-minnet",
+    "w2": "Cachen"
+  },
+  {
+    "q": "Vad betyder förkortningen GPU?",
+    "a": "Grafikprocessor",
+    "w1": "Grundprocessor",
+    "w2": "Spelprocessor"
+  },
+  {
+    "q": "Vilket företag gör Playstation?",
+    "a": "Sony",
+    "w1": "Microsoft",
+    "w2": "Nintendo"
+  },
+  {
+    "q": "Vad mäts i gigabyte (GB)?",
+    "a": "Lagringsutrymme",
+    "w1": "Ljusstyrka",
+    "w2": "Ljudvolym"
+  },
+  {
+    "q": "Vem grundade Apple tillsammans med Steve Wozniak?",
+    "a": "Steve Jobs",
+    "w1": "Bill Gates",
+    "w2": "Elon Musk"
+  },
+  {
+    "q": "Vad står 5G för?",
+    "a": "Femte generationen mobilnät",
+    "w1": "Femte hastigheten",
+    "w2": "Fem gigabyte"
+  },
+  {
+    "q": "Vad gör en brandvägg?",
+    "a": "Skyddar mot obehörig åtkomst",
+    "w1": "Vädrar datorn",
+    "w2": "Lagrar lösenord"
+  },
+  {
+    "q": "Vilket företag ligger bakom Android?",
+    "a": "Google",
+    "w1": "Apple",
+    "w2": "Samsung"
+  },
+  {
+    "q": "Vad är phishing på svenska?",
+    "a": "Nätfiske",
+    "w1": "Virusspridning",
+    "w2": "Skräppost"
+  },
+  {
+    "q": "Vad är en IP-adress?",
+    "a": "En dators adress på nätet",
+    "w1": "Ett slags lösenord",
+    "w2": "En typ av skärm"
+  },
+  {
+    "q": "Vilket år grundades Facebook?",
+    "a": "2004",
+    "w1": "2002",
+    "w2": "2006"
+  }
 ]

@@ -1,12 +1,122 @@
 [
-  {"q": "Vad kallas det att röra sig i takt med musik?", "a": "Dans", "w1": "Sång", "w2": "Hopprytmik"},
-  {"q": "Vad kallas en person som dansar?", "a": "Dansare", "w1": "Sångare", "w2": "Skådespelare"},
-  {"q": "Vilken dans utövas med spetsiga skor?", "a": "Balett", "w1": "Breakdance", "w2": "Tango"},
-  {"q": "Vilken barnlek och dans är känd för 'kwa kwa'?", "a": "Små grodorna", "w1": "Räven raskar över isen", "w2": "Bro bro breja"},
-  {"q": "Vad kallas 'dans på is'?", "a": "Konståkning", "w1": "Ishockey", "w2": "Skridskodans"},
-  {"q": "Vad heter en snurrning i balett?", "a": "Piruett", "w1": "Piraya", "w2": "Piraya-sving"},
-  {"q": "Vad kallas dansen runt julgranen?", "a": "Ringdans", "w1": "Kedjedans", "w2": "Snurdans"},
-  {"q": "Vilken glad dans kommer från Brasilien?", "a": "Samba", "w1": "Tango", "w2": "Flamenco"},
-  {"q": "Vilken dans utförs på gatan med akrobatiska rörelser?", "a": "Breakdance", "w1": "Balett", "w2": "Vals"},
-  {"q": "Vad heter den svenska pardans som dansas på midsommar?", "a": "Hambo", "w1": "Tango", "w2": "Salsa"}
+  {
+    "q": "Vad kallas det att röra sig i takt med musik?",
+    "a": "Dans",
+    "w1": "Sång",
+    "w2": "Hopprytmik"
+  },
+  {
+    "q": "Vad kallas en person som dansar?",
+    "a": "Dansare",
+    "w1": "Sångare",
+    "w2": "Skådespelare"
+  },
+  {
+    "q": "Vilken dans utövas med spetsiga skor?",
+    "a": "Balett",
+    "w1": "Breakdance",
+    "w2": "Tango"
+  },
+  {
+    "q": "Vilken barnlek och dans är känd för 'kwa kwa'?",
+    "a": "Små grodorna",
+    "w1": "Räven raskar över isen",
+    "w2": "Bro bro breja"
+  },
+  {
+    "q": "Vad kallas 'dans på is'?",
+    "a": "Konståkning",
+    "w1": "Ishockey",
+    "w2": "Skridskodans"
+  },
+  {
+    "q": "Vad heter en snurrning i balett?",
+    "a": "Piruett",
+    "w1": "Piraya",
+    "w2": "Piraya-sving"
+  },
+  {
+    "q": "Vad kallas dansen runt julgranen?",
+    "a": "Ringdans",
+    "w1": "Kedjedans",
+    "w2": "Snurdans"
+  },
+  {
+    "q": "Vilken glad dans kommer från Brasilien?",
+    "a": "Samba",
+    "w1": "Tango",
+    "w2": "Flamenco"
+  },
+  {
+    "q": "Vilken dans utförs på gatan med akrobatiska rörelser?",
+    "a": "Breakdance",
+    "w1": "Balett",
+    "w2": "Vals"
+  },
+  {
+    "q": "Vad heter den svenska pardans som dansas på midsommar?",
+    "a": "Hambo",
+    "w1": "Tango",
+    "w2": "Salsa"
+  },
+  {
+    "q": "Vilken dans går ut på att böja sig baklänges under en pinne?",
+    "a": "Limbo",
+    "w1": "Twist",
+    "w2": "Polka"
+  },
+  {
+    "q": "I vilken dans snurrar man runt i par?",
+    "a": "Vals",
+    "w1": "Tango",
+    "w2": "Samba"
+  },
+  {
+    "q": "Vad kallas ett ställe där man dansar till DJ-musik?",
+    "a": "Diskotek",
+    "w1": "Bibliotek",
+    "w2": "Museum"
+  },
+  {
+    "q": "Vilken pardans är snabb och hoppig och kommer från Böhmen?",
+    "a": "Polka",
+    "w1": "Tango",
+    "w2": "Vals"
+  },
+  {
+    "q": "Vad heter hawaiidansen?",
+    "a": "Hula",
+    "w1": "Salsa",
+    "w2": "Rumba"
+  },
+  {
+    "q": "Vad kallas dans utan partner?",
+    "a": "Solodans",
+    "w1": "Pardans",
+    "w2": "Kördans"
+  },
+  {
+    "q": "Vad kallas en person som skapar dans?",
+    "a": "Koreograf",
+    "w1": "Kompositör",
+    "w2": "Dirigent"
+  },
+  {
+    "q": "Vad kallas själva dansstegssekvensen som skapats?",
+    "a": "Koreografi",
+    "w1": "Koreografi kallas också noter",
+    "w2": "Partitur"
+  },
+  {
+    "q": "Vad kallas improviserad dans utan bestämda steg?",
+    "a": "Freestyle",
+    "w1": "Balle",
+    "w2": "Polska"
+  },
+  {
+    "q": "Vad kallas ytan man dansar på?",
+    "a": "Dansegolv",
+    "w1": "Dansbord",
+    "w2": "Dansmatta"
+  }
 ]

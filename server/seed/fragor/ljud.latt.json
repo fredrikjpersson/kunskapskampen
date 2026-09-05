@@ -1,12 +1,122 @@
 [
-  {"q": "Vad heter det man hör med?", "a": "Öronen", "w1": "Näsan", "w2": "Händerna"},
-  {"q": "Vilket djur skäller voff?", "a": "Hunden", "w1": "Katten", "w2": "Fågeln"},
-  {"q": "Vad använder man för att spela musik högt?", "a": "Högtalare", "w1": "Mikrofonen", "w2": "Kameran"},
-  {"q": "Vilket instrument slår man på med pinnar?", "a": "Trumman", "w1": "Gitarren", "w2": "Fiolen"},
-  {"q": "Vad använder man för att spela in sin röst?", "a": "En mikrofon", "w1": "En högtalare", "w2": "En radio"},
-  {"q": "Hur låter en ko?", "a": "Mu", "w1": "Mjau", "w2": "Voff"},
-  {"q": "Vilket instrument blåser man i?", "a": "Flöjten", "w1": "Pianot", "w2": "Trumman"},
-  {"q": "Vad kallas det när det dånar på himlen?", "a": "Åska", "w1": "Regn", "w2": "Vind"},
-  {"q": "Vad heter 'trumman' inne i örat?", "a": "Trumhinnan", "w1": "Näshinnan", "w2": "Tandhinnan"},
-  {"q": "Vad kallas det när många sjunger tillsammans?", "a": "Körsång", "w1": "Solo", "w2": "Vispark"}
+  {
+    "q": "Vad heter det man hör med?",
+    "a": "Öronen",
+    "w1": "Näsan",
+    "w2": "Händerna"
+  },
+  {
+    "q": "Vilket djur skäller voff?",
+    "a": "Hunden",
+    "w1": "Katten",
+    "w2": "Fågeln"
+  },
+  {
+    "q": "Vad använder man för att spela musik högt?",
+    "a": "Högtalare",
+    "w1": "Mikrofonen",
+    "w2": "Kameran"
+  },
+  {
+    "q": "Vilket instrument slår man på med pinnar?",
+    "a": "Trumman",
+    "w1": "Gitarren",
+    "w2": "Fiolen"
+  },
+  {
+    "q": "Vad använder man för att spela in sin röst?",
+    "a": "En mikrofon",
+    "w1": "En högtalare",
+    "w2": "En radio"
+  },
+  {
+    "q": "Hur låter en ko?",
+    "a": "Mu",
+    "w1": "Mjau",
+    "w2": "Voff"
+  },
+  {
+    "q": "Vilket instrument blåser man i?",
+    "a": "Flöjten",
+    "w1": "Pianot",
+    "w2": "Trumman"
+  },
+  {
+    "q": "Vad kallas det när det dånar på himlen?",
+    "a": "Åska",
+    "w1": "Regn",
+    "w2": "Vind"
+  },
+  {
+    "q": "Vad heter 'trumman' inne i örat?",
+    "a": "Trumhinnan",
+    "w1": "Näshinnan",
+    "w2": "Tandhinnan"
+  },
+  {
+    "q": "Vad kallas det när många sjunger tillsammans?",
+    "a": "Körsång",
+    "w1": "Solo",
+    "w2": "Vispark"
+  },
+  {
+    "q": "Vilket djur kväker?",
+    "a": "Grodan",
+    "w1": "Hönan",
+    "w2": "Katten"
+  },
+  {
+    "q": "Vad har man på öronen för att lyssna på musik?",
+    "a": "Hörlurar",
+    "w1": "Handskar",
+    "w2": "Vantar"
+  },
+  {
+    "q": "Hur låter en tupp på morgonen?",
+    "a": "Kuckeliku",
+    "w1": "Mu",
+    "w2": "Mjau"
+  },
+  {
+    "q": "Vilket instrument har svarta och vita tangenter?",
+    "a": "Pianot",
+    "w1": "Trumman",
+    "w2": "Trumpeten"
+  },
+  {
+    "q": "Hur låter en get?",
+    "a": "Bä",
+    "w1": "Mu",
+    "w2": "Voff"
+  },
+  {
+    "q": "Vad kallas det när man visslar?",
+    "a": "Vissling",
+    "w1": "Skrik",
+    "w2": "Vrålap"
+  },
+  {
+    "q": "Vad kallas det när man talar mycket tyst?",
+    "a": "Viskning",
+    "w1": "Skrik",
+    "w2": "Sång"
+  },
+  {
+    "q": "Vilket djur galopperar och gnäggar?",
+    "a": "Hästen",
+    "w1": "Kon",
+    "w2": "Grisen"
+  },
+  {
+    "q": "Vad använder man för att höra bättre?",
+    "a": "Hörapparat",
+    "w1": "Kikare",
+    "w2": "Glasögon"
+  },
+  {
+    "q": "Vad kallas det när man sjunger utan ord?",
+    "a": "Nynning",
+    "w1": "Ramsa",
+    "w2": "Rop"
+  }
 ]

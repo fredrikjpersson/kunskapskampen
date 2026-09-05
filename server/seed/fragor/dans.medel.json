@@ -1,12 +1,122 @@
 [
-  {"q": "Vilket land är tangons hemland?", "a": "Argentina", "w1": "Spanien", "w2": "Kuba"},
-  {"q": "Vad kallas en kvinnlig balettdansör?", "a": "Ballerina", "w1": "Ballera", "w2": "Danseuse"},
-  {"q": "Vilket land härstammar baletten ifrån?", "a": "Italien", "w1": "Ryssland", "w2": "Frankrike"},
-  {"q": "Vad heter Tjajkovskijs berömda balett om en förtrollad svan?", "a": "Svansjön", "w1": "Nötknäpparen", "w2": "Giselle"},
-  {"q": "Vad heter Michael Jacksons berömda glidande steg?", "a": "Moonwalk", "w1": "Backslide", "w2": "Spacewalk"},
-  {"q": "Vilken dans var het på 1920-talet?", "a": "Charleston", "w1": "Twist", "w2": "Macarena"},
-  {"q": "Vilken dans kommer från Andalusien i Spanien?", "a": "Flamenco", "w1": "Paso doble", "w2": "Bolero"},
-  {"q": "Vilken svensk pardans går i tretakt?", "a": "Polska", "w1": "Fox", "w2": "Schottis"},
-  {"q": "Vilken grupp gjorde 'Macarena'?", "a": "Los del Río", "w1": "Ricky Martin", "w2": "Gipsy Kings"},
-  {"q": "Vilken stad är känd för sina valser?", "a": "Wien", "w1": "Prag", "w2": "Budapest"}
+  {
+    "q": "Vilket land är tangons hemland?",
+    "a": "Argentina",
+    "w1": "Spanien",
+    "w2": "Kuba"
+  },
+  {
+    "q": "Vad kallas en kvinnlig balettdansör?",
+    "a": "Ballerina",
+    "w1": "Ballera",
+    "w2": "Danseuse"
+  },
+  {
+    "q": "Vilket land härstammar baletten ifrån?",
+    "a": "Italien",
+    "w1": "Ryssland",
+    "w2": "Frankrike"
+  },
+  {
+    "q": "Vad heter Tjajkovskijs berömda balett om en förtrollad svan?",
+    "a": "Svansjön",
+    "w1": "Nötknäpparen",
+    "w2": "Giselle"
+  },
+  {
+    "q": "Vad heter Michael Jacksons berömda glidande steg?",
+    "a": "Moonwalk",
+    "w1": "Backslide",
+    "w2": "Spacewalk"
+  },
+  {
+    "q": "Vilken dans var het på 1920-talet?",
+    "a": "Charleston",
+    "w1": "Twist",
+    "w2": "Macarena"
+  },
+  {
+    "q": "Vilken dans kommer från Andalusien i Spanien?",
+    "a": "Flamenco",
+    "w1": "Paso doble",
+    "w2": "Bolero"
+  },
+  {
+    "q": "Vilken svensk pardans går i tretakt?",
+    "a": "Polska",
+    "w1": "Fox",
+    "w2": "Schottis"
+  },
+  {
+    "q": "Vilken grupp gjorde 'Macarena'?",
+    "a": "Los del Río",
+    "w1": "Ricky Martin",
+    "w2": "Gipsy Kings"
+  },
+  {
+    "q": "Vilken stad är känd för sina valser?",
+    "a": "Wien",
+    "w1": "Prag",
+    "w2": "Budapest"
+  },
+  {
+    "q": "Vad heter den amerikanska dansen med metallplattor på skorna?",
+    "a": "Steppdans",
+    "w1": "Clogging",
+    "w2": "Softshoe"
+  },
+  {
+    "q": "Vilken dans var populär på 1930-talet med glidande steg?",
+    "a": "Foxtrot",
+    "w1": "Quickstep",
+    "w2": "Slowfox vals"
+  },
+  {
+    "q": "Vilken dans görs i rad där alla gör samma steg?",
+    "a": "Line dance",
+    "w1": "Kedjedans",
+    "w2": "Ringdans"
+  },
+  {
+    "q": "Vilken dansstil hör till rock'n'roll-musiken?",
+    "a": "Boogie woogie",
+    "w1": "Charleston",
+    "w2": "Twist"
+  },
+  {
+    "q": "Vad kallas det när dansaren står på ett ben och sträcker det andra bakåt?",
+    "a": "Arabesk",
+    "w1": "Piruett",
+    "w2": "Plié"
+  },
+  {
+    "q": "Vad heter TV-programmet där kändisar tävlar i pardans?",
+    "a": "Let's Dance",
+    "w1": "Stjärnorna på slottet",
+    "w2": "Dansa med drakar"
+  },
+  {
+    "q": "Vad kallas det när två grupper tävlar mot varandra i dans?",
+    "a": "Dance battle",
+    "w1": "Danssmöte",
+    "w2": "Dansduell"
+  },
+  {
+    "q": "Vilken dansstil dansas ofta på gator i storstäder?",
+    "a": "Streetdance",
+    "w1": "Balett",
+    "w2": "Vals"
+  },
+  {
+    "q": "Vad kallas samlingsnamnet för salsa, cha-cha och rumba?",
+    "a": "Latindanser",
+    "w1": "Standarddanser",
+    "w2": "Sällskapsdanser"
+  },
+  {
+    "q": "Vad kallas en dansuppvisning på scen?",
+    "a": "Dansnummer",
+    "w1": "Danskväll",
+    "w2": "Dansorkester"
+  }
 ]
