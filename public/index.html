@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kunskapskampen</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="stage">
+
+    <!-- SETUP-SKÄRM -->
+    <section id="setup">
+      <h1 class="logo">Kunskaps<span>kampen</span></h1>
+      <p class="tagline">Frågesport för 2–5 spelare – först till 20 poäng vinner!</p>
+
+      <div class="setup-block">
+        <h2>Antal spelare</h2>
+        <div id="playerCountBtns" class="count-btns"></div>
+      </div>
+
+      <div class="setup-block">
+        <h2>Spelarnamn</h2>
+        <div id="nameInputs"></div>
+      </div>
+
+      <div class="setup-block">
+        <h2>Svårighetsgrad</h2>
+        <div id="diffBtns" class="diff-btns"></div>
+      </div>
+
+      <button id="startBtn" class="btn-primary" disabled>Starta Kunskapskampen</button>
+    </section>
+
+    <!-- SPELSKÄRM -->
+    <section id="game" class="hidden">
+      <div id="hud">
+        <div id="roundInfo">Omgång 1</div>
+        <div id="gameDiff"></div>
+      </div>
+
+      <!-- Spelarpaneler genereras dynamiskt -->
+      <div id="panels"></div>
+
+      <!-- Kategoribanner -->
+      <div id="banner" class="hidden">
+        <div id="bannerKicker"></div>
+        <div id="bannerCat"></div>
+        <div id="bannerSub"></div>
+      </div>
+
+      <!-- Frågeområdet -->
+      <div id="qarea" class="hidden">
+        <div id="qTurn"></div>
+        <div id="qBox">
+          <div id="qCat"></div>
+          <div id="qText"></div>
+        </div>
+        <div id="options"></div>
+        <div id="hint">Välj svar med mus eller tangent 1 / 2 / 3</div>
+      </div>
+
+      <!-- Vinnarskärm -->
+      <div id="overlay" class="hidden">
+        <div id="overlayCard">
+          <div id="overlayKicker"></div>
+          <h1 id="overlayTitle"></h1>
+          <div id="finalScores"></div>
+          <button id="againBtn" class="btn-primary">Spela igen</button>
+        </div>
+      </div>
+    </section>
+
+  </div>
+  <script src="js/audio.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

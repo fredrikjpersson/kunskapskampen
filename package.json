@@ -1,0 +1,17 @@
+{
+  "name": "kunskapskampen",
+  "version": "1.0.0",
+  "description": "Kunskapskampen - flerspelar-frågesport på svenska (2-5 spelare), Full HD, Docker",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "express": "^4.21.1"
+  },
+  "license": "MIT"
+}
